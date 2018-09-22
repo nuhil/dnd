@@ -1,0 +1,5 @@
+<p>Is there any tool which will allow me to perform a free text search over a system's code, but only over the code which was actually executed during a particular invocation?</p>
+
+<p>To give a bit of background, when learning my way around a new system, I frequently find myself wanting to discover where some particular value came from, but searching the entire code base turns up far more matches than I can reasonably assess individually.</p>
+
+<p>For what it's worth, I've wanted this in Perl and Java at one time or another, but I'd love to know if any languages have a system supporting this feature.</p>

@@ -1,0 +1,5 @@
+<p>What is a good way to perform animation using .NET?</p>
+
+<p>I would prefer not to use Flash if possible, so am looking for suggestions of ways which will work to implement different types of animation on a new site I am producing.</p>
+
+<p>The new site is for a magician, so I want to provide animated buttons (Cards turning over, etc.) and also embed video.  Is it possible to do this without using Flash or is this the only real solution?  I would like to keep it as cross-platform and standard as possible.</p>

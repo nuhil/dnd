@@ -1,0 +1,28 @@
+<p>i have a wcf service that does an operation. and in this operation there could be a fault. i have stated that there could be a fault in my service contract. </p>
+
+<p>here is the code below;</p>
+
+<pre><code>public void Foo()
+{
+        try
+        {
+            DoSomething(); // throws FaultException&lt;FooFault&gt;
+        }
+        catch (FaultException)
+        {
+            throw;
+        }
+        catch (Exception ex)
+        {
+            myProject.Exception.Throw&lt;FooFault&gt;(ex);
+        }
+}
+</code></pre>
+
+<p>in service contract;</p>
+
+<pre><code>[FaultException(typeof(FooFault))]
+void Foo();
+</code></pre>
+
+<p>when a FaultException was thrown by DoSomething() method while i was running the application, firstly the exception was caught at "catch(Exception ex)" line and breaks in there. then when i pressed f5 again, it does what normally it has to. i wonder why that break exists? and if not could it be problem on publish?</p>

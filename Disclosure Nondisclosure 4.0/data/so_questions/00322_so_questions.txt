@@ -1,0 +1,3 @@
+<p>I've heard that unit testing is "totally awesome", "really cool" and "all manner of good things" but 70% or more of my files involve database access (some read and some write) and I'm not sure how to write a unit test for these files.</p>
+
+<p>I'm using PHP and Python but I think it's a question that applies to most/all languages that use database access.</p>

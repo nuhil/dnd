@@ -1,0 +1,1 @@
+<p>When I yank text in Emacs 22.1.1 (in its own window on X, in KDE, on Kubuntu), I can't paste it anywhere else.</p>

@@ -1,0 +1,1 @@
+<p>I know it's possible to place a PyCairo surface inside a Gtk Drawing Area. But I think Qt is a lot better to work with, so I've been wondering if there's anyway to place a PyCairo surface inside some Qt component?</p>

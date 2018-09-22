@@ -1,0 +1,17 @@
+<p>I have a file which is an XML representation of some data that is taken from a Web service and cached locally within a Web Application. The idea being is that this data is <em>very</em> static, but just <em>might</em> change. So I have set it up to cache to a file, and stuck a monitor against it to check if it has been deleted. Once deleted, the file will be refreshed from its source and rebuilt.</p>
+
+<p>I am now running in to problems though, because obviously in a multi-threaded environment it falls over as it is trying to access the data when it is still reading/writing the file.</p>
+
+<p>This is confusing me, because I added a object to lock against, and this is always locked during read/write. It was my understanding that attempted access from other threads would be told to "wait" until the lock was released?</p>
+
+<p>Just to let you know, I am real new to multi-threaded development, so I am totally willing to accept this is a screw up on my part :)</p>
+
+<ul>
+<li><strong>Am I missing something?</strong></li>
+<li><strong>What is the best file access strategy in a multi-threaded environment?</strong>
+<hr /></li>
+</ul>
+
+<h3>Edit</h3>
+
+<p>Sorry - I should have said this is using <strong>ASP.NET 2.0</strong> :)</p>

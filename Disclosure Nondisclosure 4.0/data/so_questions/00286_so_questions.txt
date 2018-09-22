@@ -1,0 +1,3 @@
+<p>The <a href="http://doi.org/">DOI</a> system places basically no useful limitations on what constitutes <a href="http://doi.org/handbook_2000/enumeration.html#2.2">a reasonable identifier</a>. However, being able to pull DOIs out of PDFs, web pages, etc. is quite useful for citation information, etc.</p>
+
+<p>Is there a reliable way to identify a DOI in a block of text without assuming the 'doi:' prefix? (any language acceptable, regexes preferred, and avoiding false positives a must)</p>

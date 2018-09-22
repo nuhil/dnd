@@ -1,0 +1,20 @@
+<p>Let's say I'm creating a chess program. I have a function</p>
+
+<pre><code>void foreachMove( void (*action)(chess_move*), chess_game* game);
+</code></pre>
+
+<p>which will call the function pointer action on each valid move. This is all well and good, but what if I need to pass more parameters to the action function? For example:</p>
+
+<pre><code>chess_move getNextMove(chess_game* game, int depth){
+  //for each valid move, determine how good the move is
+  foreachMove(moveHandler, game);
+}
+
+void moveHandler(chess_move* move){
+  //uh oh, now I need the variables "game" and "depth" from the above function
+}
+</code></pre>
+
+<p>Redefining the function pointer is not the optimal solution. The foreachMove function is versatile and many different places in the code reference it. It doesn't make sense for each one of those references to have to update their function to include parameters that they don't need.</p>
+
+<p>How can I pass extra parameters to a function that I'm calling through a pointer?</p>

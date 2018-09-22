@@ -1,0 +1,3 @@
+<p>I've recently been working on a beginner's project in Scala, and have a beginner question about Scala's Lists.</p>
+
+<p>Say I have a list of tuples ( <code>List[Tuple2[String, String]]</code>, for example). Is there a convenience method to return the first occurence of a specified tuple from the List, or is it necessary to iterate through the list by hand?</p>

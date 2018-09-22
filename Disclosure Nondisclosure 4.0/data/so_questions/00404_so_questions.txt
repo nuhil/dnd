@@ -1,0 +1,3 @@
+<p>I'm not sure of all of them, but what are the commands to do things like update Ruby, download a new gem, or update an existing gem? What other important things are there?</p>
+
+<p>Since it might matter, I'm running Windows.</p>

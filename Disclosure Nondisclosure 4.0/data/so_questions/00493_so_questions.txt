@@ -1,0 +1,23 @@
+<p>I have been told that there is a performance difference between the following code blocks.</p>
+
+<pre><code>foreach (Entity e in entityList)
+{
+ ....
+}
+</code></pre>
+
+<p>and </p>
+
+<pre><code>for (int i=0; i&lt;entityList.Count; i++)
+{
+   Entity e = (Entity)entityList[i];
+   ...
+}
+</code></pre>
+
+<p>where</p>
+
+<pre><code>List&lt;Entity&gt; entityList;
+</code></pre>
+
+<p>I am no CLR expect but from what I can tell they should boil down to basically the same code.  Does anybody have concrete (heck, I'd take packed dirt) evidence one way or the other?</p>

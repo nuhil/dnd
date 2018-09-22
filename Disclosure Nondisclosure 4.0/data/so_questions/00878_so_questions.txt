@@ -1,0 +1,27 @@
+<p>Given the following example, why do I have to explicitly use the statement <code>b-&gt;A::DoSomething()</code> rather than just <code>b-&gt;DoSomething()</code>?</p>
+
+<p>Shouldn't the compiler's overload resolution figure out which method I'm talking about?</p>
+
+<p>I'm using Microsoft VS 2005. (Note: using virtual doesn't help in this case.)</p>
+
+<pre><code>class A
+{
+  public:
+    int DoSomething() {return 0;};
+};
+
+class B : public A
+{
+  public:
+    int DoSomething(int x) {return 1;};
+};
+
+int main()
+{
+  B* b = new B();
+  b-&gt;A::DoSomething();    //Why this?
+  //b-&gt;DoSomething();    //Why not this? (Gives compiler error.)
+  delete b;
+  return 0;
+}
+</code></pre>

@@ -1,0 +1,1 @@
+<p>I am looking to have 4 Virtual servers(various linux flavors) running on a Windows server 2003 R2 64 bit edition server located at a datacenter.  I can also purchase a 2008 server or 32 bit 2k3 if needed.  They would each have their own ip address for networking so that they could be publicly accessed.  I do not know much about VPS software but have worked with it before.</p>

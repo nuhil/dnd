@@ -1,0 +1,3 @@
+<p>We have a 4 server cluster running ASP.NET web application using ASP.NET State Server Service for session. On one of the 4 servers ASP.NET State Server Service is running and other servers are configured to look at this. Very often we have to patch the servers, and applying patch on the State Server requires few minutes of downtime. </p>
+
+<p>Is there a way to configure more than two ASP.NET State Server Services in a cluster, so if one goes down, the other takes over?</p>

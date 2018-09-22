@@ -1,0 +1,3 @@
+<p>I am having trouble finding good guides for WPF.<br />
+I have experience in C# and .NET but  I don't know anything about WPF except for the regular marketing-ish description of the technology as a whole.<br />
+Can anyone point me to a good beginner's tutorial/guide on WPF.</p>

@@ -1,0 +1,8 @@
+<p>I run a game and the running is done by hand, I have a few scripts that help me but essentially it's me doing the work. I am at the moment working on web app that will allow the users to input directly some of their game actions and thus save me a lot of work.</p>
+
+<p>The problem is that I'm one man working on a moderately sized (upwards of 20 tables) project, the workload isn't the issue, it's that bugs will have slipped in even though I test as I write. So my question is thus two-fold.</p>
+
+<ol>
+<li>Beta testing, I love open beta's but would a closed beta be somehow more effective and give better results?</li>
+<li>How should I bring in the app? Should I one turn drop it in and declare it's being used or should I use it alongside the normal construct of the game?</li>
+</ol>

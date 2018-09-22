@@ -1,0 +1,1 @@
+<p>I have a list of more than 15 thousand latitude and longitude coordinates.  Given any X,Y coordinates, what is the fastest way to find the closest coordinates on the list?</p>

@@ -1,0 +1,33 @@
+<p>Okay, here is the 411 - I have the following event handler in my Global.asax.cs file:</p>
+
+<pre><code>private void Global_PostRequestHandlerExecute(object sender, EventArgs e)
+{
+   if (/* logic that determines that this is an ajax call */)
+   {
+      // we want to set a cookie
+      Response.Cookies.Add(new HttpCookie("MyCookie", "true"));
+   }
+}
+</code></pre>
+
+<p>That handler will run during Ajax requests (as a result of the Ajax framework I am using), as well as at other times - the condition of the if statement filters out non-Ajax events, and works just fine (it isn't relevant here, so I didn't include it for brevity's sake).</p>
+
+<p>It suffices us to say that this works just fine - the cookie is set, I am able to read it on the client, and all is well up to that point.</p>
+
+<p>Now for the part that drives me nuts.</p>
+
+<p>Here is the JavaScript function I am using to delete the cookie:</p>
+
+<pre><code>function deleteCookie(name) {
+   var cookieDate = new Date();
+   cookieDate.setTime(cookieDate.getTime() - 1);
+   document.cookie = (name + "=; expires=" + cookieDate.toGMTString());
+}
+</code></pre>
+
+<p>So, of course, at some point after the cookie is set, I delete it like so:</p>
+
+<pre><code>deleteCookie("MyCookie");
+</code></pre>
+
+<p>Only, that doesn't do the job; the cookie still exists. So, anyone know why?</p>

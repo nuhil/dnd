@@ -1,0 +1,1 @@
+<p>I have used fork() in C to start another process. How do I start a new thread?</p>

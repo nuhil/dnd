@@ -1,0 +1,3 @@
+<p>I have a small local network. Only one of the machines is available to the outside world (this is not easily changeable). I'd like to be able to set it up such that ssh requests that don't come in on the standard port go to another machine. Is this possible? If so, how?</p>
+
+<p>Oh and all of these machines are running either Ubuntu or OS X. </p>

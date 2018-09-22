@@ -1,0 +1,3 @@
+<p>How would I change the initial templates created by Xcode when creating a new Cocoa Class.</p>
+
+<p>I am referring to the comments and class name created when using Xcode's new class wizard.</p>

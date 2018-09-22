@@ -1,0 +1,5 @@
+<p>We have a team of about 7 engineers, whom I supervise. We do not have a formal office where we all work. Instead, a handful are located outside of our city, while the rest of us are scattered around the Bay Area.</p>
+
+<p>Quite frequently, I find myself attempting to teach concepts like TDD or refactoring to some of our more junior (or not) developers. The best technique I know is pair programming, where you both sit at the same computer and work on a problem together. Since we are not in the same place most of the time, the only option is to use some kind of screen sharing and Skype to have one of us "drive" while the other consults, and then switch.</p>
+
+<p>My question is has anyone tried this "virtual" pair programming, and did you find it at all useful?</p>

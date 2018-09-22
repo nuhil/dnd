@@ -1,0 +1,65 @@
+<p>I already found this article:</p>
+
+<p><a href="http://www.dotnetcurry.com/ShowArticle.aspx?ID=181&amp;AspxAutoDetectCookieSupport=1" rel="nofollow">http://www.dotnetcurry.com/ShowArticle.aspx?ID=181&amp;AspxAutoDetectCookieSupport=1</a></p>
+
+<p>But I've got a different situation. I am embedding some hiddenFields inside of the master page and trying to store the position of the dragPanel in those. </p>
+
+<p>I am using javascript to store the position of the dragPanel and then when the user clicks on a link, the new page is loaded, but the dragPanel is reset into the starting position.</p>
+
+<p><strong>Is there any easy way to do this?</strong> </p>
+
+<p>Pseudocode:</p>
+
+<pre><code>**this is in MasterPage.master**
+
+
+function pageLoad()
+
+{  
+
+    // call the savePanelPosition when the panel is moved
+
+    $find('DragP1').add_move(savePanelPosition);  
+
+    var elem = $get("&lt;%=HiddenField1.ClientID%&gt;");   
+
+    if(elem.value != "0")
+    {
+
+        var temp = new Array();
+
+        temp = elem.value.split(';');
+
+        // set the position of the panel manually with the retrieve value
+
+        $find('&lt;%=Panel1_DragPanelExtender.BehaviorID%&gt;').set_location(new 
+
+Sys.UI.Point(parseInt(temp[0]),parseInt(temp[1])));
+
+    }
+
+}      
+
+
+function savePanelPosition()
+
+{
+    var elem = $find('DragP1').get_element();
+
+    var loc = $common.getLocation(elem);
+
+    var elem1 = $get("&lt;%=HiddenField1.ClientID%&gt;");
+
+    // store the value in the hidden field
+
+    elem1.value = loc.x + ';' + loc.y;
+
+}        
+
+
+&lt;asp:Button ID="Button1" runat="server" Text="Button"/&gt;
+
+&lt;asp:HiddenField ID="HiddenField1" runat="server" Value="0"
+</code></pre>
+
+<p>However, <strong>HiddenField</strong> is not visible in the redirected page, foo.aspx</p>

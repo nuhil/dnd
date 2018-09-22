@@ -1,0 +1,9 @@
+<p>As part of our product release we ship Apache HTTP Server binaries that we have compiled on our (UNIX) development machine.</p>
+
+<p>We tell our clients to install the binaries (on their UNIX servers) under the same directory structure that we compiled it under. For some clients this is not appropriate, e.g. where there are restrictions on where they can install software on their servers and they don't want to compile Apache themselves.</p>
+
+<p>Is there a way of compiling Apache HTTP Server so its installation location(s) can be specified dynamically using environment variables ?</p>
+
+<p>I spent a few days trying to sort this out and couldn't find a way to do it. It led me to believe that the Apache binaries were hard coding some directory paths at compilation preventing the portability we require.</p>
+
+<p>Has anyone managed to do this ?</p>

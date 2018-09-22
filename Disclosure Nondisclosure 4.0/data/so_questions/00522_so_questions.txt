@@ -1,0 +1,27 @@
+<p>After lots of attempts and search I have never found a satisfactory way to do it with CSS2.</p>
+
+<p>A simple way to accomplish it is to wrap it into a handy <code>&lt;table&gt;</code> as shown in the sample below. Do you know how to do it avoiding table layouts and also avoiding quirky tricks?</p>
+
+<pre><code>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"&gt;
+&lt;html&gt;
+&lt;head&gt;
+        &lt;style type="text/css"&gt;
+            table 
+            {
+                margin:0px auto 0 auto;
+            }
+        &lt;/style&gt;
+&lt;/head&gt;
+    &lt;body&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;test&lt;br/&gt;test&lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/body&gt;
+&lt;html&gt;
+</code></pre>
+
+<hr>
+
+<p>What I want to know is how to do it without a fixed width and also being a block.</p>

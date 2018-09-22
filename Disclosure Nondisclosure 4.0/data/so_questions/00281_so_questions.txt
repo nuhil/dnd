@@ -1,0 +1,26 @@
+<p>I want to introduce some tracing to a C# application I am writing. Sadly, I can never really remember how it works and would like a tutorial with reference qualities to check up on every now and then. It should include:</p>
+
+<ul>
+<li>App.config / Web.config stuff to add for registering TraceListeners</li>
+<li>how to set it up in the calling application</li>
+</ul>
+
+<p>Do you know the uber tutorial that we should link to?</p>
+
+<p><strong>EDIT:</strong> Glenn Slaven pointed me in the right direction. Add this to your App.config/Web.config inside <code>&lt;configuration/&gt;</code>:</p>
+
+<pre><code>&lt;system.diagnostics&gt;
+    &lt;trace autoflush="true"&gt;
+      &lt;listeners&gt;
+        &lt;add type="System.Diagnostics.TextWriterTraceListener" name="TextWriter"
+             initializeData="trace.log" /&gt;
+      &lt;/listeners&gt;
+    &lt;/trace&gt;
+&lt;/system.diagnostics&gt;
+</code></pre>
+
+<p>This will add a <code>TextWriterTraceListener</code> that will catch everything you send to with <code>Trace.WriteLine</code> etc.</p>
+
+<p><strong>EDIT:</strong> @DanEsparza pointed out that you should use <code>Trace.TraceInformation</code>, <code>Trace.TraceWarning</code> and <code>Trace.TraceError</code> instead of <code>Trace.WriteLine</code>, as they allow you to format messages the same way as <code>string.Format</code>.</p>
+
+<p><strong>Tip:</strong> If you don't add any listeners, then you can still see the trace output with the SysInternals program DebugView (<code>Dbgview.exe</code>): <a href="http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx">http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx</a></p>

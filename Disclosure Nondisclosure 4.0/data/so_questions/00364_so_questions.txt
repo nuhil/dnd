@@ -1,0 +1,29 @@
+<p>Has anyone looked at <a href="http://developer.yahoo.com/flash/" rel="nofollow">Yahoo's ASTRA</a>? It's fairly nifty, but I had some issues creating a custom label for a pie chart. They have an example for a line chart, which overrides an axis's series's label renderer.  My solution was to override the <code>myPieChart.dataTipFunction</code>. For data that looks like:</p>
+
+<pre><code>myPieChart.dataProvider =
+  [ { category: "Groceries", cost: 50 },
+    { category: "Transportation", cost: 175} ]
+myPieChart.dataField = "cost";
+myPieChart.categoryField = "category";
+</code></pre>
+
+<p>I wrote a function like this:</p>
+
+<pre><code>import com.yahoo.astra.fl.charts.series.*
+myPieChart.dataTipFunction = 
+  function (obj:Object, index:int, series:ISeries):String {
+    return obj.category + "\n$" + obj.cost;
+  };
+</code></pre>
+
+<p>There's ceil(2.718281828459045) problems with this:</p>
+
+<ol>
+<li><p>I'm directly calling the category and cost properties of the data provider. The names are actually configurable when setting up the chart, I'd like to maintain that flexibility.</p></li>
+<li><p>The default data tip would show the category, the cost (without a dollar sign), and the percentage it makes up in the pie chart. So here, I've lost the percentage. I just have no idea which property of what would hold that. It might be part of the series.</p></li>
+<li><p>I probably only need to override the <code>dataItemRenderer</code> for the cost part of the series, but I don't know how to access it.  The documentation is a little ... lacking there.</p></li>
+</ol>
+
+<p>Normally I would just look at the default implementation of the <code>dataTipFunction</code> but it's all inside a compiled shm that's part of the components distributed from yahoo.</p>
+
+<p>Can anyone help me complete this overridden function with percentage information and the flexibility mentioned in point 1?</p>

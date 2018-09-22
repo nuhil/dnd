@@ -1,0 +1,1 @@
+<p>What's the simplest-to-use techonlogy available to save an arbitrary Java object graph as an XML file (and to be able to rehydrate the objects later)?</p>

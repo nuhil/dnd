@@ -1,0 +1,8 @@
+<p>I'm using Mono with GTK# and am trying to display an existing window as a new tab in a GTK.Notebook.  I'm currently re-parenting the widget to the notebook as follows:</p>
+
+<pre>
+MyWindow myWindow = new MyWindow();
+myWindow.Children[0].Reparent(myNotebook)
+</pre>
+
+<p>Should I be doing this, or is there a better way to re-use an existing window so that you can display it on a tab?</p>

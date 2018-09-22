@@ -1,0 +1,18 @@
+<p>I'm building a webapp that contains an IFrame in design mode so my user's can "tart" their content up and paste in content to be displayed on their page.  Like the WYSIWYG editor on most blog engines or forums.</p>
+
+<p>I'm trying to think of all potential security holes I need to plug, one of which is a user pasting in Javascript:</p>
+
+<pre><code>&lt;script type="text/javascript"&gt;
+
+// Do some nasty stuff
+
+&lt;/script&gt;
+</code></pre>
+
+<p>Now I know I can strip this out at the server end, before saving it and/or serving it back, but I'm worried about the possibility of someone being able to paste some script in and run it there and then, without even sending it back to the server for processing.</p>
+
+<p>Am I worrying over nothing?</p>
+
+<p>Any advice would be great, couldn't find much searching Google.</p>
+
+<p>Anthony</p>

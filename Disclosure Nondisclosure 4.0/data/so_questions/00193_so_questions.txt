@@ -1,0 +1,13 @@
+<p>Is there a way to select data where any one of multiple conditions occur on the same field?</p>
+
+<p>Example: I would typically write a statement such as:</p>
+
+<pre><code>select * from TABLE where field = 1 or field = 2 or field = 3
+</code></pre>
+
+<p>Is there a way to instead say something like:</p>
+
+<pre><code>select * from TABLE where field = 1 || 2 || 3
+</code></pre>
+
+<p>Any help is appreciated.</p>

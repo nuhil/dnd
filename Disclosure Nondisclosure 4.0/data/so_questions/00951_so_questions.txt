@@ -1,0 +1,9 @@
+<p>I've drawn an ellipse in the XZ plane, and set my perspective slightly up on the Y-axis and back on the Z, looking at the center of ellipse from a 45-degree angle, using gluPerspective() to set my viewing frustrum.</p>
+
+<p><a href="http://www.flickr.com/photos/rampion/2863703051/" rel="nofollow" title="ellipse by rampion, on Flickr"><img src="http://farm4.static.flickr.com/3153/2863703051_a768ed86a9_m.jpg" width="240" height="187" alt="ellipse" /></a></p>
+
+<p>Unrotated, the major axis of the ellipse spans the width of my viewport.  When I rotate 90-degrees about my line-of-sight, the major axis of the ellipse now spans the height of my viewport, thus deforming the ellipse (in this case, making it appear less eccentric).</p>
+
+<p><a href="http://www.flickr.com/photos/rampion/2863703073/" rel="nofollow" title="rotated ellipse by rampion, on Flickr"><img src="http://farm4.static.flickr.com/3187/2863703073_24c6549d4b_m.jpg" width="240" height="187" alt="rotated ellipse" /></a></p>
+
+<p>What do I need to do to prevent this deformation (or at least account for it), so rotation about the line-of-sight preserves the perceived major axis of the ellipse (in this case, causing it to go beyond the viewport)?</p>

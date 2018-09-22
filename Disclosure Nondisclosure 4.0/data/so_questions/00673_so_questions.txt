@@ -1,0 +1,1 @@
+<p>Grails scaffolding defaults to 10 rows per page.  I would like to increase that number without generating the views and changing the 10 in every file.  Where do I change the default?</p>

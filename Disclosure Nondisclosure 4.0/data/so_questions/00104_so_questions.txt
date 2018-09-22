@@ -1,0 +1,14 @@
+<p>So, the answer should probably be presented in tiers for the size of the application, but I'm wondering about people's experience with choosing where the disk drives used by the database should reside.</p>
+
+<p>Here are some of the options:</p>
+
+<ul>
+<li>JBOD - (just a bunch of disks) Old fashioned internal disks - fast but not very expandable</li>
+<li>NAS - Slow but cheap and expandable, probably best for backups</li>
+<li>DAS - A decent compromise, but generally accessible from only one or two machines</li>
+<li>SAN - Expensive but very good</li>
+</ul>
+
+<p>How much should you worry about choosing a 15k drive over a 10k or 7200RPM?</p>
+
+<p>What's your favorite RAID level?</p>

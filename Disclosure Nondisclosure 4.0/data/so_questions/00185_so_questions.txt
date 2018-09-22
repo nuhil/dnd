@@ -1,0 +1,13 @@
+<p>I'm creating an ZIP file with ZipFile in Python 2.5, it works ok so far:</p>
+
+<pre><code>import zipfile, os
+
+locfile = "test.txt"
+loczip = os.path.splitext (locfile)[0] + ".zip"
+zip = zipfile.ZipFile (loczip, "w")
+zip.write (locfile)
+zip.close()
+</code></pre>
+
+<p>but I couldn't find how to encrypt the files in the ZIP file.
+I could use system and call PKZIP -s, but I suppose there must be a more "Pythonic" way.  I'm looking for an open source solution.</p>

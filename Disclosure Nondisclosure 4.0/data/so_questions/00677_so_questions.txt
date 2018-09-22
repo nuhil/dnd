@@ -1,0 +1,7 @@
+<p>My current view is no, prefer Transact SQL stored procedures because they are a lighter weight and (possibly) higher performing option, while CLR procedures allow developers to get up to all sorts of mischief.</p>
+
+<p>However recently I have needed to debug some very poorly written TSQL stored procs.  As usual I found many of the problems due to the original developer developer having no real TSQL experience, they were  ASP.NET / C# focused.</p>
+
+<p>So, using CLR procedures would firstly provide a much more familiar toolset to this type of developer, and secondly, the debugging and testing facilities are more powerful (ie Visual Studio instead of SQL Management Studio).  </p>
+
+<p>I'd be very interested in hearing your experience as it's seems it is not a simple choice. </p>

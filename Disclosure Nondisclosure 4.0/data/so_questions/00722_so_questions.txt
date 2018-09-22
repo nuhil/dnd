@@ -1,0 +1,31 @@
+<p>On a PHP-based web site, I want to send users a download package after they have filled out a short form. The site-initiated download should be similar to sites like download.com, which say "your download will begin in a moment."</p>
+
+<p>A couple of <strong>possible approaches</strong> I know about, and browser compatibility (based on a quick test):</p>
+
+<p><strong>1) Do a <code>window.open</code> pointing to the new file.</strong>  </p>
+
+<pre><code>- FireFox 3 blocks this.  
+ - IE6 blocks this.  
+ - IE7 blocks this.
+</code></pre>
+
+<p><strong>2) Create an iframe pointing to the new file.</strong>  </p>
+
+<pre><code>- FireFox 3 seems to think this is OK. (Maybe it's because I already accepted it once?)  
+ - IE6 blocks this.  
+ - IE7 blocks this.
+
+How can I do this so that at least these three browsers will not object? 
+</code></pre>
+
+<p>Bonus: is there a method that doesn't require browser-conditional statements? </p>
+
+<p>(I believe that download.com employs both methods conditionally, but I can't get either one to work.)</p>
+
+<p><strong>Responses and Clarifications:</strong></p>
+
+<pre><code>Q: "Why not point the current window to the file?"  
+A: That might work, but in this particular case, I want to show them some other content while their download starts - for example, "would you like to donate to this project?"
+</code></pre>
+
+<p><strong>UPDATE: I have abandoned this approach. See my answer below for reasons.</strong></p>

@@ -1,0 +1,1 @@
+<p>I would like to test a string containing a path to a file for existence of that file (something like the <code>-e</code> test in Perl or the <code>os.path.exists()</code> in Python) in C#.</p>

@@ -1,0 +1,85 @@
+<p>I'm just wondering if there's a better way of doing this in SQL Server 2005.</p>
+
+<p>Effectively, I'm taking an originator_id (a number between 0 and 99) and a 'next_element' (it's really just a sequential counter between 1 and 999,999).
+We are trying to create a 6-character 'code' from them. </p>
+
+<p>The originator_id is multiplied up by a million, and then the counter added in, giving us a number between 0 and 99,999,999.</p>
+
+<p>Then we convert this into a 'base 32' string - a fake base 32, where we're really just using 0-9 and A-Z but with a few of the more confusing alphanums removed for clarity (I, O, S, Z).</p>
+
+<p>To do this, we just divide the number up by powers of 32, at each stage using the result we get for each power as an index for a character from our array of selected character.</p>
+
+<pre>
+Thus, an originator ID of 61 and NextCodeElement of 9 gives a code of '1T5JA9'
+
+(61 * 1,000,000) + 9 = 61,000,009
+61,000,009 div (5^32 = 33,554,432) =  1 = '1'
+27,445,577 div (4^32 =  1,048,576) = 26 = 'T'
+   182,601 div (3^32 =     32,768) =  5 = '5'
+    18,761 div (2^32 =      1,024) = 18 = 'J'
+       329 div (1^32 =         32) = 10 = 'A'
+         9 div (0^32 =          1) =  9 = '9'
+
+so my code is 1T5JA9
+</pre>
+
+<p>Previously I've had this algorithm working (in Delphi) but now I really need to be able to recreate it in SQL Server 2005.  Obviously I don't quite have the same functions to hand that I have in Delphi, but this is my take on the routine. It works, and I can generate codes (or reconstruct codes back into their components) just fine.</p>
+
+<p>But it looks a bit long-winded, and I'm not sure that the trick of selecting the result of a division into an int (ie casting it, really) is necessarily 'right' - is there a better SQLS approach to this kind of thing?</p>
+
+<pre>
+CREATE procedure dummy_RP_CREATE_CODE @NextCodeElement int, @OriginatorID int,
+  @code varchar(6) output
+as
+begin
+  declare @raw_num int;
+  declare @bcelems char(32);
+  declare @chr int;
+
+  select @bcelems='0123456789ABCDEFGHJKLMNPQRTUVWXY';
+  select @code='';
+
+  -- add in the originator_id, scaled into place
+  select @raw_num = (@OriginatorID * 1000000) + @NextCodeElement;
+
+  -- now to convert this to a 6-char code
+
+  -- 5^32
+  select @chr = @raw_num / 33554432;
+  select @raw_num = @raw_num - (@chr * 33554432);
+  select @code = @code + SUBSTRING(@bcelems, 1 + @chr, 1);
+
+  -- 4^32
+  select @chr = @raw_num / 1048576;
+  select @raw_num = @raw_num - (@chr * 1048576);
+  select @code = @code + SUBSTRING(@bcelems, 1 + @chr, 1);
+
+  -- 3^32
+  select @chr = @raw_num / 32768;
+  select @raw_num = @raw_num - (@chr * 32768);
+  select @code = @code + SUBSTRING(@bcelems, 1 + @chr, 1);
+
+  -- 2^32
+  select @chr = @raw_num / 1024;
+  select @raw_num = @raw_num - (@chr * 1024);
+  select @code = @code + SUBSTRING(@bcelems, 1 + @chr, 1);
+
+  -- 1^32
+  select @chr = @raw_num / 32;
+  select @raw_num = @raw_num - (@chr * 32);
+  select @code = @code + SUBSTRING(@bcelems, 1 + @chr, 1);
+
+  -- 0^32  
+  select @code = @code + SUBSTRING(@bcelems, 1 + @raw_num, 1);
+
+  -- that's it!
+end;
+</pre>
+
+<p>I'm not desperately concerned about optimisation unless this method is actually an order of magnitude (or so) worse than any alternative. </p>
+
+<p>The code only ever gets executed in small bursts, maybe generating 20 or 30 codes every 10 minutes or so. Because of the large range of numbers I don't want to pre-calculate the codes into a huge table (only small pockets of the overall code range will be used in any given installation).</p>
+
+<p>However, I'm sure there's probably a tidier way of achieving the same result - particularly those divisions and subtractions.</p>
+
+<p>Any constructive criticism, observations or suggestions would be most welcome. </p>

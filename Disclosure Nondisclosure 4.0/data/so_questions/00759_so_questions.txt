@@ -1,0 +1,2 @@
+<p>are there any performance limitations using IBM's asynchbeans? 
+my apps jvm core dumps are showing numerous occurences of orphaned threads. Im currently using native jdk unmanaged threads. Is it worth changing over to managed threads?</p>

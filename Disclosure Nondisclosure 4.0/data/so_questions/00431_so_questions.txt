@@ -1,0 +1,47 @@
+<p>I'm getting this problem:</p>
+
+<pre><code>PHP Warning: mail() [function.mail]: SMTP server response: 550 5.7.1 Unable to relay for chris.mahan@gmail.com in c:\inetpub\wwwroot\mailtest.php on line 12 
+</code></pre>
+
+<p>from this script:</p>
+
+<pre><code>&lt;?php
+$to = "chris.mahan@gmail.com";
+$subject = "test";
+$body = "this is a test";
+
+if (mail($to, $subject, $body)){
+    echo "mail sent";
+}
+else {
+    echo "problem";
+}
+?&gt;
+</code></pre>
+
+<p>section from php.ini on the server:</p>
+
+<pre><code>[mail function]
+; For Win32 only.
+SMTP = server.domain.com; for Win32 only
+smtp_port = 25
+
+; For Win32 only.
+sendmail_from = support@domain.com
+; For Unix only.  You may supply arguments as well (default: "sendmail -t -i").
+;sendmail_path =
+</code></pre>
+
+<p>(note that "server" and "domain" refer accurately to the actual server and domain name)</p>
+
+<p>In IIS, SMTP is running. Under <code>"Access"</code> tab, <code>"Relay"</code> button, the Select which computers may relay through this virtual server is set to <code>checkbox "only the list below"</code> and on the list is <code>"127.0.0.1(xxx.xxx.xxx.xxx)" (x's representing actual server IP address).</code></p>
+
+<p>Server is running <code>Windows Server 2003 Service Pack 2</code>, fully patched as of 5 PM Sept 1st 2008. I assume it is running <code>IIS7</code> (how to check?).</p>
+
+<p>Any ideas?</p>
+
+<p>In reponse to <a href="http://stackoverflow.com/users/2257/espo">Espo</a>: This machine is hosted at a datacenter. We do not want to use a gmail account (were doing it, want to move away from that). Windows server 2003 comes with its own SMTP server.</p>
+
+<p>Update: Per Yaakov Ellis' advice, I dropped all relay restrictions and added the server  IP to the allowed list (using the reverse DNS button provided) and the thing started working.</p>
+
+<p>Thanks to both Espo and Yaakov for helping me out.</p>

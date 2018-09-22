@@ -1,0 +1,5 @@
+<p>I woud like to create a cross-platform drawing program. The one requirement for writing my app is that I have pixel level precision over the canvas. For instance, I want to write my own line drawing algorithm rather than rely on someone elses. I do not want any form of anti-aliasing (again, pixel level control is required.) I would like the users interactions on the screen to be quick and responsive (pending my ability to write fast algorithms.)</p>
+
+<p>Ideally, I would like to write this in Python, or perhaps Java as a second choice. The ability to easily make the final app cross-platform is a must. I will submit to different API's on different OS'es if necessary as long as I can write an abstraction layer around them. Any ideas?</p>
+
+<p>addendum: I need the ability to draw <em>on-screen</em>. Drawing out to a file I've got figured out.</p>

@@ -1,0 +1,2 @@
+<p>Convert a .doc or .pdf to an image and display a thumbnail in Ruby?<br>
+Does anyone know how to generate document thumbnails in Ruby (or C, python...)</p>

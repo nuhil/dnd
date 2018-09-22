@@ -1,0 +1,10 @@
+<p>Does Java impose any extra restrictions of its own. Windows (upto Vista) does not allow names to include</p>
+
+<pre><code>\ / &lt; &gt; ? * :
+</code></pre>
+
+<p>I know HOW to validate names (a regular expression).</p>
+
+<p>I need to validate filenames entered by users.  </p>
+
+<p>My application does not need to run on any other platform, though, of course, I would prefer to be platform independent!</p>

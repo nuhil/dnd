@@ -1,0 +1,5 @@
+<p>Example: I have two shared objects (same should apply to .dlls). The first shared object is from a third-party library, we'll call it libA.so. I have wrapped some of this with JNI and created my own library, libB.so. Now libB depends on libA.</p>
+
+<p>When webstarting, both libraries are places in some webstart working area. My java code attempts to load libB. At this point the system loader will attempt to load libA which is not in the system library path (java.library.path won't help this). The end result is that libB has an unsatisfied link and cannot be used. </p>
+
+<p>I have tried loading libA before libB, but that still does not work. Seems the OS wants to do that loading for me. Is there any way I can make this work other than statically  compiling?</p>

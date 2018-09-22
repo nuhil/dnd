@@ -1,0 +1,3 @@
+<p>I am using a rich text editor on a web page.  .NET has feature that prevent one from posting HTML tags, so I added a JavaScript snippet to change the angle brackets to and alias pair of characters before the post. The alias is replaced on the server with the necessary angle bracket and then stored in the database.  With XSS aside, what are common ways of fixing this problem. (i.e. Is there a better way?)</p>
+
+<p>If you have comments on XSS(cross-site scripting), I'm sure that will help someone.</p>

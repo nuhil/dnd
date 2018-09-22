@@ -1,0 +1,5 @@
+<p>Our team is setting up nightly and continuous integration builds.  We own Team Foundation Server and could use Team Foundation Build.  I'm more familiar with CC.Net and lean that way but management sees all the money spent on TFS and wants to use it.</p>
+
+<p>Some things I like better about CC.Net is the flexibility of notifications as well as the ease of implementing custom scripts.</p>
+
+<p>If you have experience with both products, which do you prefer and why?</p>

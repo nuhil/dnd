@@ -1,0 +1,1 @@
+<p>I've done this before in C++ by including sqlite.h but is there a similarly easy way in C#?</p>

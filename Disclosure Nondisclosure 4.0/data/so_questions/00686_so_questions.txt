@@ -1,0 +1,6 @@
+<p>How do I create a button control (with <code>CreateWindow</code> of a <code>BUTTON</code> window class) that has a standard system-wide size (especially height) that's consistent with the rest of Windows applications?
+I should of course take DPI into account and probably other settings.</p>
+
+<blockquote>
+  <p><strong>Remark:</strong> Using <code>USE_CW_DEFAULT</code> for width and height results in a 0, 0 size button, so that's not a solution.</p>
+</blockquote>

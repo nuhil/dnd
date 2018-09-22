@@ -1,0 +1,9 @@
+<p>The <a href="http://en.wikipedia.org/wiki/ANSI_C">Wikipedia article on ANSI C</a> says:</p>
+
+<blockquote>
+  <p>One of the aims of the ANSI C standardization process was to produce a superset of K&amp;R C (the first published standard), incorporating many of the unofficial features subsequently introduced. However, the standards committee also included several new features, such as function prototypes (borrowed from the C++ programming language), and a more capable preprocessor. The syntax for parameter declarations was also changed to reflect the C++ style.</p>
+</blockquote>
+
+<p>That makes me think that there are differences. However, I didn't see a comparison between K&amp;R C and ANSI C. Is there such a document? If not, what are the major differences?</p>
+
+<p>EDIT: I believe the K&amp;R book says "ANSI C" on the cover. At least I believe the version that I have at home does. So perhaps there isn't a difference anymore?</p>

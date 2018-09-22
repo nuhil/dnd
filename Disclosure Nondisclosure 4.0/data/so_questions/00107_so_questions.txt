@@ -1,0 +1,15 @@
+<p>Is there any difference between</p>
+
+<pre><code>   int on_exit(void (*function)(int , void *), void *arg);
+</code></pre>
+
+<p>and</p>
+
+<pre><code>   int atexit(void (*function)(void));
+</code></pre>
+
+<p>other than the fact that the function used by on_exit gets the exit status?</p>
+
+<p>That is, if I don't care about the exit status, is there any reason to use one or the other?</p>
+
+<p><strong>Edit:</strong> Many of the answers warned against <code>on_exit</code> because it's non-standard. If I'm developing an app that is for internal corporate use and guaranteed to run on specific configurations, should I worry about this? </p>

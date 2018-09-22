@@ -1,0 +1,9 @@
+<p>Feel free to edit the title if you know how to formulate the question better. (Tagging is a problem as well.) The problem may be too difficult in this general form, so let us consider a concrete example.</p>
+
+<p>You get a screenful of stackoverflow questions by requesting <code>/questions ?sort=newest</code> page. Next page link leads to <code>/questions?page=2 &amp;sort=newest</code>. I suppose that at server side, the request is translated into an SQL query with LIMIT clause. Problem with this approach is, that if new question were added while user browses first page, his second page will start with some questions he already saw. (If he has 10 question per page, and 10 new questions happened to be added, he’ll get exactly the same content second time!)</p>
+
+<p>Is there an elegant way to solve this common problem? I realize that it is not that big a problem, at least not for stackoverflow, but still.</p>
+
+<p>The best idea I have (apart from storing request history per client) is to use <code>/questions?answer_id=NNN</code> format. Server returns a page that starts with the requested answer, and puts the id of the first answer on the next page into next page link. There must be a way to write SQL for that, right? </p>
+
+<p>Is it how it usually done? Or there is a better way?</p>

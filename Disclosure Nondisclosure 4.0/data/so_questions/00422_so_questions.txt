@@ -1,0 +1,11 @@
+<p>This is a <a href="http://stackoverflow.com/questions/tagged/polls">poll</a> asking the Stackoverflow community what <strong>non-programming</strong> books they would recommend to fellow programmers.</p>
+
+<h3>Please read the following before posting:</h3>
+
+<ul>
+<li><p>Please post only <em>ONE BOOK PER ANSWER</em>.</p></li>
+<li><p>Please <em>search for your recommendation on this page before posting</em> (there are over NINE PAGES so it is advisable to check them all). Many books have already been suggested and we want to avoid duplicates. If you find your recommendation is already present, vote it up or add some commentary.</p></li>
+<li><p><strong>Please elaborate</strong> <em>on <strong>why</strong> you think a given book is worth reading</em> <strong><em>from a programmer's perspective.</em></strong></p></li>
+</ul>
+
+<p>Note: <a href="http://stackoverflow.com/questions/31274/best-non-development-book-for-software-developers">this article</a> is similar and contains other useful suggestions.</p>

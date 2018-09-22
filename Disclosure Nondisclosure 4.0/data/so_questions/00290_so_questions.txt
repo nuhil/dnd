@@ -1,0 +1,9 @@
+<p>For whatever reason, our company has a coding guideline that states:</p>
+
+<p><code>Each class shall have it's own header and implementation file.</code></p>
+
+<p>So if we wrote a class called <code>MyString</code> we would need an associated <strong>MyStringh.h</strong> and <strong>MyString.cxx</strong>.</p>
+
+<p>Does anyone else do this?  Has anyone seen any compiling performance repercussions as a result?  Does 5000 classes in 10000 files compile just as quickly as 5000 classes in 2500 files?  If not, is the difference noticeable?</p>
+
+<p>[We code C++ and use GCC 3.4.4 as our everyday compiler]</p>

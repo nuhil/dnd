@@ -1,0 +1,7 @@
+<p>I am working on a winforms application using LINQ to SQL - and am building the app using a SQL Express instance on my workstation. The final installation of the project will be on a proper SQL Server 2005.  </p>
+
+<p>The database has the same name, and all tables are identical but the hostname is different. </p>
+
+<p>The only way I have found to make my app work from one machine to the next is to re-open the code in Visual Studio, delete all of the objects referring to the SQL express instance from my .mdbl, save the project, connect to the other server, drag all of the references back on, and rebuild the application for release once more.</p>
+
+<p>an answer here suggested that one can simply modify the app.config/web.config file - whih would work for asp.net, but this is a winforms application. What's the correct way of making LINQ to SQL apps use a new database without having to re-open the app in visual studio?</p>

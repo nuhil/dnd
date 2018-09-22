@@ -1,0 +1,7 @@
+<p>When entering a question, stackoverflow presents you with a list of questions that it thinks likely to cover the same topic. I have seen similar features on other sites or in other programs, too (Help file systems, for example), but I've never programmed something like this myself. Now I'm curious to know what sort of algorithm one would use for that.</p>
+
+<p>The first approach that comes to my mind is splitting the phrase into words and look for phrases containing these words. Before you do that, you probably want to throw away insignificant words (like 'the', 'a', 'does' etc), and then you will want to rank the results.</p>
+
+<p>Hey, wait - let's do that for web pages, and then we can have a ... watchamacallit ... -  a "search engine", and then we can sell ads, and then ...</p>
+
+<p>No, seriously, what are the common ways to solve this problem?</p>

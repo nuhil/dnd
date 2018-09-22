@@ -1,0 +1,26 @@
+<p>Say instead of returning void a method you returned a reference to the class even if it didn't make any particular semantic sense.  It seems to me like it would give you more options on how the methods are called, allowing you to use it in a fluent-interface-like style and I can't really think of any disadvantages since you don't have to do anything with the return value (even store it).</p>
+
+<p>So suppose you're in a situation where you want to update an object and then return its current value.
+instead of saying </p>
+
+<pre><code>myObj.Update();
+var val = myObj.GetCurrentValue();
+</code></pre>
+
+<p>you will be able to combine the two lines to say</p>
+
+<pre><code>var val = myObj.Update().GetCurrentValue();
+</code></pre>
+
+<p><hr /></p>
+
+<p><strong>EDIT:</strong>  I asked the below on a whim, in retrospect, I agree that its likely to be unnecessary and complicating, however my question regarding returning this rather than void stands.</p>
+
+<p>On a related note, what do you guys think of having the language include a new bit of syntactic sugar:</p>
+
+<pre><code>var val = myObj.Update()&lt;.GetCurrentValue();
+</code></pre>
+
+<p>This operator would have a low order of precedence so myObj.Update() would execute first and then call  GetCurrentValue() on myObj instead of the void return of Update.</p>
+
+<p>Essentially I'm imagining an operator that will say "call the method on the right-hand side of the operator on the first valid object on the left".  Any thoughts?</p>

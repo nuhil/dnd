@@ -1,0 +1,7 @@
+<p>We've been using "Drip" to try and identify why pages with UpdatePanels in them tend to use a lot of client-side memory.  With a page with a regular postback, we are seeing 0 leaks detected by Drip.  However, when we add an update panel to the mix, every single DOM object that is inside of the update panel appears to leak (according to Drip).</p>
+
+<p>I am not certain is Drip is reliable enough to report these kinds of things - the reported leaks do seem to indicate Drip is modifying the page slightly.  </p>
+
+<p>Does anyone have any experience with this?  Should I panic and stop using Microsoft Ajax?  I'm not above doubting Microsoft, but it seems fishy to me that it could be <em>this</em> bad.</p>
+
+<p>Also, if you know of a tool that is better than Drip, that would be helpful as well.</p>

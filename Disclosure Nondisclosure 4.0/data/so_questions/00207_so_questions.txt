@@ -1,0 +1,1 @@
+<p>By default each row of a Gridview maps to each row in a datatable or dataset attached to its datasource. But what if I want to display these rows in multiple columns. For example if it has 10 rows, 5 rows each should be displayed in 2 columns side by side. Also can I do this with the Infragistics grid. Is this possible?</p>

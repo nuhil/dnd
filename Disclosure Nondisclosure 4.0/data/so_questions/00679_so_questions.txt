@@ -1,0 +1,25 @@
+<p>Is it possible to use an UnhandledException Handler in a Windows Service?</p>
+
+<p>Normally I would use a custom built Exception Handling Component that does logging, phone home, etc. This component adds a handler to System.AppDomain.CurrentDomain.UnhandledException but as far as I can tell this doesn’t achieve anything win a Windows Service so I end up with this pattern in my 2 (or 4) Service entry points:</p>
+
+<pre>
+<code>
+    Protected Overrides Sub OnStart(ByVal args() As String)
+        ' Add code here to start your service. This method should set things
+        ' in motion so your service can do its work.
+        Try
+            MyServiceComponent.Start()
+        Catch ex As Exception
+            'call into our exception handler
+            MyExceptionHandlingComponent.ManuallyHandleException (ex)
+            'zero is the default ExitCode for a successfull exit, so if we set it to non-zero
+            ExitCode = -1
+            'So, we use Environment.Exit, it seems to be the most appropriate thing to use
+            'we pass an exit code here as well, just in case.
+            System.Environment.Exit(-1)
+        End Try
+    End Sub
+</code>
+</pre>
+
+<p>Is there a way my Custom Exception Handling component can deal with this better so I don't have to fill my OnStart with messy exception handling plumbing?</p>

@@ -1,0 +1,4 @@
+<p>Does anyone know a method to programmatically close the CD tray on Windows 2000 or higher?
+Open CD tray exists, but I can't seem to make it close especially under W2k. </p>
+
+<p>I am especially looking for a method to do this from a batch file, if possible, but API calls would be OK.</p>

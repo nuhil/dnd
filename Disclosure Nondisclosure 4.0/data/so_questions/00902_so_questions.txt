@@ -1,0 +1,21 @@
+<p>I'm trying to implement some drag and drop functionality for a material system being developed at my work. Part of this system includes a 'Material Library' which acts as a repository, divided into groups, of saved materials on the user's hard drive.</p>
+
+<p>As part of some UI polish, I was hoping to implement a 'highlight' type feature. When dragging and dropping, windows that you can legally drop a material onto will very subtly change color to improve feedback to the user that this is a valid action.</p>
+
+<p>In the included screenshot, I am changing the bar with 'Basic Materials' (Just a CWnd with a CStatic) from having a medium gray background when unhighlighed to a blue background when hovered over. It all works well, the OnDragEnter and OnDragExit messages seem robust and set a flag indicating the highlight status. Then in OnCtrlColor I do this:</p>
+
+<pre><code>    if (!m_bHighlighted) {
+	pDC-&gt;FillSolidRect(0, 0, m_SizeX, kGroupHeaderHeight, kBackgroundColour);
+}
+else {
+	pDC-&gt;FillSolidRect(0, 0, m_SizeX, kGroupHeaderHeight, kHighlightedBackgroundColour);
+}
+</code></pre>
+
+<p><img src="http://www.aliparr.net/badmfcpaint.jpg" alt="Material Library Badness" /></p>
+
+<p>However, as you can see in the screenshot, the painting 'glitches' below the dragged object, leaving the original gray in place. It looks really ugly and basically spoils the whole effect.</p>
+
+<p>Is there any way I can get around this? MFC isn't fun at the best of times, and this is causing me to tear my hair out.</p>
+
+<p>All help gratefully appreciated.</p>

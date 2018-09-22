@@ -1,0 +1,5 @@
+<p>This should be simple. I'm trying to import data from Access into SQL Server. I don't have direct access to the SQL Server database - it's on GoDaddy and they only allow web access. So I can't use the Management Studio tools, or other third-party Access upsizing programs that require remote access to the database.</p>
+
+<p>I wrote a query on the Access database and I'm trying to loop through and insert each record into the corresponding SQL Server table. But it keeps erroring out. I'm fairly certain it's because of the HTML and God knows what other weird characters are in one of the Access text fields. I tried using CFQUERYPARAM but that doesn't seem to help either.</p>
+
+<p>Any ideas would be helpful. Thanks.</p>

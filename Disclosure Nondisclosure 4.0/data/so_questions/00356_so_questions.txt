@@ -1,0 +1,3 @@
+<p>For various reasons calling <code>System.exit</code> is frowned upon when writing <strong>Java Applications</strong>, so how can I notify the calling process that not everything is going according to plan?</p>
+
+<p><strong>Edit:</strong> The 1 is a <code>standin</code> for any non-zero exit code.</p>

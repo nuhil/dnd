@@ -1,0 +1,5 @@
+<p>I have been writing Flex applications for a few months now and luckily have not needed a full debugger as of yet, so far I have just used a few Alert boxes...</p>
+
+<p>Is there an available debugger that is included in the free Flex SDK? I am not using FlexBuilder (I have been using Emacs and compiling with ant).</p>
+
+<p>If not, how do you debug Flex applications without FlexBuilder? (note: I have no intentions of using flexbuilder)</p>

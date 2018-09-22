@@ -1,0 +1,15 @@
+<p>I'm currently working on a large implementation of Class::DBI for an existing database structure, and am running into a problem with clearing the cache from Class::DBI.  This is a mod_perl implementation, so an instance of a class can be quite old between times that it is accessed.
+From the man pages I found two options:</p>
+
+<pre><code>Music::DBI-&gt;clear_object_index();
+</code></pre>
+
+<p>And:</p>
+
+<pre><code>Music::Artist-&gt;purge_object_index_every(2000);
+</code></pre>
+
+<p>Now, when I add clear_object_index() to the DESTROY method, it seems to run, but doesn't actually empty the cache.  I am able to manually change the database, re-run the request, and it is still the old version.
+purge_object_index_every says that it clears the index every n requests.  Setting this to "1" or "0", seems to clear the index... sometimes.  I'd expect one of those two to work, but for some reason it doesn't do it every time.  More like 1 in 5 times.</p>
+
+<p>Any suggestions for clearing this out?</p>

@@ -1,0 +1,16 @@
+<p>I want to add the selected item from the <code>TreeView</code> to the <code>ListBox</code> control using <code>DataBinding</code> (If it can work with <code>DataBinding</code>). </p>
+
+<pre><code>&lt;TreeView HorizontalAlignment="Left" 
+          Margin="30,32,0,83" 
+          Name="treeView1" 
+          Width="133" &gt;
+
+&lt;/TreeView&gt;
+&lt;ListBox VerticalAlignment="Top" 
+         Margin="208,36,93,0" 
+         Name="listBox1" 
+         Height="196" &gt;       
+&lt;/ListBox&gt;
+</code></pre>
+
+<p><code>TreeView</code> is populated from the code behind page with some dummy data. </p>

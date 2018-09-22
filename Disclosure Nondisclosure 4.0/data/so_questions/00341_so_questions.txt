@@ -1,0 +1,89 @@
+<p>I've developed my own delivery extension for Reporting Services 2005, to integrate this with our SaaS marketing solution.</p>
+
+<p>It takes the subscription, and takes a snapshot of the report with a custom set of parameters. It then renders the report, sends an e-mail with a link and the report attached as XLS.</p>
+
+<p>Everything works fine, until mail delivery...</p>
+
+<p>Here's my code for sending e-mail:</p>
+
+<pre><code> public static List&lt;string&gt; SendMail(SubscriptionData data, Stream reportStream, string reportName, string smptServerHostname, int smtpServerPort)
+{
+  List&lt;string&gt; failedRecipients = new List&lt;string&gt;();
+
+  MailMessage emailMessage = new MailMessage(data.ReplyTo, data.To);
+  emailMessage.Priority = data.Priority;
+  emailMessage.Subject = data.Subject;
+  emailMessage.IsBodyHtml = false;
+  emailMessage.Body = data.Comment;
+
+  if (reportStream != null)
+  {
+    Attachment reportAttachment = new Attachment(reportStream, reportName);
+    emailMessage.Attachments.Add(reportAttachment);
+    reportStream.Dispose();
+  }
+
+  try
+  {
+    SmtpClient smtp = new SmtpClient(smptServerHostname, smtpServerPort);
+
+    // Send the MailMessage
+    smtp.Send(emailMessage);
+  }
+  catch (SmtpFailedRecipientsException ex)
+  {
+    // Delivery failed for the recipient. Add the e-mail address to the failedRecipients List
+    failedRecipients.Add(ex.FailedRecipient);
+  }
+  catch (SmtpFailedRecipientException ex)
+  {
+    // Delivery failed for the recipient. Add the e-mail address to the failedRecipients List
+    failedRecipients.Add(ex.FailedRecipient);
+  }
+  catch (SmtpException ex)
+  {
+    throw ex;
+  }
+  catch (Exception ex)
+  {
+    throw ex;
+  }
+
+  // Return the List of failed recipient e-mail addresses, so the client can maintain its list.
+  return failedRecipients;
+}
+</code></pre>
+
+<p>Values for SmtpServerHostname is localhost, and port is 25.</p>
+
+<p>I veryfied that I can actually send mail, by using Telnet. And it works.</p>
+
+<p><strong>Here's the error message I get from SSRS:</strong></p>
+
+<p>ReportingServicesService!notification!4!08/28/2008-11:26:17:: Notification 6ab32b8d-296e-47a2-8d96-09e81222985c completed.  Success: False, Status: Exception Message: Failure sending mail. Stacktrace:    at MyDeliveryExtension.MailDelivery.SendMail(SubscriptionData data, Stream reportStream, String reportName, String smptServerHostname, Int32 smtpServerPort) in C:\inetpub\wwwroot\CustomReporting\MyDeliveryExtension\MailDelivery.cs:line 48
+   at MyDeliveryExtension.MyDelivery.Deliver(Notification notification) in C:\inetpub\wwwroot\CustomReporting\MyDeliveryExtension\MyDelivery.cs:line 153, DeliveryExtension: My Delivery, Report: Clicks Development, Attempt 1
+ReportingServicesService!dbpolling!4!08/28/2008-11:26:17:: NotificationPolling finished processing item 6ab32b8d-296e-47a2-8d96-09e81222985c</p>
+
+<p><strong>Could this have something to do with Trust/Code Access Security?</strong></p>
+
+<p>My delivery extension is granted full trust in rssrvpolicy.config:</p>
+
+<pre><code>   &lt;CodeGroup 
+    class="UnionCodeGroup"
+    version="1"
+    PermissionSetName="FullTrust"
+    Name="MyDelivery_CodeGroup"
+    Description="Code group for MyDelivery extension"&gt;
+    &lt;IMembershipCondition class="UrlMembershipCondition" version="1" Url="C:\Program Files\Microsoft SQL Server\MSSQL.2\Reporting Services\ReportServer\bin\MyDeliveryExtension.dll" /&gt;
+   &lt;/CodeGroup&gt;
+</code></pre>
+
+<p>Could trust be an issue here?</p>
+
+<p>Another theory: SQL Server and SSRS was installed in the security context of Local System. Am I right, or is this service account restricted access to any network resource? Even its own SMTP Server?</p>
+
+<p>I tried changing all SQL Server Services logons to Administrator - but still without any success.</p>
+
+<p>I also tried logging onto the SMTP server in my code, by proviiding: NetworkCredential("Administrator", "password") and also NetworkCredential("Administrator", "password", "MyRepServer")</p>
+
+<p>Can anyone help here, please?</p>

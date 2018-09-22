@@ -1,0 +1,36 @@
+<p>I am working on a function to establish the entropy of a distribution.  It uses a copula, if any are familiar with that.  I need to sum up the values in the array based on which dimensions are "cared about."</p>
+
+<p>Example:  Consider the following example... </p>
+
+<pre>
+Dimension 0 (across)
+_ _ _ _ _ _ _ _ _ _ _ _ _
+|_ 0 _|_ 0 _|_ 0 _|_ 2 _|  Dimension 1
+|_ 1 _|_ 0 _|_ 2 _|_ 0 _|   (down)
+|_ 0 _|_ 3 _|_ 0 _|_ 6 _|
+|_ 0 _|_ 0 _|_ 0 _|_ 0 _|
+
+I "care about" dimension 0 only, and "don't care" about the rest (dim 1).
+Summing this array with the above specifications will
+"collapse" the "stacks" of dimension 1 down to a single 4 x 1 array:
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ 
+|_ 1 _|_ 3 _|_ 2 _|_ 8 _|
+
+This can then be summed, or have any operation performed.
+</pre>
+
+<p>I need to do this with an array of 'n' dimensions, which could feasibly be 20. Also, I need to be able to do this, caring about certain dimensions, and collapsing the rest.  I am having an especially hard time with this because I cant visualize 20 dimensions :p . If anyone could help me set up some c/c++ code to collapse/sum, I would be very very grateful.  </p>
+
+<h3>Update:</h3>
+
+<p>Just got home.  Here is some info to answer your questions:</p>
+
+<ol>
+<li>Sorry for rolling back the edits, I was hoping when I clicked roll-back it would show me the changes so I could see what I messed up, a bit like wikipedia.  This wasn't the case, as I found out.</li>
+<li>@jeff - What doesnt make sense?  I am using this great service for (what I think is) a legit reason.  I want to get better at my hobby, which is all it is, as I am in high school.  Many of my posts regard implementing a genetic algorithm (This post, sparsearray, rank an array, pointer manipulation).</li>
+<li>I am using a sparse array representation, as it is possible to exceed the number of molecules in the universe using a traditional (dense) array.  For now, the implementation of the sparsearray itself doesnt matter a whole lot, as I am working to make it work with a standard array before going to a sparse representation.  For those who havent seen my previous questions, I am using a binary search tree as the structure to contain the sparse array points, and a "driver" function to traverse the tree as necessary, returning whatever the function is designed to do.  This is flexible, so I can accomodate a lot of different methods of accessing the array. </li>
+<li>The structure is a hypercube, and the number of dimensions is specified at run time, as well as the length of each dimension (which are all the same, as it is a hypercube).</li>
+</ol>
+
+<p>Thanks everyone for your imput.</p>

@@ -1,0 +1,5 @@
+<p>Is it still worth to add the log4j library to a Java 5 project just to log
+let's say some exceptions to a file with some nice rollover settings.
+Or will the standard util.logging facility do the job as well?</p>
+
+<p>What do you think?</p>

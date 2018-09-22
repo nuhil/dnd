@@ -1,0 +1,9 @@
+<p>How do you quickly find the URL for a Win32 API on MSDN?  It's easy for .NET methods -- just add the method name (for example, System.Byte.ToString) to <a href="http://msdn.microsoft.com/library/" rel="nofollow">http://msdn.microsoft.com/library/</a>.</p>
+
+<p>However, for Win32 APIs (say GetLongPathName), this doesn't work: <a href="http://msdn.microsoft.com/en-us/library/GetLongPathName" rel="nofollow">http://msdn.microsoft.com/en-us/library/GetLongPathName</a>.</p>
+
+<p>I want to be able to use the URL in code comments or documentation.  So the URL one gets with an MSDN or Google search (for example, <a href="http://msdn.microsoft.com/library/aa364980.aspx" rel="nofollow">http://msdn.microsoft.com/library/aa364980.aspx</a>) isn't really what I'm looking for.  I'd really like my code comments to look something like:</p>
+
+<p>// blah blah blah.  See <a href="http://msdn.microsoft.com/en-us/library/GetLongPathName" rel="nofollow">http://msdn.microsoft.com/en-us/library/GetLongPathName</a> for more information.</p>
+
+<p>What's the magic pixie dust for Win32 APIs?  Or does it only work for .NET methods?</p>

@@ -1,0 +1,1 @@
+Works just like echo but portable!! Great stuff. As described!

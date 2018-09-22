@@ -1,0 +1,8 @@
+<p>I'm looking for the basic loop like:</p>
+
+<pre><code>for(int i = 0; i &lt; MAX; i++) {
+  doSomething(i);
+}
+</code></pre>
+
+<p>but for bash.  </p>

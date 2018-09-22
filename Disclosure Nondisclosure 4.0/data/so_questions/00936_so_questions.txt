@@ -1,0 +1,20 @@
+<p>Has anyone ever written a function that can convert all of the controls on an aspx page into a read only version?  For example, if UserDetails.aspx is used to edit and save a users information, if someone with inappropriate permissions enter the page, I would like to render it as read-only.  So, most controls would be converted to labels, loaded with the corresponding data from the editable original control.</p>
+
+<p>I think it would likely be a fairly simple routine, ie:  </p>
+
+<pre><code>Dim ctlParent As Control = Me.txtTest.Parent  
+Dim ctlOLD As TextBox = Me.txtTest  
+Dim ctlNEW As Label = New Label  
+ctlNEW.Width = ctlOLD.Width  
+ctlNEW.Text = ctlOLD.Text  
+ctlParent.Controls.Remove(ctlOLD)  
+ctlParent.Controls.Add(ctlNEW)
+</code></pre>
+
+<p>...is really all you need for a textbox --> label conversion, but I was hoping someone might know of an existing function out there as there are likely a few pitfalls here and there with certain controls and situations.</p>
+
+<p>Update:<br />
+- Just setting the ReadOnly property to true is not a viable solution, as it looks dumb having things greyed out like that.
+- Avoiding manually creating a secondary view is the entire point of this, so using an ingenious way to display a read only version of the user interface that was built by hand using labels is wat I am trying to avoid.</p>
+
+<p>Thanks!!</p>

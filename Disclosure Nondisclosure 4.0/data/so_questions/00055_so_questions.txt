@@ -1,0 +1,5 @@
+<p>I am new to C# and am doing some work in an existing application. I have a DirectX viewport that has components in it that I want to be able to position using arrow keys.</p>
+
+<p>Currently I am overriding ProcessCmdKey and catching arrow input and send an OnKeyPress event. This works, but I want to be able to use modifiers(<strong><kbd>ALT</kbd>+<kbd>CTRL</kbd>+<kbd>SHIFT</kbd></strong>). As soon as I am holding a modifier and press an arrow no events are triggered that I am listening to.</p>
+
+<p>Does anyone have any ideas or suggestions on where I should go with this?</p>

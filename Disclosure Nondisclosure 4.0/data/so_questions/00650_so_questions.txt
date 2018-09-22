@@ -1,0 +1,19 @@
+<p>I have a class in system-C with some data members as such:  </p>
+
+<pre><code>long double x[8];
+</code></pre>
+
+<p>I'm initializing it in the construction like this:</p>
+
+<pre><code>for (i = 0; i &lt; 8; ++i) {
+    x[i] = 0;
+}
+</code></pre>
+
+<p>But the first time I use it in my code I have garbage there.</p>
+
+<p>Because of the way the system is built I can't connect a debugger easily.  Are there any methods to set a data breakpoint in the code so that it tells me where in the code the variables were actually changed, but without hooking up a debugger?</p>
+
+<p>Edit:
+@<a href="#56477" rel="nofollow">Prakash</a>: 
+Actually, this is a typo in the <em>question</em>, but not in my code...  Thanks!</p>

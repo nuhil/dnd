@@ -1,0 +1,15 @@
+<p>When encoding a query string to be sent to a web server - when do you use <code>escape()</code> and when do you use <code>encodeURI()</code> or <code>encodeURIComponent()</code>:</p>
+
+<p>Use escape:</p>
+
+<pre><code>escape("% +&amp;=");
+</code></pre>
+
+<p>OR</p>
+
+<p>use encodeURI() / encodeURIComponent()</p>
+
+<pre><code>encodeURI("http://www.google.com?var1=value1&amp;var2=value2");
+
+encodeURIComponent("var1=value1&amp;var2=value2");
+</code></pre>

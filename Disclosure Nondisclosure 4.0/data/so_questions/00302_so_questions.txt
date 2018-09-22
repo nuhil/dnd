@@ -1,0 +1,7 @@
+<p>I am trying to get the DB2 data provider from a 32-bit .Net application to connect to DB2 running as a 32-bit application on Vista 64 (is that confusing enough yet)?  Unfortunately, I am getting the following error:</p>
+
+<blockquote>
+  <p>SQL1159 Initialization error with DB2 .NET Data Provider, reason code 7, tokens 9.5.0.DEF.2, SOFTWARE\IBM\DB2\InstalledCopies</p>
+</blockquote>
+
+<p>There are several <a href="http://www-128.ibm.com/developerworks/forums/thread.jspa?threadID=207638&amp;tstart=45" rel="nofollow">IBM forum posts</a> mentioning it, but little useful guidance.  Has anyone experienced this before?  Or do you have better ideas for fixing it?</p>

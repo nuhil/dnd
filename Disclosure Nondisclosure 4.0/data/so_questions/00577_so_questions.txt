@@ -1,0 +1,20 @@
+<p>When an application is behind another applications and
+I click on my application's taskbar icon, I expect the entire application to
+come to the top of the z-order, even if an app-modal, WS_POPUP dialog box is
+open.</p>
+
+<p>However, some of the time, for some of my (and others') dialog boxes, only the dialog box comes to the front; the rest of the application stays behind.</p>
+
+<p>I've looked at Spy++ and for the ones that work correctly, I can see
+WM_WINDOWPOSCHANGING being sent to the dialog's parent. For the ones that
+leave the rest of the application behind, WM_WINDOWPOSCHANGING is not being
+sent to the dialog's parent.</p>
+
+<p>I have an example where one dialog usually brings the whole app with it and the other does not. Both the working dialog box and the non-working dialog box have the same window style, substyle, parent, owner, ontogeny.</p>
+
+<p>In short, both are WS_POPUPWINDOW windows created with DialogBoxParam(),
+having passed in identical HWNDs as the third argument.</p>
+
+<p>Has anyone else noticed this behavioral oddity in Windows programs? What messages does the TaskBar send to the application when I click its button? Who's responsibility is it to ensure that <em>all</em> of the application's windows come to the foreground?</p>
+
+<p>In my case the base parentage is an MDI frame...does that factor in somehow?</p>

@@ -1,0 +1,17 @@
+<p>I am in a position where I can choose the client browser for my web app. The app is being used internally, and we are installing each client "manually".I would like to find a better solution for the browser,so :</p>
+
+<p>What is a good browser that I can use as a client to a web application?</p>
+
+<p>General functionalities I would like to have:</p>
+
+<ul>
+<li>opening the browser from a
+shortcut, directly to the application's URL </li>
+<li>ability to restrict navigation to a set of allowed URLs </li>
+<li>fullscreen mode, no menu, no address bar</li>
+<li>javascript </li>
+<li>good CSS support</li>
+<li>ability to cancel Back button (or at least solve the "Webpage has expired" IE problem)</li>
+</ul>
+
+<p>IE7 and FireFox are good candidates, but each seem to have it's own problems and issues.</p>

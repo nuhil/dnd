@@ -1,0 +1,47 @@
+<p>Which is better to use in PHP, a 2D array or a class? I've included an example of what I mean by this.</p>
+
+<pre><code>// Using a class
+class someClass
+{
+    public  $name;
+    public  $height;
+    public  $weight;
+
+    function __construct($name, $height, $weight)
+    {
+        $this -&gt; name       = $name;
+        $this -&gt; height = $height;
+        $this -&gt; weight = $weight;
+    }
+}
+
+$classArray[1] = new someClass('Bob', 10, 20);
+$classArray[2] = new someClass('Fred', 15, 10);
+$classArray[3] = new someClass('Ned', 25, 30);
+
+
+// Using a 2D array
+$normalArray[1]['name'] = 'Bob';
+$normalArray[1]['height']   = 10;
+$normalArray[1]['weight']   = 20;
+
+$normalArray[2]['name'] = 'Fred';
+$normalArray[2]['height']   = 15;
+$normalArray[2]['weight']   = 10;
+
+$normalArray[3]['name'] = 'Ned';
+$normalArray[3]['height']   = 25;
+$normalArray[3]['weight']   = 30;
+</code></pre>
+
+<hr>
+
+<p>Assuming that somebody doesn't come out and show that classes are too slow, it looks like class wins.</p>
+
+<p>I've not idea which answer I should accept to I've just upvoted all of them.</p>
+
+<hr>
+
+<p>And I have now written two near identical pages, one using the 2D array (written before this question was posted) and now one using a class and I must say that the class produces much nicer code. I have no idea how much overhead is going to be generated but I doubt it will rival the improvement to the code itself.</p>
+
+<p>Thank you for helping to make me a better programmer.</p>

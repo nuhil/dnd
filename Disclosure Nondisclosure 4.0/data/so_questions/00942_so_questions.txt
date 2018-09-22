@@ -1,0 +1,27 @@
+<p>I'm trying to use Python with ReportLab 2.2 to create a PDF report.<br />
+According to the <a href="http://www.reportlab.com/docs/userguide.pdf">user guide</a>,</p>
+
+<blockquote>
+  <p>Special TableStyle Indeces [sic]</p>
+  
+  <p>In any style command the first row index may be set to one of the special strings 'splitlast' or 'splitfirst' to indicate that the style should be used only for the last row of a split table, or the first row of a continuation. This allows splitting tables with nicer effects around the split.</p>
+</blockquote>
+
+<p>I've tried using several style elements, including:</p>
+
+<pre><code>('TEXTCOLOR', (0, 'splitfirst'), (1, 'splitfirst'), colors.black) 
+('TEXTCOLOR', (0, 'splitfirst'), (1, 0), colors.black) 
+('TEXTCOLOR', (0, 'splitfirst'), (1, -1), colors.black)
+</code></pre>
+
+<p>and none of these seems to work.  The first generates a TypeError with the message: </p>
+
+<pre><code>TypeError: cannot concatenate 'str' and 'int' objects
+</code></pre>
+
+<p>and the latter two generate TypeErrors with the message:</p>
+
+<pre><code>TypeError: an integer is required
+</code></pre>
+
+<p>Is this functionality simply broken or am I doing something wrong?  If the latter, what am I doing wrong?</p>

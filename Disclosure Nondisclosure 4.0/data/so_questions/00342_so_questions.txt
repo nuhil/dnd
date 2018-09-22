@@ -1,0 +1,3 @@
+<p>I'm basically trying to figure out the simplest way to perform your basic insert operation in C#.NET using the SqlClient namespace. </p>
+
+<p>I'm using <code>SqlConnection</code> for my db link, I've already had success executing some reads, and I want to know the simplest way to insert data. I'm finding what seem to be pretty verbose methods when I google.</p>

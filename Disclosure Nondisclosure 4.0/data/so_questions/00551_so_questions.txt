@@ -1,0 +1,3 @@
+<p>I'm just about wrapped up on a project where I was using a commercial SVN provider to store the source code. The web host the customer ultimately picked includes a repository as part of the hosting package, so, now that the project is over, I'd like to relocate the repository to their web host and discontinue the commercial account.</p>
+
+<p>How would I go about doing this?</p>

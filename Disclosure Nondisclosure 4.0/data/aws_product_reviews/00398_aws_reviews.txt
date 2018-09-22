@@ -1,0 +1,1 @@
+-- function fpresizePlayerSpace(nsPrefix,w,h) try var ifrm parent.document.getElementById(nsPrefix + movieFrameID) if (ifrm) var h2 h + 35 ifrm.style.height h2 catch(err) if (h 0) document.getElementById(nsPrefix + clipDiv).style.heighth+px document.getEl

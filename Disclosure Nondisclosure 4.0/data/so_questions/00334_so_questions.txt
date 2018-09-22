@@ -1,0 +1,11 @@
+<p>I'm working in VS 2008 and have three projects in one solution.  I'm debugging by attaching to a .net process invoked by a third party app (SalesLogix, a CRM app).  </p>
+
+<p>Once it has attached to the process and I attempt to set a breakpoint in one of the projects, it doesn't set a breakpoint in that file.  It actually switches the current tab to another file in another project and sets a breakpoint in that document.  If the file isn't open, it even goes so far as to open it for me.  I can't explain this.  I've got no clue.  Anyone seen such odd behavior?  I wouldn't believe it if I wasn't seeing it myself.</p>
+
+<p>A little more info: if I set a breakpoint before attaching, it shows the "red dot" and says no symbols loaded...no problem...I expect that.  When I attach and invoke my .net code from SalesLogix and switch back to VS, my breakpoint is completely gone (not even a warning that the source doesn't match the debug file).  When I attempt to manually load the debug file, then I get a message that the symbol file does not match the module.  The .pdb and the .dll are timestamped the same, so I'm stumped.</p>
+
+<p>Anyone have any ideas?</p>
+
+<p>Thx,</p>
+
+<p>Jeff</p>

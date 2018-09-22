@@ -1,0 +1,1 @@
+<p>Is it possible to access the iSight camera on a macbook programatically? By this I mean I would like to be able to just grab still frames from the iSight camera on command and then do something with them. If so, is it only accessible using objective c, or could other languages be used as well? </p>

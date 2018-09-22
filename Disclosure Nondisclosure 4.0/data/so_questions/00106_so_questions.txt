@@ -1,0 +1,20 @@
+<p>We have a remoting singleton server running in a separate windows service (let's call her RemotingService). The clients of the RemotingService are ASP.NET instances (many many).</p>
+
+<p>Currently, the clients remoting call RemotingService and blocks while the RemotingService call is serviced. However, the remoting service is getting complicated enough (with more RPC calls and complex algorithms) that the asp.net worker threads are blocked for a significantly long time (4-5 seconds).</p>
+
+<p>According to <a href="http://msdn.microsoft.com/en-us/magazine/cc164128.aspx">this msdn article</a>, doing this will not scale well because an asp.net worker thread is blocked for each remoting RPC. It advises switching to async handlers to free up asp.net worker threads.</p>
+
+<blockquote>
+  <p>The purpose of an asynchronous handler
+  is to free up an ASP.NET thread pool
+  thread to service additional requests
+  while the handler is processing the
+  original request.</p>
+</blockquote>
+
+<p>This seems fine, except the remoting call still takes up a thread from the thread pool.
+Is this the same thread pool as the asp.net worker threads? </p>
+
+<p><strong>How should I go about turning my remoting singleton server into an async system such that I free up my asp.net worker threads?</strong></p>
+
+<p>I've probably missed out some important information, please let me know if there is anything else you need to know to answer the question.</p>

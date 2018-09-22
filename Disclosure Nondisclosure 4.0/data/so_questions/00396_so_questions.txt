@@ -1,0 +1,3 @@
+<p>What things should be kept most in mind when writing cross-platform applications in C? Targeted platforms: 32-bit Intel based PC, Mac, and Linux. I'm especially looking for the type of versatility that Jungle Disk has in their USB desktop edition ( <a href="http://www.jungledisk.com/desktop/download.aspx">http://www.jungledisk.com/desktop/download.aspx</a> )</p>
+
+<p>What are tips and "gotchas" for this type of development?</p>

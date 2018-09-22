@@ -1,0 +1,7 @@
+<p>We provide a web application with a frontend completely developed in Adobe Flash. When we chose Flash 6 years ago, we did so for its large number of features for user interaction, like dragging stuff, opening and closing menus, tree navigation elements, popup dialogs etc.</p>
+
+<p>Today it's obvious that AJAX/JS offers roughly the same possibilities and because of the number of frameworks that are readily available, it's very feasible to implement them.</p>
+
+<p>Is there a technical reason one should choose either technology over the other? By "technical", I mean performance, security, portability/compatibility and the like. I don't mean aspects such as the very non-programmer way development is done in Flash or whether it makes sense to switch an app from one to the other.</p>
+
+<p>As I just explained <a href="http://stackoverflow.com/questions/52094/which-ria-technology-has-the-biggest-market-share" rel="nofollow">in another question</a>, it seems to me that JS is way ahead in terms of market share and I'm wondering whether we are missing some important point if we stick to Flash.</p>

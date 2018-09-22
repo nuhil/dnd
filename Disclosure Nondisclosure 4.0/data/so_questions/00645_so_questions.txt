@@ -1,0 +1,3 @@
+<p>Are there any services that allow you to retrieve DVD cover information?  I'm working on a small WPF application where this functionality would be handy.  If a user inserts a DVD or types a title in, it'll automatically grab the cover art for that DVD.</p>
+
+<p>Thanks.</p>

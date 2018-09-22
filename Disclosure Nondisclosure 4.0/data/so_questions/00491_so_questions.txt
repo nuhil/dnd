@@ -1,0 +1,36 @@
+<p>This is a fairly trivial matter, but I'm curious to hear people's opinions on it.</p>
+
+<p>If I have a Dictionary which I'm access through properties, which of these formats would you prefer for the property?</p>
+
+<pre><code>/// &lt;summary&gt;
+/// This class's FirstProperty property
+/// &lt;/summary&gt;
+[DefaultValue("myValue")]
+public string FirstProperty {
+    get {
+        return Dictionary["myKey"];
+    }
+    set {
+        Dictionary["myKey"] = value;
+    }
+</code></pre>
+
+<p>This is probably the typical way of doing it. It's fairly efficient, easy to understand, etc. The only disadvantage is with a longer or more complex key it would be possible to misspell it or change only one instance or something, leading me to this:</p>
+
+<pre><code>/// &lt;summary&gt;
+/// This class's SecondProperty property
+/// &lt;/summary&gt;
+[DefaultValue("myValue")]
+private const string DICT_MYKEY = "myKey"
+public string SecondProperty {
+    get {
+        return Dictionary[DICT_MYKEY];
+    }
+    set {
+        Dictionary[DICT_MYKEY] = value;
+    }
+</code></pre>
+
+<p>Which is marginally more complicated, but seems to offer additional safety, and is closer to what I would think of as the "Code Complete" solution. The downside is that when you also have a ///  block and a [DefaultValue()] block above the property already, it starts getting a bit crowded up there.</p>
+
+<p>So which do you like better, and why? Does anybody have any better ideas?</p>

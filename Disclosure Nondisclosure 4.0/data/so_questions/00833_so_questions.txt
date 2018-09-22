@@ -1,0 +1,1 @@
+<p>I need to pass a UUID instance via http request parameter. Spring needs a custom type converter (from String) to be registered. How do I register one?</p>

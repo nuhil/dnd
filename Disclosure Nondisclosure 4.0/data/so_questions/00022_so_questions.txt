@@ -1,0 +1,2 @@
+<p>Is it possible to create "federated" Subversion servers?
+As in one server at location A and another at location B that sync up their local versions of the repository automatically.  That way when someone at either location interacts with the repository they are accessing their respective local server and therefore has faster response times.</p>

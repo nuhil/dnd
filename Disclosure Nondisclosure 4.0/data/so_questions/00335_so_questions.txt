@@ -1,0 +1,7 @@
+<p>How stable is WPF not in terms of stability of a WPF program, but in terms of the 'stability' of the API itself.  </p>
+
+<p>Let me explain:  </p>
+
+<p>Microsoft is notorious for changing its whole methodology around with new technology. Like with the move from silverlight 1 to silverlight 2. With WPF, I know that MS changed a bunch of stuff with the release of the .NET service pack. I don't know how much they changed things around. So the bottom line is, in your opinion are they going to revamp the system again with the next release or do you think that it is stable enough now that they won't change the bulk of the system. I hate to have to unlearn stuff with every release.  </p>
+
+<p>I hope that the question wasn't too long winded.</p>

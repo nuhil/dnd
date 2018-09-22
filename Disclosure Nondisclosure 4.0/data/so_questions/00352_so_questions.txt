@@ -1,0 +1,9 @@
+<p>Is there some way I can use urls like: </p>
+
+<p><em><a href="http://www.blog.com/team-spirit/" rel="nofollow">http://www.blog.com/team-spirit/</a></em></p>
+
+<p>instead of</p>
+
+<p><em><a href="http://www.blog.com/?p=122" rel="nofollow">http://www.blog.com/?p=122</a></em></p>
+
+<p>in a windows hosted PHP server?</p>

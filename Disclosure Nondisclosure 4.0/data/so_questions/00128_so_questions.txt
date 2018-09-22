@@ -1,0 +1,14 @@
+<p>I'm looking for the best way to log errors in an ASP.NET application.
+I want to be able to receive emails when errors occurs in my application, with detailed information about the Exception and the current Request.</p>
+
+<p>In my company we used to have our own ErrorMailer, catching everything in the Global.asax Application_Error. It was "Ok" but not very flexible nor configurable.</p>
+
+<p>We swithed recently to NLog. It's much more configurable, we can define different targets for the errors, filter them, buffer them (not tried yet). It's a very good improvement.</p>
+
+<p>But I discovered lately that there's a whole Namespace in the .Net framework for this purpose : <a href="http://msdn.microsoft.com/en-us/library/system.web.management.aspx">System.Web.Management</a> and it can be configured in the <a href="http://msdn.microsoft.com/en-us/library/2fwh2ss9(VS.80).aspx">healthMonitoring</a> section of web.config.</p>
+
+<p>Have you ever worked with .Net health monitoring? What is your solution for error logging?</p>
+
+<p>Thanks,</p>
+
+<p>Vincent</p>

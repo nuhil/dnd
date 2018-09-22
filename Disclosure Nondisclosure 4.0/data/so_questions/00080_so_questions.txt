@@ -1,0 +1,13 @@
+<p>Recently I have been having issues with Firefox 3 on Ubuntu Hardy Heron.</p>
+
+<p>I will click on a link and it will hang for a while.  I don't know if its a bug in Firefox 3 or a page running too much client side JavaScript, but I would like to try and debug it a bit.</p>
+
+<p>So, my question is "is there a way to have some kind of process explorer, or task manager sort of thing for Firefox 3?"</p>
+
+<p>I would like to be able to see what tabs are using what percent of my processor via the JavaScript on that page (or anything in the page that is causing CPU/memory usage).  </p>
+
+<p>Does anybody know of a plugin that does this, or something similar?  Has anyone else done this kind of inspection another way?</p>
+
+<p>I know about FireBug, but I can't imagine how I would use it to finger which tab is using a lot of resources.</p>
+
+<p>Any suggestions or insights?</p>

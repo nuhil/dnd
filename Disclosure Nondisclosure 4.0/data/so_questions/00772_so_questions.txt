@@ -1,0 +1,1 @@
+<p>Is there a preferred way to handle animation when using Flex -- For instance, if I want to render a ball and bounce it around the screen?</p>

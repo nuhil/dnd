@@ -1,0 +1,5 @@
+<p>I'm cleaning up some old Maildir folders, and finding messages with names like:</p>
+
+<p>1095812260.M625118P61205V0300FF04I002DC537_0.redoak.cise.ufl.edu,S=2576:2,ST</p>
+
+<p>They don't show up in my IMAP client, so I presume there's some semaphore indicating the message already got moved somewhere else. Is that the case, and can the files be deleted without remorse?</p>

@@ -1,0 +1,7 @@
+<p>in our application we have a Java applet running inside a .NET browser control. It is a know issue from Sun that running an applet this way may crash the control.</p>
+
+<p>Has anyone come across the same problem and solved it?</p>
+
+<p>Atm we are running the applet in a Webbrowser but we need to run it in a browser control.</p>
+
+<p>Thx for any help.</p>

@@ -1,0 +1,20 @@
+<p>I'm a bit newbieish when it comes to the deeper parts of OSX configuration and am having to put up with a fairly irritating niggle which while I can put up with it, I know under Windows I could have sorted in minutes.</p>
+
+<p>Basically, I have an external disk with two volumes: </p>
+
+<p>One is an HFS+ volume which I use for TimeMachine backups.
+The other, an NTFS volume that I use for general file copying etc on Mac and Windows boxes.</p>
+
+<p>So what happens is that whenever I plug in the disk into my Mac USB, OSX goes off and mounts both volumes and shows an icon on the desktop for each. The thing is that to remove the disk you have to eject the volume and in this case do it for both volumes, which causes an annoying warning dialog to be shown every time. </p>
+
+<p>What I'd prefer is some way to prevent the NTFS volume from auto-mounting altogether. I've done some hefty googling and here's a list of things I've tried so far:</p>
+
+<ul>
+<li>I've tried going through options in Disk Utility</li>
+<li>I've tried setting AutoMount to No in /etc/hostconfig but that is a bit too global for my liking.</li>
+<li>I've also tried the suggested approach to putting settings in fstab but it appears the OSX (10.5) is ignoring these settings.</li>
+</ul>
+
+<p>Any other suggestions would be welcomed. Just a little dissapointed that I can't just tick a box somewhere (or untick).</p>
+
+<p>EDIT: Thanks heaps to hop for the answer it worked a treat. For the record it turns out that it wasn't OSX not picking up the settings I actually had "msdos" instead of "ntfs" in the fs type column.</p>

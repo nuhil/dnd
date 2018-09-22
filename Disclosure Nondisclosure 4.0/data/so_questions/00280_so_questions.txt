@@ -1,0 +1,8 @@
+<p>Is there a way to find the number of files of a specific type without having to loop through all results inn a Directory.GetFiles() or similar method? I am looking for something like this:</p>
+
+<pre><code>int ComponentCount = MagicFindFileCount(@"c:\windows\system32", "*.dll");
+</code></pre>
+
+<p>I know that I can make a recursive function to call Directory.GetFiles , but it would be much cleaner if I could do this without all the iterating.</p>
+
+<p><strong>EDIT:</strong> If it is not possible to do this without recursing and iterating yourself, what would be the best way to do it?</p>

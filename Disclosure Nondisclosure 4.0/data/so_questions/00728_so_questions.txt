@@ -1,0 +1,3 @@
+<p>Trying to move my development environment to Linux. And new to Curl. Can't get it to install the IDE &amp; RTE packages on an AMD HP PC running Ubuntu x64. I tried to install the Debian package via the package installer and get "Error: Wrong architecture - i386". Tried using the  --force-architecture switch but it errors out. </p>
+
+<p>I'm assuming Curl IDE will just run under Intel processors? Anyone have any luck with this issue and can advise?</p>

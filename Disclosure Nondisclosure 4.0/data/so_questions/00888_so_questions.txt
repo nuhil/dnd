@@ -1,0 +1,18 @@
+<p>I have to write an applet that brings up a password dialog. The problem is that dialog is set to be always on top but when user clicks on IE window dialog gets hidden behind IE window nevertheless. And since dialog is modal and holds <strong>all</strong> IE threads IE pane does not refresh and dialog window is still painted on top of IE (but not refreshed). This behaviour confuses users (they <em>see</em> dialog on top of IE but it looks like it has hanged since it is not refreshe). </p>
+
+<p>So I need a way to keep that dialog on top of everything. But any other solution to this problem would be nice. </p>
+
+<p>Here's the code:</p>
+
+<pre><code>        PassDialog dialog = new PassDialog(parent);
+        /* do some non gui related initialization */
+        dialog.pack();
+        dialog.setLocationRelativeTo(null);
+        dialog.setAlwaysOnTop(true);
+        dialog.setVisible(true);
+</code></pre>
+
+<p>Resolution: As @shemnon noted I should make a window instead of (null, Frame, Applet) parent of modal dialog. So good way to initlialize parent was: </p>
+
+<pre><code>parent = javax.swing.SwingUtilities.getWindowAncestor(theApplet);
+</code></pre>

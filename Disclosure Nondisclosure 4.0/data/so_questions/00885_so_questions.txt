@@ -1,0 +1,27 @@
+<p>How should I store (and present) the text on a website intended for worldwide use, with several languages? The content is mostly in the form of 500+ word articles, although I will need to translate tiny snippets of text on each page too (such as "print this article" or "back to menu").</p>
+
+<p>I know there are several CMS packages that handle multiple languages, but I have to integrate with our existing ASP systems too, so I am ignoring such solutions.</p>
+
+<p>One concern I have is that Google should be able to find the pages, even for foreign users. I am less concerned about issues with processing dates and currencies.</p>
+
+<p>I worry that, left to my own devices, I will invent a way of doing this which work, but eventually lead to disaster! I want to know what professional solutions you have actually used on real projects, not untried ideas! Thanks very much.</p>
+
+<hr>
+
+<p>I looked at RESX files, but felt they were unsuitable for all but the most trivial translation solutions (I will elaborate if anyone wants to know).</p>
+
+<p>Google will help me with translating the text, but not storing/presenting it.</p>
+
+<p>Has anyone worked on a multi-language project that relied on their own code for presentation?</p>
+
+<hr>
+
+<p>Any thoughts on serving up content in the following ways, and which is best?</p>
+
+<ul>
+<li><a href="http://www.website.com/text/view.asp?id=12345&amp;lang=fr" rel="nofollow">http://www.website.com/text/view.asp?id=12345&amp;lang=fr</a></li>
+<li><a href="http://www.website.com/text/12345/bonjour_mes_amis.htm" rel="nofollow">http://www.website.com/text/12345/bonjour_mes_amis.htm</a></li>
+<li><a href="http://fr.website.com/text/12345" rel="nofollow">http://fr.website.com/text/12345</a></li>
+</ul>
+
+<p>(these are not real URLs, i was just showing examples)</p>

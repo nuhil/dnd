@@ -1,0 +1,1 @@
+<p>Is it necessary to set large objects to <code>null</code> when implementing a <code>Dispose()</code> method?</p>

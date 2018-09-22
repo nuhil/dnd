@@ -1,0 +1,15 @@
+<p>fellow anthropoids and lily pads and paddlewheels!</p>
+
+<p>I'm developing a Windows desktop app in C#/.NET/WPF, using VS 2008. The app is required to install and run on Vista and XP machines. I'm working on a Setup/Windows Installer Project to install the app.</p>
+
+<p>My app requires read/modify/write access to a SQLCE database file (.sdf) and some other database-type files related to a third-party control I'm using. These files should be shared among all users/log-ins on the PC, none of which can be required to be an Administrator. This means, of course, that the files can't go in the program's own installation directory (as such things often did before the arrival of Vista, yes, yes!).</p>
+
+<p>I had expected the solution to be simple. <strong>Vista and XP both have shared-application-data folders intended for this purpose.</strong> ("\ProgramData" in Vista, "\Documents and Settings\All Users\Application Data" in XP.) The .NET Environment.GetFolderPath(SpecialFolder.CommonApplicationData) call exists to find the paths to these folders on a given PC, yes, yes!</p>
+
+<p><strong>But I can't figure out how to specify the shared-application-data folder as a target in the Setup project.</strong></p>
+
+<p>The Setup project offers a "Common Files" folder, but that's intended for shared program components (not data files), is usually located under "\Program Files," and has the same security restrictions anything else in "\Program files" does, yes, yes!</p>
+
+<p>The Setup project offers a "User's Application Data" folder, but that's a per-user folder, which is exactly what I'm trying to avoid, yes, yes!</p>
+
+<p>Is it possible to add files to the shared-app-data folder in a robust, cross-Windows-version way from a VS 2008 setup project? Can anyone tell me how?</p>

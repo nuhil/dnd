@@ -1,0 +1,1 @@
+This worked to connect but the signal dropped again once I moved back into the room

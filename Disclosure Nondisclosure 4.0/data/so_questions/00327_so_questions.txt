@@ -1,0 +1,5 @@
+<p>The "Open" button on the open file dialog used in certain windows applications includes a dropdown arrow with a list of additional options -- namely "Open with..".  </p>
+
+<p>I haven't seen this in every windows application, so you may have to try a few to get it, but SQL Server Management Studio and Visual Studio 2005 will both show the button that way if you go to the menu and choose <em>File->Open->File...</em></p>
+
+<p>I want to use a button like this with a built-in list in one of my applications, but I can't find the control they're using anywhere in visual studio.  I should clarify that I'm looking for that specific button, not the entire dialog.  Any thoughts?</p>

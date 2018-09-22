@@ -1,0 +1,7 @@
+<p>Is it correct to link a static library (.lib) compiled with VS 2005 with a program which is compiled with VS 2008? Both library and my program are written in C++. This program is run on Windows Mobile 6 Professional emulator.</p>
+
+<p>This seems to work, there are no linking errors. However the program crashes during startup because strange things happen inside the linked library. E.g. lib can return a vector of characters with size of big negative number.</p>
+
+<p>There are no such problems when the program is compiled with VS 2005.</p>
+
+<p>What is even more strange the problem is only when using release configuration for the build. When compiling using debug configuration the problem doesn't occur.</p>

@@ -1,0 +1,20 @@
+<p>Say I have a <code>Textbox</code> nested within a <code>TabControl</code>.  </p>
+
+<p>When the form loads, I would like to focus on that <code>Textbox</code> (by default the focus is set to the <code>TabControl</code>).</p>
+
+<p>Simply calling <code>textbox1.focus()</code> in the <code>Load</code> event of the form does not appear to work.  </p>
+
+<p>I have been able to focus it by doing the following:</p>
+
+<pre><code> private void frmMainLoad(object sender, EventArgs e)
+ {
+     foreach (TabPage tab in this.tabControl1.TabPages) 
+     {
+         this.tabControl1.SelectedTab = tab;
+     }
+ }
+</code></pre>
+
+<p><strong>My question is:</strong></p>
+
+<p>Is there a more elegant way to do this?</p>

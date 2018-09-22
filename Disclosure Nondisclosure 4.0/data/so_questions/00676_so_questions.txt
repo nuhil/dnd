@@ -1,0 +1,25 @@
+<p>I remember back when MS released a forum sample application, the design of the application was like this:</p>
+
+<p>/Classes/User.cs
+/Classes/Post.cs
+...
+/Users.cs
+/Posts.cs</p>
+
+<p>So the classes folder had just the class i.e. properties and getters/setters.
+The Users.cs, Post.cs, etc. have the actual methods that access the Data Access Layer, so Posts.cs might look like:</p>
+
+<pre><code>public class Posts
+{
+    public static Post GetPostByID(int postID)
+    {
+          SqlDataProvider dp = new SqlDataProvider();
+          return dp.GetPostByID(postID);
+    }
+}
+</code></pre>
+
+<p>Another more traditional route would be to put all of the methods in Posts.cs into the class definition also (Post.cs).</p>
+
+<p>Splitting things into 2 files makes it much more procedural doesn't it?
+Isn't this breaking OOP rules since it is taking the behavior out of the class and putting it into another class definition?</p>

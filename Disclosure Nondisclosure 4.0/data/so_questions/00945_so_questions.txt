@@ -1,0 +1,1 @@
+<p>In Ruby on Rails, there's RJS templates that help do AJAX by returning javascript code that will be executed in the client browser. How can I do a similar thing in the Java/J2EE world? Is Google Widget Toolkit similar to RJS? What options do I have? </p>

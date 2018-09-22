@@ -1,0 +1,5 @@
+<p>I'd really like to get our host to pull from our Git repository instead of uploading files manually, but it doesn't have Git installed.</p>
+
+<p>So is there a way to trick Subversion (which they do have) into checking out a Git repository?</p>
+
+<p>I think I already know the answer, namely bug my host to add Git and live with it until they do, but I thought I would ask anyway.</p>

@@ -1,0 +1,3 @@
+<p>I worked on an embedded system this summer written in straight C.  It was an existing project that the company I work for had taken over.  I have become quite accustomed to writing unit tests in Java using JUnit but was at a loss as to the best way to write unit tests for existing code (which needed refactoring) as well as new code added to the system.</p>
+
+<p>Are there any projects out there that make unit testing plain C code as easy as unit testing Java code with JUnit?  Any insight that would apply specifically to embedded development (cross-compiling to arm-linux platform) would be greatly appreciated.</p>

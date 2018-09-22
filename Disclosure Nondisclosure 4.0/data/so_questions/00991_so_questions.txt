@@ -1,0 +1,5 @@
+<p>Have you used <a href="http://pipes.yahoo.com/pipes/" rel="nofollow">pipes.yahoo.com</a> to quickly and easily do... anything? I've recently created a quick <a href="http://pipes.yahoo.com/kooshmoose/stackoverflow_merge" rel="nofollow">mashup of StackOverflow tags</a> (<a href="http://pipes.yahoo.com/pipes/pipe.run?_id=NIlbqD_E3RGfAAUWpgt1Yg&amp;_render=rss" rel="nofollow">via rss</a>) so that I can browse through new questions in fields I like to follow.</p>
+
+<p>This has been around for some time, but I've just recently revisited it and I'm completely impressed with it's ease of use. It's almost to the point where I could set up a pipe and then give a client privileges to go in and edit feed sources... and I didn't have to write more than a few lines of code.</p>
+
+<p>So, what other practical uses can you think of for pipes?</p>

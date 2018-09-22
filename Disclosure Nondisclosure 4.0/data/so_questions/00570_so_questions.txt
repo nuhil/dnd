@@ -1,0 +1,1 @@
+<p>Non technical people in most cases do not see any value in writing unit tests. They just want to have basic code completed and do not spend money and time on such things like unit tests. Later, every day they just to ask to fix a one bug more. Projects are missing deadlines and they still don't see value in good automated tests.</p>

@@ -1,0 +1,21 @@
+<p>What would be the best strategy to generate anagrams.</p>
+
+<blockquote>
+<pre><code>An anagram is a type of word play, the result of rearranging the letters
+of a word or phrase to produce a new  word or phrase, using all the original
+letters exactly once; 
+ex.
+</code></pre>
+  
+  <ul>
+  <li><strong>Eleven plus two</strong> is anagram of <strong><em>Twelve plus one</em></strong> </li>
+  <li><strong>A decimal point</strong> is anagram of <strong><em>I'm a dot in place</em></strong></li>
+  <li><strong>Astronomers</strong> is anagram of <strong><em>Moon starers</em></strong></li>
+  </ul>
+</blockquote>
+
+<p>At first it looks straightforwardly simple, just to jumble the letters and generate all possible combinations. But what would be the efficient approach to generate only the words in dictionary.</p>
+
+<p>I came across this page, <a href="http://lojic.com/blog/2007/10/22/solving-anagrams-in-ruby/">Solving anagrams in Ruby</a>. </p>
+
+<p>But what are your ideas?</p>

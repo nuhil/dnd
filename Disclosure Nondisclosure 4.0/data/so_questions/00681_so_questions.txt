@@ -1,0 +1,3 @@
+<p>Using win forms with an <a href="http://en.wikipedia.org/wiki/Model-view-controller">MVC</a>/<a href="http://msdn.microsoft.com/en-us/magazine/cc188690.aspx">MVP</a> architecture, I would normally use a class to wrap a view to test the UI while using mocks for the model and controller/presenter.  The wrapper class would make most everything in the UI an observable property for the test runner through properties and events.</p>
+
+<p>Would this be a viable approach to testing a WPF app?  Is there a better way? Are there any gotchas to watch out for?</p>

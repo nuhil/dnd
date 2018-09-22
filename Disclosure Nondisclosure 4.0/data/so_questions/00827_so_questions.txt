@@ -1,0 +1,14 @@
+<p>I know and have Xcode, but I was wondering if there were any other complete development environments that support Objective-C? I'm not looking for solutions with vim or emacs, nor editors like BBEdit that support syntax highlighting, but a full fledged IDE with:</p>
+
+<ul>
+<li>code completion</li>
+<li>compilation</li>
+<li>debugging</li>
+<li>refactoring</li>
+</ul>
+
+<p>Extra points for being cross platform, supporting vi key bindings and supporting other languages.</p>
+
+<h3>Note:</h3>
+
+<p>I've updated and accepted my answer below as Jetbrains has released Early Access for <em>AppCode</em>, their new Objective-C IDE. Since this has been a fairly popular question, I thought it worthwhile to update the information.</p>

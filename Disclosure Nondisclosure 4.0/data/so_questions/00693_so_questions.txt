@@ -1,0 +1,1 @@
+<p>I have a site, which contains several ashx handlers, on a couple of the handlers I want to reject non-SSL requests. Is there a way that I can do this in code?</p>

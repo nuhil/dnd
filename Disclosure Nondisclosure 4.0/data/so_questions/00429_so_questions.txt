@@ -1,0 +1,17 @@
+<p>I have the following tables in my database that have a many-to-many relationship, which is expressed by a connecting table that has foreign keys to the primary keys of each of the main tables:</p>
+
+<ul>
+<li>Widget: WidgetID (PK), Title, Price  </li>
+<li>User: UserID (PK), FirstName, LastName</li>
+</ul>
+
+<p>Assume that each User-Widget combination is unique. I can see two options for how to structure the connecting table that defines the data relationship:</p>
+
+<ol>
+<li>UserWidgets1: UserWidgetID (PK), WidgetID (FK), UserID (FK)  </li>
+<li>UserWidgets2: WidgetID (PK, FK), UserID (PK, FK)</li>
+</ol>
+
+<p>Option 1 has a single column for the Primary Key. However, this seems unnecessary since the only data being stored in the table is the relationship between the two primary tables, and this relationship itself can form a unique key. Thus leading to option 2, which has a two-column primary key, but loses the one-column unique identifier that option 1 has. I could also optionally add a two-column unique index (WidgetID, UserID) to the first table.</p>
+
+<p>Is there any real difference between the two performance-wise, or any reason to prefer one approach over the other for structuring the UserWidgets many-to-many table?</p>

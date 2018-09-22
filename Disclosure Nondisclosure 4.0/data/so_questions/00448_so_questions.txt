@@ -1,0 +1,3 @@
+<p>I usually store my connectionstring in web.config or in the application settings of my Visual Studio project. The application I'm currently working on makes a lot of trips to the database which means it will look up the connectionstring every time. Should I be putting the connectionstring in the cache or should I be looking at storing the whole SqlConnection object in the cache to eliminate the need to open and close them all the time?</p>
+
+<p><strong>Update</strong>: Seems like the consensus is to store the connection string in a configuration file and leave the caching in the trusting hand of ADO.NET</p>

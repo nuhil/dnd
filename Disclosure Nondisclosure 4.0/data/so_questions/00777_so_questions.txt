@@ -1,0 +1,3 @@
+<p>When launching a process from Java, both stderr and stdout can block on output if I don't read from the pipes.  Currently I have a thread that pro-actively reads from one and the main thread blocks on the other.</p>
+
+<p>Is there an easy way to join the two streams or otherwise cause the subprocess to continue while not losing the data in stderr? </p>

@@ -1,0 +1,21 @@
+<p>I have a very simple problem which requires a very quick and simple solution in SQL Server 2005.</p>
+
+<p>I have a table with x Columns. I want to be able to select one row from the table and then transform the columns into rows.</p>
+
+<pre><code>TableA
+Column1, Column2, Column3
+</code></pre>
+
+<p>SQL Statement to ruturn</p>
+
+<pre><code>ResultA
+Value of Column1
+Value of Column2
+Value of Column3
+</code></pre>
+
+<hr>
+
+<p><strong>@Kevin:</strong> I've had a google search on the topic but alot of the example where overly complex for my example, <strong>are you able to help further?</strong></p>
+
+<p>@Mario: The solution I am creating has 10 columns which stores the values 0 to 6 and I must work out how many columns have the value 3 or more. So I thought about creating a query to turn that into rows and then using the generated table in a subquery to say count the number of rows with Column >= 3</p>

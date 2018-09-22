@@ -1,0 +1,11 @@
+<p>I need to implement a 4-to-1 function in Veriog.  The input is 4 bits, a number from 0-15.  The output is a single bit, 0 or 1.  Each input gives a different output and the mapping from inputs to outputs is known, but the inputs and outputs themselves are not.  I want vcs to successfully optimizing the code and also have it be as short/neat as possible.  My solution so far:</p>
+
+<pre><code>wire [3:0] a;
+wire b;
+wire [15:0] c;
+
+assign c = 16'b0100110010111010; //for example but could be any constant
+assign b = c[a];
+</code></pre>
+
+<p>Having to declare c is ugly and I don't know if vcs will recognize the K-map there.  Will this work as well as a case statement or an assignment in conjunctive normal form?</p>

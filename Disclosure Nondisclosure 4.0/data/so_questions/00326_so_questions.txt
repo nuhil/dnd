@@ -1,0 +1,5 @@
+<p>Until recently I've been using <code>syslog</code> in my <code>System_Exception</code> exception handler to log important errors - a pretty useful concept I thought. However my host just cut me off, and it appears that loveable <code>syslog</code> has actually been sending my error reports to everyone on the server (it's a shared server). They weren't too pleased.</p>
+
+<p>I've now switched to using a log.txt (and will now have to secure this with chmod or something) - but does anyone have any other suggestions for me to try? This seems a bit rusty.</p>
+
+<p>Oh, and don't use <code>syslog</code> on anything except a dedicated server or somewhere that can handle it ;-)</p>

@@ -1,0 +1,12 @@
+<p>Even though I always strive for complete validation these days, I often wonder if it's a waste of time.  If the code runs and it looks the same in all browsers (I use browsershots.org to verify) then do I need to take it any further or am I just being overly anal?</p>
+
+<p>What level do you hold your code to when you create it for:</p>
+
+<p>a) yourself
+b) your clients</p>
+
+<p>P.S. Jeff and company, why doesn't stack overflow validate? :)</p>
+
+<p><strong>EDIT: Some good insights, I think that since I've been so valid-obsessed for so long I program knowing what will cause problems and what won't so I'm in a better position than people who create a site first and then "go back and fix the validation problems"</strong></p>
+
+<p><strong>I think I may post another question on stack overflow; "Do you validate as you go or do you finish and then go back and validate?" as that seems to be where this question is going</strong></p>

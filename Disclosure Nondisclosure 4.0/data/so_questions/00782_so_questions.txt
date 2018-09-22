@@ -1,0 +1,11 @@
+<p>I'm managing an instance of Wordpress where the URLs are in the following format:</p>
+
+<pre>
+http://www.example.com/example-category/blog-post-permalink/
+</pre>
+
+<p>The blog author did an inconsistent job of adding categories to posts, so while some of them had legitimate categories in their URLS, at least half are "uncategorised".</p>
+
+<p>I can easily change Wordpress to render the URL without the category name (e.g., <a href="http://www.example.com/blog-post-permalink/" rel="nofollow">http://www.example.com/blog-post-permalink/</a>), but I'd like to create a mod_rewrite rule to automatically redirect any requests for the previous format to the new, cleaner one.</p>
+
+<p>How can I use a mod_rewrite recipe to handle this, taking into account that I want to honor requests for the real WordPress directories that are in my webroot?</p>

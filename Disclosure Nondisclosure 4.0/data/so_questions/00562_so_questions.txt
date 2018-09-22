@@ -1,0 +1,5 @@
+<p>I have a 200+ case statement in Classic ASP which is getting out of control. It sets 5 variables, based on which case is selected. Address, Phone, Name etc. Just sets the variables and nothing else in each case.</p>
+
+<p>Databases or files are not an option for this application.</p>
+
+<p>Coming from the Perl world I would use a hash to store this info. </p>

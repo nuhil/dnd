@@ -1,0 +1,1 @@
+<p>I've been doing some html scraping in PHP using regular expressions.  This works, but the result is finicky and fragile.  Has anyone used any packages that provide a more robust solution?  A config driven solution would be ideal, but I'm not picky.</p>

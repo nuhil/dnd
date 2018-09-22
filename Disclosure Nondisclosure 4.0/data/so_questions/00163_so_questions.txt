@@ -1,0 +1,1 @@
+<p>I know this site is written using ASP.Net MVC and I do not see "/Home" in the url.  This proves to me that it can be done.  What special route and do I need?</p>

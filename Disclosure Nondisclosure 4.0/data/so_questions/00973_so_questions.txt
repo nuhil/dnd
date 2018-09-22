@@ -1,0 +1,8 @@
+<p>The question says it all basically. </p>
+
+<p>I want in a </p>
+
+<pre><code>class MyClass
+</code></pre>
+
+<p>to listen to a routed event. Can it be done ?</p>

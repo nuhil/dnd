@@ -1,0 +1,5 @@
+<p>Here we go again, the old argument still arises... </p>
+
+<p>Would we better have a business key as a primary key, or would we rather have a surrogate id (i.e. an SQL Server identity) with a unique constraint on the business key field? </p>
+
+<p>Please, provide examples or proof to support your theory.</p>

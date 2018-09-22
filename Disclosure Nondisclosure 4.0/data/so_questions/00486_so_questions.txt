@@ -1,0 +1,3 @@
+<p>For me a multistage environment contains environments for development, testing, quality assurance, maybe a client review stage and finally production. It should allow easy collaboration between developers, project status tracking and easy deployment of the application to any stage for a specific version. </p>
+
+<p>You can propose specific tools for specific application types but I think the question is general enough. Is there any software package ready to use out of the box?</p>

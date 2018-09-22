@@ -1,0 +1,1 @@
+<p>If a user saves the password on the login form, ff3 is putting the saved password in the change password dialoge on the profile page, even though its <strong>not the same input name</strong> as the login. how can I prevent this?</p>

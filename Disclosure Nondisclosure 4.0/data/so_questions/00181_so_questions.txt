@@ -1,0 +1,3 @@
+<p>I'm looking for a good online service for notes/documents (think Google Docs) that has a decent web UI and offers an API for clients to read/write the stored data.</p>
+
+<p>Google Docs is almost perfect - except there's no way to update the contents of existing documents.</p>

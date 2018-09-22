@@ -1,0 +1,7 @@
+<p><a href="http://twitter.com/codinghorror/statuses/901272685">Source</a></p>
+
+<blockquote>
+  <p>RegexOptions.IgnoreCase is more expensive than I would have thought (eg, should be barely measurable)</p>
+</blockquote>
+
+<p>Assuming that this applies to PHP, Python, Perl, Ruby etc as well as C# (which is what I assume Jeff was using), how much of a slowdown is it and will I incur a similar penalty with "/[a-zA-z]/" as I will with "/[a-z]/i" ?</p>

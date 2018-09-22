@@ -1,0 +1,1 @@
+<p>My license for Whole Tomatoes Visual AssistX is about to expire and I'm not really planning on renewing it.  I use it for spell checking but that's about it.  The refactoring abilities have been a little disappointing.  Before I just jump into Resharper though what are your thoughts on other possible plugins?</p>

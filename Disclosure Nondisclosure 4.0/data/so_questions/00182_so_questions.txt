@@ -1,0 +1,3 @@
+<p>I have a new 1 TB drive coming in tomorrow. What is the best way to divide this space for a development workstation?</p>
+
+<p>The biggest problem I think I'm going to have is that some partitions (probably /usr) will become to small after a bit of use. Other partitions are probably to huge. The swap drive for example is currently 2GB (2x 1GB RAM), but it is almost never used (only once that I know of).</p>

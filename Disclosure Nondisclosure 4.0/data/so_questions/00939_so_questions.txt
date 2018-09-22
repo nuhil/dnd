@@ -1,0 +1,1 @@
+<p>I am just getting started with flex and am using the SDK (not Flex Builder). I was wondering what's the best way to compile a mxml file from an ant build script. </p>

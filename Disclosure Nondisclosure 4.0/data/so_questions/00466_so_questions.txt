@@ -1,0 +1,3 @@
+<p>I need to take a web page and extract the address information from the page. Some are easier than others. I'm looking for a firefox plugin, windows app, or VB.NET code that will help me get this done.</p>
+
+<p>Ideally I would like to have a web page on our admin (ASP.NET/VB.NET) where you enter a URL and it scraps the page and returns a Dataset that I can put in a Grid.</p>

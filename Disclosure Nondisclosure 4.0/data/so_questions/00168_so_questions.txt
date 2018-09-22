@@ -1,0 +1,10 @@
+<p>What's the best way to convert a string to an enumeration value in C#?</p>
+
+<p>I have an HTML select tag containing the values of an enumeration. When the page is posted, I want to pick up the value (which will be in the form of a string) and convert it to the enumeration value.</p>
+
+<p>In an ideal world, I could do something like this:</p>
+
+<pre><code>StatusEnum MyStatus = StatusEnum.Parse("Active");
+</code></pre>
+
+<p>but that isn't valid code.</p>

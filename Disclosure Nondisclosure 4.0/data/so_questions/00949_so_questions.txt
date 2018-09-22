@@ -1,0 +1,1 @@
+<p>What is the best C++ IDE for a *nix envirnoment? I have heard the C/C++ module of Eclipse is decent as well as Notepad++ but beyond these two I have no real idea. Any thoughts or comments?</p>

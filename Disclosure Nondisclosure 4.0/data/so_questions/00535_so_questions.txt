@@ -1,0 +1,28 @@
+<p>I am working with an API that provides bus arrival data. For every request, I get back (among other things) a list of which routes serve the stop in question. For example, if the list includes result for bus route #1, 2, and 5, then I know that those serve this stop.</p>
+
+<p>I have a many-to-many relationship set up between Route and Stop, and I want to dynamically check and update these associations on every request. There is no "master list" of which routes serve which stops, so this seems like the best way to get this data.</p>
+
+<p>I believe that the way I'm doing it now is very inefficient:</p>
+
+<pre><code># routes is an array of [number, destination] that I build while iterating over the data
+routes.uniq.each do |route|
+  number      = route[0]
+  destination = route[1]
+
+  r = Route.find_by_number_and_destination(number, destination)
+
+  if !r
+    r = Route.new :number =&gt; number, :destination =&gt; destination
+    r.save
+  end
+
+  # I have to check if it already exists because I can't find a way
+  # to create a uniqueness constraint on the join table with 2 foreign keys
+  r.stops &lt;&lt; stop unless r.stops.include? stop
+end
+</code></pre>
+
+<p>Basically, I have to do 2 things for every route I find:
+1) Create it if it doesn't already exist, 2) Add a relationship to the current stop if it doesn't already exist.</p>
+
+<p>Is there a better way to do this, for example by getting a bunch of the data in memory and doing some of the processing on the app server side, in order to avoid the multitude of database calls I'm currently doing?</p>

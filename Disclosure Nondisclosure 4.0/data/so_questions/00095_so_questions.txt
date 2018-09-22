@@ -1,0 +1,1 @@
+<p>I want to create a function that performs a function passed by parameter on a set of data. How do you pass a function as a parameter in C?</p>

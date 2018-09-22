@@ -1,0 +1,19 @@
+<p>So I have about 10 short css files that I use with mvc app.
+There are like
+error.css
+login.css
+etc...
+Just some really short css files that make updating and editing easy (At least for me). What I want is something that will optimize the if else branch and not incorporate it within the final bits. I want to do something like this</p>
+
+<pre><code>if(Debug.Mode){
+
+&lt;link rel="stylesheet" type="text/css" href="error.css" /&gt; 
+&lt;link rel="stylesheet" type="text/css" href="login.css" /&gt; 
+&lt;link rel="stylesheet" type="text/css" href="menu.css" /&gt; 
+&lt;link rel="stylesheet" type="text/css" href="page.css" /&gt; 
+} else {
+&lt;link rel="stylesheet" type="text/css" href="site.css" /&gt; 
+}
+</code></pre>
+
+<p>I'll have a msbuild task that will combine all the css files, minimize them and all that good stuff. I just need to know if there is a way to remove the if else branch in the final bits.</p>

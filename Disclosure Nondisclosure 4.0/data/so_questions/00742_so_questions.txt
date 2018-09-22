@@ -1,0 +1,25 @@
+<p>In the past we declared properties like this:</p>
+
+<pre><code>public class MyClass
+{
+    private int _age;
+
+    public int Age
+    {
+          get{ return _age;  }
+          set{ _age = value; }
+    }
+}
+</code></pre>
+
+<p>Now we can do:</p>
+
+<pre><code>public class MyClass
+{
+    public int Age {get; set;} 
+}
+</code></pre>
+
+<p>My question is, how can I access the private variable that is created automatically using this notation?  </p>
+
+<p>I would rather access the private variable and not the public accessor 'Age'. Is there a default notation to access the private variable, or it is just not possible?</p>

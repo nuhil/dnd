@@ -1,0 +1,12 @@
+<p>I'm working on mac OS x 10.4. I have a subversion repository stored on an external drive connected via USB. I created a new python project in Eclipse (using the PyDev plugin). When I use right click Team->Share Project to set up a new prject with subversion, I get the following error:</p>
+
+<p>Error while creating module: org.tigris.subversion.javahl.ClientException: Couldn't open a repository
+svn:  Unable to open ra_local session to URL
+svn: Unable to open repository 'file:///Volumes/svn-repos/Palindrome/Palindrome'</p>
+
+<p>The subversion repository has the following permisions:
+drwxrwxrwx     9 cameronl  cameronl   306 Aug 23 10:08 svn-repos</p>
+
+<p>The external drive is formatted as Mac OS extended.</p>
+
+<p>I'm completely stumped. Anybody have any suggestions?</p>

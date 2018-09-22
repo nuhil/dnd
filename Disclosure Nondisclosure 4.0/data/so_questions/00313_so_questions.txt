@@ -1,0 +1,20 @@
+<p>So I'm working on some legacy code that's heavy on the manual database operations. I'm trying to maintain some semblance of quality here, so I'm going TDD as much as possible.</p>
+
+<p>The code I'm working on needs to populate, let's say a <code>List&lt;Foo&gt;</code> from a DataReader that returns all the fields required for a functioning Foo. However, if I want to verify that the code in fact returns one list item per one database row, I'm writing test code that looks something like this:</p>
+
+<pre><code>Expect.Call(reader.Read()).Return(true);
+Expect.Call(reader["foo_id"]).Return((long) 1);
+// ....
+Expect.Call(reader.Read()).Return(true);
+Expect.Call(reader["foo_id"]).Return((long) 2);
+// ....
+Expect.Call(reader.Read()).Return(false);
+</code></pre>
+
+<p>Which is rather tedious and rather easily broken, too. </p>
+
+<p>How should I be approaching this issue so that the result won't be a huge mess of brittle tests?</p>
+
+<p>Btw I'm currently using Rhino.Mocks for this, but I can change it if the result is convincing enough. Just as long as the alternative isn't TypeMock, because their EULA was a bit too scary for my tastes last I checked.</p>
+
+<p>Edit: I'm also currently limited to C# 2.</p>

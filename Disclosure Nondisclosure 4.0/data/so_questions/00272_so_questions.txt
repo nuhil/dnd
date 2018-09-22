@@ -1,0 +1,26 @@
+<p>I'm creating PDFs on-demand with ColdFusion's <a href="http://cfquickdocs.com/cf8/?getDoc=cfdocument" rel="nofollow">CFDocument</a> tag, like so:</p>
+
+<pre><code>&lt;cfdocument format="PDF" filename="#attributes.fileName#" overwrite="true"&gt;
+    &lt;cfdocumentitem type="footer"&gt;
+        &lt;table border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+            &lt;tr&gt;
+                &lt;td align="left"&gt;&lt;font face="Tahoma" color="black"&gt;&lt;strong&gt;My Client's Corporation&lt;/strong&gt;&lt;br/&gt;Street address&lt;br/&gt;City, ST 55555&lt;/font&gt;&lt;/td&gt;
+                &lt;td align="right"&gt;&lt;font face="Tahoma" color="black"&gt;Phone: 555.555.5555&lt;br/&gt;Fax: 555.555.5555&lt;br/&gt;Email: info@domain.com&lt;/font&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/cfdocumentitem&gt;
+    &lt;html&gt;
+        &lt;body&gt;
+            &lt;table border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+            &lt;!--- some content here ... ---&gt;
+            &lt;/table&gt;
+        &lt;/body&gt;
+    &lt;/html&gt;
+&lt;/cfdocument&gt;
+</code></pre>
+
+<p>The problem I'm having is that sometimes (actually, most of the time, but not always) <strong><em>some</em></strong> of the footer text is there, but invisible. I can highlight it and copy/paste it into notepad, where I can see it all -- but in the generated PDF only the first line of the left column of the footer is visible, the rest is invisible. Hence why I added the font color of black in the code.</p>
+
+<p><img src="http://i.stack.imgur.com/LHZ96.png" alt="screenshot of problem"></p>
+
+<p>Any ideas on how to correct this?</p>

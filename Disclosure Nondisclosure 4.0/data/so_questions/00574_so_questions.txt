@@ -1,0 +1,7 @@
+<p>I'm not a usability specialist, and I really don't care to be one.</p>
+
+<p>I just want a small set of rules of thumb that I can follow while coding my User Interfaces so that my product has decent usability.</p>
+
+<p>At first I thought that this question would be easy to answer "Use your common sense", but if it's so common among us developers we wouldn't, as a group, have a reputation for our horrible interfaces.</p>
+
+<p>Any Suggestions?</p>

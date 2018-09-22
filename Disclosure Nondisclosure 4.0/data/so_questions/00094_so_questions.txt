@@ -1,0 +1,9 @@
+<p>Say you have an application divided into 3-tiers: GUI, business logic, and data access. In your business logic layer you have described your business objects: getters, setters, accessors, and so on... you get the idea. The interface to the business logic layer guarantees safe usage of the business logic, so all the methods and accessors you call will validate input. </p>
+
+<p>This great when you first write the UI code, because you have a neatly defined interface that you can trust.</p>
+
+<p>But here comes the tricky part, when you start writing the data access layer, the interface to the business logic does not accommodate your needs. You need to have more accessors and getters to set fields which are/used to be hidden. Now you are forced to erode the interface of your business logic; now it is possible set fields from the UI layer, which the UI layer has no business setting. </p>
+
+<p>Because of the changes needed for the data access layer, the interface to the business logic has eroded to the point where it is possible to even set the business logic with invalid data. Thus, the interface does not guarantee safe usage anymore.</p>
+
+<p>I hope I explained the problem clearly enough. How do you prevent interface eroding, maintain information hiding and encapsulation, and yet still accommodate different interface needs among different layers? </p>

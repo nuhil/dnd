@@ -1,0 +1,15 @@
+<p>I am trying to write a web-app to manage references for my PhD thesis.</p>
+
+<p>I used to manage this information inside a personal Confluence (fantastic tool! - <a href="http://www.atlassian.com/software/confluence/" rel="nofollow">http://www.atlassian.com/software/confluence/</a>) instance however I'm fed-up with the opening of PDF's and cutting and pasting values into fields that I wish to record.</p>
+
+<p>I have exposed a webservice that will return me images based on a PDF filename and a page number. The same webservice also exposes a method that will return the text inside of a provided rectangle (top left x-y coord, bottom right x-y coord).</p>
+
+<p>I would like to be able to drag a rectangle over part of the PDF image and then call the webservice to give me the text (which I will then store on a EntityBean). I am looking at using the JBoss application stack (Application Server, Hibernate, Seam and Richfaces). Does anybody know how I could go about achieving this? I have seen the ability to draw custom images in other RIA toolkits (e.g. dojo), but I can't see a way of doing this inside of Richfaces.</p>
+
+<p>Hopefully somebody out there could prove me wrong, or provide some idea about what I can do (as I am not a web developer - I'm mainly building this tool because the RIA frameworks available now have got me interested!)</p>
+
+<p>I already have the code to extract the text, my problem is purely how can I get the user to draw a "selection rectangle" inside the web browser over the top of the image?</p>
+
+<p>Many Thanks,</p>
+
+<p>Aidos</p>

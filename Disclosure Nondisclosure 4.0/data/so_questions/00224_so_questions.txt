@@ -1,0 +1,7 @@
+<p>I've created a map system for a game that runs on the principle of drawing the picture of the map from tiles. There are many reasons for this which I won't go into here but if you really want to know then I'm sure you can find out how to contact me ;)</p>
+
+<p>I have <a href="http://woarl.com/board/rob.php?mode=map&amp;x=-1&amp;y=9&amp;w=2&amp;h=2" rel="nofollow">made the latest version live</a> so you can see exactly where the problem lies and the source. The issue is the line between the top 2 tiles and the bottom 2 tiles, I can't figure out why it's gone like this and any help would be appreciated.</p>
+
+<p>In the source is a marker called "stackoverflow", if you search for "stackoverflow" when viewing source then it should take you to the table in question.</p>
+
+<p>I have also uploaded an <a href="http://woarl.com/badMap.png" rel="nofollow">image of the issue</a>.</p>

@@ -1,0 +1,7 @@
+<p>I once worked with an architect who banned the use of SQL views. His main reason was that views made it too easy for a thoughtless coder to needlessly involve joined tables which, if that coder tried harder, could be avoided altogether.  Implicitly he was encouraging code reuse via copy-and-paste instead of encapsulation in views.</p>
+
+<p>The database had nearly 600 tables and was highly normalised, so most of the useful SQL was necessarily verbose.</p>
+
+<p>Several years later I can see at least one bad outcome from the ban - we have many hundreds of dense, lengthy stored procs that verge on unmaintainable.</p>
+
+<p>In hindsight I would say it was a bad decision, but what are your experiences with SQL views?  Have you found them bad for performance? Any other thoughts on when they are or are not appropriate?</p>

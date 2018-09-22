@@ -1,0 +1,11 @@
+<p>When calling <code>CoInitializeEx</code>, you can specify the following values for <code>dwCoInit</code>:</p>
+
+<pre><code>typedef enum tagCOINIT {
+    COINIT_MULTITHREADED     = 0x0,
+    COINIT_APARTMENTTHREADED = 0x2,
+    COINIT_DISABLE_OLE1DDE   = 0x4,
+    COINIT_SPEED_OVER_MEMORY = 0x8,
+} COINIT;
+</code></pre>
+
+<p>What does the suggestively titled "speed over memory" value do? Is it ignored these days in COM?</p>

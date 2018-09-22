@@ -1,0 +1,3 @@
+<p>Do you know managed tools for manipulating PowerPoint files?
+The tool should be 100% managed code and offer the option to
+handle .ppt and .pptx files.</p>

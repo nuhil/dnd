@@ -1,0 +1,31 @@
+<p>I want to call a function from a .NET DLL (coded in C#) from an Inno Setup script.</p>
+
+<p>I have:</p>
+
+<ol>
+<li>marked the <em>Register for COM interop</em> option in the project properties,</li>
+<li>changed the <em>ComVisible</em> setting in the <em>AssemblyInfo.cs</em> file,</li>
+<li>added these lines to the ISS script:</li>
+</ol>
+
+<blockquote>
+  <p>[Files]</p>
+  
+  <p>Source: c:\temp\1\MyDLL.dll; Flags: dontcopy</p>
+  
+  <p>[Code]</p>
+  
+  <p>function MyFunction(): string;</p>
+  
+  <p>external 'MyFunction@files:MyDLL.dll stdcall setuponly';</p>
+</blockquote>
+
+<p>but I still get the following error:</p>
+
+<blockquote>
+  <p>Runtime Error (at -1:0):</p>
+  
+  <p>Cannot Import dll:C:\DOCUME~1\foo\LOCALS~1\Temp\is-LRL3E.tmp\MyDLL.dll.</p>
+</blockquote>
+
+<p>What am I doing wrong?</p>

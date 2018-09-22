@@ -1,0 +1,21 @@
+<p>Ok, so, my visual studio is broken. I say this NOT prematurely, as it was my first response to see where I had messed up in my code. When I add controls to the page I can't reference all of them in the code behind. Some of them I can, it seems that the first few I put on a page work, then it just stops. </p>
+
+<p>I first thought it may be the type of control as initially I was trying to reference a repeater inside an update panel. I know I am correctly referencing the code behind in my aspx page. But just in case it was a  screw up on my part I started to recreate the page from scratch and this time got a few more controls down before VS stopped recognizing my controls.</p>
+
+<p>After creating my page twice and getting stuck I thought maybe it was still the type of controls. I created a new page and just threw some labels on it. No dice, build fails when referencing the control from the code behind. </p>
+
+<p>In a possibly unrelated note when I switch to the dreaded "design" mode of the aspx pages VS 2008 errors out and restarts. </p>
+
+<p>I have already put a trouble ticket in to Microsoft. I uninstalled all add-ins, I reinstalled visual studio. </p>
+
+<p>Anyone that wants to see my code just ask, but I am using the straight WYSIWYG visual studio "new aspx page" nothing fancy.</p>
+
+<p>I doubt anyone has run into this, but have you? </p>
+
+<p>Has anyone had success trouble shooting these things with Microsoft? Any way to expedite this ticket without paying??? I have been talking to a rep from Microsoft for days with no luck yet and I am dead in the water. </p>
+
+<p>Thank you. </p>
+
+<p><hr /></p>
+
+<p><strong>Jon Limjap:</strong> I edited the title to both make it clear and descriptive <em>and</em> make sure that nobody sees it as offensive. "Foo-barred" doesn't exactly constitute a proper question title, although your question is clearly a valid one.</p>

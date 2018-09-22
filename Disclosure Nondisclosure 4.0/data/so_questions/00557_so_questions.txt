@@ -1,0 +1,1 @@
+<p>I have a basic cs-major understanding of multi-threading but have never had to do anything beyond simple timers in an application. Does anyone know of a good resource that will give me a tour how to work with multi-threaded applications, explaining the basics and maybe posing some of the more difficult stuff?</p>

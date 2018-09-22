@@ -1,0 +1,32 @@
+<p>I'm wanting to parse a string into a nullable int in C#.  ie. I want to get back either the int value of the string or null if it can't be parsed.</p>
+
+<p>I was kind of hoping that this would work</p>
+
+<pre><code>int? val = stringVal as int?;
+</code></pre>
+
+<p>But that won't work, so the way I'm doing it now is I've written this extension method</p>
+
+<pre><code>public static int? ParseNullableInt(this string value)
+{
+	if (value == null || value.Trim() == string.Empty)
+	{
+		return null;
+	}
+	else
+	{
+		try
+		{
+			return int.Parse(value);
+		}
+		catch
+		{
+			return null;
+		}
+	}
+}
+</code></pre>
+
+<p>Is there a better way of doing this?</p>
+
+<p><strong>EDIT:</strong>  Thanks for the TryParse suggestions, I did know about that, but it worked out about the same.  I'm more interested in knowing if there is a built-in framework method that will parse directly into a nullable int?</p>

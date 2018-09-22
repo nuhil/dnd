@@ -1,0 +1,13 @@
+<p>Let me make something quite clear.</p>
+
+<p>I. <strong>Hate</strong>. CSS.</p>
+
+<p>It is a never-ending nightmare. Every minor layout change feels like a hack. Solutions to problems seem to often involve jiggering numbers around like some chef trying to work out exactly how much nutmeg to put in his soon-to-be famous rice pudding. Then comes the multiple browser issue, the multiple resolution issues..</p>
+
+<p>.. to cut a long story short, it's a pain. A PITA, if you will.</p>
+
+<p>Many frameworks seek to abstract away from HTML (custom tags, JSFs component system) in an effort to make dealing with that particular kettle of fish easier.</p>
+
+<p>Is there anything you folks have used that has a similar concept applied to CSS? Something that does a bunch of cross-browser magic for you, supports like variables (why do I have to type #3c5c8d every time I want that colour), supports caclulated fields (which are 'compiled' into CSS and JS), etc.</p>
+
+<p>Alternatively, am I even thinking about this correctly? Am I trying to push a very square block through a very round hole? </p>

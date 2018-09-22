@@ -1,0 +1,1 @@
+<p>Using the Windows API, how can I get a list of domains on my network?</p>

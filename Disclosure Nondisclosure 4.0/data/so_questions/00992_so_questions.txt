@@ -1,0 +1,1 @@
+<p>I am a PHP Developer, but I am confused on how to connect to a remote Oracle database instance from PHP. I simply need to query a read only database and get some data. Do I need to have the Oracle Instant Client or the extension is enough? Thanks.</p>

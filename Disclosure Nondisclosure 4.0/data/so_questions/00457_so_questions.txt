@@ -1,0 +1,3 @@
+<p>I come from a Java background, where packages are used, not namespaces. I'm used to putting classes that work together to form a complete object into packages, and then reusing them later from that package. But now I'm working in C++.</p>
+
+<p>How do you use namespaces in C++? Do you create a single namespace for the entire application, or do you create namespaces for the major components? If so, how do you create objects from classes in other namespaces?</p>

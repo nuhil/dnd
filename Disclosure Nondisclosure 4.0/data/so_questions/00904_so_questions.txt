@@ -1,0 +1,3 @@
+<p>I've renamed my server and am trying to get to the VisualSVN Server repository via TortoiseSVN. In <a href="http://stackoverflow.com/questions/69646/svn-and-renaming-the-server-its-running-on">this post</a> Gordon helped me find the right command - thanks Gordon.</p>
+
+<p>Now VisualSVN Server is asking me for a username and password. I don't recall setting one and if I did I've forgotten it. Any idea how to reset this username / password?</p>

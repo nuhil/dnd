@@ -1,0 +1,11 @@
+<p>I use cruisecontrol.rb for CI and FogBugz for bug tracking, but the more general the answers, the better.</p>
+
+<p>First is the technical problem: is there an API for FogBugz?  Are there good tutorials, or better yet, pre-written code?</p>
+
+<p>Second is the procedural problem: what, exactly, should the CI put in the bug tracker when the build breaks?  Perhaps:</p>
+
+<p>Title: "#{last committer} broke the build!"</p>
+
+<p>Body: "#{ error traces }"</p>
+
+<p>I suppose this presupposes the answer to this question: should I even put CI breaks into my bug tracking?</p>

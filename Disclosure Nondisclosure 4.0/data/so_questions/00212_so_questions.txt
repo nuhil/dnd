@@ -1,0 +1,15 @@
+<p>I have a flex application that needs the ability to generate and execute JavaScript. When I say this, I mean I need to execute raw JavaScript that I create in my Flex application (not just an existing JavaScript method)</p>
+
+<p>I am currently doing this by exposing the following JavaScript method:</p>
+
+<pre><code>function doScript(js){ eval(js);}
+</code></pre>
+
+<p>I can then do something like this in Flex (note: I am doing something more substantial then an alert box in the real Flex app):</p>
+
+<pre><code>ExternalInterface.call("doScript","alert('foo'));
+</code></pre>
+
+<p>My question is does this impose any security risk, I am assuming it's not since the Flex and JasvaScript all run client side...</p>
+
+<p>Is there a better way to do this?</p>

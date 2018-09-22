@@ -1,0 +1,10 @@
+<p>For example:</p>
+
+<pre><code>int a = 12;
+cout &lt;&lt; typeof(a) &lt;&lt; endl;
+</code></pre>
+
+<p>Expected output:</p>
+
+<pre><code>int
+</code></pre>

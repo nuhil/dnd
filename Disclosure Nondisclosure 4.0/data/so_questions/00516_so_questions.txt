@@ -1,0 +1,50 @@
+<p>So, I did search google and SO prior to asking this question. Basically I have a DLL that has a form compiled into it. The form will be used to display information to the screen. Eventually it will be asynchronous and expose a lot of customization in the dll. For now I just want it to display properly. The problem that I am having is that I use the dll by loading it in a Powershell session. So when I try to display the form and get it to come to the top and have focus, It has no problem with displaying over all the other apps, but I can't for the life of me get it to display over the Powershell window. Here is the code that I am currently using to try and get it to display. I am sure that the majority of it won't be required once I figure it out, this just represents all the things that I found via google.</p>
+
+<pre><code>CLass Blah
+{
+        [DllImport("user32.dll", EntryPoint = "SystemParametersInfo")]
+        public static extern bool SystemParametersInfo(uint uiAction, uint uiParam, uint pvParam, uint fWinIni);
+
+        [DllImport("user32.dll", EntryPoint = "SetForegroundWindow")]
+        public static extern bool SetForegroundWindow(IntPtr hWnd);
+
+        [DllImport("User32.dll", EntryPoint = "ShowWindowAsync")]
+        private static extern bool ShowWindowAsync(IntPtr hWnd, int cmdShow);
+        private const int WS_SHOWNORMAL = 1;
+
+    public void ShowMessage(string msg)
+    {
+            MessageForm msgFrm = new MessageForm();
+            msgFrm.lblMessage.Text = "FOO";
+            msgFrm.ShowDialog();
+            msgFrm.BringToFront();
+            msgFrm.TopMost = true;
+            msgFrm.Activate();
+
+            SystemParametersInfo((uint)0x2001, 0, 0, 0x0002 | 0x0001);
+            ShowWindowAsync(msgFrm.Handle, WS_SHOWNORMAL);
+            SetForegroundWindow(msgFrm.Handle);
+            SystemParametersInfo((uint)0x2001, 200000, 200000, 0x0002 | 0x0001);
+    }
+}
+</code></pre>
+
+<p>As I say I'm sure that most of that is either not needed or even flat out wrong, I just wanted to show the things that I had tried. Also, as I mentioned, I plan to have this be asynchronously displayed at some point which I suspect will wind up requiring a separate thread. Would splitting the form out into it's own thread make it easier to cause it to get focus over the Powershell session? </p>
+
+<hr>
+
+<p>@Joel, thanks for the info. Here is what I tried based on your suggestion:</p>
+
+<pre><code>msgFrm.ShowDialog();
+msgFrm.BringToFront();
+msgFrm.Focus();
+Application.DoEvents();
+</code></pre>
+
+<p>The form still comes up <em>under</em> the Powershell session. I'll proceed with working out the threading. I've spawned threads before but never where the parent thread needed to talk to the child thread, so we'll see how it goes.</p>
+
+<p>Thnks for all the ideas so far folks.</p>
+
+<hr>
+
+<p>Ok, threading it took care of the problem. @Quarrelsome, I did try both of those. Neither (nor both together) worked. I am curious as to what is evil about using threading? I am not using Application.Run and I have yet to have a problem. I am using a mediator class that both the parent thread and the child thread have access to. In that object I am using a ReaderWriterLock to lock one property that represents the message that I want displayed on the form that the child thread creates. The parent locks the property then writes what should be displayed. The child thread locks the property and reads what it should change the label on the form to. The child has to do this on a polling interval (I default it to 500ms) which I'm not real happy about, but I could not find an event driven way to let the child thread know that the proerty had changed, so I'm stuck with polling.</p>

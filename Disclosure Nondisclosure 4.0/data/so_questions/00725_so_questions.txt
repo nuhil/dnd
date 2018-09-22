@@ -1,0 +1,14 @@
+<p>I'm writing a small web server in Python, using BaseHTTPServer and a custom subclass of BaseHTTPServer.BaseHTTPRequestHandler. Is it possible to make this listen on more than one port?</p>
+
+<p>What I'm doing now:</p>
+
+<pre><code>class MyRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
+  def doGET
+  [...]
+
+class ThreadingHTTPServer(ThreadingMixIn, HTTPServer): 
+    pass
+
+server = ThreadingHTTPServer(('localhost', 80), MyRequestHandler)
+server.serve_forever()
+</code></pre>

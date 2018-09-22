@@ -1,0 +1,18 @@
+<p>I'd like to be able to see <code>Win32_PhysicalMedia</code> information when logged in as
+a <em>Limited User</em> in Windows XP (no admin rights). It works ok when logged in as <em>Admin</em>,
+<code>WMIDiag</code> has just given a clean bill of health, and <code>Win32_DiskDrive</code> class
+produces information correctly, but <code>Win32_PhysicalMedia</code> produces a count of 0
+for this code</p>
+
+<pre><code>set WMI = GetObject("WinMgtmts:/root/cimv2")
+set objs = WMI.InstancesOf("Win32_PhysicalMedia")
+wscript.echo objs.count
+</code></pre>
+
+<p>Alternatively, if the hard disk serial number as found on the <code>SerialNumber</code>
+property of the physical drives is available in another class which I can
+read as a limited user please let me know. I am not attempting to write to
+any property with WMI, but I can't read this when running as a <em>Limited User</em>.
+Interestingly, <code>DiskDrive</code> misses out the <code>Signature</code> property, which would do for
+my application when run as a <em>Limited User</em> but is present when run from an
+<em>Admin</em> account.</p>

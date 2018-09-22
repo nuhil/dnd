@@ -1,0 +1,5 @@
+<p>A few years ago we started playing around with <a href="http://www.w3.org/MarkUp/Forms/">XForms</a> from the W3C for a web app which required hundreds of custom forms.</p>
+
+<p>As they aren't currently supported natively by the major browsers, what parsers/tools are you using on your projects today?</p>
+
+<p>I'm not really interested in plugins - this needs to be something server side that emulates XForms.</p>

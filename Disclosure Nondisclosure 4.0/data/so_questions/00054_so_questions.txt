@@ -1,0 +1,2 @@
+<p>So I want to get a project on a distributed version control system, such as mercurial, git, or bazaar.  The catch is that I need the Windows support to be good, i.e. no instructions that start off with "install cygwin...".  Now I've <em>heard</em> that git's Windows support is decent these days, but don't have any first hand experience.  Also, it sounds like the bazaar team has an explicit goal of making it as multiplatform as possible.
+Can I get any recommendations?</p>

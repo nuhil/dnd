@@ -1,0 +1,8 @@
+<p><strong>A Little Background Information</strong>:<br>
+I've been looking at a few PHP framework recently, and it came down to two. The Zend Framework or CodeIgniter. </p>
+
+<p>I prefer CodeIgniter, because of its simple design. It's very bare bone, and it is just kept simple. The thing I don't like though is the weak template system. The template system is important for me, because I will be working with another designer. Being able to give him a good template system is a big plus.</p>
+
+<p>Zend was the second choice, because of the better template system that is built in. Zend is a different beast though compared to CodeIgniter. It emphasis "loose coupling between modules", but is a bigger framework. I don't like to feel like I have many things running under the hood that I never use. That is unnecessary overhead in my opinion, so I thought about putting a template system into CodeIgniter: Smarty.</p>
+
+<p><strong>Question(s)</strong>: How easy/hard is the process to integrate Smarty into CodeIgniter? From my initial scan of the CodeIgniter documentation, I can see that the layout of the framework is easy enough to understand, and I anticipate no problems. I want to know if anyone has used it before, and therefore are aware of any "gotchas" you my have experienced that is going to make this harder than it should be or impossible to pull off. I also want to know if this is a good thing to do at all. Is the template system in CodeIgniter enough for normal use? Are there any other template modules that are good for CodeIgniter aside from Smarty? I better off with Zend Framework? Is any wheel being invented here? Thank you for your help! </p>

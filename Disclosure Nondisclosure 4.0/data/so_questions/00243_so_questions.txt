@@ -1,0 +1,37 @@
+<p>I want to see all the different ways you can come up with, for a factorial subroutine, or program. The hope is that anyone can come here and see if they might want to learn a new language.</p>
+
+<h2>Ideas:</h2>
+
+<ul>
+<li>Procedural</li>
+<li>Functional</li>
+<li>Object Oriented</li>
+<li>One liners</li>
+<li>Obfuscated</li>
+<li>Oddball</li>
+<li>Bad Code</li>
+<li><a href="http://en.wikipedia.org/wiki/Polyglot_%28computing%29" rel="nofollow">Polyglot</a></li>
+</ul>
+
+<p>Basically I want to see an example, of different ways of writing an algorithm, and what they would look like in different languages.</p>
+
+<p>Please limit it to one example per entry.
+I will allow you to have more than one example per answer, if you are trying to highlight a specific style, language, or just a well thought out idea that lends itself to being in one post.</p>
+
+<p>The only real requirement is it must find the factorial of a given argument, in all languages represented.</p>
+
+<h1>Be Creative!</h1>
+
+<h2>Recommended Guideline:</h2>
+
+<pre>
+# Language Name: Optional Style type
+
+   - Optional bullet points
+
+    Code Goes Here
+
+Other informational text goes here
+</pre>
+
+<p>I will ocasionally go along and edit any answer that does not have decent formatting.</p>

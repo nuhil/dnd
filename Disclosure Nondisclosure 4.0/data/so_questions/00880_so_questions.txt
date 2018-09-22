@@ -1,0 +1,13 @@
+<p>I'm trying to modify my GreaseMonkey script from firing on window.onload to window.DOMContentLoaded, but this event never fires.</p>
+
+<p>I'm using FireFox 2.0.0.16 / GreaseMonkey 0.8.20080609</p>
+
+<p><a href="http://stackoverflow.com/questions/59205/enhancing-stackoverflow-user-experience">This</a> is the full script that I'm trying to modify, changing:</p>
+
+<pre><code>window.addEventListener ("load", doStuff, false);
+</code></pre>
+
+<p>to</p>
+
+<pre><code>window.addEventListener ("DOMContentLoaded", doStuff, false);
+</code></pre>

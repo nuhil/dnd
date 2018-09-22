@@ -1,0 +1,10 @@
+<p>I find working on the command line in Windows frustrating, primarily because the console window is wretched to use compared to terminal applications on linux and OS X such as "rxvt", "xterm", or "Terminal".  Major complaints:</p>
+
+<ol>
+<li><p>No standard copy/paste.  You have to turn on "mark" mode and it's only available from a multi-level popup triggered by the (small) left hand corner button.  Then copy and paste need to be invoked from the same menu</p></li>
+<li><p>You can't arbitrarily resize the window by dragging, you need to set a preference (back to the multi-level popup) each time you want to resize a window</p></li>
+<li><p>You can only make the window so big before horizontal scroll bars enter the picture. Horizontal scroll bars suck.</p></li>
+<li><p>With the cmd.exe shell, you can't navigate to folders with \\netpath notation (UNC?), you need to map a network drive.  This sucks when working on multiple machines that are going to have different drives mapped</p></li>
+</ol>
+
+<p>Are there any tricks or applications, (paid or otherwise), that address these issue?</p>

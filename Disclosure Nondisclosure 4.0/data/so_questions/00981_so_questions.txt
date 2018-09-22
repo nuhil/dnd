@@ -1,0 +1,1 @@
+<p>Grails vs Rails. Which has better support? And which one is a better choice to develop medium size apps with? Most importantly which one has more plug-ins?</p>

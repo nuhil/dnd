@@ -1,0 +1,1 @@
+<p>I have heard that the Liskov Substitution  Principle (LSP) is a fundamental principle of object oriented design. What is it and what are some examples of its use?</p>

@@ -1,0 +1,10 @@
+<p>I'm not too sure what is going on here, but sometimes a particular file in my repository will change the case of it's name. e.g.,:</p>
+
+<p>before: <code>File.h</code></p>
+
+<p>after: <code>file.h</code></p>
+
+<p>I don't really care why this is happening, but this causes git to think it is a new file, and then I have to go and change the file name back. Can you just make git ignore case changes?</p>
+
+<p><strong>[edit]</strong>
+I suspect it is Visual Studio doing something weird with that particular file, because it seems to happen most often when I open and save it after changes. I don't have any way to fix bugs in VS however, but git should be a bit more capable I hope.</p>

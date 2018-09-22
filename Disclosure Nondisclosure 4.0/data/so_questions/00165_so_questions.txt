@@ -1,0 +1,17 @@
+<p>I'm looking for a way to configure a DB connection at runtime; specifically using the Enterprise Library.  I see that there's a *.Data.Configuration (or something close to this ... don't recall off the top of my head) assembly but am finding not much on the interwebs.  Complicating matters is the fact that the API help is broken on Vista.</p>
+
+<p>Now, I found this work-around:</p>
+
+<pre><code>Configuration cfg = ConfigurationManager.OpenExeConfiguration(ConfigurationUserLevel.None);
+ConnectionStringSettings connection = new ConnectionStringSettings();
+connection.Name = "Runtime Connection";
+connection.ProviderName = "System.Data.OleDb";
+connection.ConnectionString = "myconstring";
+cfg.ConnectionStrings.ConnectionStrings.Add(connection);
+cfg.Save(ConfigurationSaveMode.Modified);
+
+ConfigurationManager.RefreshSection("connectionStrings");
+var runtimeCon = DatabaseFactory.CreateDatabase("Runtime Connection");
+</code></pre>
+
+<p>And although it gives me what I want, it permanently edits the App.config. Sure I can go back and delete the changes, but I'd rather not go through this hassle.</p>

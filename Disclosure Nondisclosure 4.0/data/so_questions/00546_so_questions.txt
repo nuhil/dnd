@@ -1,0 +1,19 @@
+<p>I've got two tables in my database: Articles and Tags</p>
+
+<p>The Tags tables consist of ArticleID (foreign key) and a Tag (varchar).</p>
+
+<p>Now I need to map an articles tags into a readonly collection on Article entity, either using IList Tags or ReadOnlyCollection Tags.</p>
+
+<p>I've consulted the NHibernate reference material, but I can't seem to figure when to use Set, Bag and the other Nhibernate collections. I've seen examples using the ISet collection, but I really don't like to tie my entity classes to a NHibernate type.</p>
+
+<p>How can I do the mapping in NHibernate?</p>
+
+<p>Thank you in advance.</p>
+
+<p>edit: I ended up using a <code>&lt;bag&gt;</code> instead, as it doesn't require an index:</p>
+
+<pre><code>&lt;bag name="Tags" table="Tag" access="nosetter.camelcase" lazy="false"&gt;
+  &lt;key column="ArticleId" /&gt;
+  &lt;element column="Tag" type="System.String" /&gt;
+&lt;/bag&gt;
+</code></pre>

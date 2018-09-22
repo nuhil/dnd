@@ -1,0 +1,1 @@
+<p>What's the simplest way to connect and query a database for a set of records in C#?</p>

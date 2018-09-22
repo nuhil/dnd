@@ -1,0 +1,5 @@
+<p>I'm writing a web app that points to external links. I'm looking to create a non-sequential, non-guessable id for each document that I can use in the URL. I did the obvious thing: treating the url as a string and str#crypt on it, but that seems to choke on any non-alphanumberic characters, like the slashes, dots and underscores.</p>
+
+<p>Any suggestions on the best way to solve this problem?</p>
+
+<p>Thanks!</p>

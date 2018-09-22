@@ -1,0 +1,7 @@
+<p>I have several tables whose only unique data is a uniqueidentifier (a Guid) column. Because guids are non-sequential (and they're client-side generated so I can't use newsequentialid()), I have made a non-primary, non-clustered index on this ID field rather than giving the tables a clustered primary key.</p>
+
+<p>I'm wondering what the performance implications are for this approach. I've seen some people suggest that tables should have an auto-incrementing ("identity") int as a clustered primary key even if it doesn't have any meaning, as it means that the database engine itself can use that value to quickly look up a row instead of having to use a bookmark.</p>
+
+<p>My database is merge-replicated across a bunch of servers, so I've shied away from identity int columns as they're a bit hairy to get right in replication.</p>
+
+<p>What are your thoughts? Should tables have primary keys? Or is it ok to not have any clustered indexes if there are no sensible columns to index that way?</p>

@@ -1,0 +1,1 @@
+<p>I have a .NET 2.0 application that has recently had contributions that are Service Pack 1 dependent.  The deployment project has detected .NET 2.0 as a prerequisite, but NOT SP1.  How do I include SP1 as a dependency/prerequisite in my deployment project?</p>

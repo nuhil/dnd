@@ -1,0 +1,12 @@
+<p>I'm using XPath in .NET to parse an XML document, along the lines of:</p>
+
+<pre class="lang-cs prettyprint-override"><code>XmlNodeList lotsOStuff = doc.SelectNodes("//stuff");
+
+foreach (XmlNode stuff in lotsOStuff)
+{
+   XmlNode stuffChild = stuff.SelectSingleNode("//stuffChild");
+   // ... etc
+}
+</code></pre>
+
+<p>The issue is that the XPath Query for <code>stuffChild</code> is always returning the child of the first <code>stuff</code> element, never the rest. Can XPath not be used to query against an individual <code>XMLElement</code>?</p>

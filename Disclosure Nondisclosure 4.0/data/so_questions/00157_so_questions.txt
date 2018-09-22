@@ -1,0 +1,5 @@
+<p>In .NET there are two version numbers available when building a project, File Version and Assembly Version. How are you using these numbers?  Keeping them the same?  Auto-incrementing one, but manually changing the other?</p>
+
+<p>Also what about the <code>AssemblyInformationalVersion</code> attribute?</p>
+
+<p>I'd found this support Microsoft Knowledge Base (KB) article that provided some help:  <a href="http://support.microsoft.com/kb/556041">How to use Assembly Version and Assembly File Version</a>.</p>

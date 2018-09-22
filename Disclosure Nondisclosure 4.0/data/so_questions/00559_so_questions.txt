@@ -1,0 +1,3 @@
+<p>We have an Apache ANT script to build our application, then check in the resulting JAR file into version control (VSS in this case).  However, now we have a change that requires us to build 2 JAR files for this project, then check both into VSS.</p>
+
+<p>The current target that checks the original JAR file into VSS discovers the name of the JAR file through some property.  Is there an easy way to "generalize" this target so that I can reuse it to check in a JAR file with any name?  In a normal language this would obviously call for a function parameter but, to my knowledge, there really isn't an equivalent concept in ANT.</p>

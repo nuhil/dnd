@@ -1,0 +1,21 @@
+<p>I have a method which takes params object[] such as:</p>
+
+<pre><code>void Foo(params object[] items)
+{
+    Console.WriteLine(items[0]);
+}
+</code></pre>
+
+<p>When I pass two object arrays to this method, it works fine:</p>
+
+<pre><code>Foo(new object[]{ (object)"1", (object)"2" }, new object[]{ (object)"3", (object)"4" } );
+// Output: System.Object[]
+</code></pre>
+
+<p>But when I pass a single object[], it does not take my object[] as the first param, instead it takes its all elements like I wanted to pass them one by one:</p>
+
+<pre><code>Foo(new object[]{ (object)"1", (object)"2" });
+// Output: 1, expected: System.Object[]
+</code></pre>
+
+<p>How do I pass a single object[] as a first argument to a params array?</p>

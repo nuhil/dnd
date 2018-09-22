@@ -1,0 +1,12 @@
+<p>I wonder how you guys manage deployment of a database between 2 SQL Servers, specifically SQL Server 2005.
+Now, there is a development and a live one. As this should be part of a buildscript (standard windows batch, even do with current complexity of those scripts, i might switch to PowerShell or so later), Enterprise Manager/Management Studio Express do not count.</p>
+
+<p>Would you just copy the .mdf File and attach it? I am always a bit careful when working with binary data, as this seems to be a compatiblity issue (even though development and live should run the same version of the server at all time).</p>
+
+<p>Or - given the lack of "EXPLAIN CREATE TABLE" in T-SQL - do you do something that exports an existing database into SQL-Scripts which you can run on the target server? If yes, is there a tool that can automatically dump a given Database into SQL Queries and that runs off the command line? (Again, Enterprise Manager/Management Studio Express do not count).</p>
+
+<p>And lastly - given the fact that the live database already contains data, the deployment may not involve creating all tables but rather checking the difference in structure and ALTER TABLE the live ones instead, which may also need data verification/conversion when existing fields change.</p>
+
+<p>Now, i hear a lot of great stuff about the <a href="http://www.red-gate.com/products/index.htm">Red Gate</a> products, but for hobby projects, the price is a bit steep.</p>
+
+<p>So, what are you using to automatically deploy SQL Server Databases from Test to Live?</p>

@@ -1,0 +1,5 @@
+<p>I'm using TinyMCE in an ASP.Net project, and I need a spell check. The only TinyMCE plugins I've found use PHP on the server side, and I guess I could just break down and install PHP on my server and do that, but quite frankly, what a pain. I don't want to do that.</p>
+
+<p>As it turns out, Firefox's built-in spell check will work fine for me, but it doesn't seem to work on TinyMCE editor boxes. I've enabled the gecko_spellcheck option, which is supposed to fix it, but it doesn't.</p>
+
+<p>Does anybody know of a nice rich-text editor that doesn't break the browser's spell check?</p>

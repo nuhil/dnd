@@ -1,0 +1,5 @@
+<p>Has anyone got experience creating <strong>SQL-based ASP.NET</strong> site-map providers?</p>
+
+<p>I've got the default XML file <code>web.sitemap</code> working properly with my Menu and <strong>SiteMapPath</strong> controls, but I'll need a way for the users of my site to create and modify pages dynamically.</p>
+
+<p>I need to tie page viewing permissions into the standard <code>ASP.NET</code> membership system as well.</p>

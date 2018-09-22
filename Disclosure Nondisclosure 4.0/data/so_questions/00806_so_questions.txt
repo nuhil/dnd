@@ -1,0 +1,13 @@
+<p>I find myself writing delegates occasionally for really simple functions (take no arguments and return void for example) and am wondering if anyone knows someplace that has compiled a list of all the predefined delegates already available in the .NET framework so I can reuse them?</p>
+
+<p>To be clear I am looking for something like this:</p>
+
+<ul>
+<li>void System.AsyncCallback(System.IAsyncResult)</li>
+<li>int System.Comparison(T x, T y)</li>
+<li>void System.IO.ErrorEventHandler(object, System.Io.ErrorEventArgs)</li>
+</ul>
+
+<p>and so on</p>
+
+<p>If not, sounds like a good idea for a blog article.</p>

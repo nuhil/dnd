@@ -1,0 +1,8 @@
+<p>I have a Java swing application with a panel that contains three JComboBoxes that do not draw properly.<br>
+The combox boxes just show up as the down arrow on the right side, but without the label of the currently selected value.<br>
+The boxes will redraw correctly if the window is resized either bigger or smaller by even one pixel.</p>
+
+<p>All of my googling has pointed to calling revalidate() on the JPanel to fix this, but that hasn't worked for me.<br>
+Calling updateUI() on the JPanel has changed it from always displaying incorrectly to displaying incorrectly half of the time.  </p>
+
+<p>Has anyone else seen this and found a different way to force a redraw of the combo boxes?</p>

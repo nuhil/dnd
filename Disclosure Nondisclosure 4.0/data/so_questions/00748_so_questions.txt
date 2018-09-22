@@ -1,0 +1,5 @@
+<p>Using LINQ to SQL, I have an Order class with a collection of OrderDetails.  The Order Details has a property called LineTotal which gets Qnty x ItemPrice. </p>
+
+<p>I know how to do a new LINQ query of the database to find the order total, but as I already have the collection of OrderDetails from the DB, is there a simple method to return the sum of the LineTotal directly from the collection?</p>
+
+<p>I'd like to add the order total as a property of my Order class. I imagine I could loop through the collection and calculate the sum with a for each Order.OrderDetail, but I'm guessing there is a better way.</p>

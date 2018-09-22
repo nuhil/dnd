@@ -1,0 +1,1 @@
+<p>I've found a few resources on the subject, but they all require a deep understanding of <a href="http://en.wikipedia.org/wiki/Smalltalk">SmallTalk</a> or <a href="http://en.wikipedia.org/wiki/Haskell_%28programming_language%29">Haskell</a>, neither of which I know.</p>

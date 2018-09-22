@@ -1,0 +1,5 @@
+<p>I currently use a DataTable to get results from a database which I can use in my code.</p>
+
+<p>However, many example on the web show using a DataSet instead and accessing the table(s) through the collections method.</p>
+
+<p>Is there any advantage, performance wise or otherwise, of using DataSets or DataTables as a storage method for SQL results?</p>

@@ -1,0 +1,7 @@
+<p>I need to update a <code>combobox</code> with a new value so it changes the reflected text in it. The cleanest way to do this is after the <code>combobox</code>has been initialised and with a message.</p>
+
+<p>So I am trying to craft a <code>postmessage</code> to the hwnd that contains the <code>combobox</code>.</p>
+
+<p>So if I want to send a message to it, changing the currently selected item to the nth item, what would the <code>postmessage</code> look like?</p>
+
+<p>I am guessing that it would involve <code>ON_CBN_SELCHANGE</code>, but I can't get it to work right.</p>

@@ -1,0 +1,7 @@
+<p>Getting back into a bit more .NET after a few-years of not using it full-time, and wondering what the good unit testing packages are these days.</p>
+
+<p>I'm familiar with NUnit (a few years ago), and have played briefly around with IronRuby, with the goal of getting something like rspec going, but don't know much beyond that.</p>
+
+<p>I realize I could google for this and call it a day but I believe I'm likely to get a better and more informed response from asking a question here :-)</p>
+
+<p>Suggestions?</p>

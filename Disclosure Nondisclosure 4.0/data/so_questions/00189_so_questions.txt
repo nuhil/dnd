@@ -1,0 +1,34 @@
+<p>The <code>System.Windows.Threading.DispatcherObject</code> class (which <code>DependencyObject</code> is based on) contains a useful function, called <code>CheckAccess()</code>, that determines whether or not the code is running on the UI thread.</p>
+
+<p>When I wanted to use it yesterday, I was puzzled to find out that Intellisense didn't show the function (nor <code>VerifyAccess()</code>, which throws an exception when not on the UI thread), even though the MSDN library lists it. I decided to investigate the class using Reflector. It seems that the function in question has an <code>EditorBrowsable(EditorBrowsableState.Never)</code> attribute attached to it. The <code>Dispatcher</code> class, which is used by <code>DispatcherObject</code>, has the same attribute attached to <code>CheckAccess()</code> and <code>VerifyAccess()</code>:</p>
+
+<pre><code>public abstract class DispatcherObject
+{
+    // ...
+
+    [EditorBrowsable(EditorBrowsableState.Never)]
+    public bool CheckAccess();
+    [EditorBrowsable(EditorBrowsableState.Never)]
+    public void VerifyAccess();
+
+    // ...
+
+    [EditorBrowsable(EditorBrowsableState.Advanced)]
+    public Dispatcher Dispatcher { get; }
+}
+
+
+public sealed class Dispatcher
+{
+    // ...
+
+    [EditorBrowsable(EditorBrowsableState.Never)]
+    public bool CheckAccess();
+    [EditorBrowsable(EditorBrowsableState.Never)]
+    public void VerifyAccess();
+
+    // ...
+}
+</code></pre>
+
+<p>I don't believe that the application of that attribute is random (or a joke), so my question is: why is it there? Should those methods not be called directly? Then why aren't they <code>protected</code> (or <code>internal</code>, like some of the most useful methods in the WPF)?</p>

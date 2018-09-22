@@ -1,0 +1,8 @@
+<p>In a web application, I have a page that contains a DIV that has an auto-width depending on the width of the browser window.</p>
+
+<p>I need an auto-height for the object.  The DIV starts about 300px from the top screen, and it's height should make it stretch to the bottom of the browser screen.  I have a max height for the container DIV, so there would have to be minimum-height for the div.  I believe I can just restrict that in CSS, and use Javascript to handle the resizing of the DIV.</p>
+
+<p>My javascript isn't nearly as good as it should be.  Is there an easy script I could write that would do this for me?</p>
+
+<p>Edit: 
+The DIV houses a control that does it's own overflow handling (implements its own scroll bar).</p>

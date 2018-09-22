@@ -1,0 +1,40 @@
+<p>I am in the middle of reading the excellent <a href="http://rads.stackoverflow.com/amzn/click/0132350882">Clean Code</a></p>
+
+<p>One discussion is regarding passing nulls into a method.</p>
+
+<pre><code>public class MetricsCalculator {
+    public double xProjection(Point p1, Point p2) {
+        return (p2.x - p1.x) * 1.5;
+    }
+}
+...
+calculator.xProjection(null, new Point(12,13));
+</code></pre>
+
+<p>It represents different ways of handling this:</p>
+
+<pre><code>public double xProjection(Point p1, Point p2) {
+    if (p1 == null || p2 == null) {
+        throw new IllegalArgumentException("Invalid argument for xProjection");
+    }
+    return (p2.x - p1.x) * 1.5;
+}
+
+public double xProjection(Point p1, Point p2) {
+    assert p1 != null : "p1 should not be null";
+    assert p2 != null : "p2 should not be null";
+    return (p2.x - p1.x) * 1.5;
+}
+</code></pre>
+
+<p>I prefer the <a href="http://java.sun.com/j2se/1.4.2/docs/guide/lang/assert.html">assertions</a> approach, but I don't like the fact that assertions are turned off by default.</p>
+
+<p>The book finally states:</p>
+
+<blockquote>
+  <p>In most programming languages there is no good way to deal with a null that is passed by a caller accidentally. Because this is the case, the rational approach is to forbid passing null by default.</p>
+</blockquote>
+
+<p>It doesn't really go into how you would enforce this restriction?</p>
+
+<p>Do any of you have strong opinions either way.</p>

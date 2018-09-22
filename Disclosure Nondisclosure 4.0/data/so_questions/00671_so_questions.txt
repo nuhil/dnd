@@ -1,0 +1,1 @@
+<p>Best practices recommend not installing Sql Server to run as SYSTEM.  What is the bare minumum you need to give the user account you create for it?</p>

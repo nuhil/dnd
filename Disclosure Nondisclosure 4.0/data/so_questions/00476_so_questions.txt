@@ -1,0 +1,13 @@
+<p>I am looking for a regex that will match a string that starts with one substring and does not end with a certain substring.</p>
+
+<p>Example:</p>
+
+<pre><code>// Updated to be correct, thanks @Apocalisp
+^foo.*(?&lt;!bar)$
+</code></pre>
+
+<p>Should match anything that starts with "foo" and doesn't end with "bar".  I know about the [^...] syntax, but I can't find anything that will do that for a string instead of single characters.  </p>
+
+<p>I am specifically trying to do this for Java's regex, but I've run into this before so answers for other regex engines would be great too.  </p>
+
+<p>Thanks to @Kibbee for verifying that this works in C# as well.  </p>

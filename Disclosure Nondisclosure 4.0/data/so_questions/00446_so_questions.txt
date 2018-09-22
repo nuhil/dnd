@@ -1,0 +1,9 @@
+<p>I have a custom installer action that updates the PATH environment, and creates an additional environment variable. Appending a directory to the existing path variable is working fine, but for some reason my attempts to create a new environment variable have been unsuccessful. The code I am using is:</p>
+
+<pre><code>        using (RegistryKey reg = Registry.LocalMachine.OpenSubKey(@"SYSTEM\CurrentControlSet\Control\Session Manager\Environment", true))
+        {
+            reg.SetValue("MYVAR", "SomeVal", RegistryValueKind.ExpandString);
+        }
+</code></pre>
+
+<p>Edit: The OS is 32-bit XP, and as far as I can tell it is failing silently.</p>

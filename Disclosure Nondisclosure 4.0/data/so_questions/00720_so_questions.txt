@@ -1,0 +1,5 @@
+<p>If I'm running a signed Java applet, can I load additional classes from remote sources (in the same domain, maybe even the same host) and run them?</p>
+
+<p>I'd like to do this without changing pages or even stopping the current applet. Of course, the total size of all classes is too large to load them all at once.</p>
+
+<p>Is there a way to do this? And is there a way to do this with signed applets and preserve their "confidence" status?</p>

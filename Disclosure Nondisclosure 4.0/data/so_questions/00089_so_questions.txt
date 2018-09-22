@@ -1,0 +1,3 @@
+<p>When opening Adobe Acrobat Pro, whether it be through <strong>Applescript</strong> or finder, the introductory dialog is shown.  Is there a way to not show this dialog without already having checked the "Don't Show Again" option when opening a document using <strong>Applescript</strong>?  </p>
+
+<p>Photoshop and Illustrator <strong>Applescript</strong> libraries have ways of setting interaction levels and not showing dialogs, but I can't seem to find the option in Acrobat.</p>

@@ -1,0 +1,18 @@
+<p>I have a listening port on my server that I'm connecting to using a Java class and the <code>Socket</code> interface, i.e.</p>
+
+<pre><code>Socket mySocket = new Socket(host,port);
+</code></pre>
+
+<p>I then grab an <code>OutputStream</code>, decorate with a <code>PrintWriter</code> in autoflush mode and I'm laughing - except if the listening port closes. Then I get </p>
+
+<pre><code>tcp4       0      0  *.9999                 *.*                    LISTEN
+tcp        0      0  127.0.0.1.45737        127.0.0.1.9999         CLOSE_WAIT
+</code></pre>
+
+<p>and I can't seem to detect the problem in the program - I've tried using the <code>isConnected()</code> method on the socket but it doesn't seem to know that the connection is closed.</p>
+
+<p>I want to be aware of the problem the next time I try and write to the Socket so that I can try and reconnect and report the issue.</p>
+
+<p>Any advice please?</p>
+
+<p>Thanks all</p>

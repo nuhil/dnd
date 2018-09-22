@@ -1,0 +1,42 @@
+<p>I have been reading lot of XQUERY tutorial on the web site. Almost all of them are teaching me the XQUERY syntax. Let's say i have understood the XQUERY syntax, how am i going to actually implement XQUERY on my web site?</p>
+
+<p>For example, i have book.xml:</p>
+
+
+
+<pre><code>&lt;?xml version="1.0" encoding="iso-8859-1" ?&gt;
+&lt;books&gt;
+&lt;book&gt;
+   &lt;title&gt;Doraemon&lt;/title&gt;
+   &lt;authorid&gt;1&lt;/authorid&gt;
+&lt;/book&gt;
+&lt;book&gt;
+   &lt;title&gt;Ultraman&lt;/title&gt;
+   &lt;authorid&gt;2&lt;/authorid&gt;
+&lt;/book&gt;
+&lt;/books&gt;
+</code></pre>
+
+<p>Then, i have author.xml</p>
+
+
+
+<pre><code>&lt;?xml version="1.0" encoding="iso-8859-1" ?&gt;
+&lt;authors&gt;
+&lt;author id="1"&gt;Mr A&lt;/author&gt;
+&lt;author id="2"&gt;Mr B&lt;/author&gt;
+&lt;/authors&gt;
+</code></pre>
+
+<p>I want to generate HTML which looks like following:</p>
+
+
+
+<pre><code>&lt;table&gt;
+&lt;tr&gt;&lt;td&gt;Title&lt;/td&gt;&lt;td&gt;Author&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Doraemon&lt;/td&gt;&lt;td&gt;Mr A&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Ultraman&lt;/td&gt;&lt;td&gt;Mr B&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+</code></pre>
+
+<p>Please show me some example. Or any web site that i can do reference. Thanks very much.</p>

@@ -1,0 +1,12 @@
+<p>Every now and then in a high volume .NET application, you might see this exception when you try to execute a query:</p>
+
+<blockquote>
+  <p>System.Data.SqlClient.SqlException:  A transport-level error has
+  occurred when sending the request to the server.</p>
+</blockquote>
+
+<p>According to my research, this is something that "just happens" and not much can be done to prevent it.  It does not happen as a result of a bad query, and generally cannot be duplicated.  It just crops up maybe once every few days in a busy OLTP system when the TCP connection to the database goes bad for some reason.</p>
+
+<p>I am forced to detect this error by parsing the exception message, and then retrying the entire operation from scratch, to include using a new connection.  None of that is pretty.</p>
+
+<p>Anybody have any alternate solutions?</p>

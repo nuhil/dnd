@@ -1,0 +1,4 @@
+<p>I'm using the VBO extension for storing Vertex, normal and color buffers (glBindBufferARB)
+For some reason when changing buffers or doing some operation the application crashes with an access violation. When attaching The debugger I see that the crash is in some thread that is not my main thread which performs the opengl call with the execution in some dll which is related to the nvidia graphics driver.</p>
+
+<p>What probably happened is that I gave some buffer call a bad buffer or with a wrong size. So my question is, how do I debug this situation? The crash seem to happen some time after the actual call and in a different thread.</p>

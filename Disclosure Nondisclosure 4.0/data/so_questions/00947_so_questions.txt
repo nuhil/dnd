@@ -1,0 +1,1 @@
+<p>What is the difference between publishing a website with visual studio and just copying the files over to the server?  Is the only difference that the publish files are pre-compiled?</p>

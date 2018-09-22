@@ -1,0 +1,16 @@
+<p>I'm writing my first iPhone app, so I haven't gotten around to figuring out much in the way of debugging.
+Essentially my app displays an image and when touched plays a short sound.
+When compiling and building the project in XCode, everything builds successfully, but when the app is run in the iPhone simulator, it crashes.</p>
+
+<p>I get the following error:</p>
+
+<pre><code>Application Specific Information:
+iPhone Simulator 1.0 (70), iPhone OS 2.0 (5A331)
+*** Terminating app due to uncaught exception 'NSUnknownKeyException', 
+reason: '[&lt;UIView 0x34efd0&gt; setValue:forUndefinedKey:]: this class is not key value 
+coding-compliant for the key kramerImage.'
+</code></pre>
+
+<p>kramerImage here is the image I'm using for the background.</p>
+
+<p>I'm not sure what NSUnknownKeyException means or why the class is not key value coding-compliant for the key.</p>

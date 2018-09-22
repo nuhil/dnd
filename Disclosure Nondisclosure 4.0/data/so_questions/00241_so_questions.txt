@@ -1,0 +1,3 @@
+<p>I am looking for open source or free data collaboration software. Specifically this is for a non-profit organization that wants to teach remote students how a foreign language.  The idea is that an instructor would teach a class and there would be up to 10 students in the class at a time.  The instructor would be able to post slides or other teaching material and the students would be able to see it on their computers remotely.  Video is not required but audio is a must.  Any recommendations?</p>
+
+<p>Also if there have been any reviews or feature comparison amongst these products, I would be interested in hearing about them.</p>

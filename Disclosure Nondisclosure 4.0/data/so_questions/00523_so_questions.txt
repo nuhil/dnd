@@ -1,0 +1,11 @@
+<p>If you've used Oracle, you've probably gotten the helpful message "ORA-00942: Table or view does not exist". Is there a legitimate technical reason the message doesn't include the name of the missing object? </p>
+
+<p>Arguments about this being due to security sound like they were crafted by the TSA. If I'm an attacker, I'd know what table I just attempted to exploit, and be able to interpret this unhelpful message easily. If I'm a developer working with a complex join through several layers of application code, it's often very difficult to tell.</p>
+
+<p>My guess is that when this error was originally implemented, someone neglected to add the object name, and now, people are afraid it will break compatibility to fix it. (Code doing silly things like parsing the error message will be confused if it changes.)</p>
+
+<p>Is there a developer-friendly (as opposed to recruiting your DBA) way to determine the name of the missing table?</p>
+
+<p><hr /></p>
+
+<p>Although I've accepted an answer which is relevant to the topic, it doesn't really answer my question: <em>Why isn't the name part of the error message?</em> If anyone can come up with the real answer, I'll be happy to change my vote.</p>

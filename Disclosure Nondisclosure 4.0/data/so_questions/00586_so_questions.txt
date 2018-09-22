@@ -1,0 +1,4 @@
+<p>Given a path such as <code>"mydir/myfile.txt"</code>, how do I find the absolute filepath relative to the current working directory in Python? E.g. on Windows, I might end up with:</p>
+
+<pre><code>"C:/example/cwd/mydir/myfile.txt"
+</code></pre>

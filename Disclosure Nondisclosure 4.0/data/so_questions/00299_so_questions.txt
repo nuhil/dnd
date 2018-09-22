@@ -1,0 +1,7 @@
+<p>I have a custom SharePoint application page deployed to the _layouts folder.  It's a custom "new form" for a custom content type.  During my interactions with this page, I will need to add an item to my list.  When the page first loads, I can use SPContext.Current.List to see the current list I'm working with.  But after I fill in my form and the form posts back onto itself and IsPostBack is true, then SPContext.Current.List is null so I can't find the list that I need to add my stuff into.</p>
+
+<p>Is this expected?</p>
+
+<p>How should I retain some info about my context list across the postback?  Should I just populate some asp:hidden control with my list's guid and then just pull it back from that on the postback?  That seems safe, I guess.</p>
+
+<p>FWIW, this is the MOSS 2007 Standard version.</p>

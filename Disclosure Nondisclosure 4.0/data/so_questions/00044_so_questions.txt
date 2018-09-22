@@ -1,0 +1,8 @@
+<p>I have a <code>Rakefile</code> with a Rake task that I would normally call from the command line:</p>
+
+<pre><code>rake blog:post Title
+</code></pre>
+
+<p>I'd like to write a Ruby script that calls that Rake task multiple times, but the only solution I see is shelling out using `` (backticks) or <code>system</code>.</p>
+
+<p>What's the right way to do this?</p>

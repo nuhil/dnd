@@ -1,0 +1,1 @@
+<p>Of all the forms of CAPTCHA available, which one is the "least crackable" while remaining fairly human readable?</p>

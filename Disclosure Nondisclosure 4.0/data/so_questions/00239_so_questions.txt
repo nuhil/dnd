@@ -1,0 +1,14 @@
+<p>I'm looking for a way to find a the windows login associated with a specific group. I'm trying to add permissions to a tool that only allows names formatted like:</p>
+
+<pre><code>DOMAIN\USER 
+DOMAIN\GROUP
+</code></pre>
+
+<p>I have a list of users in active directory format that I need to add:</p>
+
+<pre><code>ou=group1;ou=group2;ou=group3
+</code></pre>
+
+<p>I have tried adding DOMAIN\Group1, but I get a 'user not found' error.</p>
+
+<p>P.S.  should also be noted that I'm not a Lan admin </p>

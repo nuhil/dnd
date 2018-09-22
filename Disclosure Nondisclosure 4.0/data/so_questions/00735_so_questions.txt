@@ -1,0 +1,39 @@
+<p>I need advice on how to have my C# console application display text to the user through the standard output while still being able access it later on. The actual feature I would like to implement is to dump the entire output buffer to a text file at the end of program execution.</p>
+
+<p>The workaround I use while I don't find a cleaner approach is to subclass <code>TextWriter</code> overriding the writing methods so they would both write to a file and call the original stdout writer. Something like this:</p>
+
+<pre><code>public class DirtyWorkaround {
+  private class DirtyWriter : TextWriter {
+    private TextWriter stdoutWriter;
+    private StreamWriter fileWriter;
+
+    public DirtyWriter(string path, TextWriter stdoutWriter) {
+      this.stdoutWriter = stdoutWriter;
+      this.fileWriter = new StreamWriter(path);
+    }
+
+    override public void Write(string s) {
+      stdoutWriter.Write(s);
+
+      fileWriter.Write(s);
+      fileWriter.Flush();
+    }
+
+    // Same as above for WriteLine() and WriteLine(string),
+    // plus whatever methods I need to override to inherit
+    // from TextWriter (Encoding.Get I guess).
+  }
+
+  public static void Main(string[] args) {
+    using (DirtyWriter dw = new DirtyWriter("path", Console.Out)) {
+      Console.SetOut(dw);
+
+      // Teh codez
+    }
+  }
+}
+</code></pre>
+
+<p>See that it writes to and flushes the file all the time. I'd love to do it only at the end of the execution, but I couldn't find any way to access to the output buffer.</p>
+
+<p>Also, excuse inaccuracies with the above code (had to write it <em>ad hoc</em>, sorry ;).</p>

@@ -1,0 +1,13 @@
+<p>I am in the middle of a "discussion" with a colleague about the best way to implement the data layer in a new application.</p>
+
+<p>One viewpoint is that the data layer should be aware of business objects (our own classes that represent an entity), and be able to work with that object natively.  </p>
+
+<p>The opposing viewpoint is that the data layer should be object-agnostic, and purely handle simple data types (strings, bools, dates, etc.)</p>
+
+<p>I can see that both approaches may be valid, but my own viewpoint is that I prefer the former.  That way, if the data storage medium changes, the business layer doesn't (necessarily) have to change to accommodate the new data layer.  It would therefore be a trivial thing to change from a SQL data store to a serialized xml filesystem store.</p>
+
+<p>My colleague's point of view is that the data layer shouldn't have to know about object definitions, and that as long as the data is passed about appropriately, that is enough.  </p>
+
+<p>Now, I know that this is one of those questions that has the potential to start a religious war, but I'd appreciate any feedback from the community on how you approach such things.  </p>
+
+<p>TIA</p>

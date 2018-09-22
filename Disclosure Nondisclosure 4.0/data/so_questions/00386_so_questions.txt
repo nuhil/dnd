@@ -1,0 +1,7 @@
+<p>I used the jQuery Form plugin for asynchronous form submission. For forms that contain files, it copies the form to a hidden iframe, submits it, and copies back the iframe's contents. The problem is that I can't figure out how to find what HTTP status code was returned by the server. For example, if the server returns 404, the data from the iframe will be copied as normal and treated as a regular response.</p>
+
+<p>I've tried poking around in the iframe objects looking for some sort of <code>status_code</code> attribute, but haven't been able to find anything like that.</p>
+
+<p><hr /></p>
+
+<p>The <code>$.ajax()</code> function can't be used, because it does not support uploading files. The only way to asynchronously upload files that I know of is using the hidden <code>iframe</code> method.</p>

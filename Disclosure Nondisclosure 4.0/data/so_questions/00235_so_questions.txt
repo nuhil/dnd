@@ -1,0 +1,1 @@
+<p>Does anyone know how IE7 determines what Security Zone to use for a site?  I see the basics for IE6 <a href="http://www.microsoft.com/technet/prodtechnol/ie/reskit/6/default.mspx?mfr=true" rel="nofollow">here</a>, but I can't find the equivalent for IE7.</p>

@@ -1,0 +1,194 @@
+<p>I don't like the AutoSize property of the Label control. I have a custom Label that draws a fancy rounded border among other things. I'm placing a <code>AutoSize = false</code> in my constructor, however, when I place it in design mode, the property always is True. </p>
+
+<p>I have overridden other properties with success but this one is happily ignoring me. Does anybody has a clue if this is "by MS design"?</p>
+
+<p>Here's the full source code of my Label in case anyone is interested.</p>
+
+<pre><code>using System;
+using System.ComponentModel;
+using System.Drawing;
+using System.Drawing.Drawing2D;
+using System.Windows.Forms;
+
+namespace Dentactil.UI.WinControls
+{
+    [DefaultProperty("TextString")]
+    [DefaultEvent("TextClick")]
+    public partial class RoundedLabel : UserControl
+    {
+        private static readonly Color DEFAULT_BORDER_COLOR = Color.FromArgb( 132, 100, 161 );
+        private const float DEFAULT_BORDER_WIDTH = 2.0F;
+        private const int DEFAULT_ROUNDED_WIDTH = 16;
+        private const int DEFAULT_ROUNDED_HEIGHT = 12;
+
+        private Color mBorderColor = DEFAULT_BORDER_COLOR;
+        private float mBorderWidth = DEFAULT_BORDER_WIDTH;
+        private int mRoundedWidth = DEFAULT_ROUNDED_WIDTH;
+        private int mRoundedHeight = DEFAULT_ROUNDED_HEIGHT;
+
+        public event EventHandler TextClick;
+
+        private Padding mPadding = new Padding(8);
+
+        public RoundedLabel()
+        {
+            InitializeComponent();
+        }
+
+        public Cursor TextCursor
+        {
+            get { return lblText.Cursor; }
+            set { lblText.Cursor = value; }
+        }
+
+        public Padding TextPadding
+        {
+            get { return mPadding; }
+            set
+            {
+                mPadding = value;
+                UpdateInternalBounds();
+            }
+        }
+
+        public ContentAlignment TextAlign
+        {
+            get { return lblText.TextAlign; }
+            set { lblText.TextAlign = value; }
+        }
+
+        public string TextString
+        {
+            get { return lblText.Text; }
+            set { lblText.Text = value; }
+        }
+
+        public override Font Font
+        {
+            get { return base.Font; }
+            set
+            {
+                base.Font = value;
+                lblText.Font = value;
+            }
+        }
+
+        public override Color ForeColor
+        {
+            get { return base.ForeColor; }
+            set
+            {
+                base.ForeColor = value;
+                lblText.ForeColor = value;
+            }
+        }
+
+        public Color BorderColor
+        {
+            get { return mBorderColor; }
+            set
+            {
+                mBorderColor = value;
+                Invalidate();
+            }
+        }
+
+        [DefaultValue(DEFAULT_BORDER_WIDTH)]
+        public float BorderWidth
+        {
+            get { return mBorderWidth; }
+            set
+            {
+                mBorderWidth = value;
+                Invalidate();
+            }
+        }
+
+        [DefaultValue(DEFAULT_ROUNDED_WIDTH)]
+        public int RoundedWidth
+        {
+            get { return mRoundedWidth; }
+            set
+            {
+                mRoundedWidth = value;
+                Invalidate();
+            }
+        }
+
+        [DefaultValue(DEFAULT_ROUNDED_HEIGHT)]
+        public int RoundedHeight
+        {
+            get { return mRoundedHeight; }
+            set
+            {
+                mRoundedHeight = value;
+                Invalidate();
+            }
+        }
+
+        private void UpdateInternalBounds()
+        {
+            lblText.Left = mPadding.Left;
+            lblText.Top = mPadding.Top;
+
+            int width = Width - mPadding.Right - mPadding.Left;
+            lblText.Width = width &gt; 0 ? width : 0;
+
+            int heigth = Height - mPadding.Bottom - mPadding.Top;
+            lblText.Height = heigth &gt; 0 ? heigth : 0;
+        }
+
+        protected override void OnLoad(EventArgs e)
+        {
+            UpdateInternalBounds();
+            base.OnLoad(e);
+        }
+
+        protected override void OnPaint(PaintEventArgs e)
+        {
+            SmoothingMode smoothingMode = e.Graphics.SmoothingMode;
+            e.Graphics.SmoothingMode = SmoothingMode.AntiAlias;
+
+            int roundedWidth = RoundedWidth &gt; (Width - 1)/2 ? (Width - 1)/2 : RoundedWidth;
+            int roundedHeight = RoundedHeight &gt; (Height - 1)/2 ? (Height - 1)/2 : RoundedHeight;
+
+            GraphicsPath path = new GraphicsPath();
+            path.AddLine(0, roundedHeight, 0, Height - 1 - roundedHeight);
+            path.AddArc(new RectangleF(0, Height - 1 - 2*roundedHeight, 2*roundedWidth, 2*roundedHeight), 180, -90);
+            path.AddLine(roundedWidth, Height - 1, Width - 1 - 2*roundedWidth, Height - 1);
+            path.AddArc(new RectangleF(Width - 1 - 2*roundedWidth, Height - 1 - 2*roundedHeight, 2*roundedWidth, 2*roundedHeight), 90, -90);
+            path.AddLine(Width - 1, Height - 1 - roundedHeight, Width - 1, roundedHeight);
+            path.AddArc(new RectangleF(Width - 1 - 2*roundedWidth, 0, 2*roundedWidth, 2*roundedHeight), 0, -90);
+            path.AddLine(Width - 1 - roundedWidth, 0, roundedWidth, 0);
+            path.AddArc(new RectangleF(0, 0, 2*roundedWidth, 2*roundedHeight), -90, -90);
+
+            e.Graphics.DrawPath(new Pen(new SolidBrush(BorderColor), BorderWidth), path);
+
+            e.Graphics.SmoothingMode = smoothingMode;
+            base.OnPaint(e);
+        }
+
+        protected override void OnResize(EventArgs e)
+        {
+            UpdateInternalBounds();
+            base.OnResize(e);
+        }
+
+        private void lblText_Click(object sender, EventArgs e)
+        {
+            if (TextClick != null)
+            {
+                TextClick(this, e);
+            }
+        }
+    }
+}
+</code></pre>
+
+<p>(there are some issues with Stack Overflow's markup and the Underscore, but it's easy to follow the code).</p>
+
+<hr>
+
+<p>I have actually removed that override some time ago when I saw that it wasn't working. I'll add it again now and test. Basically I want to replace the Label with some new label called: IWillNotAutoSizeLabel ;)</p>
+
+<p>I basically hate the autosize property "on by default".</p>

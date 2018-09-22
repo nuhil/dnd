@@ -1,0 +1,3 @@
+<p>How does one start development in Silverlight?</p>
+
+<p>Does one need a new IDE? or Visual studio will support?</p>

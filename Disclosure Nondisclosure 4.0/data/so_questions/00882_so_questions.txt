@@ -1,0 +1,8 @@
+<p>How can I call a BizTalk Orchestration dynamically knowing the Orchestration name? 
+The call Orchestration shapes need to know the name and parameters of Orchestrations at design time. I've tried using 'call' XLang keyword but it also required Orchestration name as Design Time like in expression shape, we can write as </p>
+
+<p>call BizTalkApplication1.Orchestration1(param1,param2);</p>
+
+<p>I'm looking for some way to specify calling orchestration name, coming from the incoming message or from SSO config store.</p>
+
+<p>EDIT: I'musing BizTalk 2006 R1 (ESB Guidance is for R2 and I didn't get how it could solve my problem) </p>

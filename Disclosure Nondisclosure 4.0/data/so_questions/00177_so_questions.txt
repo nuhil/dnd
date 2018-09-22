@@ -1,0 +1,3 @@
+<p>What's the best way to handle translations for stock text in a <code>SSRS</code>. For instance - if I have a report that shows a grid of contents what's the best way to have the correct translation for the header of that grid show up, assuming the culture of the report is set correctly.</p>
+
+<p>Put another way - is it possible to do resources in a <code>SSRS</code> report, or am I stuck with storing all that text in the database and querying for it?</p>

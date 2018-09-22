@@ -1,0 +1,6 @@
+<p>After the suggestion to use a library for <a href="http://stackoverflow.com/questions/34486/what-more-is-needed-for-ajax-than-this-function">my ajax needs</a> I am going to use one, the problem is that there are so many and I've no idea how to even begin telling them apart.</p>
+
+<p>Thus, can anybody <br />
+A) Give a rundown of the differences or <br />
+B) Point me (and others like me) somewhere that has such a list. 
+<br /><br />Failing that plan C is to go with whichever gets mentioned the most here.</p>

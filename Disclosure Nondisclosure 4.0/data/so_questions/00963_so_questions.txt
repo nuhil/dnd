@@ -1,0 +1,1 @@
+<p>How do I register a custom protocol with Windows so that when clicking a link in an email or on a web page my application is opened and the parameters from the URL are passed to it?</p>

@@ -1,0 +1,37 @@
+<p>This is a nasty one for me...  I'm a PHP guy working in Java on a JSP project.  I know how to do what I'm attempting through too much code and a complete lack of finesse.   I'd prefer to do it RIGHT. :) Here is the situation:</p>
+
+<p>I'm writing a small display to show customers what days they can water their lawns based on their watering group (ABCDE) and what time of year it is.  Our seasons look like this:
+Summer (5-1 to 8-31) 
+Spring  (3-1 to 4-30) 
+Fall (9-1 to 10-31)
+Winter (11-1 to 2-28) </p>
+
+<p>An example might be:</p>
+
+<p>If I'm in group A, here would be my allowed times:
+Winter: Mondays only
+Spring: Tues, Thurs, Sat
+Summer: Any Day
+Fall: Tues, Thurs, Sat</p>
+
+<p>If I was writing this in PHP I would use arrays like this:</p>
+
+<pre><code>//M=Monday,t=Tuesday,T=Thursday.... etc
+$schedule["A"]["Winter"]='M';
+$schedule["A"]["Spring"]='tTS';
+$schedule["A"]["Summer"]='Any';
+$schedule["A"]["Fall"]='tTS';
+$schedule["B"]["Winter"]='t';
+</code></pre>
+
+<p>I COULD make the days arrays (array("Tuesday","Thursday","Saturday")) etc, but it is not necessary for what I'm really trying to accomplish.</p>
+
+<p>I will also need to setup arrays to determine what season I'm in:</p>
+
+<pre><code>$seasons["Summer"]["start"]=0501;
+$seasons["Summer"]["end"]=0801;
+</code></pre>
+
+<p>Can anyone suggest a really cool way to do this? I will have today's date and the group letter.  I will need to get out of my function a day (M) or a series of days (tTS), (Any).</p>
+
+<p>Thanks, folks!</p>

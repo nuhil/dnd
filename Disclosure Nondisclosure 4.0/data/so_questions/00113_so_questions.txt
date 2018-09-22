@@ -1,0 +1,11 @@
+<p>Sorry for the basic question - I'm a .NET developer and don't have much experience with LAMP setups.</p>
+
+<p>I have a PHP site that will allow uploads to a specific folder. I have been told that this folder needs to be owned by the webserver user for the upload process to work, so I created the folder and then set permissions as such:</p>
+
+<pre><code>chown apache:apache -R uploads/
+chmod 755 -R uploads/
+</code></pre>
+
+<p>The only problem now is that the FTP user can not modify the uploaded files at all.</p>
+
+<p>Is there a permission setting that will allow me to still upload files and then modify them later as a user other than the webserver user?</p>

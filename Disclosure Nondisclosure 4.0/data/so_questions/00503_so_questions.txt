@@ -1,0 +1,11 @@
+<p>I'm writing up some productivity/metrics tools for myself to help monitor my focus throughout the day. Recently, I've noticed that I tend to get off track more than usual and feel the need to get up and go for walks/drinks/etc and I'm concerned that I'm "wasting" too much time.</p>
+
+<p>Since I always lock my computer when I go anywhere, and I unlock it as soon as I return (even if I'm just reading at my desk, etc), I was wondering how I can determine, in code, how long the machine is locked.</p>
+
+<p>I'm writing this in C# if that helps, but I'm open to other ideas.</p>
+
+<p><hr /></p>
+
+<p>I like the windows service idea (and have accepted it) for simplicity and cleanliness, but unfortunately I don't think it will work for me in this particular case. I wanted to run this on my workstation at work rather than home (or in addition to home, I suppose), but it's locked down pretty hard courtesy of the DoD. That's part of the reason I'm rolling my own, actually.</p>
+
+<p>I'll write it up anyway and see if it works. Thanks everyone!</p>

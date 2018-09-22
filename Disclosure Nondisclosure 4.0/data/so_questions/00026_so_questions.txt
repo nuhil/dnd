@@ -1,0 +1,4 @@
+<P>I want to be able to do:</P><PRE><CODE>For Each thing In things
+End For
+</CODE></PRE>
+<P>CLASSIC ASP - NOT .NET!</P>

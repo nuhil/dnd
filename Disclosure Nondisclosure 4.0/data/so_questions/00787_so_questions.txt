@@ -1,0 +1,8 @@
+<p>In a web application, is it acceptable to use HTML in your code (non-scripted languages, Java, .NET)?</p>
+
+<p>There are two major sub questions:</p>
+
+<ol>
+<li>Should you use code to print HTML, or otherwise directly create HTML that is displayed?</li>
+<li>Should you mix code within your HTML pages?</li>
+</ol>

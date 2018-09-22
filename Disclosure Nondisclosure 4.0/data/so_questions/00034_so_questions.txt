@@ -1,0 +1,7 @@
+<p>How do I page results in SQL Server 2005?</p>
+
+<p>I tried it in SQL Server 2000, but there was no reliable way to do this. I'm now wondering if SQL Server 2005 has any built in method?</p>
+
+<p>What I mean by paging is, for example, if I list users by their username, I want to be able to only return the first 10 records, then the next 10 records and so on.</p>
+
+<p>Any help would be much appreciated.</p>

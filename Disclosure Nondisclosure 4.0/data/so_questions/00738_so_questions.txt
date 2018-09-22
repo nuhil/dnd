@@ -1,0 +1,11 @@
+<p>I'm interested to get a free, WYSIWYG HTML editor that is compatible with Django template. Any ideas?</p>
+
+<blockquote>
+  <p>Thanks LainMH.</p>
+  
+  <p>But I afraid fckeditor is used in web app, for the purpose of editing
+  HTML. What I want is an editor that allows me to write HTML that is
+  Django compatible. </p>
+  
+  <p>Hope this clarifies the issue.</p>
+</blockquote>

@@ -1,0 +1,11 @@
+<p>Say a user is browsing a website, and then performs some action which changes the database (let's say they add a comment). When the request to actually add the comment comes in, however, we find we need to force them to login before they can continue.</p>
+
+<p>Assume the login page asks for a username and password, and redirects the user back to the URL they were going to when the login was required. That redirect works find for a URL with only GET parameters, but if the request originally contained some HTTP POST data, that is now lost.</p>
+
+<p>Can anyone recommend a way to handle this scenario when HTTP POST data is involved?</p>
+
+<p>Obviously, if necessary, the login page could dynamically generate a form with all the POST parameters to pass them along (though that seems messy), but even then, I don't know of any way for the login page to redirect the user on to their intended page while keeping the POST data in the request.</p>
+
+<p><hr /></p>
+
+<p><strong>Edit</strong> : One extra constraint I should have made clear - Imagine we don't know if a login will be required until the user submits their comment. For example, their cookie might have expired between when they loaded the form and actually submitted the comment.</p>

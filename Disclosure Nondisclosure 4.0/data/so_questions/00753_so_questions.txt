@@ -1,0 +1,31 @@
+<p>I am receiving SOAP requests from a client that uses the Axis 1.4 libraries. The requests have the following form:</p>
+
+<pre><code>&lt;soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" 
+                  xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;soapenv:Body&gt;
+    &lt;PlaceOrderRequest xmlns="http://example.com/schema/order/request"&gt;
+      &lt;order&gt;
+        &lt;ns1:requestParameter xmlns:ns1="http://example.com/schema/common/request"&gt;
+          &lt;ns1:orderingSystemWithDomain&gt;
+            &lt;ns1:orderingSystem&gt;Internet&lt;/ns1:orderingSystem&gt;
+            &lt;ns1:domainSign&gt;2&lt;/ns1:domainSign&gt;
+          &lt;/ns1:orderingSystemWithDomain&gt;
+        &lt;/ns1:requestParameter&gt;
+        &lt;ns2:directDeliveryAddress ns2:addressType="0" ns2:index="1" 
+                                   xmlns:ns2="http://example.com/schema/order/request"&gt;
+          &lt;ns3:address xmlns:ns3="http://example.com/schema/common/request"&gt;
+            &lt;ns4:zipcode xmlns:ns4="http://example.com/schema/common"&gt;12345&lt;/ns4:zipcode&gt;
+            &lt;ns5:city xmlns:ns5="http://example.com/schema/common"&gt;City&lt;/ns5:city&gt;
+            &lt;ns6:street xmlns:ns6="http://example.com/schema/common"&gt;Street&lt;/ns6:street&gt;
+            &lt;ns7:houseNum xmlns:ns7="http://example.com/schema/common"&gt;1&lt;/ns7:houseNum&gt;
+            &lt;ns8:country xmlns:ns8="http://example.com/schema/common"&gt;XX&lt;/ns8:country&gt;
+          &lt;/ns3:address&gt;
+[...]
+</code></pre>
+
+<p>As you can see, several prefixes are defined for the same namespace, e.g. the namespace <a href="http://example.com/schema/common">http://example.com/schema/common</a> has the prefixes ns4, ns5, ns6, ns7 and ns8. Some long requests define several hundred prefixes for the same namespace.</p>
+
+<p>This causes a problem with the <a href="http://saxon.sourceforge.net/">Saxon</a> XSLT processor, that I use to transform the requests. Saxon limits the the number of different prefixes for the same namespace to 255 and throws an exception when you define more prefixes.</p>
+
+<p>Can Axis 1.4 be configured to define smarter prefixes, so that there is only one prefix for each namespace?</p>

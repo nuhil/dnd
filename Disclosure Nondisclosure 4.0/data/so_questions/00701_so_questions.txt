@@ -1,0 +1,14 @@
+<p>I have a wildcard subdomain enabled and dynamically parse the URL by passing it as-is to my <code>index.php</code> (ex. <code>somecity.domain.com</code>).  </p>
+
+<p>Now, I wish to create a few subdomains that are static where I can install different application and not co-mingle with my current one (ex. <code>blog.domain.com</code>).</p>
+
+<p>My <code>.htaccess</code> currently reads:</p>
+
+<pre><code>RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</code></pre>
+
+<p>Can I manipulate this <code>.htaccess</code> to achieve what I need? Can it be done through Apache?</p>

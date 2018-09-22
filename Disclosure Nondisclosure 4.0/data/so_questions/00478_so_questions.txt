@@ -1,0 +1,3 @@
+<p>In Django's template language, you can use <code>{% url [viewname] [args] %}</code> to generate a URL to a specific view with parameters. How can you programatically do the same in Python code?</p>
+
+<p>What I need is to create a list of menu items where each item has name, URL, and an active flag  (whether it's the current page or not). This is because it will be a lot cleaner to do this in Python than the template language.</p>

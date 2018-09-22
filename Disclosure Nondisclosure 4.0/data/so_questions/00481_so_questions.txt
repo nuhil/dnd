@@ -1,0 +1,10 @@
+<p>When is this called? More specifically, I have a control I'm creating - how can I release handles when the window is closed. In normal win32 I'd do it during <code>wm_close</code> - is <code>DestroyHandle</code> the .net equivalent?</p>
+
+<hr>
+
+<p>I don't want to destroy the window handle myself - my control is listening for events on another object and when my control is destroyed, I want to stop listening to those events. Eg:</p>
+
+<pre><code>void Dispose(bool disposing) {
+    otherObject.Event -= myEventHandler;
+}
+</code></pre>

@@ -1,0 +1,1 @@
+<p>How do you turn a Visual Studio build that you'd perform in the IDE into a script that you can run from the command line?</p>

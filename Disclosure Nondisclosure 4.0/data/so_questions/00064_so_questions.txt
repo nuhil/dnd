@@ -1,0 +1,22 @@
+<p>I have a route that I am calling through a RedirectToRoute like this:</p>
+
+<pre><code>return this.RedirectToRoute("Super-SuperRoute", new { year = selectedYear });
+</code></pre>
+
+<p>I have also tried:</p>
+
+<pre><code> return this.RedirectToRoute("Super-SuperRoute", new { controller = "Super", action = "SuperRoute", id = "RouteTopic", year = selectedYear });
+</code></pre>
+
+<p>The route in the global.asax is like this:</p>
+
+<pre><code>routes.MapRoute(
+    "Super-SuperRoute", // Route name
+    "Super.mvc/SuperRoute/{year}",  // URL with parameters
+     new { controller = "Super", action = "SuperRoute", id = "RouteTopic" }  // Parameter defaults
+);
+</code></pre>
+
+<p>So why do I get the error: "No route in the route table matches the supplied values."?</p>
+
+<p>I saw that the type of selectedYear was var.  When I tried to convert to int with int.Parse I realised that selectedYear was actually null, which would explain the problems.  I guess next time I'll pay more attention to the values of the variables at a breakpoint :)</p>

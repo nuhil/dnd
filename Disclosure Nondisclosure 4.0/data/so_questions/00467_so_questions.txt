@@ -1,0 +1,2 @@
+<p>I am looking for a powerful meta-language to describa behaviour for an application i intend to use in offline mode (google-gears + javascript) and server side sqlite + (php/ruby/java etc) and looking for a good format to describe the model's behaviour which can be easily converted to the target languages.
+Am I completely off track, and there is a much better way?</p>

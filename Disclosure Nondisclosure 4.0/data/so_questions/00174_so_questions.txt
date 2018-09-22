@@ -1,0 +1,5 @@
+<p>I was writing some <strong>ASP.NET</strong> control when I came to the scenario where I needed to remove items from a list, only when they matched a certain condition.</p>
+
+<p>The <code>RemoveAll</code> method of the generic <code>List</code> class does a good job, but removes <em>all</em> items that match the condition, specified by the predicate.</p>
+
+<p>What if I want to only remove a certain number of items specifying the condition? What do you think is the best way to do this?</p>

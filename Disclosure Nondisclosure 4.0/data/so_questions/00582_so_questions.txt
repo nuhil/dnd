@@ -1,0 +1,5 @@
+<p>When java was young, people were excited about writing applets.  They were cool and popular, for a little while.  Now, I never see them anymore.  Instead we have flash, javascript, and a plethora of other web app-building technologies.</p>
+
+<p>Why don't sites use java applets anymore?</p>
+
+<p>I'm also curious: historically, why do you think this occurred?  What could have been done differently to keep Java applets alive?</p>

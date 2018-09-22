@@ -1,0 +1,1 @@
+<p>I need to read from Outlook .MSG file in .NET <em>without</em> using COM API for Outlook (cos it will not be installed on the machines that my app will run). Are there any free 3rd party libraries to do that? I want to extract From, To, CC and BCC fields. Sent/Receive date fields would be good if they are also stored in MSG files.</p>

@@ -1,0 +1,24 @@
+<p>I've to admin a small website for my alumni group which is hosted by my ISV. The url is something like www.myIsv.com/myWebSite/ which is quite ugly and very forgetable. The main admin of the webserver has registered a domain name www.mysmallwebsite.com and put a index.html with this content:</p>
+
+<pre><code>&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;www.mysmallwebsite.com&lt;/title&gt;
+&lt;/head&gt;
+
+&lt;frameset&gt;
+   &lt;frame src="http://www.myIsv.com/myWebSite/" name="redir"&gt;
+      &lt;noframes&gt;
+        &lt;p&gt;Original location:
+          &lt;a href="www.myIsv.com/myWebSite/"&gt;http://www.myIsv.com/myWebSite/&lt;/a&gt;
+        &lt;/p&gt;
+      &lt;/noframes&gt;
+ &lt;/frameset&gt;  
+&lt;/html&gt;
+</code></pre>
+
+<p>It works fine, but some features like PHP Session variables doesn't work anymore! Anyone has a suggestion for correcting that?</p>
+
+<p>Edit:
+This doesn't work both on IE and on Firefox (no plugins)</p>
+
+<p>Thanks</p>

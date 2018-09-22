@@ -1,0 +1,38 @@
+<p>I've got a table that is supposed to track days and costs for shipping product from one vendor to another. We (brilliantly :p) stored both the shipping vendors (FedEx, UPS) with the product handling vendors (Think... Dunder Mifflin) in a "VENDOR" table. So, I have three columns in my SHIPPING_DETAILS table that all reference VENDOR.no. For some reason MySQL isn't letting me define all three as foreign keys. Any ideas?</p>
+
+<pre><code>CREATE TABLE SHIPPING_GRID(  
+    id INT NOT NULL AUTO_INCREMENT PRIMARY KEY COMMENT 'Unique ID for each row',  
+    shipping_vendor_no INT(6) NOT NULL COMMENT 'Foreign key to VENDOR.no for the shipping vendor (vendors_type must be 3)',  
+    start_vendor_no INT(6) NOT NULL COMMENT 'Foreign key to VENDOR.no for the vendor being shipped from',  
+    end_vendor_no INT(6) NOT NULL COMMENT 'Foreign key to the VENDOR.no for the vendor being shipped to',  
+    shipment_duration INT(1) DEFAULT 1 COMMENT 'Duration in whole days shipment will take',  
+    price FLOAT(5,5) NOT NULL COMMENT 'Price in US dollars per shipment lbs (down to 5 decimal places)',  
+    is_flat_rate TINYINT(1) DEFAULT 0 COMMENT '1 if is flat rate regardless of weight, 0 if price is by lbs',  
+    INDEX (shipping_vendor_no),  
+    INDEX (start_vendor_no),  
+    INDEX (end_vendor_no),  
+    FOREIGN KEY (shipping_vendor_no) REFERENCES VENDOR (no),  
+    FOREIGN KEY (start_vendor_no) REFERENCES VENDOR (no),  
+    FOREIGN KEY (end_vendor_no) REFERENCES VENDOR (no)  
+) TYPE = INNODB;
+</code></pre>
+
+<p><em>Edited to remove double primary key definition...</em></p>
+
+<hr>
+
+<p>Yeah, unfortunately that didn't fix it though. Now I'm getting:</p>
+
+<blockquote>
+  <p>Can't create table
+  './<em>REMOVED MY DB NAME</em>/SHIPPING_GRID.frm'
+  (errno: 150)</p>
+</blockquote>
+
+<p>Doing a phpinfo() tells me this for mysql:</p>
+
+<blockquote>
+  <p>Client API version    5.0.45</p>
+</blockquote>
+
+<p>Yes, the VENDOR.no is type int(6).</p>

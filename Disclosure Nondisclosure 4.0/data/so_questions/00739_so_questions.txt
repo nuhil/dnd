@@ -1,0 +1,9 @@
+<p>I know that tables are for tabular data, but it's so tempting to use them for layout. I can handle DIV's to get a three column layout, but when you got 4 nested DIV's, it get tricky. </p>
+
+<p>Is there a tutorial/reference out there to persuade me to use DIV's for layout?</p>
+
+<p>I want to use DIV's, but I refuse to spend an hour to position my DIV/SPAN where I want it.</p>
+
+<p>@GaryF: <a href="http://www.blueprintcss.org/">Blueprint CSS</a> has to be the CSS's best kept secret.</p>
+
+<p>Great tool - <a href="http://kematzy.com/blueprint-generator/">Blueprint Grid CSS Generator</a>.</p>

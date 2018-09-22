@@ -1,0 +1,1 @@
+<p>Let say that I have a website with some information that could be access externally. Those information need to be only change by the respected client. Example: Google Analytic or WordPress API key. How can I create a system that work like that (no matter the programming language)?</p>

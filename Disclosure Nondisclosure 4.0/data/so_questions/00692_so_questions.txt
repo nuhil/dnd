@@ -1,0 +1,14 @@
+<p>I'm using SQL Server 2005, and I would like to know how to access different result sets from within transact-sql. The following stored procedure returns two result sets, how do I access them from, for example, another stored procedure?</p>
+
+<pre><code>CREATE PROCEDURE getOrder (@orderId as numeric) AS
+BEGIN   
+    select order_address, order_number from order_table where order_id = @orderId
+    select item, number_of_items, cost from order_line where order_id = @orderId
+END
+</code></pre>
+
+<p>I need to be able to iterate through both result sets individually.</p>
+
+<p>EDIT: Just to clarify the question, I want to test the stored procedures. I have a set of stored procedures which are used from a VB.NET client, which return multiple result sets. These are not going to be changed to a table valued function, I can't in fact change the procedures at all. Changing the procedure is not an option.</p>
+
+<p>The result sets returned by the procedures are not the same data types or number of columns.</p>

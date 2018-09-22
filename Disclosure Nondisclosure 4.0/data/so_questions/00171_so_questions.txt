@@ -1,0 +1,3 @@
+<p>I've seen projects where the classes in the DB layer have just static functions in them and other projects where those classes need to be instantiated to get access to the member functions. </p>
+
+<p>Which is "better" and why?</p>

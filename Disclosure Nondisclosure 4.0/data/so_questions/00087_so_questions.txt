@@ -1,0 +1,26 @@
+<p>I have a build script and as part of that script it copies a jar file to a directory, for ease lets call it the utils jar.  the utils jar is built by another build script sitting in another directory.  What im trying to do have my build script run the utils build script so that I can ensure the utils jar is up to date.</p>
+
+<p>So I know I need to import the utils build file.</p>
+
+<pre><code>&lt;import file="../utils/build/build.xml" /&gt;
+</code></pre>
+
+<p>Which doesn't work because the import task, unlike almost every other ant taks, doesn't run from basedir, it runs from the pwd.  So to get around that I have this little ditty, which does successfully import the build file</p>
+
+<pre><code>  &lt;property name="baseDirUpOne" location=".." /&gt;
+  &lt;import file="${baseDirUpOne}/utils/build/build.xml" /&gt;
+</code></pre>
+
+<p>So now that ive solved my import problem I need to call the task, well that should be easy right:</p>
+
+<pre><code>&lt;antcall target="utils.package" /&gt;
+</code></pre>
+
+<p><em>note that in the above, utils is the project name of ../utils/build/build.xml</em></p>
+
+<p>the problem I'm now running into is that ant call doesn't execute in ../utils/build so what I need, and cant find, is a runat property or something similar, essentially:</p>
+
+<pre><code>&lt;antcall target="utils.package" runat="../utils/build" /&gt;
+</code></pre>
+
+<p>The reason I need this is that in my utils build file the step to select which code to copy to the jar is based on relative paths so as to avoid hardcoding paths in my ant file. Any ideas? </p>

@@ -1,0 +1,10 @@
+<p>I'm trying to create a Zip file from .Net that can be read from Java code.</p>
+
+<p>I've used SharpZipLib to create the Zip file but also if the file generated is valid according to the CheckZip function of the #ZipLib library and can be successfully uncompressed via WinZip or WinRar I always get an error when trying to uncompress it using the Java.Utils.Zip class in Java.</p>
+
+<p>Problem seems to be in the wrong header written by SharpZipLib, I've also posted a question on the SharpDevelop forum but with no results (see <a href="http://community.sharpdevelop.net/forums/t/8272.aspx" rel="nofollow">http://community.sharpdevelop.net/forums/t/8272.aspx</a> for info) but with no result.</p>
+
+<p>Has someone a code sample of compressing a Zip file with .Net and de-compressing it with the Java.Utils.Zip class?</p>
+
+<p>Regards
+Massimo</p>

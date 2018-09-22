@@ -1,0 +1,14 @@
+<p>I have a little game written in C#. It uses a database as back-end. It's 
+a <a href="http://en.wikipedia.org/wiki/Collectible_card_game">trading card game</a>, and I wanted to implement the function of the cards as a script.</p>
+
+<p>What I mean is that I essentially have an interface, <code>ICard</code>, which a card class implements (<code>public class Card056 : ICard</code>) and which contains function that are called by the game.</p>
+
+<p>Now, to make the thing maintainable/moddable, I would like to have the class for each card as source code in the database and essentially compile it on first use. So when I have to add/change a card, I'll just add it to the database and tell my application to refresh, without needing any assembly deployment (especially since we would be talking about 1 assembly per card which means hundreds of assemblies).</p>
+
+<p>Is that possible? Register a class from a source file and then instantiate it, etc.</p>
+
+<pre><code>ICard Cards[current] = new MyGame.CardLibrary.Card056();
+Cards[current].OnEnterPlay(ref currentGameState);
+</code></pre>
+
+<p>The language is C#, but extra bonus if it's possible to write the script in any .NET language.</p>

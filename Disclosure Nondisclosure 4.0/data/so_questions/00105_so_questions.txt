@@ -1,0 +1,1 @@
+<p>Does anyone use have a good regex library that they like to use? Most of the regexes that you find online either contain bugs or are so focused on the edge cases that it turns into a competition to validate whatever spec 100%. Of course you can write your own, but when you are billing by the hour its handy to have a library around. </p>

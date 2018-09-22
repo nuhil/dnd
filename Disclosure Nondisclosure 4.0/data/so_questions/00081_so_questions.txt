@@ -1,0 +1,7 @@
+<p>I am writing an application in Java for the desktop using the Eclipse SWT library for GUI rendering.  I think SWT helps Java get over the biggest hurdle for acceptance on the desktop: namely providing a Java application with a consistent, responsive interface that looks like that belonging to any other app on your desktop.  However, I feel that packaging an application is still an issue.  </p>
+
+<p>OS X natively provides an easy mechanism for wrapping Java apps in native application bundles, but producing an app for Windows/Linux that doesn't require the user to run an ugly batch file or click on a .jar is still a hassle.  Possibly that's not such an issue on Linux, where the user is likely to be a little more tech-savvy, but on Windows I'd like to have a regular .exe for him/her to run.</p>
+
+<p>Has anyone had any experience with any of the .exe generation tools for Java that are out there?  I've tried JSmooth but had various issues with it.  Is there a better solution before I crack out Visual Studio and roll my own?</p>
+
+<p><strong>Edit:</strong>  I should perhaps mention that I am unable to spend a lot of money on a commercial solution.</p>

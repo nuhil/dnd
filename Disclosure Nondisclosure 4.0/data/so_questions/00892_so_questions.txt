@@ -1,0 +1,15 @@
+<p>How do I set the column which has the header sort glyph, and its direction, in a .NET 2.0 WinForms ListView?</p>
+
+<h2>Bump</h2>
+
+<p>The listview is .net is not a managed control, it is a very thin wrapper around the Win32 ListView common control. It's not even a very good wrapper - it doesn't expose all the features of the real listview.</p>
+
+<p>The Win32 listview common control supports drawing itself with themes. One of the themed elements is the header sort arrow. Windows Explorer's listview common control knows how to draw one of its columns with that theme element.</p>
+
+<ul>
+<li>does the Win32 listview support specifying which column has what sort order?  </li>
+<li>does the Win32 header control that the listview internally uses support specifying which column has what sort order?  </li>
+<li>does the win32 header control support custom drawing, so I can draw the header sort glyph myself?</li>
+<li>does the win32 listview control support custom header drawing, so I can draw the header sort glyph myself?</li>
+<li>does the .NET ListView control support custom header drawing, so I can draw the header sort glyph myself?</li>
+</ul>

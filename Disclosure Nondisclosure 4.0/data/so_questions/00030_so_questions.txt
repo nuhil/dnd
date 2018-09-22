@@ -1,0 +1,1 @@
+<p>I just found /n softwares free Powershell NetCmdlets, and after playing with them I love the functionality they bring to the command line.  So it raises the question what are your favorite Cmdlets, and how do you use them?</p>

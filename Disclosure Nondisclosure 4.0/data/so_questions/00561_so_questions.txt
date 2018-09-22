@@ -1,0 +1,3 @@
+<p>What options exist for accessing different databases from C++?
+Put differently, what alternatives are there to ADO?
+What are the pros and cons?</p>

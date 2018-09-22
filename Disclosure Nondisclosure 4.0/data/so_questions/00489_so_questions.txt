@@ -1,0 +1,3 @@
+<p>I'm setting up a server which is on a network behind a firewall and I want programs on this computer to be able to use sendmail to send emails to any email address.  We have an SMTP server running on this network (let's call it mailrelay.example.com) which is how we're supposed to get outgoing emails through the firewall.</p>
+
+<p>So how do I configure sendmail to send all mail through mailrelay.example.com?  Googling hasn't given me the answer yet, and has only revealed that sendmail configuration is extremely complex and annoying.</p>

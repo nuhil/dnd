@@ -1,0 +1,20 @@
+<p>The __doPostBack is not working in firefox 3 (have not checked 2).  Everything is working great in IE 6&amp;7 and it even works in Chrome??</p>
+
+<p>It's a simple asp:LinkButton with an OnClick event</p>
+
+<pre><code>&lt;asp:LinkButton ID="DeleteAllPicturesLinkButton" Enabled="False" OnClientClick="javascript:return confirm('Are you sure you want to delete all pictures? \n This action cannot be undone.');" OnClick="DeletePictureLinkButton_Click" CommandName="DeleteAll" CssClass="button" runat="server"&gt;
+</code></pre>
+
+<p>The javascript confirm is firing so I know the javascript is working, it's specirically the __doPostBack event.  There is a lot more going on on the page, just didn't know if it's work it to post the entire page.</p>
+
+<p>I enable the control on the page load event.</p>
+
+<p>Any ideas?</p>
+
+<p><hr /></p>
+
+<p>I hope this is the correct way to do this, but I found the answer.  I figured I'd put it up here rather then in a stackoverflow "answer"</p>
+
+<p>Seems it had something to do with nesting ajax toolkit UpdatePanel. When I removed the top level panel it was fixed.</p>
+
+<p>Hope this helps if anyone else has the same problem.  I still don't know what specifically was causing the problem, but that was the solution for me.</p>

@@ -1,0 +1,9 @@
+<p>Has anyone got <a href="http://perldoc.perl.org/Sys/Syslog.html" rel="nofollow">Sys::Syslog</a> to work on Solaris?  (I'm running Sys::Syslog 0.05 on Perl v5.8.4 on SunOS 5.10 on SPARC).  Here's what doesn't work for me:</p>
+
+<pre><code>openlog "myprog", "pid", "user" or die;
+syslog "crit", "%s", "Test from $0" or die;
+closelog() or warn "Can't close: $!";
+system "tail /var/adm/messages";
+</code></pre>
+
+<p>Whatever I do, the closelog returns an error and nothing ever gets logged anywhere.</p>

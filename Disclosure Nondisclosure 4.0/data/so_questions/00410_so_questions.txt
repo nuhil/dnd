@@ -1,0 +1,15 @@
+<p>This is a somewhat low-level question.  In x86 assembly there are two SSE instructions: </p>
+
+<blockquote>
+  <p><code>MOVDQA <i><em>xmmi, m128</em></i></code></p>
+</blockquote>
+
+<p>and  </p>
+
+<blockquote>
+  <p><code>MOVNTDQA <i><em>xmmi, m128</em></i></code></p>
+</blockquote>
+
+<p>The IA-32 Software Developer's Manual says that the <em>NT</em> in MOVNTDQA stands for <em>Non-Temporal</em>, and that otherwise it's the same as MOVDQA.</p>
+
+<p>My question is, what does <em>Non-Temporal</em> mean?  </p>

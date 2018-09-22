@@ -1,0 +1,33 @@
+<p>For a .NET component that will be used in both web applications and rich client applications, there seem to be two obvious options for caching: System.Web.Caching or the Ent. Lib. Caching Block.</p>
+
+<ul>
+<li>What do you use?</li>
+<li>Why?</li>
+</ul>
+
+<h2><a href="http://msdn.microsoft.com/en-us/library/system.web.caching.aspx">System.Web.Caching</a></h2>
+
+<p>Is this safe to use outside of web apps?  I've seen mixed information, but I think the answer is maybe-kind-of-not-really.</p>
+
+<ul>
+<li><a href="http://support.microsoft.com/kb/917411">a KB article warning against 1.0 and 1.1 non web app use</a></li>
+<li>The 2.0 page has a <em>comment</em> that indicates it's OK: <a href="http://msdn.microsoft.com/en-us/library/system.web.caching.cache(VS.80).aspx">http://msdn.microsoft.com/en-us/library/system.web.caching.cache(VS.80).aspx</a></li>
+<li><a href="http://www.hanselman.com/blog/UsingTheASPNETCacheOutsideOfASPNET.aspx">Scott Hanselman is creeped out by the notion</a></li>
+<li><a href="http://msdn.microsoft.com/en-us/library/system.web.caching.cache.aspx">The 3.5 page</a> includes a warning against such use</li>
+<li>Rob Howard <a href="http://weblogs.asp.net/cschittko/archive/2004/07/04/172684.aspx">encouraged use outside of web apps</a></li>
+</ul>
+
+<p>I don't expect to use one of its highlights, <a href="http://msdn.microsoft.com/en-us/library/system.web.caching.sqlcachedependency.aspx">SqlCacheDependency</a>, but the addition of <a href="http://msdn.microsoft.com/en-us/library/system.web.caching.cacheitemupdatecallback.aspx">CacheItemUpdateCallback</a> in .NET 3.5 seems like a Really Good Thing.  </p>
+
+<h2><a href="http://msdn.microsoft.com/en-us/library/aa480453.aspx">Enterprise Library Caching Application Block</a></h2>
+
+<ul>
+<li>other blocks are already in use so the dependency already exists</li>
+<li>cache persistence isn't necessary; regenerating the cache on restart is OK</li>
+</ul>
+
+<p>Some cache items should always be available, but be refreshed periodically.  For these items, getting a callback <em>after</em> an item has been removed is not very convenient.  It looks like a client will have to just sleep and poll until the cache item is repopulated.</p>
+
+<h2><a href="http://jehiah.cz/projects/memcached-win32/">Memcached for Win32</a> + <a href="http://sourceforge.net/projects/memcacheddotnet/">.NET client</a></h2>
+
+<p>What are the pros and cons when you don't need a <em>distributed</em> cache?</p>

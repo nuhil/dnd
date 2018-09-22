@@ -1,0 +1,3 @@
+<p>If you add a image to your browser's DOM, IE6 will not check its cache to see if it already downloaded the image but will, instead, re-retrieve it from the server.  I have not found any combination of HTTP response headers (of the ensuing image request) to convince IE6 that it can cache the image:  Cache-control, Expires, Last-modified.</p>
+
+<p>Some suggest you can return a 304 of the subsequent image requests to tell IE6 "you already got it" but I want to avoid the whole round trip to the server in the first place.</p>

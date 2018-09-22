@@ -1,0 +1,8 @@
+<p>Which is more efficient for the compiler and the best practice for checking whether a string is blank? </p>
+
+<ol>
+<li>Checking whether the length of the string == 0</li>
+<li>Checking whether the string is empty (strVar == "")</li>
+</ol>
+
+<p>Also, does the answer depend on language?</p>

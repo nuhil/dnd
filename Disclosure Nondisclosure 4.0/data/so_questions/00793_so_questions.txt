@@ -1,0 +1,25 @@
+<p>If i have a simple named query defined, the preforms a count function, on one column:</p>
+
+<pre><code>  &lt;query name="Activity.GetAllMiles"&gt;
+    &lt;![CDATA[
+      select sum(Distance) from Activity
+    ]]&gt;
+
+  &lt;/query&gt;
+</code></pre>
+
+<p>How do I get the result of a sum or any query that dont return of one the mapped entities, with NHibernate using Either IQuery or ICriteria?</p>
+
+<p>Here is my attempt (im unable to test it right now), would this work?</p>
+
+<pre><code>    public decimal Find(String namedQuery)
+    {
+        using (ISession session = NHibernateHelper.OpenSession())
+        {
+            IQuery query = session.GetNamedQuery(namedQuery);
+
+
+            return query.UniqueResult&lt;decimal&gt;();
+        }
+    }
+</code></pre>

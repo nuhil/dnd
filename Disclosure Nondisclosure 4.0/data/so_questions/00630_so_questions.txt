@@ -1,0 +1,40 @@
+<p>I'm writing some DB routines and I'm using prepared statements.  My environment is PDO with PHP5.</p>
+
+<p>I understand prepared statements primarily provide a performance benefit, as well as some auxiliary bonuses such as not having to manually SQL-escape input data.</p>
+
+<p>My question is about the performance part.</p>
+
+<p>I have two implementations of a getPrice function below that takes a product id and returns its price.</p>
+
+<p>getPrice_A reuses the same PDOStatement object across subsequent calls within the same script execution.  Is this necessary or recommended?  If so, is there any way to avoid duplicating this extra code across every single get*() in every single model?</p>
+
+<p>getPrice_B creates a new PDOStatement object on every call.  Will the DBMS recognize this statement has already been prepared and still be able to skip some work?  In other words, does this implementation properly take advantage of the performance benefits of prepared statements?</p>
+
+<p>Having written all this out and read it over, I imagine getPrice_B is fine and getPrice_A is providing a negligible benefit on top of that, which may or may not be worth the extra complication.</p>
+
+<p>I'd still like to hear for sure from someone more knowledgable though.</p>
+
+<p>Assume that <code>$pdo</code> is a valid, connected PDO object in the examples below.</p>
+
+<pre><code>&lt;?php
+class Product {
+    static function &amp;getPrice_A($id) {
+        static $stmt;
+        if (!$stmt) {
+            $stmt = $pdo-&gt;prepare('SELECT price FROM products WHERE id = ?');
+        }
+        $stmt-&gt;execute(array($id));
+        return $stmt-&gt;fetchColumn(0);
+    }
+
+    static function &amp;getPrice_B($id) {
+        $stmt = $pdo-&gt;prepare('SELECT price FROM products WHERE id = ?');
+        $stmt-&gt;execute(array($id));
+        return $stmt-&gt;fetchColumn(0);
+    }
+}
+
+// example usage:
+$price = Product::getPrice(4982);
+echo "Product 4982 costs $price\n";
+</code></pre>

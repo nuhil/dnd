@@ -1,0 +1,1 @@
+<p>Since the Google App Engine Datastore is based on <a href="http://research.google.com/archive/bigtable.html">Bigtable</a> and we know that's not a relational database, how do you design a <strong><em>database schema</em>/*data model*</strong> for applications that use this type of database system?</p>

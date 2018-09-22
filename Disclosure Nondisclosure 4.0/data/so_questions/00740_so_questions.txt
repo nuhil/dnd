@@ -1,0 +1,1 @@
+<p>SVN in Eclipse is spread into 2 camps. The SVN people have developed a plugin called <a href="http://subclipse.tigris.org/">Subclipse</a>. The Eclipse people have a plugin called <a href="http://www.eclipse.org/subversive/">Subversive</a>. Broadly speaking they both do the same things. What are the advantages and disadvantages of each?</p>

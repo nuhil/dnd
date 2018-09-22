@@ -1,0 +1,7 @@
+<p>I have a foxpro app, that contains hard coded path for icons and bitmaps. That's how foxpro does it and there is no way around it. And this works fine, except that when a removable drive has been used but is not connected, and when is connected windows assigns the same letter as hard coded path, when opening any form that contains such path, the following error message apears (<strong>FROM WINDOWS</strong>, not fox):</p>
+
+<p>Windows-No disk
+Exception Processing Message c0000012 Parameters .....</p>
+
+<p>Any help please
+Nelson Marmol</p>

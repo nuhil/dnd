@@ -1,0 +1,16 @@
+<p>I'm quite confident that globally declared variables get allocated (and initialized, if applicable) at program start time.</p>
+
+<pre><code>int globalgarbage;
+unsigned int anumber = 42;
+</code></pre>
+
+<p>But what about static ones defined within a function?</p>
+
+<pre><code>void doSomething()
+{
+  static bool globalish = true;
+  // ...
+}
+</code></pre>
+
+<p>When is the space for <code>globalish</code> allocated? I'm guessing when the program starts. But does it get initialized then too? Or is it initialized when <code>doSomething()</code> is first called?</p>

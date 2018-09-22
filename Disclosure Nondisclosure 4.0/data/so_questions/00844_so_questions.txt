@@ -1,0 +1,38 @@
+<p>I have a script for OS X 10.5 that focuses the Search box in the Help menu of any application.  I have it on a key combination and, much like Spotlight, I want it to toggle when I run the script.  So, I want to detect if the search box is already focused for typing, and if so, type Esc instead of clicking the Help menu.</p>
+
+<p>Here is the script as it stands now:</p>
+
+<pre><code>tell application "System Events"
+    tell (first process whose frontmost is true)
+    	set helpMenuItem to menu bar item "Help" of menu bar 1
+    	click helpMenuItem
+    end tell
+end tell
+</code></pre>
+
+<p>And I'm thinking of something like this:</p>
+
+<pre><code>tell application "System Events"
+    tell (first process whose frontmost is true)
+    	set helpMenuItem to menu bar item "Help" of menu bar 1
+    	set searchBox to menu item 1 of menu of helpMenuItem
+    	if (searchBox's focused) = true then
+    		key code 53 -- type esc
+    	else
+    		click helpMenuItem
+    	end if
+    end tell
+end tell
+</code></pre>
+
+<p>... but I get this error:</p>
+
+<blockquote>
+  <p>Can’t get focused of {menu item 1 of menu "Help" of menu bar item "Help" of menu bar 1 of application process "Script Editor" of application "System Events"}.</p>
+</blockquote>
+
+<p>So is there a way I can get my script to detect whether the search box is already focused?</p>
+
+<p><hr /></p>
+
+<p>I solved my problem by <a href="http://stackoverflow.com/questions/69391/">working around it</a>.  I still don't know how to check if a menu item is selected though, so I will leave this topic open.</p>

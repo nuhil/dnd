@@ -1,0 +1,1 @@
+<p>I am looking for a simple way to get a mime type where the file extension is incorrect or not given, something similar to <a href="http://stackoverflow.com/questions/51438/getting-a-files-mime-type-in-java" rel="nofollow">this question</a> only in .Net.</p>

@@ -1,0 +1,27 @@
+<p>I am adding a ADO.Net Data Service lookup feature to an existing web page.  Everything works great when running from visual studio, but when I roll it out to IIS, I get the following error:</p>
+
+<blockquote>
+  <p><strong>Request Error</strong><br>The server encountered an error processing the request. See server logs for more details.</p>
+</blockquote>
+
+<p>I get this even when trying to display the default page, i.e.:</p>
+
+<blockquote>
+  <p><a href="http://server/FFLookup.svc">http://server/FFLookup.svc</a></p>
+</blockquote>
+
+<p>I have 3.5 SP1 installed on the server.</p>
+
+<p>What am I missing, and which "Server Logs" is it refering to?  I can't find any further error messages.</p>
+
+<p>There is nothing in the Event Viewer logs (System or Application), and nothing in the IIS logs other than the GET:</p>
+
+<blockquote>
+  <p>2008-09-10 15:20:19 10.7.131.71 GET /FFLookup.svc - 8082 - 10.7.131.86 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/525.13+(KHTML,+like+Gecko)+Chrome/0.2.149.29+Safari/525.13 401 2 2148074254</p>
+</blockquote>
+
+<p>There is no stack trace returned.  The only response I get is the "Request Error" as noted above.</p>
+
+<p>Thanks</p>
+
+<p>Patrick</p>

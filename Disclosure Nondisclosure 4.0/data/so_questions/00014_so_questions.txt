@@ -1,0 +1,1 @@
+<p>What is the correct way to get the process size on <code>Solaris, HP-UX</code> and <code>AIX</code>? Should we use <code>top</code> or <code>ps -o vsz</code> or something else?</p>

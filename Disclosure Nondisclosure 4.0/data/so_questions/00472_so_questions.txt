@@ -1,0 +1,6 @@
+<p>I am looking for basic examples/tutorials on:</p>
+
+<ol>
+<li><p>How to write/compile libraries in C++ (<code>.so</code> files for Linux, <code>.dll</code> files for Windows).</p></li>
+<li><p>How to import and use those libraries in other code.</p></li>
+</ol>

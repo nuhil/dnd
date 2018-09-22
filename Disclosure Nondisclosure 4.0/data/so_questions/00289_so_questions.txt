@@ -1,0 +1,7 @@
+<p>OK, this kind of follows on from <a href="http://stackoverflow.com/questions/27758/notify-developer-of-a-do-not-use-method" rel="nofollow">my previous question</a>.</p>
+
+<p>What I would really like to do is create some sort of attribute which allows me to decorate a method that will <strong>break the build</strong>. Much like the <em>Obsolete("reason", true)</em> attribute, but without falsely identifying obsolete code.</p>
+
+<p><strong>To clarify</strong>: I dont want it to break the build on <em>ANY</em> F6 (Build) press, I only want it to break the build if a method decorated with the attribute is called somewhere else in the code. Like I said, <em>similar</em> to obsolete, but not the same.</p>
+
+<p>I know I am not alone in this, since <a href="http://stackoverflow.com/questions/27758/notify-developer-of-a-do-not-use-method#27796" rel="nofollow">other users want to use it for other reasons</a>. I have never created custom attributes before so it is all new to me!</p>

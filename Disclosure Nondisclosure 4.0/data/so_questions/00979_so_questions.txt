@@ -1,0 +1,7 @@
+<p>In .NET, after this code, what mechanism stops the <code>Thread</code> object from being garbage collected?</p>
+
+<pre><code>new Thread(Foo).Start();
+GC.Collect();
+</code></pre>
+
+<p>Yes, it's safe to assume <strong>something</strong> has a reference to the thread, I was just wandering what exactly. For some reason Reflector doesn't show me <code>System.Threading</code>, so I can't dig it myself (I know MS released the source code for the .NET framework, I just don't have it handy).</p>

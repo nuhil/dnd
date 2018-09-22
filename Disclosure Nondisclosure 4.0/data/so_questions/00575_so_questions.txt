@@ -1,0 +1,5 @@
+<p><code>mime_content_type()</code> is deprecated.</p>
+
+<p>How can I find the <code>MIME type of a local file</code> using <code>PHP5</code> but without using this deprecated method or the <code>PECL fileinfo extension?</code></p>
+
+<p>Edit: That's what I was afraid of.  It's unfortunate that they deprecated a built-in function in favour of one that requires an extension that isn't always available.</p>

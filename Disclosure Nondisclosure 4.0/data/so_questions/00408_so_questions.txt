@@ -1,0 +1,3 @@
+<p>I'd like to add a method to my existing server's CORBA interface. Will that require recompiling all clients?</p>
+
+<p>I'm using TAO.</p>

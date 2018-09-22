@@ -1,0 +1,33 @@
+<p>This is a segment of code from an app I've inherited, a user got a Yellow screen of death:</p>
+
+<blockquote>
+  <p>Object reference not set to an instance of an object</p>
+</blockquote>
+
+<p>on the line: </p>
+
+<pre><code>bool l_Success ... 
+</code></pre>
+
+<p>Now I'm 95% sure the faulty argument is <code>ref l_Monitor</code> which is very weird considering the object is instantiated a few lines before. Anyone have a clue why it would happen? Note that I have seen the same issue pop up in other places in the code.</p>
+
+<pre><code>IDMS.Monitor l_Monitor = new IDMS.Monitor();
+l_Monitor.LogFile.Product_ID = "SE_WEB_APP";
+
+if (m_PermType_RadioButtonList.SelectedIndex == -1) {
+    l_Monitor.LogFile.Log(
+        Nortel.IS.IDMS.LogFile.MessageTypes.ERROR,
+        "No permission type selected"
+        );
+    return;
+}
+bool l_Success = SE.UI.Utilities.GetPermissionList(
+    ref l_Monitor,
+    ref m_CPermissions_ListBox,
+    (int)this.ViewState["m_Account_Share_ID"],
+    (m_PermFolders_DropDownList.Enabled)
+        ? m_PermFolders_DropDownList.SelectedItem.Value
+        : "-1",
+    (SE.Types.PermissionType)m_PermType_RadioButtonList.SelectedIndex,
+    (SE.Types.PermissionResource)m_PermResource_RadioButtonList.SelectedIndex);
+</code></pre>

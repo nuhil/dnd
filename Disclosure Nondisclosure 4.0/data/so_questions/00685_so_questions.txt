@@ -1,0 +1,11 @@
+<p>When trying to enter a SQL query with parameters using the Oracle OLE DB provider I get the following error:</p>
+
+<blockquote>
+  <p>Parameters cannot be extracted from the SQL command. The provider might not help to parse parameter information from the command. In that case, use the "SQL command from variable" access mode, in which the entire SQL command is stored in a variable.<br />
+  ADDITIONAL INFORMATION:<br />
+  Provider cannot derive parameter information and SetParameterInfo has not been called. (Microsoft OLE DB Provider for Oracle) </p>
+</blockquote>
+
+<p>I have tried following the suggestion here but don't quite understand what is required:<a href="http://microsoftdw.blogspot.com/2005/11/parameterized-queries-against-oracle.html">Parameterized queries against Oracle</a></p>
+
+<p>Any ideas?</p>

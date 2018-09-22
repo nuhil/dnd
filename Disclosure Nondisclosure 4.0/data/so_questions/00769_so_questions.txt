@@ -1,0 +1,5 @@
+<p>When attempting to open a project from source control on a newly formatted pc, I receive an "unable to get the project file from the web server" after getting the sln file from VSS. If I attempt to open the sln file from explorer, I also receive the same error.</p>
+
+<p>Any pointers or ideas?</p>
+
+<p>Thanks!</p>

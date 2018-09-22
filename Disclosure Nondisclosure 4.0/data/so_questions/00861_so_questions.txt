@@ -1,0 +1,1 @@
+<p>Can we achieve 100% decoupling between components of a system or different systems that communicate with each other? I don't think its possible. If two systems communicate with each other then there should be some degree of coupling between them. Am I right?</p>

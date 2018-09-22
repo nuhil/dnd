@@ -1,0 +1,3 @@
+<p>A discussion about Singletons in <strong>PHP</strong> has me thinking about this issue more and more. Most people instruct that you shouldn't make a bunch of DB connections in one request, and I'm just curious as to what your reasoning is. My first thought is the expense to your script of making that many requests to the DB, but then I counter myself with the question: wouldn't multiple connections make concurrent querying more efficient?</p>
+
+<p>How about some answers (with evidence, folks) from some people in the know?</p>

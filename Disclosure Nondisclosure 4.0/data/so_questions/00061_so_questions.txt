@@ -1,0 +1,43 @@
+<p>I have a situation where I want to add hours to a date and have the new date wrap around the work-day. I cobbled up a function to determine this new date, but want to make sure that I'm not forgetting anything.</p>
+
+<p>The hours to be added is called "delay". It could easily be a parameter to the function instead.</p>
+
+<p>Please post any suggestions. [VB.NET Warning]</p>
+
+<pre><code>Private Function GetDateRequired() As Date
+    ''// A decimal representation of the current hour
+    Dim hours As Decimal = Decimal.Parse(Date.Now.Hour) + (Decimal.Parse(Date.Now.Minute) / 60.0) 
+
+    Dim delay As Decimal = 3.0           ''// delay in hours
+    Dim endOfDay As Decimal = 12.0 + 5.0 ''// end of day, in hours
+    Dim startOfDay As Decimal = 8.0      ''// start of day, in hours
+
+    Dim newHour As Integer
+    Dim newMinute As Integer
+
+    Dim dateRequired As Date = Now
+    Dim delta As Decimal = hours + delay
+
+    ''// Wrap around to the next day, if necessary
+    If delta &gt; endOfDay Then
+        delta = delta - endOfDay
+        dateRequired = dateRequired.AddDays(1)
+
+        newHour = Integer.Parse(Decimal.Truncate(delta))
+        newMinute = Integer.Parse(Decimal.Truncate((delta - newHour) * 60))
+        newHour = startOfDay + newHour
+    Else
+        newHour = Integer.Parse(Decimal.Truncate(delta))
+        newMinute = Integer.Parse(Decimal.Truncate((delta - newHour) * 60))
+    End If
+
+    dateRequired = New Date(dateRequired.Year, dateRequired.Month, dateRequired.Day, newHour, newMinute, 0)
+
+    Return dateRequired
+End Sub
+</code></pre>
+
+<p><strong>Note</strong>: This will probably not work if delay is more than 9 hours long. It should never change from 3, through.</p>
+
+<p>EDIT:
+The goal is find the date and time that you get as a result of adding several hours to the current time. This is used to determine a default value for a due date of a submission. I want to add 3 hours to the current time to get the due date time. However, I don't want due dates that go beyond 5pm on the current day. So, I tried to have the hours split between (today, up to 5pm) and (tomorrow, from 8am on), such that adding 3 hours to 4pm would give you 19am, because 1 hour is added to the end of today and 2 hours are added to the beginning of tomorrow.</p>

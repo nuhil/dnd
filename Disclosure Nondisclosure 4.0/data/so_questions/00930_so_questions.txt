@@ -1,0 +1,3 @@
+<p>I want to load a different properties file based upon one variable.</p>
+
+<p>Basically, if doing a dev build use this properties file, if doing a test build use this other properties file, and if doing a production build use yet a third properties file.</p>

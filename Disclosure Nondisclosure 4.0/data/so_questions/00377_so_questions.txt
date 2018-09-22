@@ -1,0 +1,5 @@
+<p>When writing multi-threaded applications, one of the most common problems experienced are race conditions.  </p>
+
+<p>My questions to the community are:</p>
+
+<p>What is a race condition? How do you detect them? How do you handle them? Finally, how do you prevent them from occurring?</p>

@@ -1,0 +1,13 @@
+<p>I'm doing a authorization check from a WinForms application with the help of the AzMan authorization provider from Enterprise Library and am receiving the the following error:</p>
+
+<blockquote>
+  <p>Unable to update the password. The value provided as the current password is incorrect. (Exception from HRESULT: 0x8007052B) (Microsoft.Practices.EnterpriseLibrary.Security.AzMan) </p>
+  
+  <hr>
+  
+  <p>Unable to update the password. The value provided as the current password is incorrect. (Exception from HRESULT: 0x8007052B) (Microsoft.Interop.Security.AzRoles) </p>
+</blockquote>
+
+<p>The AzMan store is hosted in ADAM on another computer in the same domain. Other computers and users do not have this problem. The user making the call has read access to both ADAM and the AzMan store. The computer running the WinForms app and the computer running ADAM are both on Windows XP SP2.</p>
+
+<p>I've had access problems with AzMan before that I've resolved, but this is a new one... What am I missing?</p>

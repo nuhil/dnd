@@ -1,0 +1,6 @@
+<p>My team is moving from Visual SourceSafe to Subversion soon, while developing/supporting a legacy project in Visual Basic 6.0, so I have a couple of questions:</p>
+
+<ul>
+<li>What's the best tool for Subversion IDE integration in Visual Studio 6? (or is it not worth the trouble...)</li>
+<li>Are there any best practices for using Subversion with Visual Basic 6.0? (file types to ignore, etc.)</li>
+</ul>

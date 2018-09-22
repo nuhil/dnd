@@ -1,0 +1,4 @@
+<p>Hey everyone, 
+Is there any known way of listing the WMI classes and their properties available for a particular system? Im interested in a vbscript approach, but please suggest anything really :)</p>
+
+<p>P.S. Great site.</p>

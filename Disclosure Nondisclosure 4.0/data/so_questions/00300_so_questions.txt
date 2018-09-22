@@ -1,0 +1,11 @@
+<p>I have one table "orders" with a foreing key "ProductID".</p>
+
+<p>I want to show the orders in a grid with the <strong>product name</strong>, without <strong>LazyLoad</strong> for better performance, but I if use <strong>DataLoadOptions</strong> it retrieves <strong>all</strong> Product fields, which seams like a <strong>overkill</strong>.</p>
+
+<p>Is there a way to retrieve <strong>only</strong> the Product name in the first query?
+Can I set some attribute in the DBML?</p>
+
+<p>In this <a href="http://visualstudiomagazine.com/listings/list.aspx?id=566" rel="nofollow">table</a> says that "Foreign-key values" are "Visible" in Linq To SQL, but don't know what this means.</p>
+
+<p><strong>Edit</strong>: Changed the title, because I'm not really sure the there is no solution.<br />
+Can't believe no one has the same problem, it is a very common scenario.</p>

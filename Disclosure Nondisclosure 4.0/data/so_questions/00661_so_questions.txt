@@ -1,0 +1,15 @@
+<p>Was considering the <code>System.Collections.ObjectModel ObservableCollection&lt;T&gt;</code> class. This one is strange because  </p>
+
+<ul>
+<li>it has an Add Method which takes <strong>one</strong> item only. No AddRange or equivalent. </li>
+<li>the Notification event arguments has a NewItems property, which is a <strong>IList</strong> (of objects.. not T)</li>
+</ul>
+
+<p>My need here is to add a batch of objects to a collection and the listener also gets the batch as part of the notification. Am I missing something with ObservableCollection ? Is there another class that meets my spec?</p>
+
+<p><em>Update: Don't want to roll my own as far as feasible. I'd have to build in add/remove/change etc.. a whole lot of stuff.</em></p>
+
+<p><hr></p>
+
+<p>Related Q:<br>
+<a href="http://stackoverflow.com/questions/670577/observablecollection-doesnt-support-addrange-method-so-i-get-notified-for-each/670579#670579">http://stackoverflow.com/questions/670577/observablecollection-doesnt-support-addrange-method-so-i-get-notified-for-each</a></p>

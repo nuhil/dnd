@@ -1,0 +1,9 @@
+<p>I've searched for this a little but I have not gotten a particularly straight answer. In C (and I guess C++), how do you determine what comes after the % when using <code>printf</code>?. For example:</p>
+
+<pre><code>double radius = 1.0;
+double area = 0.0;
+area = calculateArea( radius );
+printf( "%10.1f     %10.2\n", radius, area );
+</code></pre>
+
+<p>I took this example straight from a book that I have on the C language. This does not make sense to me at all. Where do you come up with <code>10.1f</code> and <code>10.2f</code>? Could someone please explain this?</p>

@@ -1,0 +1,3 @@
+<p>I have some C# / asp.net code I inherited which has a textbox which I want to make multiline. I did so by adding textmode="multiline" but when I try to insert a newline, the enter key instead submits the form :P</p>
+
+<p>I googled around and it seems like the default behavior should be for enter (or control-enter) to insert a newline. Like I said I inherited the code so I'm not sure if there's javascript monkeying around or if there's just a simple asp.net thing I have to do.</p>

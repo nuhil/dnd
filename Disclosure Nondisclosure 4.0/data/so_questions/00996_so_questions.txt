@@ -1,0 +1,8 @@
+<p>Say I've got this array:
+MyArray(0)="aaa"
+MyArray(1)="bbb"
+MyArray(2)="aaa"</p>
+
+<p>Is there a .net function which can give me the unique values? I would like something like this as an output of the function:
+OutputArray(0)="aaa"
+OutputArray(1)="bbb"</p>

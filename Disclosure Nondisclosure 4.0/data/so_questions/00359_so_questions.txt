@@ -1,0 +1,25 @@
+<p>I am working on a Customer Server Control that extends another control.  There is no problem with attaching to other controls on the form.</p>
+
+<p>in vb.net:  Parent.FindControl(TargetControlName)</p>
+
+<p>I would like to pass a method to the control in the ASPX markup. </p>
+
+<p>for example: &lt;c:MyCustomerControl runat=server InitializeStuffCallback="InitializeStuff"&gt;</p>
+
+<p>So, I tried using reflection to access the given method name from the Parent.</p>
+
+<p>Something like (in VB)</p>
+
+<pre><code>Dim pageType As Type = Page.GetType
+Dim CallbackMethodInfo As MethodInfo = pageType.GetMethod( "MethodName" )
+
+'Also tried 
+sender.Parent.GetType.GetMethod("MethodName")
+sender.Parent.Parent.GetType.GetMethod("MethodName")
+</code></pre>
+
+<p>The method isn't found, because it just isn't apart of the Page.  Where should I be looking?  I'm fairly sure this is possible because I've seen other controls do similar.</p>
+
+<p><hr /></p>
+
+<p>I forgot to mention, my work-around is to give the control events and attaching to them in the Code-behind.</p>

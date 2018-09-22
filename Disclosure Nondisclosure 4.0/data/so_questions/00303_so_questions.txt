@@ -1,0 +1,1 @@
+<p>I know I can programatically make the taskbar item for a particular window start flashing when something changes, but is there any way I can stop it from flashing either programatically after a certain period of time or at least is there a keyboard shortcur I can give to my users to somehow stop the flashing?</p>

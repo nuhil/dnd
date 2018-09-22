@@ -1,0 +1,5 @@
+<p>What tools would you recommend for setting up CI for build and deployment of multiple websites built on DotNetNuke using SVN for source control? </p>
+
+<p>We are currently looking at configuring Cruise Control to work with NAnt, NUnit, NCover and Trac as a test case. What other combinations would worth investigating?</p>
+
+<p>We have full control of our development environment so using some form of CI is certain here but I would also like to convince our production services team that they can reliably deploy to the system test, uat and even production environments using these tools.</p>

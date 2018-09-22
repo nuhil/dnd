@@ -1,0 +1,6 @@
+<p>In Firefox you can enter the following into the awesome bar and hit enter:</p>
+
+<pre><code>javascript:self.resizeTo(1024,768);
+</code></pre>
+
+<p>How do you do the same thing in IE?</p>

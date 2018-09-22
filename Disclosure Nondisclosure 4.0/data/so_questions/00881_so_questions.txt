@@ -1,0 +1,11 @@
+<p>I'm a Java-developer toying with Ruby, and loving it. I have understood that because of Ruby's metaprogramming facilities my unit-tests become much cleaner and I don't need nasty mocking frameworks. I have a class which needs the <code>File</code> class's services and in my test I don't want to touch my real filesystem. In Java I would use some virtual file system for easier "seams" to pass fake-objects in but in Ruby that's obviously overkill. What I come up seems already really nice compared to the Java-world. In my class under test I have an optional constructor parameter: </p>
+
+<pre><code>def initialize(file_class=File)
+</code></pre>
+
+<p>When I need to open files within my class, I can then do this:</p>
+
+<pre><code>@file_class.open(filename)
+</code></pre>
+
+<p>And the call goes to either the real File-class, or in case of my unit-test, it goes to a fake-class which doesn't touch the filesystem. I know there must be a better way to do this with metaprogramming?</p>

@@ -1,0 +1,21 @@
+<p>So I've been poking around with C# a bit lately, and all the Generic Collections have me a little confused. Say I wanted to represent a data structure where the head of a tree was a key value pair, and then there is one optional list of key value pairs below that (but no more levels than these). Would this be suitable?</p>
+
+<pre><code>public class TokenTree
+{
+    public TokenTree()
+    {
+        /* I must admit to not fully understanding this,
+         * I got it from msdn. As far as I can tell, IDictionary is an
+         * interface, and Dictionary is the default implementation of
+         * that interface, right?
+         */
+        SubPairs = new Dictionary&lt;string, string&gt;();
+    }
+
+    public string Key;
+    public string Value;
+    public IDictionary&lt;string, string&gt; SubPairs;
+}
+</code></pre>
+
+<p>It's only really a simple shunt for passing around data.</p>

@@ -1,0 +1,1 @@
+<p>I need to generate thumbnails from a set of jpg's that need to have a small white border so that they appear to be "photos" when displayed on a map. Getting the thumbnails themselves is easy but I can't figure out how to get the border.</p>

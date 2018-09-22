@@ -1,0 +1,5 @@
+<p>What do the clever programmers here do to keep track of handy programming tricks and useful information they pick up over their many years of experience? Things like useful compiler arguments, IDE short-cuts, clever code snippets, etc.</p>
+
+<p>I sometimes find myself frustrated when looking up something that I used to know a year or two ago. My IE favourites probably represent a good chunk of the Internet in the late 1990s, so clearly that isn't effective (at least for me). Or am I just getting old?</p>
+
+<p>So.. what do you do?</p>

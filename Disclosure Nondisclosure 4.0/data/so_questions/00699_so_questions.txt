@@ -1,0 +1,5 @@
+<p>I'm trying to create a standard way of rolling out web applications for our company.  Currently we do it with zip files, vbscript/javascript, and manual some steps.  </p>
+
+<p>For thick client installs we generate MSI installers using Wise/Wix.  We don't create installers currently for websites as in general they are just xcopy deploy.  However we have some config files that need to be changed, verify that certain handlers are registered in IIS...  The list goes on.</p>
+
+<p>Do most people use MSI installers for web applications as well, or some other tool/scripting language?</p>

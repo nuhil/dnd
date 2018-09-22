@@ -1,0 +1,52 @@
+<p>Which class design is better and why?</p>
+
+<pre><code>public class User
+{
+    public String UserName;
+    public String Password;
+    public String FirstName;
+    public String LastName;
+}
+
+public class Employee : User
+{
+    public String EmployeeId;
+    public String EmployeeCode;
+    public String DepartmentId;
+}
+
+public class Member : User
+{
+    public String MemberId;
+    public String JoinDate;
+    public String ExpiryDate;
+}
+</code></pre>
+
+<p>OR</p>
+
+<pre><code>public class User
+{
+    public String UserId;
+    public String UserName;
+    public String Password;
+    public String FirstName;
+    public String LastName;
+}
+
+public class Employee
+{
+    public User UserInfo;
+    public String EmployeeId;
+    public String EmployeeCode;
+    public String DepartmentId;
+}
+
+public class Member
+{
+    public User UserInfo;
+    public String MemberId;
+    public String JoinDate;
+    public String ExpiryDate;
+}
+</code></pre>

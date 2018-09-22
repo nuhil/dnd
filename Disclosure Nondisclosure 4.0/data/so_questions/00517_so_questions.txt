@@ -1,0 +1,3 @@
+<p>I'm using TortoiseSVN against the SourceForge SVN repository. I'd like to move a file from one folder to another in order to maintain its revision history. Is this possible? If so, how do you do it?</p>
+
+<p>(My current strategy has been to copy the file into the new folder and check it in and then delete the file from the current folder.)</p>

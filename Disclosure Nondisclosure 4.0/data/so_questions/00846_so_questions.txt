@@ -1,0 +1,3 @@
+<p>I'm looking for a simple, sample snippet of C# code to monitor an Oracle database and basically check for its last update. It could be either command line (great for future integration with Nagios) or GUI. I've did some prototypes but the code tend to get lengthy as I'm still kind of learning the language.</p>
+
+<p>Any suggestion/comment would be much appreciated.</p>

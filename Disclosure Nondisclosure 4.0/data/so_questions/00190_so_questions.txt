@@ -1,0 +1,11 @@
+<p>We have a situation in our product where for a long time some data has been stored in the application's database as SQL string (choice of MS SQL server or sybase SQL anywhere) which was encrypted via the Windows API function <a href="http://msdn.microsoft.com/en-us/library/aa379924.aspx" rel="nofollow">CryptEncrypt.</a>  (direct and decryptable)</p>
+
+<p>The problem is that CryptEncrypt can produce NULL's in the output, meaning that when it's stored in the database, the string manipulations will at some point truncate the ciphertext.</p>
+
+<p>Ideally we'd like to use an algo that will produce cyphertext that doesn't contain NULLs as that will cause the least amount of change to the existing databases (changing a column from string to binary and code to deal with binary instead of strings) and just decrypt existing data and re-encrypt with the new algo at database upgrade time.</p>
+
+<p>The algorithm doesn't need to be the most secure, as the database is already in a reasonably secure environment (not an open network / teh interwebs) but does need to bebetter than ROT13 (which I can almost decrypt in my head now!)</p>
+
+<p>Cheers</p>
+
+<p>edit: btw, any particular reason for changing ciphertext to cyphertext? ciphertext seems more widely used...</p>

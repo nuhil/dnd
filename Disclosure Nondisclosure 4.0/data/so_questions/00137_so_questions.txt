@@ -1,0 +1,5 @@
+<p>I'm looking for a clear, concise and accurate answer.  </p>
+
+<p>Ideally as the actual answer, although links to good explanations welcome.</p>
+
+<p>This also applies to VB.Net, but the keywords are different - <code>ByRef</code> and <code>ByVal</code>.</p>

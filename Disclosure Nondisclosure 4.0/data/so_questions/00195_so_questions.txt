@@ -1,0 +1,1 @@
+<p>Has anyone worked out how to get PowerShell to use <code>app.config</code> files? I have a couple of .NET DLL's I'd like to use in one of my scripts but they expect their own config sections to be present in <code>app.config</code>/<code>web.config</code>.</p>

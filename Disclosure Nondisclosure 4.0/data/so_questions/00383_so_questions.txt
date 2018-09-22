@@ -1,0 +1,3 @@
+<p>What's the best way to programmatically merge a .reg file into the registry? This is for unit testing; the .reg file is a test artifact which will be added then removed at the start and end of testing.</p>
+
+<p>Or, if there's a better way to unit test against the registry...</p>

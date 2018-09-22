@@ -1,0 +1,6 @@
+<p>Is there any way to save an object using Hibernate if there is already an object using that identifier loaded into the session?</p>
+
+<ul>
+<li>Doing session.contains(obj) seems to only return true if the session contains that exact object, not another object with the same ID.</li>
+<li>Using merge(obj) throws an exception if the object is new</li>
+</ul>

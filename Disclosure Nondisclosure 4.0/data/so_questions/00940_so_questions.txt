@@ -1,0 +1,7 @@
+<p>I am trying to write a spec for a software application. The application takes inputs from static files (configuration data), files that it obtained by ftp, and "live" data obtained via a TCP socket. It does some stuff and generates output data, which is delivered to somebody else via a TCP socket.</p>
+
+<p>It is not so difficult to write a spec describing what the system should do when nothing goes wrong and even describing what it should do when certain things go wrong.</p>
+
+<p>But recent experience has told me that it might be a good idea to include explicitly what some people might call "no-brainers". Like keep the user-configurable data separate from the software, so when an upgrade is installed, it doesn't clobber the user data. Or have user-configurable levels of error logging. Things like that.</p>
+
+<p>Does anyone have a list of basic requirements that they would want <em>any</em> system to have and that <em>any</em> decent software developer would do more or less automatically?</p>

@@ -1,0 +1,6 @@
+<p>Error:</p>
+
+<pre><code>ORA-00161: transaction branch length 103 is illegal (maximum allowed 64…
+</code></pre>
+
+<p>I'm using the DAC from Oracle, any idea if there is a patch for this?</p>

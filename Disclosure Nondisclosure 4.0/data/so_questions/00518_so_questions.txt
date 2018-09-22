@@ -1,0 +1,1 @@
+<p>I have a list of <code>Foo</code>. Foo has properties <code>Bar</code> and <code>Lum</code>. Some <code>Foo</code>s have identical values for <code>Bar</code>. How can I use lambda/linq to group my <code>Foo</code>s by <code>Bar</code> so I can iterate over each grouping's <code>Lum</code>s?</p>

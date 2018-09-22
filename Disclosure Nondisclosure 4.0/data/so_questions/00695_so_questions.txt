@@ -1,0 +1,9 @@
+<p>I am getting this error now that I hit version number 1.256.0:
+Error   4	Invalid product version '1.256.0'. Must be of format '##.##.####'</p>
+
+<p>The installer was fine with 1.255.0 but something with 256 (2^8) it doesn't like.  I found this stated on msdn.com:
+The Version property must be formatted as N.N.N, where each N represents at least one and no more than four digits. (<a href="http://msdn.microsoft.com/en-us/library/d3ywkte8" rel="nofollow">http://msdn.microsoft.com/en-us/library/d3ywkte8</a>(VS.80).aspx)</p>
+
+<p>Which would make me believe there is nothing wrong 1.256.0 because it meets the rules stated above.</p>
+
+<p>Does anyone have any ideas on why this would be failing now?</p>

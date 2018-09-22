@@ -1,0 +1,1 @@
+<p>I would like to write small console based applications on Windows Mobile.  What console applications might I use?</p>

@@ -1,0 +1,11 @@
+<p>If I've got a table containing Field1 and Field2 can I generate a new field in the select statement? For example, a normal query would be:</p>
+
+<pre><code>SELECT Field1, Field2 FROM Table
+</code></pre>
+
+<p>And I want to also create Field3 and have that returned in the resultset... something along the lines of this would be ideal:</p>
+
+<pre><code>SELECT Field1, Field2, Field3 = 'Value' FROM Table
+</code></pre>
+
+<p>Is this possible at all?</p>

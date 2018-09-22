@@ -1,0 +1,9 @@
+<p>I'm using Eclipse 3.4 (Ganymede) with CDT 5 on Windows.</p>
+
+<p>When the integrated spell checker doesn't know some word, it proposes (among others) the option to add the word to a user dictionary.</p>
+
+<p>If the user dictionary doesn't exist yet, the spell checker offers then to help configuring it and shows the "General/Editors/Text Editors/Spelling" preference pane. This preference pane however states that <strong>"The selected spelling engine does not exist"</strong>, but has no control to add or install an engine.</p>
+
+<p>How can I put a spelling engine in existence?</p>
+
+<p>Update: What solved my problem was to install also the JDT. This solution was brought up on 2008-09-07 and was accepted, but is now missing.</p>

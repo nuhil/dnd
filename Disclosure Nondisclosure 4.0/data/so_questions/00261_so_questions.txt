@@ -1,0 +1,3 @@
+<p>Is it possible to call a stored prodcedure from another stored procedure asynchronously?</p>
+
+<p><strong>Edit:</strong> Specifically I'm working with a DB2 database.</p>

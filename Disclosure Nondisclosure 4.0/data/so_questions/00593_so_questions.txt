@@ -1,0 +1,1 @@
+<p>I have a ASP.net 2.0 app and I have made some changes the the source file ( cs files ). I uploaded the changes with the belief that it would auto-recompile. I also have the compiled dll in MY_APP/bin. I checked it and noticed that it did not recompile. Please understand I am new to this.</p>

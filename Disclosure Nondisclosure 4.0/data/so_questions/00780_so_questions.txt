@@ -1,0 +1,1 @@
+<p>How do I call MySQL stored procedures from Perl? Stored procedure functionality is fairly new to MySQL and the MySQL modules for Perl don't seem to have caught up yet.</p>

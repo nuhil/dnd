@@ -1,0 +1,4 @@
+<p>I'd like to create a spring bean that holds the value of a double.     Something like:</p>
+
+<pre><code>&lt;bean id="doubleValue" value="3.7"/&gt;
+</code></pre>

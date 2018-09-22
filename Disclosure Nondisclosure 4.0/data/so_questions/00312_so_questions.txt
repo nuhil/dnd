@@ -1,0 +1,14 @@
+<ol>
+<li>You have multiple network adapters.</li>
+<li>Bind a UDP socket to an local port, without specifying an address.</li>
+<li>Receive packets on one of the adapters.</li>
+</ol>
+
+<p>How do you get the local ip address of the adapter which received the packet?</p>
+
+<p>The question is, "What is the ip address from the receiver adapter?" not the address from the sender which we get in the </p>
+
+<pre><code>receive_from( ..., &amp;senderAddr, ... );
+</code></pre>
+
+<p>call.</p>

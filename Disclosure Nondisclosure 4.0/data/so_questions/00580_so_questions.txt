@@ -1,0 +1,7 @@
+<p>For a project I'm working on. I need to look for an executable on the filesystem. For UNIX derivatives, I assume the user has the file in the mighty $PATH variable, but there is no such thing on Windows.</p>
+
+<p>I can safely assume the file is at most 2 levels deep into the filesystem, but I don't know on what drive it will be. I have to try all drives, but I can't figure out how to list all available drives (which have a letter assigned to it).</p>
+
+<p>Any help?</p>
+
+<p><strong>EDIT:</strong> I know there is a %PATH% variable, but it is not as integrated as in UNIX systems. For instance, the application I'm looking for is OpenOffice. Such software would not be in %PATH%, typically.</p>

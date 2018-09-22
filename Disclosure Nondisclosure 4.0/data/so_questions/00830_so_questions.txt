@@ -1,0 +1,3 @@
+<p>I have some code with multiple functions very similar to each other to look up an item in a list based on the contents of one field in a structure.  The only difference between the functions is the type of the structure that the look up is occurring in.  If I could pass in the type, I could remove all the code duplication.</p>
+
+<p>I also noticed that there is some mutex locking happening in these functions as well, so I think I might leave them alone...</p>

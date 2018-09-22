@@ -1,0 +1,18 @@
+<p>FCKeditor has InsertHtml API (<a href="http://docs.fckeditor.net/FCKeditor_2.x/Developers_Guide/JavaScript_API" rel="nofollow">JavaScript API document</a>) that inserts HTML in the current cursor position. How do I insert at the very end of the document?</p>
+
+<p>Do I need to start browser sniffing with something like this</p>
+
+<pre><code>if ( element.insertAdjacentHTML )    // IE 
+    element.insertAdjacentHTML( 'beforeBegin',  html ) ; 
+else                                // Gecko 
+{ 
+    var oRange = document.createRange() ; 
+    oRange.setStartBefore( element ) ; 
+    var oFragment = oRange.createContextualFragment( html ); 
+    element.parentNode.insertBefore( oFragment,  element ) ; 
+} 
+</code></pre>
+
+<p>or is there a blessed way that I missed?</p>
+
+<p>Edit: Of course, I can rewrite the whole HTML, as answers suggest, but I cannot believe that is the "blessed" way. That means that the browser should destroy whatever it has and re-parse the document from scratch. That cannot be good. For example, I expect that to break the undo stack.</p>

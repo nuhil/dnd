@@ -1,0 +1,7 @@
+<p>Alright, so I'm working on an application which will use a Linux back-end running PostgreSQL to serve up images to a Windows box with the front end written in C#.NET, though the front-end should hardly matter.  My question is:</p>
+
+<ul>
+<li><strong>What is the best way to deal with storing images in Postgres?</strong></li>
+</ul>
+
+<p>The images are around 4-6 megapixels each, and we're storing upwards of 3000.  It might also be good to note: this is not a web application, there will at most be about two front-ends accessing the database at once.</p>

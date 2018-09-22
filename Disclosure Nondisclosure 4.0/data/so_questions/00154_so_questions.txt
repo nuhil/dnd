@@ -1,0 +1,7 @@
+<p>I took a look at the "Beginner's Guide to LINQ" post here on StackOverflow (<a href="http://stackoverflow.com/questions/8050/beginners-guide-to-linq">http://stackoverflow.com/questions/8050/beginners-guide-to-linq</a>), but had a follow-up question:</p>
+
+<p>We're about to ramp up a new project where nearly all of our database op's will be fairly simple data retrievals (there's another segment of the project which already writes the data). Most of our other projects up to this point make use of stored procedures for such things. However, I'd like to leverage LINQ-to-SQL if it makes more sense.</p>
+
+<p>So, the question is this: For simple data retrievals, which approach is better, LINQ-to-SQL or stored procs? Any specific pro's or con's?</p>
+
+<p>Thanks.</p>

@@ -1,0 +1,49 @@
+<p>I'm playing with the routing.rb code in Rails 2.1, and trying to to get it to the point where I can do something useful with the RoutingError exception that is thrown when it can't find the appropriate path.</p>
+
+<p>This is a somewhat tricky problem, because there are some class of URLs which are just plain BAD: the /azenv.php bot attacks, the people typing /bar/foo/baz into the URL, etc... we don't want that.</p>
+
+<p>Then there's subtle routing problems, where we do want to be notified:  /artists/ for example, or ///.  In these situations, we may want an error being thrown, or not... or we get Google sending us URLs which used to be valid but are no longer because people deleted them.</p>
+
+<p>In each of these situations, I want a way to contain, analyze and filter the path that we get back, or at least some Railsy way to manage routing past the normal 'fallback catchall' url.  Does this exist?</p>
+
+<p>EDIT:</p>
+
+<p>So the code here is: </p>
+
+<pre><code># File vendor/rails/actionpack/lib/action_controller/rescue.rb, line 141
+
+def rescue_action_without_handler(exception)
+ log_error(exception) if logger
+ erase_results if performed?
+
+ # Let the exception alter the response if it wants.
+ # For example, MethodNotAllowed sets the Allow header.
+ if exception.respond_to?(:handle_response!)
+   exception.handle_response!(response)
+ end
+
+ if consider_all_requests_local || local_request?
+   rescue_action_locally(exception)
+ else
+  rescue_action_in_public(exception)
+ end
+end
+</code></pre>
+
+<p>So our best option is to override log_error(exception) so that we can filter down the exceptions according to the exception.  So in ApplicationController</p>
+
+<pre><code>def log_error(exception)
+    message = '...'
+    if should_log_exception_as_debug?(exception)
+      logger.debug(message)
+    else
+      logger.error(message)
+    end
+end
+
+def should_log_exception_as_debug?(exception)
+   return (ActionController::RoutingError === exception)
+end
+</code></pre>
+
+<p>Salt for additional logic where we want different controller logic, routes, etc.</p>

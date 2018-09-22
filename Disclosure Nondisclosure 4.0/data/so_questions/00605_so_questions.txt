@@ -1,0 +1,7 @@
+<p>I have to use a third-party component without source code. I have the release DLL and release PDB file. Let's call it 'CorporateComponent.dll'. My own code creates objects from this DLL and calls methods on these objects.</p>
+
+<pre><code>CorpObject o = new CorpObject();
+Int32 result = o.DoSomethingLousy();
+</code></pre>
+
+<p>While debugging, the method 'DoSomethingLousy' throws an exception. What does the PDB file do for me? If it does something nice, how can I be sure I'm making use of it?</p>

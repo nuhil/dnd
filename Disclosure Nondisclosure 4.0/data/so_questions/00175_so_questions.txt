@@ -1,0 +1,10 @@
+<blockquote>
+  <p><strong>Possible Duplicate:</strong><br>
+  <a href="http://stackoverflow.com/questions/476163">NAnt or MSBuild, which one to choose and when?</a>  </p>
+</blockquote>
+
+
+
+<p>What is the best build tool for <a href="http://en.wikipedia.org/wiki/.NET_Framework">.NET</a>?</p>
+
+<p>I currently use <a href="http://en.wikipedia.org/wiki/NAnt">NAnt</a> but only because I have experience with <a href="http://en.wikipedia.org/wiki/Apache_Ant">Ant</a>. Is <a href="http://en.wikipedia.org/wiki/MSBuild">MSBuild</a> preferred?</p>

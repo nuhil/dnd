@@ -1,0 +1,9 @@
+<p>I am developing a web app which requires a username and password to be stored in the web.Config, it also refers to some URLs which will be requested by the web app itself and never the client.</p>
+
+<p>I know the .Net framework will not allow a web.config file to be served, however I still think its bad practice to leave this sort of information in plain text.  </p>
+
+<p>Everything I have read so far requires me to use a command line switch or to store values in the registry of the server.  I have access to neither of these as the host is online and I have only FTP and Control Panel (helm) access.</p>
+
+<p>Can anyone recommend any good, free encryption DLL's or methods which I can use?  I'd rather not develop my own!</p>
+
+<p>Thanks for the feedback so far guys but I am not able to issue commands and and not able to edit the registry.  Its going to have to be an encryption util/helper but just wondering which one!</p>

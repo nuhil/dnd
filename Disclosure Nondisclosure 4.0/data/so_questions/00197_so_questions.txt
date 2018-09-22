@@ -1,0 +1,3 @@
+<p>I asked a couple of coworkers about <a href="http://ankhsvn.open.collab.net" rel="nofollow">AnkhSVN</a> and neither one of them was happy with it. One of them went as far as saying that AnkhSVN has messed up his devenv several times.</p>
+
+<p>What's your experience with AnkhSVN? I really miss having an IDE integrated source control tool.</p>

@@ -1,0 +1,3 @@
+<p>In the Visual Studio toolbar, you can enter commands into the search box by prefixing them with a > symbol. Is there any way to disable this? I've never used the feature, and it's slightly annoying when trying to actually search for something that you know is prefixed by greater-than in the code. It's particularly annoying when you accidentally search for "> exit" and the IDE quits (I knew there was a line in the code that was something like <code>if(counter &gt; exitCount)</code> so entered that search without thinking).</p>
+
+<p>At the very least, can you escape the > symbol so that you can search for it? Prefixing with ^ doesn't seem to work.</p>

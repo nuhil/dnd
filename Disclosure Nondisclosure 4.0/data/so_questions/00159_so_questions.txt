@@ -1,0 +1,5 @@
+<p>I have a project group that contains a project I'm working on as well as some related component and packages. I prefer to keep the database links active during design-time. </p>
+
+<p>I know how to write the code which would change the database file location, but in this case, I'm just using <code>".\data"</code> instead, for various design-time reasons. Unfortunately, using a relative folder means that Delphi needs to be "pointing" to the same folder that the project is in.</p>
+
+<p>I'd like to be able to force the folder location to a different root, without using the "Save As" feature. Does anyone happen to know where the Delphi IDE retrieves that info?</p>

@@ -1,0 +1,17 @@
+<p>I've got a problem here with an MSI deployment that I'm working on (using <a href="http://en.wikipedia.org/wiki/InstallShield" rel="nofollow">InstallShield</a>). We have a program running in the background that needs to run per-user, and it needs to start automatically without user intervention.</p>
+
+<p>The problem is with <a href="http://en.wikipedia.org/wiki/Group_Policy#Operation" rel="nofollow">Group Policy Object</a>/<a href="http://en.wikipedia.org/wiki/Active_Directory" rel="nofollow">Active Directory</a> (GPO/AD) deployment the application is started in the SYSTEM context before anyone is logged in rather than as the user who is about to log in. The application can only run once per user, and it seems that the SYSTEM process prevents the USER process from starting. This means the PCs need to be rebooted twice before the software can be deployed to the users. How do we to stop this?</p>
+
+<p>Basically the current workflow is: </p>
+
+<ol>
+<li>Installation/upgrade runs... kill background application</li>
+<li>Install new files</li>
+<li>Startup background application</li>
+</ol>
+
+<p>This works for published applications and interactive <a href="http://en.wikipedia.org/wiki/Windows_Installer" rel="nofollow">MSI</a> installations - it's only 'assigned' applications that seem to have the problem. As step 3 happens in the SYSTEM context rather than the user context :(</p>
+
+<p>Ideally, I'd have the development team patch the EXE file to prevent launching in the SYSTEM context, but that's a release cycle away, and I'm looking for an installer-based solution for the interim.</p>
+
+<p>(I don't know Installscript... So I'm guessing <a href="http://en.wikipedia.org/wiki/VBScript" rel="nofollow">VBScript</a> is probably the way to go if there's no native InstallShield stuff I can use.)</p>

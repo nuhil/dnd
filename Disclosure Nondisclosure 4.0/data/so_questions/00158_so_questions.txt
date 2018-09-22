@@ -1,0 +1,5 @@
+<p>I am using xampp on Windows, but I would like to use something closer to my server setup.</p>
+
+<p><a href="http://phpimpact.wordpress.com/2008/05/24/virtual-appliances-lamp-development-made-easy/" rel="nofollow">Federico Cargnelutti tutorial</a> explains how to setup LAMP VMWARE appliance; it is a great introduction to VMware appliances, but one of the commands was not working and it doesn't describe how to change the keyboard layout and the timezone.</p>
+
+<p>ps: the commands are easy to find but I don't want to look for them each time I reinstall the server. I am using this question as a reminder.</p>

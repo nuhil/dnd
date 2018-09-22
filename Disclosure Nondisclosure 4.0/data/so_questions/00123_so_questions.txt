@@ -1,0 +1,1 @@
+<p>I've got some Japanese in the ALT attribute, but the tooltip is showing me the ugly block characters in the tooltip.  The rest of the content on the page renders correctly.  So far, it seems to be limited to the tooltips.</p>

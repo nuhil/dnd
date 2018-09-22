@@ -1,0 +1,13 @@
+<p>We are trying to lighten our page load as much as possible. Since ViewState can sometimes swell up to 100k of the page, I'd love to completely eliminate it.</p>
+
+<p>I'd love to hear some techniques other people have used to move ViewState to a custom provider.</p>
+
+<p>That said, a few caveats:</p>
+
+<ul>
+<li>We serve on average 2 Million unique visitors per hour.</li>
+<li>Because of this, Database reads have been a serious issue in performance, so I don't want to store ViewState in the database.</li>
+<li>We also are behind a load balancer, so any solution has to work with the user bouncing from machine to machine per postback.</li>
+</ul>
+
+<p>Ideas?</p>

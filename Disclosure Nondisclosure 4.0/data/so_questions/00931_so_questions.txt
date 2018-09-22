@@ -1,0 +1,5 @@
+<p><strong>Scenario:</strong>  Several people go on holiday together, armed with digital cameras, and snap away. Some people remembered to adjust their camera clocks to local time, some left them at their home time, some left them at local time of the country they were born in, and some left their cameras on factory time.</p>
+
+<p><strong>The Problem:</strong> Timestamps in the EXIF metadata of photos will not be synchronised, making it difficult to aggregate all the photos into one combined collection.</p>
+
+<p><strong>The Question:</strong> Assuming that you have discovered the deltas between all of the camera clocks, What is the <em>simplest</em> way to correct these timestamp differences in Windows Vista?</p>

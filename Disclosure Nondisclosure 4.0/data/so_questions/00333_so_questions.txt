@@ -1,0 +1,32 @@
+<p>I currently use the following function to do a simple HTTP GET.</p>
+
+<pre><code>public static String download(String url) throws java.io.IOException {
+    java.io.InputStream s = null;
+    java.io.InputStreamReader r = null;
+    //java.io.BufferedReader b = null;
+    StringBuilder content = new StringBuilder();
+    try {
+        s = (java.io.InputStream)new URL(url).getContent();
+
+        r = new java.io.InputStreamReader(s);
+        //b = new java.io.BufferedReader(r);
+
+        char[] buffer = new char[4*1024];
+        int n = 0;
+        while (n &gt;= 0) {
+            n = r.read(buffer, 0, buffer.length);
+            if (n &gt; 0) {
+                content.append(buffer, 0, n);
+            }
+        }
+    }
+    finally {
+        //if (b != null) b.close();
+        if (r != null) r.close();
+        if (s != null) s.close();
+    }
+    return content.toString();
+}
+</code></pre>
+
+<p>I see no reason to use the <code>BufferedReader</code> since I am just going to download everything in sequence. Am I right in thinking there is no use for the <code>BufferedReader</code> in this case?</p>

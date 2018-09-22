@@ -1,0 +1,14 @@
+<blockquote>
+  <p>Unit testing is, roughly speaking, testing bits of your code in isolation with test code. The immediate advantages that come to mind are:</p>
+  
+  <ul>
+  <li>Running the tests becomes automate-able and repeatable</li>
+  <li>You can test at a much more granular level than point-and-click testing via a GUI</li>
+  </ul>
+  
+  <p><a href="http://stackoverflow.com/questions/1383/what-is-unit-testing">Rytmis</a></p>
+</blockquote>
+
+<p>My question is, what are the current "best practices" in terms of tools as well as when and where to use unit testing as part of your daily coding?</p>
+
+<p>Lets try to be somewhat language agnostic and cover all the bases.</p>

@@ -1,0 +1,18 @@
+<p>I have a site I made really fast that uses floats to display different sections of content. The floated content and the content that has an additional margin both appear fine in FF/IE, but on safari one of the divs is completely hidden. I've tried switching to <code>padding</code> and <code>position:relative</code>, but nothing has worked for me. If I take out the code to display it to the right it shows up again but under the floated content.</p>
+
+<p>The main section of css that seems to be causing the problem is:</p>
+
+<pre class="lang-css prettyprint-override"><code>#settings{
+    float:left;
+}
+
+#right_content{
+    margin-top:20px;
+    margin-left:440px;
+    width:400px;
+}
+</code></pre>
+
+<p>This gives me the same result whether I specify a size to the #settings div or not. Any ideas would be appreciated.</p>
+
+<p>The site is available at: <a href="http://frickinsweet.com/tools/Theme.mvc.aspx" rel="nofollow">http://frickinsweet.com/tools/Theme.mvc.aspx</a> to see the source code.</p>

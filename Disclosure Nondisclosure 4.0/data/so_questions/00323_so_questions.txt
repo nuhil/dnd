@@ -1,0 +1,7 @@
+<p>Yes, it sounds crazy....It might be.</p>
+
+<p>The final updatepanel does not appear to trigger anything, it just refreshes the update panels and does not call back to the usercontrol hosting it.</p>
+
+<p>Any ideas?</p>
+
+<p>EDIT: I got it posting back, however the controls inside the final usercontrol have lost their data...I'm thinking its because the main repeater is rebinding on each postback...Not sure where to take this one now.</p>

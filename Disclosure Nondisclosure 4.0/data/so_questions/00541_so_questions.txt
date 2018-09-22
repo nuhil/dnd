@@ -1,0 +1,17 @@
+<p>I am trying to publish an Asp.net MVC web application locally using the NAnt and MSBuild. This is what I am using for my NAnt target;</p>
+
+<pre><code>&lt;target name="publish-artifacts-to-build"&gt;
+    &lt;msbuild project="my-solution.sln" target="Publish"&gt;
+      &lt;property name="Configuration" value="debug" /&gt;
+      &lt;property name="OutDir" value="builds\" /&gt;
+      &lt;arg line="/m:2 /tv:3.5" /&gt;
+    &lt;/msbuild&gt;
+&lt;/target&gt;
+</code></pre>
+
+<p>and all I get is this as a response;</p>
+
+<pre><code>[msbuild]          Skipping unpublishable project.
+</code></pre>
+
+<p>Is it possible to publish web applications via the command line in this way?</p>

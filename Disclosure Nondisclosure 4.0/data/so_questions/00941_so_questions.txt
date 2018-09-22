@@ -1,0 +1,7 @@
+<p>Our application commonly used an ActiveX control to download and install our client on IE (XP and prior), however as our user base has drifted towards more Vista boxes with "Protected Mode" on, we are required to investigate.</p>
+
+<p>So going forward, is it worth the headache of trying to use the protected mode API?  Is this going to result in a deluge of dialog boxes and admin rights to do the things our app needs to do (write to some local file places, access some other applications, etc)?</p>
+
+<p>I'm half bent on just adding a non-browser based installer app that will do the dirty work of downloading and installing the client, if need be... this would only need to be installed once and in large corporate structures it could be pushed out by IT.</p>
+
+<p>Are there some other ideas I'm missing?</p>

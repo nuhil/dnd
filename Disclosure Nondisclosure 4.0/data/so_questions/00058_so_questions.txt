@@ -1,0 +1,9 @@
+<p>My organization has a form to allow users to update their email address with us.
+It's suggested that we have two input boxes for email: the second as an email confirmation.</p>
+
+<p>I always copy/paste my email address when faced with the confirmation.
+I'm assuming most of our users are not so savvy.</p>
+
+<p>Regardless, is this considered a good practice?
+I can't stand it personally, but I also realize it probably isn't meant for me.
+If someone screws up their email, they can't login, and they must call to sort things out.</p>

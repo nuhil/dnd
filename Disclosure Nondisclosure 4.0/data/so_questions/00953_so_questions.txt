@@ -1,0 +1,22 @@
+<p>I've had a new found interest in building a small, efficient web server in C and have had some trouble parsing POST methods from the HTTP Header. Would anyone have any advice as to how to handle retrieving the name/value pairs from the "posted" data?</p>
+
+<pre><code>POST /test HTTP/1.1
+Host: test-domain.com:7017
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://test-domain.com:7017/index.html
+Cookie: __utma=43166241.217413299.1220726314.1221171690.1221200181.16; __utmz=43166241.1220726314.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+Cache-Control: max-age=0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 25
+
+field1=asfd&amp;field2=a3f3f3
+// ^-this
+</code></pre>
+
+<p>I see no tangible way to retrieve the bottom line as a whole and ensure that it works every time. I'm not a fan of hard-coding in anything.</p>

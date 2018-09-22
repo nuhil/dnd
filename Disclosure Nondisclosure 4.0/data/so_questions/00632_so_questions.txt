@@ -1,0 +1,12 @@
+<p>I'm pretty sure the answer to this question is no, but in case there's some PHP guru</p>
+
+<p>is it possible to write a function in a way where invalid arguments or non existent variables can be passed in and php will not error without the use of <code>'@'</code></p>
+
+<p>Much like empty and isset do. You can pass in a variable you just made up and it won't error.</p>
+
+<pre><code>ex:
+
+empty($someBogusVar); // no error
+
+myHappyFunction($someBogusVar); // Php warning / notice
+</code></pre>

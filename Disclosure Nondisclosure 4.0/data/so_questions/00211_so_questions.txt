@@ -1,0 +1,11 @@
+<p>I'd like to take some RTF input and clean it to remove all RTF formatting except \ul \b \i to paste it into Word with minor format information.</p>
+
+<p>The command used to paste into Word will be something like:
+oWord.ActiveDocument.ActiveWindow.Selection.PasteAndFormat(0) (with some RTF text already in the Clipboard)</p>
+
+<pre><code>{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Courier New;}}
+{\colortbl ;\red255\green255\blue140;}
+\viewkind4\uc1\pard\highlight1\lang3084\f0\fs18 The company is a global leader in responsible tourism and was \ul the first major hotel chain in North America\ulnone  to embrace environmental stewardship within its daily operations\highlight0\par
+</code></pre>
+
+<p>Do you have any idea on how I can clean up the RTF safely with some regular expressions or something? I am using VB.NET to do the processing but any .NET language sample will do.</p>

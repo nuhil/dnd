@@ -1,0 +1,5 @@
+<p>Python frameworks always provide ways to handle URLs that convey the data of the request in an elegant way, like for example <a href="http://somewhere.overtherainbow.com/userid/123424/">http://somewhere.overtherainbow.com/userid/123424/</a></p>
+
+<p>I want you to notice the ending path <strong>/userid/123424/</strong></p>
+
+<p>How do you do this in ASP.NET?</p>

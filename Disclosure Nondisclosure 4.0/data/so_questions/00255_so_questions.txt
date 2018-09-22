@@ -1,0 +1,2 @@
+<p>What can be reasons to prevent a class from being inherited? (e.g. using sealed on a c# class)
+Right now I can't think of any.</p>

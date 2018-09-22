@@ -1,0 +1,5 @@
+<p>I'm supposed to learn how to use <a href="http://www.ni.com/labview/">LabVIEW</a> for my new job, and I'm wondering if anybody can recommend some good books or reference/tutorial web sites.</p>
+
+<p>I'm a senior developer with lots of Java/C#/C++ experience.</p>
+
+<p>I realize that this question is perhaps more vague than is intended on stack overflow, so how about this? Please answer with one book or web site and a brief description. Then people can vote up their favourites.</p>

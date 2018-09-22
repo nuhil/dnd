@@ -1,0 +1,5 @@
+<p>I've been utlising a "web browser control" in desktop based applications (in my case Windows Forms .NET) for a number of years.  I mostly use it to create a familiar flow-based user interface that also allows a seamless transition to the internet where required.</p>
+
+<p>I'm really tired of the IE browser control because of the poor quality html it generates on output.  Also,  I guess that it is really just IE7 behind the scenes and so has many of that browser "issues".  Despite this, it is quite a powerful control and provides rich interaction with your desktop app.</p>
+
+<p>So, what other alternatives to the IE browser control are there?  I looked at a Mosaic equivalent a year ago but was disappointed with the number of unimplemented features, maybe this has improved recently?</p>

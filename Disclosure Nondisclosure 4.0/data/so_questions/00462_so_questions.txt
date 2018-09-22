@@ -1,0 +1,19 @@
+<p>.NET Framework: 2.0
+Preferred Language: C#</p>
+
+<p>I am new to TDD (Test Driven Development).</p>
+
+<p>First of all, is it even possible to unit test Windows Service?</p>
+
+<p>Windows service class is derived from ServiceBase, which has overridable methods, </p>
+
+<ol>
+<li>OnStart </li>
+<li>OnStop</li>
+</ol>
+
+<p>How can I trigger those methods to be called as if unit test is an actual service that calls those methods in proper order?</p>
+
+<p>At this point, am I even doing a Unit testing? or an Integration test?</p>
+
+<p>I have looked at WCF service question but it didn't make any sense to me since I have never dealt with WCF service.</p>

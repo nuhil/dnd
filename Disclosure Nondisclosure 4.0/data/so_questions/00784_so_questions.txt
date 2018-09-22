@@ -1,0 +1,1 @@
+<p>I don't want to take the time to learn Obj-C. I've spent 7+ years doing web application programming. Shouldn't there be a way to use the WebView and just write the whole app in javascript, pulling the files right from the resources of the project?</p>

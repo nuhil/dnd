@@ -1,0 +1,5 @@
+<p>I'm really beginning to understand what people mean when they say that C++'s error messages are pretty terrible in regards to templates.  I've seen horrendously long errors for things as simple as a function not matching its prototype.</p>
+
+<p>Are there any tricks to deciphering these errors?</p>
+
+<p>EDIT:  I'm using both gcc and MSVC.  They both seem to be pretty terrible.</p>

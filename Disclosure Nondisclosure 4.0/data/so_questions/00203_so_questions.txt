@@ -1,0 +1,5 @@
+<p>I've spent my downtime at work this summer writing a framework of sorts for facilitating my day to day work. In short it loads a xml with markup that defines the blocks of the site, their content and the styling of these (very similar to html), handles the loading of assets and such.</p>
+
+<p>Now I'm rather pleased with how this is turning out, and I've been itching to release some of my code for public use (and scrutiny). I'm also reasonably sure that it fills a void for quick and easy construction of sites (or parts of them).</p>
+
+<p><strong><em>What would be the best arguments to convince my boss/coworkers that releasing this under an open source license is a good idea?</em></strong></p>

@@ -1,0 +1,9 @@
+<p>Some things that I personally find as shortcomings in the MATLAB Editor:</p>
+
+<ul>
+<li>virtually no code completion available</li>
+<li>does not run OS native (on MacOS) - but in X-Environment (shortcuts, copy&amp;paste problems, keymappings, non intuitive window-managing)</li>
+<li>virtually no refactoring tools</li>
+</ul>
+
+<p>Are there alternative editors with these features?</p>

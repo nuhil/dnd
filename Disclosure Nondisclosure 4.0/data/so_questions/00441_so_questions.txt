@@ -1,0 +1,13 @@
+<p>We are working on designing an application that is typically OLTP (think: purchasing system). However, this one in particular has the need that some users will be offline, so they need to be able to download the DB to their machine, work on it, and then sync back once they're on the LAN.</p>
+
+<p>I would like to note that I know this has been done before, I just don't have experience with this particular model.</p>
+
+<p>One idea I thought about was using GUIDs as table keys. So for example, a Purchase Order would not have a number (auto-numeric) but a GUID instead, so that every offline client can generate those, and I don't have clashes when I connect back to the DB.</p>
+
+<p>Is this a bad idea for some reason?
+Will access to these tables through the GUID key be slow?</p>
+
+<p>Have you had experience with these type of systems? How have you solved this problem?</p>
+
+<p>Thanks!<br />
+Daniel</p>

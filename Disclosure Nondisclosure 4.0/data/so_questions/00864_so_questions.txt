@@ -1,0 +1,55 @@
+<p>What advantage, if any, is provided by formatting C code as follows:</p>
+
+<pre><code>while(lock_file(lockdir)==0)
+    {
+    count++;
+    if(count==20)
+        {
+        fprintf(stderr,"Can't lock dir %s\n",lockdir);
+        exit(1);
+        }
+    sleep(3);
+    }
+if(rmdir(serverdir)!=0)
+    {
+    switch(errno)
+        {
+        case EEXIST:
+            fprintf(stderr,"Server dir %s not empty\n",serverdir);
+            break;
+        default:
+            fprintf(stderr,"Can't delete dir %s\n",serverdir);
+        }
+    exit(1);
+    }
+unlock_file(lockdir);
+</code></pre>
+
+<p>versus something more typical such as</p>
+
+<pre><code>while(lock_file(lockdir)==0) {
+    count++;
+    if(count==20) {
+        fprintf(stderr,"Can't lock dir %s\n",lockdir);
+        exit(1);
+    }
+    sleep(3);
+}
+if(rmdir(serverdir)!=0) {
+    switch(errno) {
+        case EEXIST:
+            fprintf(stderr,"Server dir %s not empty\n",serverdir);
+            break;
+        default:
+            fprintf(stderr,"Can't delete dir %s\n",serverdir);
+    }
+    exit(1);
+}
+unlock_file(lockdir);
+</code></pre>
+
+<p>I just find the top version difficult to read and to get the indenting level correct for statements outside of a long block, especially for longs blocks containing several nested blocks.</p>
+
+<p>Only advantage I can see is just to be different and leave your fingerprints on code that you've written.</p>
+
+<p>I notice vim formatting would have to be hand-rolled to handle the top case.</p>

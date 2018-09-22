@@ -1,0 +1,27 @@
+<p>here is what a I'm doing:  </p>
+
+<pre><code>object ReturnMatch(System.Type type)  
+{  
+    foreach(object obj in myObjects)  
+    {
+        if (obj == type)  
+        {  
+            return obj;  
+        }  
+    }  
+}
+</code></pre>
+
+<p>However, if obj is a subclass of <code>type</code>, it will not match. But I would like the function to return the same way as if I was using the operator <code>is</code>.</p>
+
+<p>I tried the following, but it won't compile:</p>
+
+<pre><code>if (obj is type) // won't compile in C# 2.0
+</code></pre>
+
+<p>The best solution I came up with was:</p>
+
+<pre><code>if (obj.GetType().Equals(type) || obj.GetType().IsSubclassOf(type))
+</code></pre>
+
+<p>Isn't there a way to use operator <code>is</code> to make the code cleaner?</p>

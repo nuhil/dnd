@@ -1,0 +1,4 @@
+<p>How do I detect if the system has a default recording device installed?
+I bet this can be done through some calls to the Win32 API, anyone has any experience with this?</p>
+
+<p>I'm talking about doing this through code, not by opening the control panel and taking a look under sound options.</p>

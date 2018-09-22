@@ -1,0 +1,5 @@
+<p>For data types such as std::set and std::map where lookup occurs in logarithmic time, is the implementation required to maintain the begin and end iterators? Does accessing begin and end imply a lookup that could occur in logarithmic time?</p>
+
+<p>I have always assumed that begin and end always occur in constant time, however I can't find any confirmation of this in Josuttis. Now that I'm working on something where I need to be anal about performance, I want to make sure to cover my bases.</p>
+
+<p>Thanks</p>

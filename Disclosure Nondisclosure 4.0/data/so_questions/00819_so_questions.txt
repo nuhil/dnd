@@ -1,0 +1,13 @@
+<p>I want a user-privileged (not root) process to launch new processes as user <code>nobody</code>. I've tried a straight call to <code>setuid</code> that fails with -1 <code>EPERM</code> on <code>Ubuntu 8.04</code>:</p>
+
+<pre><code>#include &lt;sys/types.h&gt;
+#include &lt;unistd.h&gt;
+
+int main() { 
+       setuid(65534);
+       while (1);
+       return 0;
+}
+</code></pre>
+
+<p>How should I do this instead?</p>

@@ -1,0 +1,7 @@
+<p>I'm a complete Xcode/Objective-C/Cocoa newbie but I'm learning fast and really starting to enjoy getting to grips with a new language, platform and paradigm.</p>
+
+<p>One thing is though, having been using Visual Studio with R# for so long I've kind of been spoiled with the coding tools such as refactorings and completion etc and as far as I can tell Xcode has some fairly limited built in support for this stuff.</p>
+
+<p>On that note, does anyone know if any add-ins or whatever are available for the Xcode environment which add coding helpers such as automatically generating implementation skeletons from a class interface definition etc? </p>
+
+<p>I suspect there aren't but I suppose it can't help to ask.</p>

@@ -1,0 +1,7 @@
+<p>I'm trying to find out what the performance of a large directory structure would be if deep directories were to be accessed on a shared, nfs filesystem. The structure would be excessively large, with 4 levels of nested directories, each level containing 1024 directories. (1024 at root, 1024 in a given subdirectory, and so on).</p>
+
+<p>This filesystem would be on a network repository that users would be accessing for their personal information. The data would be replicated on multiple servers and load-balanced, but still, each machine would have a decent load at all times.</p>
+
+<p>If the 4th level contained the information that the users were looking for, how bad would the performance be? If all were accessing different subdirectories? Could this be resolved by caching inode information, or no? </p>
+
+<p>I've been searching on this for a while, but I'm primarily finding information on large files rather than large directory structures. </p>

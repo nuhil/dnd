@@ -1,0 +1,67 @@
+<p>What is the fastest, easiest tool or method to convert text files between character sets?</p>
+
+<p>Specifically, I need to convert from UTF-8 to ISO-8859-15 and vice versa.</p>
+
+<p>Everything goes: one-liners in your favorite scripting language, command-line tools or other utilities for OS, web sites, etc.</p>
+
+<h2>Best solutions so far:</h2>
+
+<p>On Linux/UNIX/OS X/cygwin:</p>
+
+<ul>
+<li><p>Gnu <a href="http://www.gnu.org/software/libiconv/documentation/libiconv/iconv.1.html">iconv</a> suggested by <a href="http://stackoverflow.com/questions/64860/best-way-to-convert-text-files-between-character-sets#64889">Troels Arvin</a> is best used <strong>as a filter</strong>. It seems to be universally available. Example:</p>
+
+<pre><code>$ iconv -f UTF-8 -t ISO-8859-15 in.txt &gt; out.txt
+</code></pre>
+
+<p>As pointed out by <a href="http://stackoverflow.com/questions/64860/best-way-to-convert-text-files-between-character-sets#64991">Ben</a>, there is an <a href="http://www.iconv.com/iconv.htm">online converter using iconv</a>.</p></li>
+<li><p>Gnu <a href="http://www.gnu.org/software/recode/recode.html">recode</a> (<a href="http://www.informatik.uni-hamburg.de/RZ/software/gnu/utilities/recode_toc.html">manual</a>) suggested by <a href="http://stackoverflow.com/questions/64860/best-way-to-convert-text-files-between-character-sets#64888">Cheekysoft</a> will convert <strong>one or several files in-place</strong>. Example:</p>
+
+<pre><code>$ recode UTF8..ISO-8859-15 in.txt
+</code></pre>
+
+<p>This one uses shorter aliases:</p>
+
+<pre><code>$ recode utf8..l9 in.txt
+</code></pre>
+
+<p>Recode also supports <em>surfaces</em> which can be used to convert between different line ending types and encodings:</p>
+
+<p>Convert newlines from LF (Unix) to CR-LF (DOS):</p>
+
+<pre><code>$ recode ../CR-LF in.txt
+</code></pre>
+
+<p>Base64 encode file:</p>
+
+<pre><code>$ recode ../Base64 in.txt
+</code></pre>
+
+<p>You can also combine them.</p>
+
+<p>Convert a Base64 encoded UTF8 file with Unix line endings to Base64 encoded Latin 1 file with Dos line endings:</p>
+
+<pre><code>$ recode utf8/Base64..l1/CR-LF/Base64 file.txt
+</code></pre></li>
+</ul>
+
+<p>On Windows with <a href="http://www.microsoft.com/windowsserver2003/technologies/management/powershell/default.mspx">Powershell</a> (<a href="http://stackoverflow.com/questions/64860/best-way-to-convert-text-files-between-character-sets#64937">Jay Bazuzi</a>): </p>
+
+<ul>
+<li><p><code>PS C:\&gt; gc -en utf8 in.txt | Out-File -en ascii out.txt</code></p>
+
+<p>(No ISO-8859-15 support though; it says that supported charsets are unicode, utf7, utf8, utf32, ascii, bigendianunicode, default, and oem.)</p></li>
+</ul>
+
+<h2>Edit</h2>
+
+<p>Do you mean iso-8859-1 support? Using "String" does this e.g. for vice versa</p>
+
+<pre><code>gc -en string in.txt | Out-File -en utf8 out.txt
+</code></pre>
+
+<p>Note: The possible enumeration values are "Unknown, String, Unicode, Byte, BigEndianUnicode, UTF8, UTF7, Ascii".</p>
+
+<ul>
+<li>CsCvt - <a href="http://www.cscvt.de">Kalytta's Character Set Converter</a> is another great command line based conversion tool for Windows.</li>
+</ul>

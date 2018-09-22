@@ -1,0 +1,1 @@
+<p>ASP.NET 2.0 web application, how to implement shortcut key combination of CTRL + , preferably through javascript, to make web application ergonomically better? How to capture multiple-key keyboard events through javascript?</p>

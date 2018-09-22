@@ -1,0 +1,8 @@
+<blockquote>
+  <p><strong>Possible Duplicate:</strong><br>
+  <a href="http://stackoverflow.com/questions/46663/how-do-you-send-email-from-a-java-app-using-gmail">How do you send email from a Java app using Gmail?</a>  </p>
+</blockquote>
+
+
+
+<p>How do I send an SMTP Message from Java?</p>

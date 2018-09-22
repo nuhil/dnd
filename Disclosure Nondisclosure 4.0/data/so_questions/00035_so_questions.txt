@@ -1,0 +1,33 @@
+<p>I am getting the following error:</p>
+
+<blockquote>
+  <p>Access denied for user 'apache'@'localhost' (using password: NO)</p>
+</blockquote>
+
+<p>When using the following code:</p>
+
+<pre><code>&lt;?php
+
+include("../includes/connect.php");
+
+$query = "SELECT * from story";
+
+$result = mysql_query($query) or die(mysql_error());
+
+echo "&lt;h1&gt;Delete Story&lt;/h1&gt;";
+
+if (mysql_num_rows($result) &gt; 0) {
+    while($row = mysql_fetch_row($result)){
+          echo '&lt;b&gt;'.$row[1].'&lt;/b&gt;&lt;span align="right"&gt;&lt;a href="../process/delete_story.php?id='.$row[0].'"&gt;Delete&lt;/a&gt;&lt;/span&gt;';
+      echo '&lt;br /&gt;&lt;i&gt;'.$row[2].'&lt;/i&gt;';
+    }
+}
+else {
+   echo "No stories available.";
+}
+?&gt;
+</code></pre>
+
+<p>The connect.php file contains my MySQL connect calls that are working fine with my INSERT queries in another portion of the software.  If I comment out the $result = mysql_query line, then it goes through to the else statement.  So, it is that line or the content in the if.</p>
+
+<p>I have been searching the net for any solutions, and most seem to be related to too many MySQL connections or that the user I am logging into MySQL as does not have permission.  I have checked both.  I can still perform my other queries elsewhere in the software, and I have verified that the account has the correct permissions.</p>

@@ -1,0 +1,1 @@
+<p>What are good libraries for C with datastructures like vectors, deques, stacks, hashmaps, treemaps, sets, etc.? Plain C, please, and platform-independent.</p>

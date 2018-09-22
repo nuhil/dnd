@@ -1,0 +1,3 @@
+<p>I wish I were a CSS smarty .... </p>
+
+<p>How can you place a div container in the lower left-hand corner of the web page; taking into account the users scroll-position?</p>

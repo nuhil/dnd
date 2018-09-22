@@ -1,0 +1,6 @@
+<p>On a file path field, I want to capture the directory path like:</p>
+
+<pre><code>textbox1.Text = directory path
+</code></pre>
+
+<p>Anyone?</p>

@@ -1,0 +1,10 @@
+<p>I am looking for a Web Framework to move windows based applications to the web.</p>
+
+<p>The main requirements to WF are the following:</p>
+
+<ol>
+<li>unit tests support</li>
+<li>desktop and mobile browsers support</li>
+<li>long term viability</li>
+<li>maturity of the framework</li>
+</ol>

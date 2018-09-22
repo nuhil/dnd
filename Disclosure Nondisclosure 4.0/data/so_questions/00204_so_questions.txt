@@ -1,0 +1,4 @@
+<p>When opening a file from your hard drive into your browser, where is the document root?  To illustrate, given the following HTML code, if the page is opened from the local machine(file:///) then where should the css file be for the browser to find it?</p>
+
+<pre><code>&lt;link href="/temp/test.css" rel="stylesheet" type="text/css" /&gt;
+</code></pre>

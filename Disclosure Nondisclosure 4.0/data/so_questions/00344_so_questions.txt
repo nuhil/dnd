@@ -1,0 +1,5 @@
+<p>I have been working on a web services related project for about the last year.  Our team found <a href="http://www.soapui.org">soapUI</a> near the start of our project and we have been <em>mostly</em>(*) satisfied with it (the free version, that is).</p>
+
+<p>My question is: are there other tools/clients/frameworks that you have used/currently use for web services testing and would recommend?</p>
+
+<p>(*) There are some weird GUI glitches that appear once in a while.  As is mentioned by some of the answers, we attributed this to a memory leak.</p>

@@ -1,0 +1,24 @@
+<p>Is there a way to get the current xml data when we make our own custom XPath function (see here).</p>
+
+<p>I know you have access to an <code>XPathContext</code> but is this enough?</p>
+
+<p><strong>Example:</strong></p>
+
+<p>Our XML:</p>
+
+<pre><code>&lt;foo&gt;
+  &lt;bar&gt;smang&lt;/bar&gt;
+  &lt;fizz&gt;buzz&lt;/fizz&gt;
+&lt;/foo&gt;
+</code></pre>
+
+<p>Our XSL:</p>
+
+<pre><code>&lt;xsl:template match="/"&gt;
+  &lt;xsl:value-of select="ourFunction()" /&gt;
+&lt;/xsl:template&gt;
+</code></pre>
+
+<p>How do we get the entire XML tree?</p>
+
+<p><strong>Edit:</strong> To clarify: I'm creating a custom function that ends up executing static Java code (it's a Saxon feature). So, in this Java code, I wish to be able to get elements from the XML tree, such as bar and fizz, and their CDATA, such as smang and buzz.</p>

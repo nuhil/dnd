@@ -1,0 +1,1 @@
+<p>I want to use the  MultipleLookupField control in a web page that will run in the context of SharePoint. I was wondering if anyone would help me with an example, which shows step by step how to use the control two display two SPField Collections.</p>

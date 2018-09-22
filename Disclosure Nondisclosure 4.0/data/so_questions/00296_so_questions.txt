@@ -1,0 +1,3 @@
+<p>We have a number of users with Windows Mobile 6 and need to apply minor changes. eg. update a registry setting. One option is push and execute an executable file using our device management software.</p>
+
+<p>I'd like this to be a little more friendly for the admins who are familiar with scripting in VBScript/JScript etc. What are the options for scripting on Windows Mobile devices?</p>

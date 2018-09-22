@@ -1,0 +1,11 @@
+<p>I have written some code in my VB.NET application to send an HTML e-mail (in this case, a lost password reminder).</p>
+
+<p>When I test the e-mail, it gets eaten by my spam filter.  One of the things that it's scoring badly on is because of the following problem:</p>
+
+<pre>MIME_QP_LONG_LINE  RAW: Quoted-printable line longer than 76 chars</pre>
+
+<p>I've been through the source of the e-mail, and I've broken each line longer than 76 characters into two lines with a CR+LF in between, but that hasn't fixed the problem.</p>
+
+<p>Can anyone point me in the right direction?</p>
+
+<p>Thanks!</p>

@@ -1,0 +1,11 @@
+<p>I need to grab the base64-encoded representation of the ViewState. Obviously this would not be available until fairly late in the request lifecycle, which is OK.</p>
+
+<p>For example, if the output of the page includes:</p>
+
+<pre><code>&lt;input type="hidden" name="__VIEWSTATE" 
+  id="__VIEWSTATE" value="/wEPDwUJODU0Njc5MD...==" /&gt;
+</code></pre>
+
+<p>I need a way on the server side to get the value <code>"/wEPDwUJODU0Njc5MD...=="</code></p>
+
+<p>To clarify, I need this value when the page is being rendered, not on PostBack. e.g. I need to know the ViewState value that is being <em>sent</em> to the client, not the ViewState I'm getting back from them.</p>

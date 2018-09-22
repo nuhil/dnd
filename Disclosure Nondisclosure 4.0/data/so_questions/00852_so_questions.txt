@@ -1,0 +1,1 @@
+<p>I have a script that renders graphs in gnuplot. The graphs all end up with an ugly white background. How do I change this? (Ideally, with a command that goes into a gnuplot script, as opposed to a command-line option or something in a settings file)</p>

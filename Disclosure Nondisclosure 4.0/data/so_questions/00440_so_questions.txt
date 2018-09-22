@@ -1,0 +1,26 @@
+<p>Is it true that the only way to handle default function arguments is through function overloading?</p>
+
+<p>For example, in PHP I can do this:</p>
+
+<pre><code>function foo($x, $y=0)
+{
+}
+</code></pre>
+
+<p>Would the best way to handle it in C# be this?</p>
+
+<pre><code>void foo(int x)
+{
+  foo(x, 0);
+}
+
+void foo(int x, int y)
+{
+}
+</code></pre>
+
+<p><strong><em><a href="http://bytes.com/forum/thread224970.html" rel="nofollow">Example lifted from here</a></em></strong></p>
+
+<p>Edit</p>
+
+<p><strong><em>Made the C# example into actual C# (Thanks Blair Conrad)</em></strong></p>

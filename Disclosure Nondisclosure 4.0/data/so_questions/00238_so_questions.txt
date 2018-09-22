@@ -1,0 +1,5 @@
+<p>I recently burned up my development laptop (it literally emitted smoke from the vents). After pulling the hd I was unable to get it to spin with a USB device attached to a home tower. Since I was on a deadline I had to rush and buy a new laptop (Turion 64 x2) running Vista.</p>
+
+<p>After I installed my required applications VS2005/2008, Sql Server editions client tools, Adobe CS3, and source control clients: <strong>I am wondering what list of “must haves” developer tools that are out there these days?</strong> I’m a big fan of Fiddler and LinqPad, but I am wondering what I am missing?</p>
+
+<p>[edit]I read the other question here and I am aware of Hanselman's list. I was not specific enough in my original question. By "these days" I meant new and latest tools (perhaps available only 64 bit), which in geek years might just be 12 days, I dunno. :)[/edit]</p>

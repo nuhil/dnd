@@ -1,0 +1,1 @@
+<p>I have some strings of xxh:yym format where xx is hours and yy is minutes like "05h:30m". What is an elegant way to convert a string of this type to TimeSpan?</p>

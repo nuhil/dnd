@@ -1,0 +1,1 @@
+<p>Does Google Reader have an API and if so, how can I get the count of the number of unread posts for a specific user knowing their username and password?</p>

@@ -1,0 +1,5 @@
+<p>I've been tasked with redesigning part of a ms-sql database structure which currently involves a lot of views, some of which contain joins to other views. </p>
+
+<p>Anyway, I wonder if anyone here could recommend a utility to automatically generate diagrams to help me visualise the whole structure.</p>
+
+<p>What's the best program you've used for such problems?</p>

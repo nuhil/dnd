@@ -1,0 +1,1 @@
+<p>What's the best way in c# to determine is a given QFE/patch has been installed?</p>

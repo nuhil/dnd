@@ -1,0 +1,7 @@
+<p>I am building out a solution that will be deployed in multiple data centers in multiple regions around the world, with each data center having a replicated copy of data actively updated in each region. I will have a combination of multiple databases and file systems in each data center, the state of which must be kept consistent (within a data center). These multiple repositories will be fronted by a SOA service tier. </p>
+
+<p>I can tolerate some latency in the replication, and need to allow for regions to be off-line, and then catch up later.</p>
+
+<p>Given the multiple back end repositories of data, I can't easily rely on independent replication solutions for each one to maintain a consistent state. I am thus lead to implementing replication at the application layer -- by replicating the SOA requests in some manner. I'll need to make sure that replication loops don't occur, and that last writer conditions are sorted out correctly.</p>
+
+<p>In your experience, what is the best pattern for solving this problem, and are there good products (free or otherwise) that should be investigated?</p>

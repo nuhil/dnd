@@ -1,0 +1,37 @@
+<p>I'm using Intridea's <a href="http://www.intridea.com/2008/2/29/acts-as-readable-drop-in-mark-as-read-functionality">Acts as Readable</a> Rails plugin for a messaging system I'm currently building.
+I've defined my message class accordingly:</p>
+
+<pre><code>class Post &lt; ActiveRecord::Base
+  acts-as-readable
+end
+</code></pre>
+
+<p>And everything seems to be working according to plan, but when trying to execute to show unread messages in my message view, I'm running into problems.</p>
+
+<p>Their example: (I've changed underscores to hyphens due to formatting issues)</p>
+
+<pre><code>bob = User.find_by_name("bob")
+
+bob.readings                      # =&gt; []
+
+Post.find_unread_by(bob)          # =&gt; [&lt;Post 1&gt;,&lt;Post 2&gt;,&lt;Post 3&gt;...]
+Post.find_read_by(bob)            # =&gt; []
+
+Post.find(1).read_by?(bob)        # =&gt; false
+Post.find(1).read_by!(bob)        # =&gt; &lt;Reading 1&gt;
+Post.find(1).read_by?(bob)        # =&gt; true
+Post.find(1).users_who_read       # =&gt; [&lt;User bob&gt;]
+
+Post.find_unread_by(bob)          # =&gt; [&lt;Post 2&gt;,&lt;Post 3&gt;...]
+Post.find_read_by(bob)            # =&gt; [&lt;Post 1&gt;]
+
+bob.readings                      # =&gt; [&lt;Reading 1&gt;]
+</code></pre>
+
+<p>So it seems as though if I wanted to list the number of unread messages sitting in a mailbox (for example Inbox (39) ), I should be able to do something like:</p>
+
+<pre><code>&lt;%= Post.find_unread_by(current-user).count %&gt;
+</code></pre>
+
+<p>But to no avail.  I always seem to get stuck on the simple view issues after everything's set.
+Any ideas?</p>

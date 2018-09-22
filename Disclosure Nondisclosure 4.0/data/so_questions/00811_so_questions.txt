@@ -1,0 +1,3 @@
+<p>For a particular project I have, no server side code is allowed. How can I create the web site in php (with includes, conditionals, etc) and then have that converted into a static html site that I can give to the client?</p>
+
+<p>Update: Thanks to everyone who suggested wget. That's what I used. I should have specified that I was on a PC, so I grabbed the windows version from here: <a href="http://gnuwin32.sourceforge.net/packages/wget.htm">http://gnuwin32.sourceforge.net/packages/wget.htm</a>.</p>

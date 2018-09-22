@@ -1,0 +1,7 @@
+<p>One of the things that get me thoroughly confused is the use of <code>session.Flush</code>,in conjunction with <code>session.Commit</code>, and <code>session.Close</code>.</p>
+
+<p>Sometimes <code>session.Close</code> works, e.g., it commits all the changes that I need. I know I need to use commit when I have a transaction, or a unit of work with several creates/updates/deletes, so that I can choose to rollback if an error occurs.</p>
+
+<p>But sometimes I really get stymied by the logic behind <code>session.Flush</code>. I have seen examples where you have a <code>session.SaveOrUpdate()</code> followed by a flush, but when I remove Flush it works fine anyway. Sometimes I run into errors on the Flush statement saying that the session timed out, and removing it made sure that I didn't run into that error.</p>
+
+<p>Does anyone have a good guideline as to where or when to use a Flush? I've checked out the NHibernate documentation for this, but I still can't find a straightforward answer.</p>

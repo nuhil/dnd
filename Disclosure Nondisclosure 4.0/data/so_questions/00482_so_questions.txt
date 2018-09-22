@@ -1,0 +1,4 @@
+<p>I would like to compare the contents of a couple of collections in my Equals method.  I have a Dictionary and an IList.  Is there a built-in method to do this?</p>
+
+<p>Edited:
+I want to compare two Dictionaries and two ILists, so I think what equality means is clear - if the two dictionaries contain the same keys mapped to the same values, then they're equal.</p>

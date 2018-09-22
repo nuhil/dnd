@@ -1,0 +1,1 @@
+<p>I've created a python object, but I want to send signals on it.  I made it inherit from gobject.GObject, but there doesn't seem to be any way to create a new signal on my object.</p>

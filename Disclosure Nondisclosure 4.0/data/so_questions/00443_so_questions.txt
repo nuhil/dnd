@@ -1,0 +1,23 @@
+<p>Both the jQuery and Prototpye JavaScript libraries refuse to allow me to use a variable to select an list item element by index number although they accept a hard coded number. </p>
+
+<p>For example, in Prototype this works:</p>
+
+<pre><code>$$('li')[5].addClassName('active');
+</code></pre>
+
+<p>But this will not work no matter how I try to cast the variable as a number or integer:</p>
+
+<pre><code>$$('li')[currentPage].addClassName('active');
+</code></pre>
+
+<p>In jQuery I get similar weirdness. This will work:</p>
+
+<pre><code>jQuery('li').eq(5).addClass("active");
+</code></pre>
+
+<p>But this will not work again even though the value of currentPage is 5 and its type is number:</p>
+
+<pre><code>jQuery('li').eq(currentPage).addClass("active");
+</code></pre>
+
+<p>I'm trying to create a JavaScript pagination system and I need to set the class on the active page button. The list item elements are created dynamically depending upon the number of pages I need.</p>

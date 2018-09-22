@@ -1,0 +1,10 @@
+<p>I need a function called SizeOfPipe() which should return the size of a pipe- I only want to know how much data is in the pipe and not actually read data off the pipe itself. </p>
+
+<p>I thought the following code would work</p>
+
+<pre><code>fseek (pPipe, 0 , SEEK_END);
+*pBytes = ftell (pPipe);
+rewind (pPipe);
+</code></pre>
+
+<p>but fseek dosent work on file descriptors. Another option would be to read the pipe then write the data back but would like to avoid this if possibe, any suggestions ?</p>

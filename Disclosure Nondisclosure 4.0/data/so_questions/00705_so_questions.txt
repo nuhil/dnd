@@ -1,0 +1,18 @@
+<p>So I'm working on an exceedingly large codebase, and recently upgraded to gcc 4.3, which now triggers this warning:</p>
+
+<blockquote>
+  <p>warning: deprecated conversion from string constant to ‘char*’</p>
+</blockquote>
+
+<p>Obviously, the correct way to fix this is to find every declaration like</p>
+
+<pre><code>char *s = "constant string";
+</code></pre>
+
+<p>or function call like:</p>
+
+<pre><code>void foo(char *s);
+foo("constant string");
+</code></pre>
+
+<p>and make them <code>const char</code> pointers.  However, that would mean touching 564 files, minimum, which is not a task I wish to perform at this point in time.  The problem right now is that I'm running with <code>-werror</code>, so I need some way to stifle these warnings.  How can I do that?</p>

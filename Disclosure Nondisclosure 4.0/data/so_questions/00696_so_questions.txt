@@ -1,0 +1,1 @@
+<p>I'm writing an asp.net application that will need to be localized to several regions other than North America.  What do I need to do to prepare for this globalization?  What are your top 1 to 2 resources for learning how to write a world ready application.</p>

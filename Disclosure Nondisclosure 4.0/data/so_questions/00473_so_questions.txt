@@ -1,0 +1,5 @@
+<p>I'm using the <a href="http://www.asp.net/AJAX/AjaxControlToolkit/Samples/AutoComplete/AutoComplete.aspx" rel="nofollow">AutoComplete</a> control from the ASP.NET AJAX Control Toolkit and I'm experiencing an issue where the AutoComplete does not populate when I set the focus to the assigned textbox.  </p>
+
+<p>I've tried setting the focus in the Page_Load, Page_PreRender, and Page_Init events and the focus is set properly but the AutoComplete does not work.  If I don't set the focus, everything works fine but I'd like to set it so the users don't have that extra click.  </p>
+
+<p>Is there a special place I need to set the focus or something else I need to do to make this work?  Thanks.</p>

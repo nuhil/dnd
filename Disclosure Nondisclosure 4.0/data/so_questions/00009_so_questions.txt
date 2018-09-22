@@ -1,0 +1,7 @@
+<p>I would like the version property of my application to be incremented for each build but I'm not sure on how to enable this functionality in Visual Studio (2005/2008). I have tried to specify the AssemblyVersion as 1.0.* but it doesn't get me exactly what I want. </p>
+
+<p>I'm also using a settings file and in earlier attempts when the assembly version changed my settings got reset to the default since the application looked for the settings file in another directory. </p>
+
+<p>I would like to be able to display a version number in the form of 1.1.38 so when a user finds a problem I can log the version they are using as well as tell them to upgrade if they have an old release.</p>
+
+<p>A short explanation of how the versioning works would also be appreciated. When does the build and revision number get incremented?</p>

@@ -1,0 +1,3 @@
+<p>While trying to advocate more developer testing, I find the argument "Isn't that QA's job?" is used a lot.  In my mind, it doesn't make sense to give the QA team all testing responsibilities, but at the same time Spolsky and others say you shouldn't be using the $100/hr developers to do something a $30/hr tester could be doing.  What are the experiences of others in a company with a dedicated QA team?  Where should the division of work be drawn?</p>
+
+<p>Clarification: I meant QA as a validation and verification team. Devs should not be doing the validation (customer-focused testing), but where is the verification (functional testing) division point?</p>

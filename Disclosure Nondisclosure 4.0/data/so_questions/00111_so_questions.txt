@@ -1,0 +1,3 @@
+<p>I'm looking for a good article on using emacs as C/C++ IDE.</p>
+
+<p>Something like Steve Yegge's <a href="http://steve.yegge.googlepages.com/effective-emacs">"Effective emacs"</a>.</p>

@@ -1,0 +1,11 @@
+<p>When writing a SQL statement in SQL Server 2005, does the READUNCOMMITTED query hint imply NOLOCK or do I have to specify it manually too?</p>
+
+<p>So is:</p>
+
+<pre><code>With (NoLock, ReadUnCommitted)
+</code></pre>
+
+<p>the same as:</p>
+
+<pre><code>With (ReadUnCommitted)
+</code></pre>

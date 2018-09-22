@@ -1,0 +1,24 @@
+<p>I am writing some code to see if there is a hole in the firewall exception list for <strong>WinXP</strong> and <strong>Vista</strong> for a specific port used by our client software. </p>
+
+<p>I can see that I can use the <code>NetFwMgr.LocalPolicy.CurrentProfile.GloballyOpenPorts</code> to get a list of the current Open port exceptions.  But i can not figure out how to get that enumerated list in to something that I can use in my Delphi program. </p>
+
+<p>My latest try is listed below. It's giving me an access violation when I use <code>port_list.Item</code>. I know that's wrong, it was mostly wishful thinking on my part. Any help would be appreciated.</p>
+
+<pre><code>function TFirewallUtility.IsPortInExceptionList(iPortNumber: integer): boolean;
+var
+  i, h: integer;
+  port_list, port: OleVariant;
+begin
+  Result := False;
+  port_list := mxFirewallManager.LocalPolicy.CurrentProfile.GloballyOpenPorts;
+  for i := 0 to port_list.Count - 1 do
+  begin
+    port := port_list.Item[i];
+    if (port.PortNumber = iPortNumber) then
+    begin
+      Result := True;
+      break;
+    end;
+  end;
+end;
+</code></pre>

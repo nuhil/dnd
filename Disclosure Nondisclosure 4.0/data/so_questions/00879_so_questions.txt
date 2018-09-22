@@ -1,0 +1,3 @@
+<p>I'm executing stored procedures using SET FMTONLY ON, in order to emulate what our code generator does.  However, it seems that the results are cached when executed like this, as I'm still getting a <em>Conversion failed</em> error from a proc that I have just dropped! This happens even when I execute the proc without SET FMTONLY ON.</p>
+
+<p>Can anyone please tell me what's going on here?</p>

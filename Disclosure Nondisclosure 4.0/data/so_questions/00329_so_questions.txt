@@ -1,0 +1,8 @@
+<p><i>This isn't much of a programming question, but I'm sure I'm not the only person here who has this issue.</i></p>
+
+<p>Currently I have two machines with Outlook 2007. They both sync e-mail from Google Apps. One of the machines publishes my calendar to a secure server, which my other machine is subscribed to. The problem with this setup is that I have read-only calendar access on one of my machines, which sucks. Also soon I'll be upgrading to a smart-phone, so anything I do will also have to support that scenario.</p>
+
+<ol>
+<li>Is there a better way to handle Outlook synchronization without setting up an exchange server in my basement?</li>
+<li>If I have to setup Exchange, is it possible to make it pull e-mail, via IMAP, from Google Apps?</li>
+</ol>

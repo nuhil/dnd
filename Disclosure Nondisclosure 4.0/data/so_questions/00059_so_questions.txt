@@ -1,0 +1,11 @@
+<p>I'm developing a Sharepoint application and use .NET AjaxControlToolkit library, we are adding a custom aspx page to the Sharepoint. Sharepoint 2007 run in quirks mode so I've made some modification to the AJAX library to make it behave like it normally should. The problem is, the other team already use AJAX library and it is a different version with mine. This cause conflict because there could be only one dll in the bin folder with the same name.</p>
+
+<p>From what I know, .NET should be able to handle this situation easily. I've tried using strong name and GAC to solve it, but it still refer to the dll in the bin folder. If there is no AjaxControlToolkit.dll in the bin folder, the application will simply fail to load the assembly. </p>
+
+<p>If I use complete assembly information on my like this </p>
+
+<pre><code>&lt;%@ <br>    Register <br>    tagprefix="AjaxControlToolkit"<br>    namespace="AjaxControlToolkit"<br>    assembly="AjaxControlToolkit, Version=1.0.299.18064, <br>    PublicKeyToken=12345678abcdefgh, <br>    Culture=neutral"<br>%&gt;<br></code></pre>
+
+<p>It gives me Compiler Error CS0433</p>
+
+<p>Can someone help me on how to use multiple version of assembly in an application?</p>

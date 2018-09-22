@@ -1,0 +1,1 @@
+<p>Is it possible to to programmatically trigger a postback from server code in ASP.NET?  I know that it is possible to do a Response.Redirect or Server.Transfer to redirect to a page, but is there a way to trigger a postback to the same page in server code (<em>i.e.</em> without using javascript trickery to submit a form)?</p>

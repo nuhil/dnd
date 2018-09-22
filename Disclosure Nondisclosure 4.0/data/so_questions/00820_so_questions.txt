@@ -1,0 +1,1 @@
+<p>After reading <a href="http://stackoverflow.com/questions/63668/confessions-of-your-worst-wtf-moment-what-not-to-do#63730">this answer</a>, I wonder if there's a way to get a "testing" credit card number.  One that you can experiment with but that doesn't actually charge anything.</p>

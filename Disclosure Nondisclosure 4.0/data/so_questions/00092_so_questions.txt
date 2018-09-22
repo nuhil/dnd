@@ -1,0 +1,7 @@
+<p>We have a SharePoint WSS site and some of our users on on the Mac OSX platform.  Are there any tips or tricks to get a similar experience to Windows with document shares and calendars on the Mac?</p>
+
+<p>Edit: Browsing a SharePoint WSS site on a Mac, whether using Firefox or Safari, has a very similar look and feel as it does on Windows IE.  The similar experience I am looking for has to do with integrating the calendars, document shares, etc. into the desktop.</p>
+
+<p>For example, with IE you can go to a calendar and select "Actions -> Connect to Outlook" and it will make the calendar visible and manageable from within Outlook.</p>
+
+<p>Is there any way to get the Mac to work similarly?</p>

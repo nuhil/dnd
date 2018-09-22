@@ -1,0 +1,11 @@
+<p>We are in the early design stages of a major rewrite of our product. Right now our customers are mostly businesses. We manage accounts. User names for an account are each on their own namespace but it means that we can't move assets between servers.</p>
+
+<p>We want to move to a single namespace. But that brings the problem of unique user names.</p>
+
+<p>So what's the best idea?</p>
+
+<ul>
+<li>Email address (w/verification) ?</li>
+<li>Unique alpha-numeric string ("johnsmith9234")?</li>
+<li>Should we look at OpenID?</li>
+</ul>

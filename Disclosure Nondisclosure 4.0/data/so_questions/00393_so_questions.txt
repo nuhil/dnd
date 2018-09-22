@@ -1,0 +1,1 @@
+<p>Graphics and audio editing and processing software often contain functions called "High-Pass Filter" and "Low-Pass Filter".  Exactly what do these do, and what are the algorithms for implementing them?</p>

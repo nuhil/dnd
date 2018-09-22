@@ -1,0 +1,3 @@
+<p>At what level of complexity is it mandatory to switch to an existing framework for web development?</p>
+
+<p>What measurement of complexity is practical for web development?  Code length?  Feature list?  Database Size?</p>

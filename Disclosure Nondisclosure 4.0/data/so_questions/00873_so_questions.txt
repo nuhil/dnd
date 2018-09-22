@@ -1,0 +1,5 @@
+<p>I've been using OpenGL for years, but after trying to use D3D for the first time, I wasted a significant amount of time trying figure out how to make my scene lights stay fixed in the world rather than fixed on my objects.</p>
+
+<p>In OpenGL light positions get transformed just like everything else with the MODELVIEW matrix, so to get lights fixed in space, you set up your MODELVIEW the way you want for the lights, and call glLightPosition then set it up for your geometry and make geometry calls.   In D3D that doesn't help.</p>
+
+<p>(Comment -- I eventually figured out the answer to this one, but I couldn't find anything helpful on the web or in the MSDN.  It would have saved me a few hours of head scratching if I could have found this answer then.)</p>

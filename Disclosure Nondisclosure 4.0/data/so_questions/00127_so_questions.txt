@@ -1,0 +1,3 @@
+<p>How can I determine the IP of my router/gateway in Java? I can get my IP easily enough. I can get my internet IP using a service on a website. But how can I determine my gateway's IP?</p>
+
+<p>This is somewhat easy in .NET if you know your way around. But how do you do it in Java?</p>

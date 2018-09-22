@@ -1,0 +1,3 @@
+<p>This is the text from MSDN comment: "According to the book ATL Internals (2ed) the use of attributes is deprecated and should not be used in new ATL projects."</p>
+
+<p>But WHY?!! </p>
