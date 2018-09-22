@@ -1,0 +1,5 @@
+<p>In a .net system I'm building, there is a need for automated e-mail notifications. These should be editable by an admin. What's the easiest way to do this? SQL table and WYSIWIG for editing?</p>
+
+<hr>
+
+<p>The queue is a great idea. I've been throwing around that type of process for awhile with my old company.</p>

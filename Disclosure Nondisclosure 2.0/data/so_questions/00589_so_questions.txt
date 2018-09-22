@@ -1,0 +1,6 @@
+<p>What tools are available for metamodelling? </p>
+
+<p>Especially for developing diagram editors, at the moment trying out <a href="http://www.eclipse.org/modeling/gmf/" rel="nofollow">Eclipse GMF</a></p>
+
+<p>Wondering what other options are out there? 
+Any comparison available?</p>

@@ -1,0 +1,5 @@
+<p>Some users on a site I have been working on have requested the ability to allow the server to set their aim status when they are listening to a song though our flash music player. I looked at the AIM developer pages, but didn't see any API for PHP.</p>
+
+<p>I would be more than willing to write my own, but first I want to make sure that it will be possible to update a user's status from a website, and secondly a library doesn't already exist.</p>
+
+<p>What would you suggest?</p>

@@ -1,0 +1,5 @@
+<p>What is the best way to authorize all users to one single page in a asp.net website.</p>
+
+<p>For except the login page and one other page, I deny all users from viewing pages in the website. </p>
+
+<p>How do you make this page accessible to all users?</p>

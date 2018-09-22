@@ -1,0 +1,7 @@
+<p>Where can I find a guide for integrating JavaScript and JMS (Java Messaging Service)?</p>
+
+<p>I would like a best practice or established technology that allows me to directly or indirectly receive messages from a topic and update a site based on the message. I was thinking of creating two components, a servlet for the Web module, and an MDB (Message-Driven Bean) for the EJB module. The web client will comsume messages from the JMS topic, and the MDB will handle the onMessage.</p>
+
+<p>Does this sound correct? Have you seen any examples?</p>
+
+<p>Edit: I am using ActiveMQ for the JMS.</p>

@@ -1,0 +1,16 @@
+<p>I've had a tough time setting up my replication server. Is there any program (OS X, Win, Linux or php no problem) that lets me monitor and resolve replication issues? (btw, for those -uhm- following, ive been on this issue <a href="http://stackoverflow.com/questions/8166/mysql-replication-if-i-dont-specify-any-databases-will-logbin-log-everything" rel="nofollow">here</a>, <a href="http://stackoverflow.com/questions/3798/full-complete-mysql-db-replication-ideas-what-do-people-do" rel="nofollow">here</a>, <a href="http://stackoverflow.com/questions/8365/mysql-administrator-backups-compatibility-mode-what-exactly-is-this-doing" rel="nofollow">here</a> and <a href="http://stackoverflow.com/questions/30660/mysql-binary-log-replication-can-it-be-set-to-ignore-errors" rel="nofollow">here</a>. Either i'm going about this the wrong way or i must be immensely thick)</p>
+
+<p>My production database is several megs in size and growing. Every time the database replication stops and the databases inevitably begin to slide out of sync i cringe. My last resync from dump took almost 4 hours roundtrip!</p>
+
+<p>As always, even after sync, I run into this kind of show-stopping error":</p>
+
+<pre><code>Error 'Duplicate entry '252440' for key 1' on query.
+</code></pre>
+
+<p>I would love it if there was some way to closely monitor whats going on and perhaps let the software deal with it. I'm even all ears for service companies which may help me monitor my data better. Or an alternate way to mirror altogether.</p>
+
+<p><strong>Edit</strong>: going through my previous questions i found <a href="http://stackoverflow.com/questions/30660/mysql-binary-log-replication-can-it-be-set-to-ignore-errors#30889" rel="nofollow">this</a> which helps tremendously. I'm still all ears on the monitoring solution.</p>
+
+<p>cheers,</p>
+
+<p>/mp</p>

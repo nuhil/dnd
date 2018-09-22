@@ -1,0 +1,5 @@
+<p>I'm pretty keen to develop my first Ruby app, as my company has finally blessed its use internally.</p>
+
+<p>In everything I've read about Ruby up to v1.8, there is never anything positive said about performance, but I've found nothing about version 1.9. The last figures I saw about 1.8 had it drastically slower than just about everything out there, so I'm hoping this was addressed in 1.9.</p>
+
+<p>Has performance drastically improved? Are there some concrete things that can be done with Ruby apps (or things to avoid) to keep performance at the best possible level?</p>

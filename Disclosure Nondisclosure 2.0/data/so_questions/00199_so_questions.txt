@@ -1,0 +1,3 @@
+<p>The creation date of an executable linked in VS2005 is not set to the real creation-date of the exe-file. Only a complete re-build will set the current date, a re-link will not do it. Obviously the file is set to some date, which is taken from one of the project-files. </p>
+
+<p>So: is there a way to force the linker to set the creation-date to the real link-date?</p>

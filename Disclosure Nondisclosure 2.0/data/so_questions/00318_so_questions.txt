@@ -1,0 +1,11 @@
+<p>I'd like to have dashes separate words in my URLs.  So instead of:</p>
+
+<pre><code>/MyController/MyAction
+</code></pre>
+
+<p>I'd like:</p>
+
+<pre><code>/My-Controller/My-Action
+</code></pre>
+
+<p>Is this possible?</p>

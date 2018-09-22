@@ -1,0 +1,1 @@
+<p>What is the best way to profile a controller action in Ruby on Rails. Currently I am using the brute-force method of throwing in <code>puts Time.now</code> calls between what I think will be a bottleneck. But that feels really, really dirty. There has got to be a better way.</p>

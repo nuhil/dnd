@@ -1,0 +1,12 @@
+<p>In my SWT Java app I often want to return information from inside a Display.syncExec() call.  The best way I've found so far to do this is:</p>
+
+<pre><code>final ArrayList&lt;Integer&gt; result = new ArrayList&lt;Integer&gt;();
+GUI.display().syncExec(new Runnable(){ public void run() {
+   MessageBox mb = /* ... */;
+    /* set up messagebox */
+   result.add(mb.open());
+}});
+if (SWT.OK == result.get(0)) { /* ... */ }
+</code></pre>
+
+<p>I think this is allowed because ArrayList is thread-safe, but is there a better container I should be using, or an easier way altogether?</p>

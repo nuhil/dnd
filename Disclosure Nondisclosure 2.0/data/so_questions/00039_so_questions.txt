@@ -1,0 +1,3 @@
+<p>I'm wondering how to make a release build that includes all necessary dll files into the .exe so the program can be run on a non-development machine without it having to install the microsoft redistributable on the target machine.</p>
+
+<p>Without doing this you get the error message that the application configuration is not correct and to reinstall.  </p>

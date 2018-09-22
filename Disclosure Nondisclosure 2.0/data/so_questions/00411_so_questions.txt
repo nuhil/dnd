@@ -1,0 +1,6 @@
+<p>I have developed some classes with similar behavior, they all implement the same interface.  I implemented a factory that creates the appropriate object and returns the interface.  I am writing a unit test for the factory.  All you get back is an interface to the object.
+What is the best way to test that the factory has worked correctly?</p>
+
+<p>I would like to know the answer in Java, but if there is a solution that crosses languages I would like to know it.</p>
+
+<p>Number 2. in the answer, would be done like the other answer?  If so I will mark the other answer accepted as well and reword my question to adress both a factory where an interface is returned and you have no clue what type of concrete class implemented the interface, and the case where you do know what concrete class was used.</p>

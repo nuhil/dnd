@@ -1,0 +1,3 @@
+<p>I program with Emacs on Ubuntu (Hardy Heron at the moment), and I like the default text coloration in the Emacs GUI. However, the default text coloration when Emacs is run in the terminal is different and garish.</p>
+
+<p>How do I make the colors in the terminal match the colors in the GUI?</p>

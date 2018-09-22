@@ -1,0 +1,22 @@
+<p>I have a Flex swf hosted at <a href="http://www.a.com/a.swf" rel="nofollow">http://www.a.com/a.swf</a>.
+I have a flash code on another doamin that tries loading the SWF:</p>
+
+<pre><code>_loader = new Loader();
+var req:URLRequest = new URLRequest("http://services.nuconomy.com/n.swf");
+_loader.contentLoaderInfo.addEventListener(Event.COMPLETE,onLoaderFinish);
+_loader.load(req);
+</code></pre>
+
+<p>On the onLoaderFinish event I try to load classes from the remote SWF and create them:</p>
+
+<pre><code>_loader.contentLoaderInfo.applicationDomain.getDefinition("someClassName") as Class
+</code></pre>
+
+<p>When this code runs I get the following exception</p>
+
+<pre><code>SecurityError: Error #2119: Security sandbox violation: caller http://localhost.service:1234/flashTest/Main.swf cannot access LoaderInfo.applicationDomain owned by http://www.b.com/b.swf.
+    at flash.display::LoaderInfo/get applicationDomain()
+    at NuconomyLoader/onLoaderFinish()
+</code></pre>
+
+<p>Is there any way to get this code working?</p>

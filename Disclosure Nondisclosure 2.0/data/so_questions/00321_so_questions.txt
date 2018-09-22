@@ -1,0 +1,23 @@
+<p>I'm running a master-slave MySQL binary log replication system (phew!) that, for some data, is not in sync (meaning, the master holds more data than the slave). But the slave stops very frequently on the slightest MySQL error, can this be disabled? (perhaps a my.cnf setting for the replicating slave ignore-replicating-errors or some of the sort ;) )</p>
+
+<p>This is what happens, every now and then, when the slave tries to replicate an item that does not exist, the slave just dies. a quick check at <strong>SHOW SLAVE STATUS \G;</strong> gives</p>
+
+<pre><code>       Slave-IO-Running: Yes
+      Slave-SQL-Running: No
+        Replicate-Do-DB: 
+             Last-Errno: 1062
+             Last-Error: Error 'Duplicate entry '15218' for key 1' on query. Default database: 'db'. Query: 'INSERT INTO db.table ( FIELDS ) VALUES ( VALUES )'
+</code></pre>
+
+<p>which I promptly fix (once I realize that the slave has been stopped) by doing the following:</p>
+
+<pre><code>STOP SLAVE;
+RESET SLAVE;
+START SLAVE;
+</code></pre>
+
+<p>... lately this has been getting kind of tiresome, and before I spit out some sort of PHP which does this for me, i was wondering if there's some my.cnf entry which will not kill the slave on the first error.</p>
+
+<p>Cheers,</p>
+
+<p>/mp</p>

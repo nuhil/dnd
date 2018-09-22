@@ -1,0 +1,1 @@
+<p>I've been using OpenGL extensions on Windows the <a href="http://stackoverflow.com/questions/14413/using-opengl-extensions-on-windows" rel="nofollow">painful way</a>. Is GLEW the easier way to go? How do I get started with it?</p>

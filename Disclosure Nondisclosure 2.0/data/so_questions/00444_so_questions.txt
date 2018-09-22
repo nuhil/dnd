@@ -1,0 +1,1 @@
+<p>I need to be able to get at the full URL of the page I am on from a user control.  Is it just a matter of concatenating a bunch of Request variables together?  If so which ones? Or is there a more simpiler way?</p>

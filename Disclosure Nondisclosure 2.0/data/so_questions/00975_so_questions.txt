@@ -1,0 +1,5 @@
+<p>I cannot find an elegant way to get the return value from a stored procedure when using TableAdapters.</p>
+
+<p>It appears the TableAdapter does not support SQL stored procedure return values when using a non-scalar stored procedure call. You'd expect the return value from the auto-generated function would be the return value from the stored procedure but it isn't (it is actually the number of rows affected). Although possible to use 'out' parameters and pass a variable as a ref to the auto generated functions it isn't a very clean solution.</p>
+
+<p>I have seen some ugly hacks on the web to solve this, but no decent solution. Any help would be appreciated.</p>

@@ -1,0 +1,2 @@
+<p>I am looking for a simple JavaScript example that updates DOM.<br>
+Any suggestions?</p>

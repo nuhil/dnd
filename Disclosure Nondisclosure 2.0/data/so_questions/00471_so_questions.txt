@@ -1,0 +1,3 @@
+<p>What is WCF in simple terms?</p>
+
+<p>It's hard to distill the meaning from <a href="http://en.wikipedia.org/wiki/Windows_Communication_Foundation">the Wikipedia page</a>.</p>

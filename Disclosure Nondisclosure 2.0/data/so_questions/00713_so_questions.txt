@@ -1,0 +1,5 @@
+<p>I am currently in an operating systems class and my teacher spent half of the class period talking about PIDs. She mentioned, as many know, that processes know their parent's ID.</p>
+
+<p>My question is this:</p>
+
+<p>Does a process's PCB know its child's ID? If so, what is the way to go about it obtaining it?</p>

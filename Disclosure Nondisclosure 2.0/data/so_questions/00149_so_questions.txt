@@ -1,0 +1,2 @@
+<p>I'm having problems using textures that are larger than the OpenGL window or the display size as non-display render targets.<br>
+What's the solution for this problem?</p>

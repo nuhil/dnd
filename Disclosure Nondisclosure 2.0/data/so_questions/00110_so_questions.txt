@@ -1,0 +1,20 @@
+<p>Once I've called <code>DragManager.acceptDrag</code> is there any way to "unaccept" the drag? Say that I have a view which can accept drag and drop, but only in certain areas. Once the user drags over one of these areas I call <code>DragManager.acceptDrag(this)</code> (from a <code>DragEvent.DRAG_OVER</code> handler), but if the user then moves out of this area I'd like to change the status of the drag to not accepted and show the <code>DragManager.NONE</code> feedback. However, neither calling <code>DragManager.acceptDrag(null)</code> nor <code>DragManager.showFeedback(DragManager.NONE)</code> seems to have any effect. Once I've accepted the drag an set the feedback type I can't seem to change it.</p>
+
+<p>Just to make it clear: the areas where the user should be able to drop are not components or even display objects, in fact they are just ranges in the text of a text field (like the selection). Had they been components of their own I could have solved it by making each of them accept drag events individually. I guess I could create proxy components that float over the text to emulate it, but I'd rather not if it isn't necessary.</p>
+
+<hr>
+
+<p>I've managed to get it working in both AIR and the browser now, but only by putting proxy components on top of the ranges of text where you should be able to drop things. That way I get the right feedback and drops are automatically unaccepted on drag exit.</p>
+
+<p>This is the oddest thing about D&amp;D in AIR:</p>
+
+<pre><code>DragManager.doDrag(initiator, source, event, dragImage, offsetX, offsetY);
+</code></pre>
+
+<p>In browser-based Flex, <code>offsetX</code> and <code>offsetY</code> should be negative (so says the documentation, and it works fine). However, when running <em>exactly the same code</em> in AIR you have to make the offsets positive. The same numbers, but positive. That is very, very weird.</p>
+
+<hr>
+
+<p>I've tested some more and what <a href="http://stackoverflow.com/questions/10870/how-can-i-unaccept-a-drag-in-flex#11209">@maclema</a> works, but not if you run in AIR. It seems like drag and drop in AIR is different. It's really, really weird because not only is the feedback not showing correctly, and it's not possible to unaccept, but the coordinates are also completely off. I just tried my application in a browser instead of AIR and dragging and dropping is completely broken.</p>
+
+<p>Also, skipping the <code>dragEnter</code> handler works fine in AIR, but breaks everything when running in a browser.</p>

@@ -1,0 +1,5 @@
+<p>I'm setting up a dedicated SQL Server 2005 box on Windows Server 2008 this week, and would like to pare it down to be as barebones as possible while still being fully functional.</p>
+
+<p>To that end, the "Server Core" option sounds appealing, but I'm not clear about whether or not I can run SQL Server on that SKU.  Several services are addressed on the <a href="http://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx">Microsoft website</a>, but I don't see any indication about SQL Server.</p>
+
+<p>Does anyone know definitively?</p>

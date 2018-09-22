@@ -1,0 +1,1 @@
+<p>If possible I want to catch pressure sensitive input from a Wacom tablet in Python. Are there any Python libraries available that can do this?</p>

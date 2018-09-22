@@ -1,0 +1,1 @@
+<p>I'm new to development (an admin by trade) and I'm setting up my development environment and I would like to set up a CruiseControl.Net server on Server 2008.  A quick Google did not turn up any instructions for getting it running on IIS 7.0, so I was wondering if anyone had experience getting this set up.</p>

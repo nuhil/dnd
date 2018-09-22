@@ -1,0 +1,45 @@
+<p>Please, now that I've re-written the question, and before it suffers from further <a href="http://stackoverflow.com/questions/56103/fastest-gun-in-the-west-problem" rel="nofollow">fast-gun answers</a> or premature closure by <a href="http://stackoverflow.com/users/905/keith" rel="nofollow">eager editors</a> let me point out that this is not a duplicate of <a href="http://stackoverflow.com/questions/9673/remove-duplicates-from-array" rel="nofollow">this question</a>.  I know how to remove duplicates from an array.</p>
+
+<p>This question is about removing <strong>sequences</strong> from an array, not duplicates in the strict sense.</p>
+
+<p>Consider this sequence of elements in an array;</p>
+
+<pre><code>[0] a
+[1] a
+[2] b
+[3] c
+[4] c
+[5] a
+[6] c
+[7] d
+[8] c
+[9] d
+</code></pre>
+
+<p>In this example I want to obtain the following...</p>
+
+<pre><code>[0] a
+[1] b
+[2] c
+[3] a
+[4] c
+[5] d
+</code></pre>
+
+<p>Notice that duplicate elements are retained but that sequences of the same element have been reduced to a single instance of that element.</p>
+
+<p>Further, notice that when two lines repeat they should be reduced to one set (of two lines).</p>
+
+<pre><code>[0] c
+[1] d
+[2] c
+[3] d
+</code></pre>
+
+<p>...reduces to...</p>
+
+<pre><code>[0] c
+[1] d
+</code></pre>
+
+<p>I'm coding in C# but algorithms in any language appreciated.</p>

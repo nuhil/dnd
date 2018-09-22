@@ -1,0 +1,13 @@
+<p>I am stress testing a .NET web application.  I did this for 2 reasons: I wanted to see what performance was like under real world conditions and also to make sure we hadn't missed any problems during testing. We had 30 concurrent users in the application using it as they would during the normal course of their jobs. Most users had multiple windows of the application open.</p>
+
+<ul>
+<li>10 Users: Not bad</li>
+<li>20 Users: Slowing down </li>
+<li>30 Users: Very, very slow but no timeouts</li>
+</ul>
+
+<p>It was loaded on the production server. It is a virtual server with a 2.66G Hz Xeon processor and 2 GB of RAM. We are using Win2K3 SP2. We have .NET 1.1 and 2.0 loaded and are using SQLExpress SP1.</p>
+
+<p>We rechecked the indexes on all of the tables afterword and they were all as they should be.</p>
+
+<p>How can we improve our application's performance?</p>

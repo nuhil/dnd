@@ -1,0 +1,7 @@
+<p>Specifically this is regarding when using a client session cookie to identify a session on the server.</p>
+
+<p>Is the best answer to use SSL/HTTPS encryption for the entire web site, and you have the best guarantee that no man in the middle attacks will be able to sniff an existing client session cookie?</p>
+
+<p>And perhaps second best to use some sort of encryption on the session value itself that is stored in your session cookie?</p>
+
+<p>If a malicious user has physical access to a machine, they can still look at the filesystem to retrieve a valid session cookie and use that to hijack a session?</p>

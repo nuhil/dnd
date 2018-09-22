@@ -1,0 +1,6 @@
+<p>I want to open a file for reading, the C++ way. I need to be able to do it for:</p>
+
+<ul>
+<li><p>text files, which would involve some sort of read line function.</p></li>
+<li><p>binary files, which would provide a way to read raw data into a <code>char*</code> buffer.</p></li>
+</ul>

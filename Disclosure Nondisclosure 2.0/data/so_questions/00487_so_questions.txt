@@ -1,0 +1,1 @@
+<p>How can I create a custom aggregate function in MS SQL Server? An example would help a lot.</p>

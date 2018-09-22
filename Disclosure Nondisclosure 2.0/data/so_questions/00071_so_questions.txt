@@ -1,0 +1,5 @@
+<p>I'm suddenly back to WinForms, after years of web development, and am having trouble  with something that should be simple.  I have an <code>ArrayList</code> of business objects bound to a  Windows Forms <code>DataGrid</code>.  I'd like the user to be able to edit the cells, and when finished,  press a Save button.  At that point I'd like to iterate the all the rows and columns in the  <code>DataGrid</code> to find any changes, and save them to the database.  But I can't find a way to  access the <code>DataGrid</code> rows.  </p>
+
+<p>I'll also want to validate individual cells real time, as they are edited, but I'm pretty  sure that can be done.  (Maybe not with an <code>ArrayList</code> as the <code>DataSource</code>?)  But as for iterating the <code>DataGrid</code>, I'm quite surprised it doesn't seem possible.</p>
+
+<p>Must I really stuff my business objects data into datatables in order to use the datagrid?  </p>

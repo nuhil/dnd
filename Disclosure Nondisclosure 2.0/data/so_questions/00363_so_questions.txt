@@ -1,0 +1,9 @@
+<p>What is the best open-source equivalent for Mathematica?  My requirements are:</p>
+
+<ol>
+<li>(most important) Must be a real computer algebra system (CAS).  Notably, I don't want Matlab clones -- I want something that can, at least, symbolically differentiate and integrate.</li>
+<li>Must be programmable.  A functional-programming view of the world, like Mathematica's, would be awesome.  The basic datatype of M'ica is the list, which is very convenient!</li>
+<li>(least important) Similar syntax would be nice.</li>
+</ol>
+
+<p>The ability to deal with objects such as groups or graphs would be a great bonus, but my primary emphasis is on the main things Mathematica and Maple do: algebra and calculus, both symbolic and numeric.  Also, plotting is not high on my list of requirements, as I'm mostly a terminal and not GUI user.</p>

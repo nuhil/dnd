@@ -1,0 +1,19 @@
+<pre><code>std::vector&lt;int&gt; ints;
+
+// ... fill ints with random values
+
+for(std::vector&lt;int&gt;::iterator it = ints.begin(); it != ints.end(); )
+{
+    if(*it &lt; 10)
+    {
+        *it = ints.back();
+        ints.pop_back();
+        continue;
+    }
+    it++;
+}
+</code></pre>
+
+<p>This code is not working because when <code>pop_back()</code> is called, <code>it</code> is invalidated. But I don't find any doc talking about invalidation of iterators in <code>std::vector::pop_back()</code>.</p>
+
+<p>Do you have some links about that?</p>

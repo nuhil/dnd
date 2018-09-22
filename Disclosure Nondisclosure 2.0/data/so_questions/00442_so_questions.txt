@@ -1,0 +1,3 @@
+<p>I always thought Java was <strong>pass-by-reference</strong>; however I've seen a couple of blog posts (for example, <a href="http://javadude.com/articles/passbyvalue.htm">this blog</a>) that claim it's not. I don't think I understand the distinction they're making. </p>
+
+<p>What is the explanation?</p>

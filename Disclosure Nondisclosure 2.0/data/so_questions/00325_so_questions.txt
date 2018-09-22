@@ -1,0 +1,36 @@
+<p>What is the best approach to make sure you only need to authenticate once when using an API built on WCF?</p>
+
+<p>My current bindings and behaviors are listed below</p>
+
+<pre><code>	&lt;bindings&gt;
+		&lt;wsHttpBinding&gt;
+			&lt;binding name="wsHttp"&gt;
+				&lt;security mode="TransportWithMessageCredential"&gt;
+					&lt;transport/&gt;
+					&lt;message clientCredentialType="UserName" negotiateServiceCredential="false" establishSecurityContext="true"/&gt;
+				&lt;/security&gt;
+			&lt;/binding&gt;
+		&lt;/wsHttpBinding&gt;
+	&lt;/bindings&gt;
+	&lt;behaviors&gt;
+		&lt;serviceBehaviors&gt;
+			&lt;behavior name="NorthwindBehavior"&gt;
+				&lt;serviceMetadata httpGetEnabled="true"/&gt;
+				&lt;serviceAuthorization principalPermissionMode="UseAspNetRoles"/&gt;
+				&lt;serviceCredentials&gt;
+					&lt;userNameAuthentication userNamePasswordValidationMode="MembershipProvider"/&gt;
+				&lt;/serviceCredentials&gt;
+			&lt;/behavior&gt;
+		&lt;/serviceBehaviors&gt;
+	&lt;/behaviors&gt;
+</code></pre>
+
+<p><strong>Next is what I am using in my client app to authenticate (currently I must do this everytime I want to make a call into WCF)</strong></p>
+
+<pre><code>Dim client As ProductServiceClient = New ProductServiceClient("wsHttpProductService")
+client.ClientCredentials.UserName.UserName = "foo"
+client.ClientCredentials.UserName.Password = "bar"
+Dim ProductList As List(Of Product) = client.GetProducts()
+</code></pre>
+
+<p>What I would like to do is auth w/ the API once using these credentials, then get some type of token for the period of time my client application is using the web service project.  I thought establishsecuritycontext=true did this for me?</p>

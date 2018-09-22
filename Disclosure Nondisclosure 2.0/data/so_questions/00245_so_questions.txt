@@ -1,0 +1,23 @@
+<p>Joe Van Dyk <a href="http://www.zenspider.com/pipermail/ruby/2008-August/004223.html">asked the Ruby mailing list</a>:</p>
+
+<blockquote>
+  <p>Hi,</p>
+  
+  <p>In Ruby, I guess you can't marshal a lambda/proc object, right?  Is
+  that possible in lisp or other languages?</p>
+  
+  <p>What I was trying to do:</p>
+</blockquote>
+
+<pre><code>l = lamda { ... }
+Bj.submit "/path/to/ruby/program", :stdin =&gt; Marshal.dump(l)
+</code></pre>
+
+<blockquote>
+  <p>So, I'm sending BackgroundJob a lambda object, which contains the
+  context/code for what to do.  But, guess that wasn't possible.  I
+  ended up marshaling a normal ruby object that contained instructions
+  for what to do after the program ran.</p>
+  
+  <p>Joe</p>
+</blockquote>

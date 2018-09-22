@@ -1,0 +1,15 @@
+<p>Is there a way to unfilter an NSPasteboard for what the source application specifically declared it would provide?</p>
+
+<p>I'm attempting to serialize pasteboard data in my application.  When another application places an RTF file on a pasteboard and then I ask for the available types, I get eleven different flavors of said RTF, everything from the original RTF to plain strings to dyn.* values.  </p>
+
+<p>Saving off all that data into a plist or raw data on disk isn't usually a problem as it's  pretty small, but when an image of any considerable size is placed on the pasteboard, the resulting output can be tens of times larger than the source data (with multiple flavors of TIFF and PICT data being made available via filtering).</p>
+
+<p>I'd like to just be able to save off what the original app made available if possible.</p>
+
+<hr>
+
+<p>John, you are far more observant than myself or the gentleman I work with who's been doing Mac programming since dinosaurs roamed the earth.  Neither of us ever noticed the text you highlighted... and I've not a clue why.  Starting too long at the problem, apparently.</p>
+
+<p>And while I accepted your answer as the correct answer, it doesn't exactly answer my original question.  What I was looking for was a way to identify flavors that can become  other flavors simply by placing them on the pasteboard <strong>AND</strong> to know which of these types were originally offered by the provider.  While walking the types list will get me the preferred order for the application that provided them, it won't tell me which ones I can safely ignore as they'll be recreated when I refill the pasteboard later.</p>
+
+<p>I've come to the conclusion that there isn't a "good" way to do this.  <code>[NSPasteboard declaredTypesFromOwner]</code> would be fabulous, but it doesn't exist.</p>

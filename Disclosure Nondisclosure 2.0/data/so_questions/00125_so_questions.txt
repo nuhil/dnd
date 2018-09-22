@@ -1,0 +1,7 @@
+<p>In a web application like wiki or forums or blogging software, it is often useful to store your data in a relational database. Since many hosting companies offer a single database with their hosting plans (with additional databases costing extra) it is very useful for your users when your database objects (tables, views, constraints, and stored procedures) have a common prefix. It is typical for applications aware of database scarcity to have a hard-coded table prefix. I want more, however. Specifically, I'd like to have a table prefix that users can designate&mdash;say in the web.config file (with an appropriate default, of course).</p>
+
+<p>Since I hate coding <a href="http://en.wikipedia.org/wiki/Create%2C_read%2C_update_and_delete" rel="nofollow">CRUD</a> operations by hand, I prefer to work through a competent OR/M and have used (and enjoyed) LINQ to SQL, Subsonic, and ADO.Net. I'm having some thrash in a new project, however, when it comes to putting a table prefix in a user's web.config file. Are there any .Net-based OR/M products that can handle this scenario elegantly?</p>
+
+<p>The best I have been able to come up with so far is using LINQ to SQL with an external mapping file that I'd have to update somehow based on an as-yet hypothetical web.config setting.</p>
+
+<p>Anyone have a better solution? I tried to make it happen in Entity Framework, but that turned into a mess quickly. (Due to my unfamiliarity with EF? Possibly.) How about SubSonic? Does it have an option to apply a table prefix besides at code generation time?</p>

@@ -1,0 +1,9 @@
+<p>I'm planning to develop an ASP.NET server control to provide asynchronous username availability validation for new user registrations.  The control will allow a developer to point it at a "username" TextBox and it will provide an indication of whether or not the username is available.  Like <a href="http://encosia.com/2007/07/02/aspnet-username-availability-checking-via-ajax/" rel="nofollow">this example</a>, but without the clunky UpdatePanel.</p>
+
+<p>One design decision that's giving me headaches is whether to inherit from <strong>ScriptControl</strong> or <strong>BaseValidator</strong>.</p>
+
+<p>By implementing it as a <strong>ScriptControl</strong>, I can make the client side portion easier to deal with and easily localize it with a resx.</p>
+
+<p>However, I want to make sure that the validator functions properly with respect to Page.IsValid.  The only way I know to do this is to override <strong>BaseValidator</strong> and implement <code>EvaluateIsValid()</code>.</p>
+
+<p>So, my question is, how would you suggest structuring this control?  Is inheriting from BaseValidator the best (only) way to get the validator part right, or can I do that in some other way?</p>

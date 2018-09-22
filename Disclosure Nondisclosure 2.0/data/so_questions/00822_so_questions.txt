@@ -1,0 +1,24 @@
+<p>When doing an INSERT with a lot of data, ie:</p>
+
+<pre><code>INSERT INTO table (mediumtext_field) VALUES ('...lots of text here: about 2MB worth...')
+</code></pre>
+
+<p>MySQL returns </p>
+
+<blockquote>
+  <p>"OperationalError: (2006, 'MySQL server has gone away')"</p>
+</blockquote>
+
+<p>This is happening within a minute of starting the script, so it is not a timeout issue. Also, <code>mediumtext_field</code> should be able to hold ~16MB of data, so that shouldn't be a problem.</p>
+
+<p>Any ideas what is causing the error or how to work around it?</p>
+
+<p>Some relevant libraries being used: <code>mod_python 3.3.1</code>, <code>MySQL 5.0.51</code> (on Windows XP SP3, via xampp, details below)</p>
+
+<p><strong>ApacheFriends XAMPP (basic package) version 1.6.5</strong></p>
+
+<ul>
+<li>Apache 2.2.6</li>
+<li>MySQL 5.0.51</li>
+<li>phpMyAdmin 2.11.3</li>
+</ul>

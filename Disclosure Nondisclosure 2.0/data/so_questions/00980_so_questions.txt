@@ -1,0 +1,1 @@
+<p>I have not seen much support for Grails to develop facebook apps.I was just wondering if people around are developing facebook apps on grails </p>

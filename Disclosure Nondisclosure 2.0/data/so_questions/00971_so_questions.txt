@@ -1,0 +1,17 @@
+<p>We have simple HTML form with <code>&lt;input type="file"&gt;</code>, like shown below:</p>
+
+<pre><code>&lt;form&gt;
+  &lt;label for="attachment"&gt;Attachment:&lt;/label&gt;
+  &lt;input type="file" name="attachment" id="attachment"&gt;
+  &lt;input type="submit"&gt;
+&lt;/form&gt;
+</code></pre>
+
+<p>In IE7 (and probably all famous browsers, including old Firefox 2), if we submit a file like '//server1/path/to/file/filename' it works properly and gives the full path to the
+file and the filename.</p>
+
+<p>In Firefox 3, it returns only 'filename', because of their new 'security feature' to truncate the path, as explained in Firefox bug tracking system (<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=143220">https://bugzilla.mozilla.org/show_bug.cgi?id=143220</a>)</p>
+
+<p>I have no clue how to overcome this 'new feature' because it causes all upload forms in my webapp to stop working on Firefox 3.</p>
+
+<p>Can anyone help to find a single solution to get the file path both on Firefox 3 and IE7?</p>

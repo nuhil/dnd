@@ -1,0 +1,5 @@
+<p>I am looking to allow users to control of subdomain of an app I am toying with, much like Basecamp where it is <code>customusername.seework.com</code>.</p>
+
+<p>What is required on the <code>DNS</code> end to allow these to be created dynamically and be available instantly. </p>
+
+<p>And how do you recommend dealing with this in the logic of the site? <code>Htaccess</code> rule to  lookup the subdomain in the <code>DB</code>?</p>

@@ -1,0 +1,7 @@
+<p>I like putting shortcuts of the form "g - google.lnk" in my start menu so google is two keystrokes away. Win, g.</p>
+
+<p>My eight or so most frequent applications go there.</p>
+
+<p>I also make links to my solution files I am always opening "x - Popular Project.lnk"</p>
+
+<p>Are there any better ways to automate opening frequently used applications?</p>

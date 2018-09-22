@@ -1,0 +1,5 @@
+<p>What web site structure(s)/architecture(s) would the community swear by, with a narrowing down in the direction towards more of a small facebook style project?</p>
+
+<p>I understand the question to be rather broad/subjective; but being relatively new to the area of web development, I find just looking at and learning from examples of working projects most times extremely helpful, and that at other times just blows my mind and changes how I construct future assignments.</p>
+
+<p>With the latter paragraph in mind, does the community have any suggestions on places to look/articles to read?</p>

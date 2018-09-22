@@ -1,0 +1,12 @@
+<p>Is it possible to <strong>dynamically create and modify images</strong> on a <strong>per pixel level</strong> in JavaScript (on client side)? Or has this to be done with server based languaged, such as PHP? </p>
+
+<p>My use case is as follows:</p>
+
+<ul>
+<li>The user opens webpage and loads locally stored image</li>
+<li>A preview of the image is displayed</li>
+<li>The user can modify the image with a set of sliders (pixel level operations)</li>
+<li>In the end he can download the image to his local HDD</li>
+</ul>
+
+<p>When searching in the web I just found posts about using IE's filtering method, but didn't find anything about image editing functions in JavaScript.</p>

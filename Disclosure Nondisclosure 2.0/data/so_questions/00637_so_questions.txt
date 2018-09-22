@@ -1,0 +1,43 @@
+<p>I have some code that modifies a value that several controls in other update panels are bound to. When this event handler fires, I'd like it to force the other update panels to refresh as well, so they can rebind.</p>
+
+<p>Is this possible?</p>
+
+<p>Edit: </p>
+
+<p>To clarify, I have an update panel in one user control, the other update panels are in other user controls, so they can't see each other unless I were to expose some custom properties and use findControl etc etc...</p>
+
+<p>Edit Again:</p>
+
+<p>Here is what I came up with:</p>
+
+<pre><code>public void Update()
+{
+    recursiveUpdate(this); 
+}
+
+private void recursiveUpdate(Control control)
+{
+    foreach (Control c in control.Controls)
+    {
+        if (c is UpdatePanel)
+        {
+            ((UpdatePanel)c).Update();
+        }
+
+        if (c.HasControls())
+        {
+            recursiveUpdate(c);
+        }
+    }
+}
+</code></pre>
+
+<p>I had 3 main user controls that were full of update panels, these controls were visible to the main page, so I added an Update method there that called Update on those three.</p>
+
+<p>In my triggering control, I just cast this.Page into the currentpage and called Update.</p>
+
+<p>Edit:</p>
+
+<p>AARRGGGG!</p>
+
+<p>While the update panels refresh, it does not call Page_Load within the subcontrols in them...What do I do now!</p>

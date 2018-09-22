@@ -1,0 +1,7 @@
+<p>How can I get a history of uptimes for my debian box? After a reboot, I dont see an option for the uptime command to print a history of uptimes. If it matters, I would like to use these uptimes for graphing a page in php to show my webservers uptime lengths between boots.</p>
+
+<p>Update: 
+Not sure if it is based on a length of time or if last gets reset on reboot but I only get the most recent boot timestamp with the last command. last -x also does not return any further info.  Sounds like a script is my best bet.</p>
+
+<p>Update:
+Uptimed is the information I am looking for, not sure how to grep that info in code. Managing my own script for a db sounds like the best fit for an application.</p>

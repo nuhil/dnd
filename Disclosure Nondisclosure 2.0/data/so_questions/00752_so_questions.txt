@@ -1,0 +1,1 @@
+<p>Is is possible to construct a regular expression that rejects all input strings?</p>

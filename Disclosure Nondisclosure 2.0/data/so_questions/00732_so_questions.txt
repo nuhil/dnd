@@ -1,0 +1,10 @@
+<p>A DB Audit Trail captures the User Last Modified, Modified Date, and Created Date.</p>
+
+<p>There are several possible implementations:</p>
+
+<ul>
+<li>SQL Server Triggers</li>
+<li>Add UserModified, ModifiedDate, CreatedDate columns to the database and include logic in Stored Procedures or Insert, Update statements accordingly.</li>
+</ul>
+
+<p>It would be nice if you include implementation (or link to) in your answer.  </p>

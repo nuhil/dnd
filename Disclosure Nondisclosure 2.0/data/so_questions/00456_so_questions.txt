@@ -1,0 +1,13 @@
+<p>I'm working on an automated regression test suite for an app which I maintain.  While developing the automated regression test, I ran across some behavior that's almost certainly a bug.  So, for now, I've modified the automated regression test to not register a failure--it's deliberately allowing this bad behavior to go by, I mean.  </p>
+
+<p>So, I am interested in the opinions of others on this site.  Obviously, I'll add a bug to our defect tracking to make sure this error behavior gets fixed.  But are there any compelling reasons (either way) to either change the regression test to constantly indicate failure or leave the regression test broken and not have a failure until we can get to fixing the defective behavior?  I think of this as a 6 of one and a half-dozen of the other type of question but I ask here because I thought others may see it differently.</p>
+
+<hr>
+
+<p>@Paul Tomblin,</p>
+
+<p>Just to be clear--I've never considered removing the test; I was simply considering modifying the pass/fail condition to allow for the failure without it being thrown up in my face every time I run the test. </p>
+
+<p>I'm a little concerned about repeated failures from known causes eventually getting treated like warnings in C++.  I know developers who see warnings in their C++ code and simply ignore them because they think they're just useless noise.  I'm afraid leaving a known failure in the regression suite might cause people to start ignoring other, possibly more important, failures. </p>
+
+<p>BTW, lest I be misunderstood, I consider warnings in C++ to be an important aid in crafting strong code but judging from other C++ developers I've met I think I'm in the minority.</p>

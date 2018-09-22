@@ -1,0 +1,20 @@
+<p>I'm running some c# .net pages with various gridviews. If I ever leave any of them alone in a web browser for an extended period of time (usually overnight), I get the following error when I click any element on the page.</p>
+
+<p>I'm not really sure where to start dealing with the problem. I don't mind resetting the page if it's viewstate has expired, but throwing an error is unacceptable!</p>
+
+<pre><code>  Error: The state information is invalid for this page and might be corrupted.
+
+  Target: Void ThrowError(System.Exception, System.String, System.String, Boolean)
+
+  Data: System.Collections.ListDictionaryInternal
+
+  Inner: System.Web.UI.ViewStateException: Invalid viewstate. Client IP: 66.35.180.246 Port: 1799 User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9) Gecko/2008052906 Firefox/3.0 ViewState: (**Very long Gibberish Omitted!**)
+
+  Offending URL: (**Omitted**)
+
+  Source: System.Web
+
+  Message: The state information is invalid for this page and might be corrupted.
+
+  Stack trace: at System.Web.UI.ViewStateException.ThrowError(Exception inner, String persistedState, String errorPageMessage, Boolean macValidationError) at System.Web.UI.ClientScriptManager.EnsureEventValidationFieldLoaded() at System.Web.UI.ClientScriptManager.ValidateEvent(String uniqueId, String argument) at System.Web.UI.Control.ValidateEvent(String uniqueID, String eventArgument) at System.Web.UI.WebControls.DropDownList.LoadPostData(String postDataKey, NameValueCollection postCollection) at System.Web.UI.WebControls.DropDownList.System.Web.UI.IPostBackDataHandler.LoadPostData(String postDataKey, NameValueCollection postCollection) at System.Web.UI.Page.ProcessPostData(NameValueCollection postData, Boolean fBeforeLoad) at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+</code></pre>

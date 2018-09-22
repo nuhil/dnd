@@ -1,0 +1,5 @@
+<p>We are changing our remote log-in security process at my workplace, and we are concerned that the new system does not use <a href="http://en.wikipedia.org/wiki/Two-factor_authentication" rel="nofollow">multi-factor authentication</a> as the old one did. (We had been using RSA key-fobs, but they are being replaced due to cost.) The new system is an anti-phishing image system which has been misunderstood to be a two-factor authentication system. We are now exploring ways to continue providing multi-factor security without issuing hardware devices to the users.</p>
+
+<p>Is it possible to write a software-based token system to be installed on the user's PCs that would constitute a true second factor in a multi-factor authentication system? Would this be considered "something the user has", or would it simply be another form of "something the user knows"?</p>
+
+<p>Edit: <em>phreakre</em> makes a good point about cookies. For the sake of this question, assume that cookies have been ruled out as they are not secure enough.</p>

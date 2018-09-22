@@ -1,0 +1,9 @@
+<p>I have a UserControl in my Asp.net project that has a public property. I do not want this property to show up in the Visual Studio Property Window when a user highlights an instance of the UserControl in the IDE. What attribute (or other method) should I use to prevent it from showing up?</p>
+
+<pre><code>class MyControl : System.Web.UI.UserControl {
+  // Attribute to prevent property from showing in VS Property Window?
+  public bool SampleProperty { get; set; }
+
+  // other stuff
+}
+</code></pre>

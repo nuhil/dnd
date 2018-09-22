@@ -1,0 +1,5 @@
+<p>So far I have encountered adjacency list, nested sets and nested intervals as models for storing tree structures in a database. I know these well enough and have migrated trees from one to another.</p>
+
+<p>What are other popular models? What are their characteristics? What are good resources (books, web, etc) on this topic?</p>
+
+<p>I'm not only looking for db storage but would like to expand my knowledge on trees in general. For example, I understand that nested sets/intervals are especially favorable for relational database storage and have asked myself, are they actually a <i>bad</i> choice in other contexts?</p>

@@ -1,0 +1,20 @@
+<p>(assume php5) consider</p>
+
+<pre><code>&lt;?php
+
+    $foo = 'some words';
+
+    //case 1
+    print "these are $foo";
+
+    //case 2
+    print "these are {$foo}";
+
+    //case 3
+    print 'these are ' . $foo;
+?&gt;
+</code></pre>
+
+<p>Is there much of a difference between 1 and 2?</p>
+
+<p>If not, what about between 1/2 and 3?</p>

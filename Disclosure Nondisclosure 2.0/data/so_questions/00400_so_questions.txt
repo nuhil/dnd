@@ -1,0 +1,9 @@
+<p>I need an associative container that makes me index a certain object through a string, but that also keeps the order of insertion, so I can look for a specific object by its name or just iterate on it and retrieve objects in the same order I inserted them.</p>
+
+<p>I think this <a href="http://www.ddj.com/cpp/184406207" rel="nofollow">hybrid of linked list and hash map</a> should do the job, but before I tried to use <code>std::tr1::unordered_map</code> thinking that it was working in that way I described, but it wasn't. So could someone explain me the meaning and behavior of <code>unordered_map</code>?</p>
+
+<hr>
+
+<p>@wesc: I'm sure std::map is implemented by STL, while I'm sure std::hash_map is NOT in the STL (I think older version of Visual Studio put it in a namespace called stdext).</p>
+
+<p>@cristopher: so, if I get it right, the difference is in the implementation (and thus performances), not in the way it behaves externally.</p>

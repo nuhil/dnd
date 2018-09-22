@@ -1,0 +1,6 @@
+<p>Why should I or shouldn't I use dirty reads:</p>
+
+<pre><code>set transaction isolation level read uncommitted
+</code></pre>
+
+<p>in SQL Server?</p>

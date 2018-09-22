@@ -1,0 +1,3 @@
+<p>Is it possible to get gdb or use some other tools to create a core dump of a running process and it's symbol table?  It would be great if there's a way to do this without terminating the process.  </p>
+
+<p>If this is possible, what commands would you use?  (I'm trying to do this on a Linux box)</p>

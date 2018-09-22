@@ -1,0 +1,79 @@
+<p>I've created a webservice and when I want to use its methods I instantiate it in the a procedure, call the method, and I finally I dispose it, however I think also it could be okay to instantiate the webservice in the "private void Main_Load(object sender, EventArgs e)" event.</p>
+
+<p>The thing is that if I do it the first way I have to instantiate the webservice every time I need one of its methods but in the other way I have to keep a webservice connected all the time when I use it in a form for example. </p>
+
+<p>I would like to know which of these practices are better or if there's a much better way to do it</p>
+
+<p><strong>Strategy 1</strong></p>
+
+<pre><code>private void btnRead_Click(object sender, EventArgs e)
+{
+    try
+    {
+        //Show clock
+        this.picResult.Image = new Bitmap(pathWait);
+
+        Application.DoEvents();
+
+        //Connect to webservice
+        svc = new ForPocketPC.ServiceForPocketPC();
+        svc.Credentials = new System.Net.NetworkCredential(Settings.UserName, Settings.Password);
+        svc.AllowAutoRedirect = false;
+        svc.UserAgent = Settings.UserAgent;
+        svc.PreAuthenticate = true;
+        svc.Url = Settings.Url;
+        svc.Timeout = System.Threading.Timeout.Infinite;
+
+        svc.CallMethod();
+         ...
+    }
+    catch (Exception ex)
+    {
+        ShowError(ex);
+    }
+    finally
+    {
+        if (svc != null)
+            svc.Dispose();
+    }
+}
+</code></pre>
+
+<p><strong>Strategy 2</strong></p>
+
+<pre><code>private myWebservice svc;
+
+private void Main_Load(object sender, EventArgs e)
+{
+    //Connect to webservice
+    svc = new ForPocketPC.ServiceForPocketPC();
+    svc.Credentials = new System.Net.NetworkCredential(Settings.UserName, Settings.Password);
+    svc.AllowAutoRedirect = false;
+    svc.UserAgent = Settings.UserAgent;
+    svc.PreAuthenticate = true;
+    svc.Url = Settings.Url;
+    svc.Timeout = System.Threading.Timeout.Infinite;
+}
+
+private void btnRead_Click(object sender, EventArgs e)
+{
+    try
+    {
+        //Show clock
+        this.picResult.Image = new Bitmap(pathWait);
+
+        Application.DoEvents();
+        svc.CallMethod();
+         ...
+    }
+    catch (Exception ex)
+    {
+        ShowError(ex);
+    }
+}
+
+private void Main_Closing(object sender, CancelEventArgs e)
+{
+    svc.Dispose();
+}
+</code></pre>

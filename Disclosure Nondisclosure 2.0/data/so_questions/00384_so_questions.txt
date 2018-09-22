@@ -1,0 +1,9 @@
+<p>Is it possible to do image processing in silverlight 2.0?</p>
+
+<p>What I want to do is take an image, crop it, and then send the new cropped image up to the server.  I know I can fake it by clipping the image, but that only effects the rendering of the image.  I want to create a new image.</p>
+
+<p>After further research I have answered my own question. Answer: <strong>No</strong>.  Since all apis would be in <a href="http://msdn.microsoft.com/en-us/library/system.windows.media.imaging.aspx" rel="nofollow">System.Windows.Media.Imaging</a> and that namespace does not have the appropriate classes in Silverlight</p>
+
+<p>I'm going to use fjcore.  <a href="http://code.google.com/p/fjcore/" rel="nofollow">http://code.google.com/p/fjcore/</a></p>
+
+<p>Thanks <a href="http://stackoverflow.com/users/585/jonas-folles" rel="nofollow">Jonas</a></p>

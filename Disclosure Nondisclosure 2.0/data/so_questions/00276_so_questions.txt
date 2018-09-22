@@ -1,0 +1,31 @@
+<p>I have an Excel Spreadsheet like this</p>
+
+<pre>
+id | data for id
+   | more data for id
+id | data for id
+id | data for id
+   | more data for id
+   | even more data for id
+id | data for id
+   | more data for id
+id | data for id
+id | data for id
+   | more data for id
+</pre>
+
+<p>Now I want to group the data of one id by alternating the background color of the rows</p>
+
+<pre>
+var color = white
+for each row
+    if the first cell is not empty and color is white
+        set color to green
+    if the first cell is not empty and color is green
+        set color to white
+    set background of row to color
+</pre>
+
+<p>Can anyone help me with a macro or some VBA code</p>
+
+<p>Thanks</p>

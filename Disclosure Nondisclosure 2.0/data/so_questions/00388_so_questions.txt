@@ -1,0 +1,8 @@
+<p>I need to to print natural nos. 1,2,...n such that the parent process prints all odd numbers and the child process prints all even numbers, and all of this needs to be done using POSIX signals. How would I go about accomplishing this?</p>
+
+<p>The output should be:</p>
+
+<p>Parent : 1<br>
+Child  : 2<br>
+Parent : 3<br>
+...</p>

@@ -1,0 +1,15 @@
+<p>For a System.Windows.Forms.TextBox with Multiline=True, I'd like to only show the scrollbars when the text doesn't fit.</p>
+
+<p>This is a readonly textbox used only for display.  It's a TextBox so that users can copy the text out. Is there anything built-in to support auto show of scrollbars? If not, should I be using a different control? Or do I need to hook TextChanged and manually check  for overflow (if so, how to tell if the text fits?)</p>
+
+<p><hr/></p>
+
+<p>Not having any luck with various combinations of WordWrap and Scrollbars settings.  I'd like to have no scrollbars initially and have each appear dynamically only if the text doesn't fit in the given direction.</p>
+
+<p><hr/></p>
+
+<p>@<a href="#89428">nobugz</a>, thanks, that works when WordWrap is disabled. I'd prefer not to disable wordwrap, but it's the lesser of two evils.</p>
+
+<p><hr/></p>
+
+<p>@André Neves, good point, and I would go that way if it was user-editable.  I agree that consistency is the cardinal rule for UI intuitiveness.</p>

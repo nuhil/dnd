@@ -1,0 +1,1 @@
+<p>What actually happens to the file system when you do a Subclipse Share Project on an Eclipse project that was externally checked out from Subversion?  All the .svn folders are already in place.  I get an error when I try to Share Project the right way, and I'd rather not delete and re-checkout the projects from the SVN  Repository browser.</p>

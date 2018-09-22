@@ -1,0 +1,3 @@
+<p>For programmers working in corporate environments and outside of the start up world, there are a wide variety of non-technical people that are important stakeholders in the development process.  These include other functions within the company such as marketing, finance and legal, for example, and also include customers and others outside the company.</p>
+
+<p>The point of this question is not “care and feeding” of these groups, but simply what tools have been found to work to facilitate collaboration and necessary interaction?  I’m thinking along of the lines of IM versus wikis versus traditional email distribution lists, or the corporate sharepoint portal, but wonder what others have found to work.</p>

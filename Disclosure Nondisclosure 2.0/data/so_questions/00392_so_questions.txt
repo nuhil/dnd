@@ -1,0 +1,3 @@
+<p>In one of the answers to <a href="http://stackoverflow.com/questions/31572/broadcast-like-udp-with-the-reliability-of-tcp#31629">Broadcast like UDP with the Reliability of TCP</a>, a user mentions the <a href="http://spread.org">Spread</a> messaging API.  I've also run across one called <a href="http://zeromq.org">ØMQ</a>.  I also have some familiarity with <a href="http://www-unix.mcs.anl.gov/mpi/">MPI</a>.  </p>
+
+<p>So, my main question is: why would I choose one over the other?  More specifically, why would I choose to use Spread or ØMQ when there are mature implementations of MPI to be had?</p>

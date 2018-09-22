@@ -1,0 +1,1 @@
+<p>How do some programs edit whats being displayed on the terminal (to pick a random example, the program 'sl')? I'm thinking of the Linux terminal here, it may happen in other OS's too, I don't know.  I've always thought once some text was displayed, it stayed there. How do you change it without redrawing the entire screen? </p>

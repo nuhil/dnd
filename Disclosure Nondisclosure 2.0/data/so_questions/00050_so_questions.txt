@@ -1,0 +1,9 @@
+<p>Is it "acceptable" to have an <strong>ASP.Net 2.0</strong> application without the BLL (Business Logic Layer) as the following?</p>
+
+<ol>
+<li>SQL Server Data Storage &amp; Stored Procedures</li>
+<li>Data Link Layer (Strongly Typed Table Adapters) connecting to Stored Procs</li>
+<li>Presentation Layer ASPX Pages with Code behind and ObjectDataSource for connection straight to the DLL</li>
+</ol>
+
+<p>Is a BLL always preferable, even if business logic is entirely validatable in the presentation's code behind?  What are the potential drawbacks for not using a BLL?</p>

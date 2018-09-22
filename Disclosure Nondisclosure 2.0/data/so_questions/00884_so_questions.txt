@@ -1,0 +1,3 @@
+<p>Here is the problem I have:</p>
+
+<p>I have a lot (tens of thousands) of mp3 files that my users would like to be able to search. Is there is software out there that you've used or heard good things about that would allow me to index that content and put it in a database so I can search on it later?</p>

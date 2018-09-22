@@ -1,0 +1,10 @@
+<p>I am a student studying software development, and I feel programming, in general, is too broad of a subject to try to know everything. To be proficient, you have to decide which areas to focus your learning and understanding. Certain skill sets synergize with each other, like data-driven web development and SQL experience. However, all the win32 API experience in the world may not directly apply to linux development. This leads me to believe, as a beginning programmer, I should start deciding where I want to specialize after I have general understanding of the basic principles of software development. </p>
+
+<p>This is a multi-part question really: </p>
+
+<ol>
+<li>What are the common specializations within computer programming and software development?  </li>
+<li>Which of these specializations have more long-term value, both as a foundation for other specializations and/or as marketable skills? </li>
+<li>Which skill sets complement each other? </li>
+<li>Are there any areas of specialization that hinder your ability of developing other areas of specialization.</li>
+</ol>

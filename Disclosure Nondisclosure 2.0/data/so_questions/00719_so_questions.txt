@@ -1,0 +1,3 @@
+<p>What experience can you share about using multiple AJAX libraries?</p>
+
+<p>There are useful features in Prototype, some in jQuery, the Yahoo library, etc. Is it possible to include all libraries and use what you want from each, do they generally all play nicely together with name spaces, etc. For the sake of speed is there a practical limit to the size/number of libraries to include or is this negligible? Are there pairs that work particularly well together (e.g. Prototype/Scriptaculous) or pairs that don't?</p>

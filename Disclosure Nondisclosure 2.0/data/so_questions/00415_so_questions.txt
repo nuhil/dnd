@@ -1,0 +1,2 @@
+<p>I want to show a chromeless modal window with a close button in the upper right corner.
+Is this possible?</p>

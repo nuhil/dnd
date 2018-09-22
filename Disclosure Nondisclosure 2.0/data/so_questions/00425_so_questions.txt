@@ -1,0 +1,7 @@
+<p>I'm just getting dirty in WinForms, and I've discovered, through a lovely tutorial, the magic of dragging a database table onto the design view of my main form. So, all is lovely, I've got my DataGridView with all of the columns represented beautifully.</p>
+
+<p>BUT...</p>
+
+<p>When I run my application against this brand new, empty .sdf (empty save for the two tables I've created, which are themselves empty), I get a -1 in the column corresponding to my primary key/identity column whenever I try to create that first record.</p>
+
+<p>Any idea why this might be happening? If it helps, the column is an <code>int</code>.</p>

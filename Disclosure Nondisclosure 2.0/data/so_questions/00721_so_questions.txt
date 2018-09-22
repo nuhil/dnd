@@ -1,0 +1,47 @@
+<p>Backgrounder:</p>
+
+<p>The <a href="http://en.wikipedia.org/wiki/Opaque_pointer" rel="nofollow">PIMPL Idiom</a> (Pointer to IMPLementation) is a technique for implementation hiding in which a public class wraps a structure or class that cannot be seen outside the library the public class is part of.</p>
+
+<p>This hides internal implementation details and data from the user of the library.</p>
+
+<p>When implementing this idiom why would you place the public methods on the pimpl class and not the public class since the public classes method implementations would be compiled into the library and the user only has the header file?</p>
+
+<p>To illustrate, this code puts the <code>Purr()</code> implementation on the impl class and wraps it as well.</p>
+
+<p><strong>Why not implement Purr directly on the public class?</strong></p>
+
+<pre class="lang-c++ prettyprint-override"><code>// header file:
+class Cat {
+    private:
+        class CatImpl;  // Not defined here
+        CatImpl *cat_;  // Handle
+
+    public:
+        Cat();            // Constructor
+        ~Cat();           // Destructor
+        // Other operations...
+        Purr();
+};
+
+
+// CPP file:
+#include "cat.h"
+
+class Cat::CatImpl {
+    Purr();
+...     // The actual implementation can be anything
+};
+
+Cat::Cat() {
+    cat_ = new CatImpl;
+}
+
+Cat::~Cat() {
+    delete cat_;
+}
+
+Cat::Purr(){ cat_-&gt;Purr(); }
+CatImpl::Purr(){
+   printf("purrrrrr");
+}
+</code></pre>

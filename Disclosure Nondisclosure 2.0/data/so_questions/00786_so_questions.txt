@@ -1,0 +1,11 @@
+<p>Someone please correct me if I'm wrong, but parsing a yyyy/MM/dd (or other specific formats) dates in C# <strong>should</strong> be as easy as </p>
+
+<pre><code>DateTime.ParseExact(theDate, "yyyy/MM/dd");
+</code></pre>
+
+<p>but no, C# forces you to create an IFormatProvider.</p>
+
+<p>Is there an app.config friendly way of setting this so I don't need to do this each time?</p>
+
+<pre><code>DateTime.ParseExact(theDate, "yyyy/MM/dd", new CultureInfo("en-CA", true));
+</code></pre>

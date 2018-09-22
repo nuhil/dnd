@@ -1,0 +1,4 @@
+<p>What are the different database options on Windows Mobile available?
+I have used CEDB and EDB for linear dataset needs.</p>
+
+<p>I have heard of SQL server 2005 Mobile edition. But what are the advantages over others (if there is any)</p>

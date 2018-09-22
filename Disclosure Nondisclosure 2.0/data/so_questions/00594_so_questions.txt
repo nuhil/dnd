@@ -1,0 +1,1 @@
+<p>I would like my Core assembly to not expose a certain class and I would still like to be able to test it. How can I do that ?</p>

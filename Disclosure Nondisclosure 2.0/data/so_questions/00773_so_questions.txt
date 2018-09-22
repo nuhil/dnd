@@ -1,0 +1,1 @@
+<p>Struts 1.3 application.  Main website is NOT served by struts/Java.  I need to forward the result of a struts action to a page in the website, that is outside of the struts context.  Currently, I forward to a JSP in context and use a meta-refresh to forward to the real location.  That seems kinda sucky.  Is there a better way?</p>

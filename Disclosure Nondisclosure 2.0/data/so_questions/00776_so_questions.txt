@@ -1,0 +1,18 @@
+<p>I haven't programmed games for about 10 years (My last experience was DJGPP + Allegro), but I thought I'd check out XNA over the weekend to see how it was shaping up.</p>
+
+<p>I am fairly impressed, however as I continue to piece together a game engine, I have a (probably) basic question.</p>
+
+<p>How much should you rely on C#'s Delegates and Events to drive the game? As an application programmer, I use delegates and events heavily, but I don't know if there is a significant overhead to doing so.</p>
+
+<p>In my game engine, I have designed a "chase cam" of sorts, that can be attached to an object and then recalculates its position relative to the object. When the object moves, there are two ways to update the chase cam.</p>
+
+<ul>
+<li>Have an "UpdateCameras()" method in the main game loop.</li>
+<li>Use an event handler, and have the chase cam subscribe to object.OnMoved.</li>
+</ul>
+
+<p>I'm using the latter, because it allows me to chain events together and nicely automate large parts of the engine. Suddenly, what would be huge and complex get dropped down to a handful of 3-5 line event handlers...Its a beauty.</p>
+
+<p>However, if event handlers firing every nanosecond turn out to be a major slowdown, I'll remove it and go with the loop approach.</p>
+
+<p>Ideas?</p>

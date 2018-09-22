@@ -1,0 +1,4 @@
+<p>For example; with the old command prompt it would be:</p>
+
+<pre><code>cmd.exe /k mybatchfile.bat
+</code></pre>

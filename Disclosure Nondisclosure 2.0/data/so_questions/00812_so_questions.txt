@@ -1,0 +1,7 @@
+<p>I'm looking for a tool that will render a RDF graph in a reasonably useful graphic format.  The primary purpose of the graphic format being inclusion into a PowerPoint slide or printing on a large plotter for management review.</p>
+
+<p>I am currently using TopBraid Composer which does a reasonably well at visualizing a single entity but doesn't seem to have a clear way of visualizing the entire graph (as a whole).</p>
+
+<p>Anyone know of any good solutions to this problem?</p>
+
+<p><img src="http://i37.tinypic.com/2gufbz9.jpg" alt="TopBraid Composer Graph view screenshot" /></p>

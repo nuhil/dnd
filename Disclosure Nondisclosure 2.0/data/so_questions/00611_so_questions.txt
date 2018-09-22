@@ -1,0 +1,1 @@
+<p>I've got a search results page that basically consists of a repeater with content in it.  What I need is a way to paginate the results.  Getting paginated results isn't the problem, what I'm after is a web control that will display a list of the available paged data, preferably by providing the number of results and a page size</p>

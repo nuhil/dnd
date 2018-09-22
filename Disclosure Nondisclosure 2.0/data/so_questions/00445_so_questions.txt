@@ -1,0 +1,31 @@
+<p>How do you give a C# Auto-Property a default value?  I either use the constructor, or revert to the old syntax. </p>
+
+<p><strong> Using the Constructor:</strong></p>
+
+<pre><code>class Person 
+{
+    public Person()
+    {
+        Name = "Default Name";
+    }
+    public string Name { get; set; }
+}
+</code></pre>
+
+<p><strong>Using normal property syntax</strong>  (with a default value)</p>
+
+<pre><code>private string name = "Default Name";
+public string Name 
+{
+    get 
+    {
+        return name;
+    }
+    set
+    {
+        name = value;
+    }
+}
+</code></pre>
+
+<p>Is there a better way?</p>

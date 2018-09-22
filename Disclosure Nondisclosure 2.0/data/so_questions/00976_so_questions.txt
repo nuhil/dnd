@@ -1,0 +1,1 @@
+<p>I've got a <a href="http://notebooks.readerville.com/">site</a> that provides blog-friendly widgets via JavaScript. These work fine in most circumstances, including self-hosted Wordpress blogs. With blogs hosted at Wordpress.com, however, JavaScript isn't allowed in sidebar text modules. Has anyone seen a workaround for this limitation?</p>

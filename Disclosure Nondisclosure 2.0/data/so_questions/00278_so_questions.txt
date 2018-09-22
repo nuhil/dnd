@@ -1,0 +1,1 @@
+<p>I'm looking for a method, or a code snippet for converting std::string to LPCWSTR</p>

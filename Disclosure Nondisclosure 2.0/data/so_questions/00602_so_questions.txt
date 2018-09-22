@@ -1,0 +1,9 @@
+<p>While in the final throws of upgrading MS-SQL Server 2005 Express Edition to MS-SQL Server 2005 Enterprise Edition, I came across this error:</p>
+
+<blockquote>
+  <p>The certificate cannot be dropped because one or more entities are either signed or encrypted using it. To continue, correct the problem...</p>
+</blockquote>
+
+<p>So, <strong>how do I find and decouple the entities signed/encrypted using this certificate so I can delete the certificate and proceed with the upgrade?</strong></p>
+
+<p>I'm also kind of expecting/assuming that the upgrade setup will provide a new certificate and re-couple those former entities with it or I'll have to forcibly do so after the setup.</p>

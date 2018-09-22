@@ -1,0 +1,5 @@
+<p>In Java, say you have a class that wraps an <code>ArrayList</code> (or any collection) of objects. </p>
+
+<p>How would you return one of those objects such that the caller will not see any future changes to the object made in the ArrayList? </p>
+
+<p>i.e. you want to return a deep copy of the object, but you don't know if it is cloneable.</p>

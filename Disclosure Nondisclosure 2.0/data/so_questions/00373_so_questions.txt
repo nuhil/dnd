@@ -1,0 +1,31 @@
+<p>I have only just started received the following error in my windows forms application under dot net 2 framework on windows 2000 when using System.DirectoryServices.</p>
+
+<pre><code>    {System.Runtime.InteropServices.COMException}
+System.Runtime.InteropServices.COMException: {"Library not registered."}
+_className: Nothing
+_COMPlusExceptionCode: -532459699
+_data: Nothing
+_dynamicMethods: Nothing
+_exceptionMethod: Nothing
+_exceptionMethodString: Nothing
+_helpURL: Nothing
+_HResult: -2147319779
+_innerException: Nothing
+_message: "Library not registered."
+_remoteStackIndex: 0
+_remoteStackTraceString: Nothing
+_source: Nothing
+_stackTrace: {System.Array}
+_stackTraceString: Nothing
+_xcode: -532459699
+_xptrs: 0
+Source: "System.DirectoryServices"
+StackTrace: "   at System.DirectoryServices.DirectoryEntry.Bind(Boolean throwIfFail)
+</code></pre>
+
+<p>at System.DirectoryServices.DirectoryEntry.Bind()
+   at System.DirectoryServices.DirectoryEntry.get_AdsObject()
+   at System.DirectoryServices.DirectorySearcher.FindAll(Boolean findMoreThanOne)
+   at System.DirectoryServices.DirectorySearcher.FindAll()</p>
+
+<p>I have re-installed the framework and re-registered activeds.dll however this has not resolved the issue. I am guessing I need to find another dll and re-register it however it is not clear which dll this would be.</p>

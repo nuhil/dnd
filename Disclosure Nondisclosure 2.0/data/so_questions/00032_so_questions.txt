@@ -1,0 +1,1 @@
+<p>When working on ASP.NET 1.1 projects I always used the Global.asax to catch all errors. I'm looking for a similar way to catch all exceptions in a Windows Forms user control, which ends up being a hosted IE control. What is the proper way to go about doing something like this?</p>

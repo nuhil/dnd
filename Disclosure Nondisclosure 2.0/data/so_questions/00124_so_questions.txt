@@ -1,0 +1,9 @@
+<p>What I would like to do is create a clean virtual machine image as the output of a build of an application.</p>
+
+<p>So a new virtual machine would be created (from a template is fine, with the OS installed, and some base software installed) --- a new web site would be created in IIS, and the web app build output copied to a location on the virtual machine hard disk, and IIS configured correctly, the VM would start up and run.</p>
+
+<p>I know there are MSBuild tasks to script all the administrative actions in IIS, but how do you script all the actions with Virtual machines?  Specifically, creating a new virtual machine from a template, naming it uniquely, starting it, configuring it, etc...</p>
+
+<p>Specifically I was wondering if anyone has successfully implemented any VM scripting as part of a build process.</p>
+
+<p>Update: I assume with Hyper-V, there is a different set of libraries/APIs to script virtual machines, anyone played around with this?  And anyone with real practical experience of doing something like this?</p>

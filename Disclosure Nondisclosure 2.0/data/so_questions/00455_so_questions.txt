@@ -1,0 +1,1 @@
+<p>In simple terms, what are the reasons for, and what are the differences between the GPL v2 and GPL v3 open source licenses? Explanations and references to legal terms and further descriptions would be appreciated.</p>

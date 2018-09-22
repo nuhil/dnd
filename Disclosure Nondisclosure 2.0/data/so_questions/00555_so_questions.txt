@@ -1,0 +1,36 @@
+<p>I'm using JavaScript to hide an image and show some text thats hidden under it. But, when the text is shown if you scroll over it, it fires the mouseout event on the container, that then hides the text and shows the image again, and it just goes into a weird loop.</p>
+
+<p>The html looks like this:</p>
+
+<pre><code>&lt;div onmouseover="jsHoverIn('1')" onmouseout="jsHoverOut('1')"&gt;
+    &lt;div style="" id="image1" /&gt;
+    &lt;div id="text1" style="display: none;"&gt;
+        &lt;p&gt;some content&lt;/p&gt;
+        &lt;p&gt;some more content&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</code></pre>
+
+<p>And the javascript (It uses scriptaculous):</p>
+
+<pre><code>function jsHoverIn (id)
+{
+    if ( !visible[id] )
+    {
+        new Effect.Fade ("image"+id, {queue: { position: 'end', scope: id } });
+        new Effect.Appear ("text"+id, {queue: { position: 'end', scope: id } });
+        visible[id] = true;
+    }
+}
+function jsHoverOut (id)
+{
+    var scope = Effect.Queues.get( id );
+    scope.each( function( effect ){ effect.cancel() } );
+
+    new Effect.Fade ("text"+id, {queue: { position: 'end', scope: id } });
+    new Effect.Appear ("image"+id, {queue: { position: 'end', scope: id } });
+    visible[id] = false;
+}
+</code></pre>
+
+<p>This seems really simple, but i just cant wrap my head around it.</p>

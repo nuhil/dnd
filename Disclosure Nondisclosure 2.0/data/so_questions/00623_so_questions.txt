@@ -1,0 +1,5 @@
+<p>I'm struggling to implement ACL in CakePHP.  After reading the documentation in the <a href="http://manual.cakephp.org/view/171/Access-Control-Lists">cake manual</a> as well as several other tutorials, blog posts etc, I found Aran Johnson's excellent tutorial which has helped fill in many of the gaps.  His examples seem to conflict with others I've seen though in a few places - specifically in the ARO tree structure he uses.</p>
+
+<p>In his <a href="http://aranworld.com/article/169/acl-and-auth-tutorial-database-setup">examples</a> his user groups are set up as a cascading tree, with the most general user type being at the top of the tree, and its children branching off for each more restricted access type.  Elsewhere I've usually seen each user type as a child of the same generic user type.  </p>
+
+<p>How do you set up your AROs and ACOs in CakePHP?  Any and all tips appreciated!</p>

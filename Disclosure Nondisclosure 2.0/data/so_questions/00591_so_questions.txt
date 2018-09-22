@@ -1,0 +1,30 @@
+<p>Recently I got IE7 crashed on Vista on jar loading (presumably) with the following error:</p>
+
+<pre><code>Problem signature:
+  Problem Event Name:        BEX
+  Application Name:          iexplore.exe
+  Application Version:       7.0.6001.18000
+  Application Timestamp:     47918f11
+  Fault Module Name:         ntdll.dll
+  Fault Module Version:      6.0.6001.18000
+  Fault Module Timestamp:    4791a7a6
+  Exception Offset:          00087ba6
+  Exception Code:            c000000d
+  Exception Data:            00000000
+  OS Version:                6.0.6001.2.1.0.768.3
+  Locale ID:                 1037
+  Additional Information 1:  fd00
+  Additional Information 2:  ea6f5fe8924aaa756324d57f87834160
+  Additional Information 3:  fd00
+  Additional Information 4:  ea6f5fe8924aaa756324d57f87834160
+</code></pre>
+
+<p>Googling revealed this sort of problems <a href="http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=1194672&amp;SiteID=1">is</a> <a href="http://support.mozilla.com/tiki-view_forum_thread.php?locale=eu&amp;comments_parentId=101420&amp;forumId=1">common</a> <a href="http://www.eggheadcafe.com/software/aspnet/29930817/bex-problem.aspx">for</a> <a href="http://www.microsoft.com/communities/newsgroups/en-us/default.aspx?dg=microsoft.public.vc.mfc&amp;tid=d511c635-3c99-431d-8118-526d3e3fff00&amp;cat=&amp;lang=&amp;cr=&amp;sloc=&amp;p=1">Vista</a> and relates to <a href="http://www.gomanuals.com/java_not_working_on_windows_vista.shtml">Java</a> (although SUN <a href="http://weblogs.java.net/blog/chet/archive/2006/10/java_on_vista_y.html">negates</a>). Also I think it has something to do with DEP. I failed to find official Microsoft Kb.</p>
+
+<p>So, the questions are:</p>
+
+<ul>
+<li>What BEX stands for?</li>
+<li>What is it about?</li>
+<li>How to deal with such kind of errors?</li>
+</ul>

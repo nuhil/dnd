@@ -1,0 +1,32 @@
+<p>I have a SQL script that inserts data (via INSERT statements currently numbering in the thousands) One of the columns contains a unique identifier (though not an IDENTITY type, just a plain ol' int) that's actually unique across a few different tables. </p>
+
+<p>I'd like to add a scalar function to my script that gets the next available ID (i.e. last used ID + 1) but I'm not sure this is possible because there doesn't seem to be a way to use a global or static variable from within a UDF, I can't use a temp table, and I can't update a permanent table from within a function. </p>
+
+<p>Currently my script looks like this: </p>
+
+<pre>
+   declare @v_baseID int 
+   exec dbo.getNextID @v_baseID out  --sproc to get the next available id
+   --Lots of these - where n is a hardcoded value
+   insert into tableOfStuff (someStuff, uniqueID) values ('stuff', @v_baseID + n ) 
+   exec dbo.UpdateNextID @v_baseID + lastUsedn  --sproc to update the last used id
+</pre>
+
+<p>But I would like it to look like this: </p>
+
+<pre>
+   --Lots of these
+   insert into tableOfStuff (someStuff, uniqueID) values ('stuff', getNextID() ) 
+</pre>
+
+<p>Hardcoding the offset is a pain in the arse, and is error prone.  Packaging it up into a simple scalar function is very appealing, but I'm starting to think it can't be done that way since there doesn't seem to be a way to maintain the offset counter between calls.  Is that right, or is there something I'm missing.  </p>
+
+<p>We're using SQL Server 2005 at the moment. </p>
+
+<p><em>edits for clarification:</em></p>
+
+<p>Two users hitting it won't happen.  This is an upgrade script that will be run only once, and never concurrently. </p>
+
+<p>The actual sproc isn't prefixed with sp_, fixed the example code. </p>
+
+<p>In normal usage, we do use an id table and a sproc to get IDs as needed, I was just looking for a cleaner way to do it in this script, which essentially just dumps a bunch of data into the db. </p>

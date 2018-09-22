@@ -1,0 +1,7 @@
+<p>I have a user that want to be able to select a textbox and have the current text selected so that he doesn't have to highlight it all in order to change the contents.  </p>
+
+<p>The contents need to be handle when enter is pushed.  That part I think I have figured out but any suggestions would be welcome. </p>
+
+<p>The part I need help with is that once enter has been pushed, any entry into the textbox should clear the contents again.</p>
+
+<p><strong>Edit:</strong> The textbox controls an piece of RF hardware.  What the user wants to be able to do is enter a setting and press enter.  The setting is sent to the hardware.  Without doing anything else the user wants to be able to type in a new setting and press enter again.</p>

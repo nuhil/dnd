@@ -1,0 +1,1 @@
+<p>I always create a new empty database, after that backup and restore of the existing database into it, but is this really the best way? As it seems very error prone and over complicated for me.</p>

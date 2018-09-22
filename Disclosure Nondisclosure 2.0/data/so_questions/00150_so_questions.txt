@@ -1,0 +1,1 @@
+<p>How do I convert the RGB values of a pixel to a single monochrome value?</p>

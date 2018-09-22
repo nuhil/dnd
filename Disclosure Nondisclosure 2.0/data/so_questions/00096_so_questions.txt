@@ -1,0 +1,11 @@
+<p>I'm integrating .NET support into our C++ application.<br />
+It's an old-school MFC application, with 1 extra file compiled with the "/clr" option that references a CWinFormsControl.</p>
+
+<p>I'm not allowed to remove the linker flag "/NODEFAULTLIB".<br />
+(We have our own build management system, not Visual Studio's.)<br />
+This means I have to specify all necessary libraries: VC runtime and MFC.</p>
+
+<p>Other compiler options include "/MD"</p>
+
+<p>Next to that: I can't use the linker flag "/FORCE:MULTIPLE" and just add <em>everything</em>:<br />
+I'm looking for a non-overlapping set of libraries.</p>

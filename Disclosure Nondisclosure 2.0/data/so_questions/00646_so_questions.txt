@@ -1,0 +1,11 @@
+<p>Here's my first question at SO.</p>
+
+<p>I have a internal application for my company which I've been recently ask to maintain. The applications is built in PHP and its fairly well coded (OO, DB Abstraction, Smarty) nothing WTF-ish. </p>
+
+<p>The problem is the applications is <strong>very slow</strong>.</p>
+
+<p>How do I go about finding out what's slowing the application down? I've optimized the code to make very few DB queries, so I know that it is the PHP code which is taking a while to execute. I need to get some tools which can help me with this and need to devise a strategy for checking my code.</p>
+
+<p>I can do the checking/strategy work myself, but I need more PHP tools to figure out where my app is crapping up. </p>
+
+<p>Thoughts?</p>

@@ -1,0 +1,5 @@
+<p>I have an inherited project that uses a build script (not make) to build and link the project with various libraries.</p>
+
+<p>When it performs a build I would like to parse the build output to determine what and where the actual static libraries being linked into the final executable are and where are they coming from.</p>
+
+<p>The script is compiling and linking with GNU tools.</p>

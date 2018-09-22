@@ -1,0 +1,3 @@
+<p>What is the simplest SQL query to find the second largest integer value in a specific column? </p>
+
+<p>There are maybe duplicate values in the column.</p>

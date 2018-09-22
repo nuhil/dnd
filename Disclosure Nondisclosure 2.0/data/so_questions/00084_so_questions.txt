@@ -1,0 +1,13 @@
+<p>I am working on a project right now that involves receiving a message from another application, formatting the contents of that message, and sending it to a printer.  Technology of choice is C# windows service.  The output could be called a report, I suppose, but a reporting engine is not necessary.  A simple templating engine, like StringTemplate, or even XSLT outputting HTML would be fine.  The problem I'm having is finding a free way to print this kind of output from a service.  Since it <em>seems</em> that it will work, I'm working on a prototype using Microsoft's RDLC, populating a local report and then rendering it as an image to a memory stream, which I will then print.  Issues with that are:</p>
+
+<ul>
+<li>Multi-page printing will be a big headache.</li>
+<li>Still have to use PrintDocument to print the memory stream, which is unsupported in a Windows Service (though it may work - haven't gotten that far with the prototype yet)</li>
+<li>If the data coming across changes, I have to change the dataset, and the class that the data is being deserialized into.  bad bad bad.</li>
+</ul>
+
+<p>Has anyone had to do anything remotely like this?  Any advice?  I already posed a question about printing HTML without user input, and after wasting about 3 days on that, I have come to the conclusion that it cannot be done, at least not with any freely available tool.</p>
+
+<p>All help is appreciated.</p>
+
+<p>EDIT: We are on version 2.0 of the .NET framework.</p>

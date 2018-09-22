@@ -1,0 +1,9 @@
+<p>I'm planning on creating a social networking + MP3 lecture downloading / browsing / commenting / discovery website using Ruby on Rails. Partially for fun and also as a means to learn some Ruby on Rails. I'm looking for a social networking framework that I can use as a basis for my site. I don't want to re-invent the wheel. </p>
+
+<p>Searching the web I found three such frameworks. Which of these three would you recommend using and why?</p>
+
+<p><a href="http://portal.insoshi.com/">http://portal.insoshi.com/</a></p>
+
+<p><a href="http://www.communityengine.org/">http://www.communityengine.org/</a></p>
+
+<p><a href="http://lovdbyless.com/">http://lovdbyless.com/</a></p>

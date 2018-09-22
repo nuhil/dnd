@@ -1,0 +1,1 @@
+<p>Things like <code>$log$</code> and <code>$version$</code> which add data upon check-in to the file. I'm interested in seeing the other ones and what information they can provide, but I can't get much info unless I know what they are called.</p>

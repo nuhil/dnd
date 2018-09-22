@@ -1,0 +1,17 @@
+<p>Can't understand why the following takes place:</p>
+
+<pre><code>String date = "06-04-2007 07:05";
+SimpleDateFormat fmt = new SimpleDateFormat("MM-dd-yyyy HH:mm");
+Date myDate = fmt.parse(date); 
+
+System.out.println(myDate);  //Mon Jun 04 07:05:00 EDT 2007
+long timestamp = myDate.getTime();
+System.out.println(timestamp); //1180955100000 -- where are the milliseconds?
+
+// on the other hand...
+
+myDate = new Date();
+System.out.println(myDate);  //Tue Sep 16 13:02:44 EDT 2008
+timestamp = myDate.getTime();
+System.out.println(timestamp); //1221584564703 -- why, oh, why?
+</code></pre>

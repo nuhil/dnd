@@ -1,0 +1,11 @@
+<p>Does anybody recommend a design pattern for taking a binary data file, parsing parts of it into objects and storing the resultant data into a database?  </p>
+
+<p>I think a similar pattern could be used for taking an XML or tab-delimited file and parse it into their representative objects.</p>
+
+<p>A common data structure would include:</p>
+
+<blockquote>
+  <p>(Header) (DataElement1) (DataElement1SubData1) (DataElement1SubData2)(DataElement2) (DataElement2SubData1) (DataElement2SubData2) (EOF)</p>
+</blockquote>
+
+<p>I think a good design would include a way to change out the parsing definition based on the file type or some defined metadata included in the header.  So a <a href="http://www.oodesign.com/factory-method-pattern.html" rel="nofollow">Factory Pattern</a> would be part of the overall design for the Parser part.</p>

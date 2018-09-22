@@ -1,0 +1,11 @@
+<p>Is there a simple way in <em>.NET</em> to quickly get the current protocol, host, and port? For example, if I'm on the following URL:</p>
+
+<p><code>http://www.mywebsite.com:80/pages/page1.aspx</code></p>
+
+<p>I need to return:</p>
+
+<p><code>http://www.mywebsite.com:80</code></p>
+
+<p>I know I can use <code>Request.Url.AbsoluteUri</code> to get the complete URL, and I know I can use <code>Request.Url.Authority</code> to get the host and port, but I'm not sure of the best way to get the protocol without parsing out the URL string.</p>
+
+<p>Any suggestions?</p>

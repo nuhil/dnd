@@ -1,0 +1,5 @@
+<p>I'm working with a snippet of code that recursively calls itself and tries to pull out a MIME Type part of <code>text/html</code> from an email (if it exists) for further processing.</p>
+
+<p>The "text/html" could exist inside other content such as <code>multipart/alternative</code>, so I'm trying to find out if there is a defined hierarchy for email MIME Types.</p>
+
+<p>Anybody know if there is and what it is? i.e. what types can parent other types?</p>

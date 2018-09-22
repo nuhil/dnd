@@ -1,0 +1,4 @@
+<p>In most C or C++ environments, there is a "debug" mode and a "release" mode compilation.<br />
+Looking at the difference between the two, you find that the debug mode adds the debug symbols (often the -g option on lots of compilers) but it also disables most optimizations.<br />
+In "release" mode, you usually have all sorts of optimizations turned on.<br />
+Why the difference?</p>

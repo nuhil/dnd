@@ -1,0 +1,1 @@
+<p>Is there any performance difference between tuples and lists when it comes to instantiation and retrieval of elements? </p>

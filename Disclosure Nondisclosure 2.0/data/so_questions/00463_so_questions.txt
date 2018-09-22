@@ -1,0 +1,5 @@
+<p>This question is addressed to a degree in this question on <a href="http://stackoverflow.com/questions/33664/best-practices-for-managing-linq-to-sql-dbml-files" rel="nofollow">LINQ to SQL .dbml best practices</a>, but I am not sure how to add to a question.</p>
+
+<p>One of our applications uses LINQ to SQL and we have currently have one .dbml file for the entire database which is becoming difficult to manage.  We are looking at refactoring it a bit into separate files that are more module/functionality specific, but one problem is that many of the high level classes would have to be duplicated in several .dbml files as the associations can't be used across .dbml files (as far as I know), with the additional partial class code as well.</p>
+
+<p>Has anyone grappled with this problem and what recommendations would you make?</p>

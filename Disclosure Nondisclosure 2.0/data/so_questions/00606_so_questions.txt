@@ -1,0 +1,5 @@
+<p>I would like to "post-process" my app.config file and perform some token replacements after the project builds.</p>
+
+<p>Is there an <em>easy</em> way to do this using a <a href="http://msdn.microsoft.com/en-us/library/42x5kfw4(VS.80).aspx" rel="nofollow">VS post-build event</a> command?</p>
+
+<p><em>(Yeah I know I could probably use NAnt or something, looking for something simple.)</em></p>

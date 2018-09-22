@@ -1,0 +1,3 @@
+<p>Conventional wisdom states that stored procedures are always faster. So, since they're always faster, use them <strong>ALL THE TIME</strong>.</p>
+
+<p>I am pretty sure this is grounded in some historical context where this was once the case. Now, I'm not advocating that Stored Procs are not needed, but I want to know in what cases stored procs are necessary in modern databases such as MySql, SqlServer, Oracle, or . Is it overkill to have ALL access through stored procs?</p>

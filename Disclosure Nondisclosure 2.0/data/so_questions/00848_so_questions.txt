@@ -1,0 +1,7 @@
+<p>I am trying out the debugger built into <code>Zend studio</code>.  It seems great!  One thing though, when I start a page using the debugger does anyone know how I can set a request get argument within the page?</p>
+
+<p>For example, I don't want to debug runtests.php</p>
+
+<p>I want to debug <code>runtests.php?test=10</code></p>
+
+<p>I assume its a simple configuration and I just can't find it.</p>

@@ -1,0 +1,13 @@
+<p>I’ve writen a little python script that just pops up a message box containing the text passed on the command line. I want to pop it up only when the window —resulting from a previous call— is not open.</p>
+
+<pre><code>from Tkinter import *
+import tkMessageBox
+
+root = Tk()
+root.withdraw() 
+
+# TODO not if a window with this title exists
+tkMessageBox.showinfo("Key you!", " ".join(sys.argv[1:]))
+</code></pre>
+
+<p>Any idea how to check that?</p>

@@ -1,0 +1,3 @@
+<p>What is the best and/or easiest way to replace the missing BufferedImage functionality for a Java project I am converting to .NET with IKVM?</p>
+
+<p>I'm basically getting "cli.System.NotImplementedException: BufferedImage" exceptions when running the application, which otherwise runs fine.</p>

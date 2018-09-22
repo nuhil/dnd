@@ -1,0 +1,7 @@
+<p>What makes a module/service/bit of application functionality a particularly good candidate for an OSGi module? </p>
+
+<p>I'm interested in using <a href="http://en.wikipedia.org/wiki/OSGi">OSGi</a> in my applications. We're a Java shop and we use Spring pretty extensively, so I'm leaning toward using <a href="http://www.springframework.org/osgi">Spring Dynamic Modules for OSGi(tm) Service Platforms</a>. I'm looking for a good way to incorporate a little bit of OSGi into an application as a trial. Has anyone here used this or a similar OSGi technology? Are there any pitfalls? </p>
+
+<p>@Nicolas - Thanks, I've seen that one. It's a good tutorial, but I'm looking more for ideas on how to do my first "real" OSGi bundle, as opposed to a Hello World example.</p>
+
+<p>@david - Thanks for the link! Ideally, with a greenfield app, I'd design the whole thing to be dynamic. What I'm looking for right now, though, is to introduce it in a small piece of an existing application. Assuming I can pick any piece of the app, what are some factors to consider that would make that piece better or worse as an OSGi guinea pig?</p>

@@ -1,0 +1,7 @@
+<p>Many times I have seen Visual Studio solutions which have multiple projects that share source files.  These common source files are usually out in a common directory and in the solution explorer their icon shows up with a link arrow in the bottom left.</p>
+
+<p>However, any time I try to add a source file to the project that is outside of that project's main directory, it just automatically copies it into the directory so that I no longer have  a shared copy.</p>
+
+<p>I found that I can get around this by manually opening the project file in a text editor and modifying the path to something like "../../../Common/Source.cs"  but this is more of a hack then I would like.</p>
+
+<p>Is there a setting or something I can change that will allow me to do this from within the IDE?</p>

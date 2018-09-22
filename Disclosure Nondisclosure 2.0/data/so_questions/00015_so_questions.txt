@@ -1,0 +1,6 @@
+<p>I am using CCNET on a sample project with SVN as my source control. CCNET is configured to create a build on every check in. CCNET uses MSBuild to build the source code.</p>
+
+<p>I would like to use the latest revision number to generate AssemblyInfo.cs while compiling.
+How can I retrieve the latest revision from subversion and use the value in CCNET?</p>
+
+<p>Edit: I'm not using NAnt - only MSBuild.</p>

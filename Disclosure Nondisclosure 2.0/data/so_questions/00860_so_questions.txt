@@ -1,0 +1,5 @@
+<p>I'm already using <a href="http://www.matasano.com/log/958/enough-with-the-rainbow-tables-what-you-need-to-know-about-secure-password-schemes/">salted hashing</a> to store passwords in my database, which means that I should be immune to <a href="http://en.wikipedia.org/wiki/Rainbow_table">rainbow table</a> attacks.</p>
+
+<p>I had a thought, though: what if someone does get hold of my database? It contains the users' email addresses. I can't really hash these, because I'll be using them to send notification emails, etc..</p>
+
+<p>Should I encrypt them?</p>

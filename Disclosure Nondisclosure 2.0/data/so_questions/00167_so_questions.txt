@@ -1,0 +1,5 @@
+<p>What's the best way/tool to display nice diagrams with entity relationships in ASP MVC views?  <br />
+i.e. servers and and applications, or servers with other servers.</p>
+
+<p>Are there any third party tools out there that can do this?  <br />
+I've been searching around things like Telerik, but it's really hard to google for this!</p>

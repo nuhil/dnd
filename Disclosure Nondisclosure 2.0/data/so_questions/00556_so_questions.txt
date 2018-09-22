@@ -1,0 +1,12 @@
+<p>In my specific example, I'm dealing with a drop-down, e.g.:</p>
+
+<pre><code>&lt;select name="foo" id="bar"&gt;
+    &lt;option disabled="disabled" selected="selected"&gt;Select an item:&lt;/option&gt;
+    &lt;option&gt;an item&lt;/option&gt;
+    &lt;option&gt;another item&lt;/option&gt;
+&lt;/select&gt;
+</code></pre>
+
+<p>Of course, that's pretty nonsensical, but I'm wondering whether any strict behaviour is defined. Opera effectively rejects the 'selected' attribute and selects the next item in the list. All other browsers appear to allow it, and it remains selected.</p>
+
+<p><strong>Update:</strong> To clarify, I'm specifically interested in the initial selection. I'm dealing with one of those 'Select an item:'-type drop-downs, in which case the first option is really a label, and an action occurs onchange(). This is <em>fairly</em> well 'progressively enhanced', in that a submit button is present, and only removed via javascript. If the "select..." option were removed, whatever then were to become the first item would not be selectable. Are we just ruling out 'onchange' drop downs altogether, or should the "select..." option be selectable, just with no effect?</p>

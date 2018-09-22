@@ -1,0 +1,12 @@
+<p>I'm guessing it needs to be something like:</p>
+
+<pre><code>CONVERT(CHAR(24), lastModified, 101)
+</code></pre>
+
+<p>However I'm not sure of the right value for the third parameter.</p>
+
+<p>Thanks!</p>
+
+<hr>
+
+<p>Well I'm trying to write a script to copy my sql server db to a sqlite file, which gets downloaded to an air app, which then syncs the data to another sqlite file. I'm having a ton of trouble with dates. If I select a date in air and try to insert it, it fails because it's not in the right format... even if it was a valid date to begin with. I figured I'd try to experiment with the unix time since that's the only thing thats worked so far. I am considering just leaving them as varchar because I don't sort by them anyway.</p>

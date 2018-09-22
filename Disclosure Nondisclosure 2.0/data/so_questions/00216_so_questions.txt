@@ -1,0 +1,7 @@
+<p>My company develops several types of applications.  A lot of our business comes from doing multimedia-type apps, typically done in Flash.  However, now that side of the house is starting to migrate towards doing Flex development.</p>
+
+<p>Most of our other development is done using .NET.  I'm trying to make a push towards doing Silverlight development instead, since it would take better advantage of the .NET developers on staff.  I prefer the Silverlight platform over the Flex platform for the simple fact that Silverlight is all .NET code.  We have more .NET developers on staff than Flash/Flex developers, and most of our Flash/Flex developers are graphic artists (not real programmers).  Only reason they push towards Flex right now is because it seems like the logical step from Flash.</p>
+
+<p>I've done development using both, and I honestly believe Silverlight is easier to work with.  But I'm trying to convince people who are only Flash developers. </p>
+
+<p>So here's my question:  If I'm going to go into a meeting to praise Silverlight, why would a company want to go with Silverlight instead of Flex?  Other than the obvious "not everyone has Silverlight", what are the pros and cons for each?</p>

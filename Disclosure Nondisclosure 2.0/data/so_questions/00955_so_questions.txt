@@ -1,0 +1,40 @@
+<p>I'm looking for a variation on the #save method that will only save 
+attributes that do not have errors attached to them. 
+So a model can be updated without being valid overall, and this will 
+still prevent saving invalid data to the database.</p>
+
+<p>By "valid attributes", I mean those attributes that give nil when calling @model_instance.errors.on(:attribute)</p>
+
+<p>Anyone have an idea of how to accomplish this?</p>
+
+<p>So far, I have the following:</p>
+
+<pre><code>def save_valid_attributes 
+ valid? 
+ update_atrtibutes attributes.inject({}){|k, v, m| m[k] = v unless errors_on(k.to_sym); m} 
+end
+</code></pre>
+
+<p>This works if there's no processing done on assignment, which in my case there is.
+For example, I have a database column "start_date", and two methods defined:</p>
+
+<pre><code>def nice_start_date=(startdate)
+ self.start_date = Chronic.parse(startdate) || startdate
+end
+
+def nice_start_date
+ self.start_date.to_s
+end
+</code></pre>
+
+<p>These two methods allow me to properly parse the user inputted dates using Chronic before saving. So, second way of doing this, one attribute at a time:</p>
+
+<pre><code>def save_valid_attributes(attrib) 
+  valid?
+  attrib.each{|(k,v)| send("${k}=", v); save; reload)
+end
+</code></pre>
+
+<p>The model needs to be reloaded each time since, if one of the dates is invalid and doesn't save, it will prevent all further attributes from saving.</p>
+
+<p>Is there a better way to do this? I'm sure this isn't an uncommon problem in the Rails world, I just can't seem to find anything in the Google universe of knowledge.</p>

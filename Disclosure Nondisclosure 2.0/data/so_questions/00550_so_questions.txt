@@ -1,0 +1,28 @@
+<p>I have just started working with the <code>AnimationExtender</code>.  I am using it to show a new div with a list gathered from a database when a button is pressed.  The problem is the button needs to do a postback to get this list as I don't want to make the call to the database unless it's needed.  The postback however stops the animation mid flow and resets it.  The button is within an update panel.</p>
+
+<p>Ideally I would want the animation to start once the postback is complete and the list has been gathered.  I have looked into using the <code>ScriptManager</code> to detect when the postback is complete and have made some progress.  I have added two javascript methods to the page.</p>
+
+<pre><code>function linkPostback() {
+
+        var prm = Sys.WebForms.PageRequestManager.getInstance();
+        prm.add_endRequest(playAnimation)
+    }
+
+    function playAnimation() {
+        var onclkBehavior = $find("ctl00_btnOpenList").get_OnClickBehavior().get_animation();
+        onclkBehavior.play();
+    }
+</code></pre>
+
+<p>And I’ve changed the <code>btnOpenList.OnClientClick=”linkPostback();”</code></p>
+
+<p>This almost solves the problem.  I’m still get some animation stutter.  The animation starts to play before the postback and then plays properly after postback.  Using the <code>onclkBehavior.pause()</code> has no effect.  I can get around this by setting the <code>AnimationExtender.Enabled = false</code> and setting it to true in the buttons postback event.  This however works only once as now the AnimationExtender is enabled again.  I have also tried disabling the <code>AnimationExtender</code> via javascript but this has no effect.</p>
+
+<p>Is there a way of playing the animations only via javascript calls?  I need to decouple the automatic link to the 
+buttons click event so I can control when the animation is fired.</p>
+
+<p>Hope that makes sense.</p>
+
+<p>Thanks</p>
+
+<p>DG</p>

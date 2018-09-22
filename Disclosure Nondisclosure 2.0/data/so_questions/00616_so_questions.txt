@@ -1,0 +1,159 @@
+<p>Hey, I'm using <a href="http://en.wikipedia.org/wiki/Levenshtein_distance">Levenshteins</a> algorithm to get distance between source and target string.</p>
+
+<p>also I have method which returns value from 0 to 1:</p>
+
+<pre><code>/// &lt;summary&gt;
+/// Gets the similarity between two strings.
+/// All relation scores are in the [0, 1] range, 
+/// which means that if the score gets a maximum value (equal to 1) 
+/// then the two string are absolutely similar
+/// &lt;/summary&gt;
+/// &lt;param name="string1"&gt;The string1.&lt;/param&gt;
+/// &lt;param name="string2"&gt;The string2.&lt;/param&gt;
+/// &lt;returns&gt;&lt;/returns&gt;
+public static float CalculateSimilarity(String s1, String s2)
+{
+    if ((s1 == null) || (s2 == null)) return 0.0f;
+
+    float dis = LevenshteinDistance.Compute(s1, s2);
+    float maxLen = s1.Length;
+    if (maxLen &lt; s2.Length)
+        maxLen = s2.Length;
+    if (maxLen == 0.0F)
+        return 1.0F;
+    else return 1.0F - dis / maxLen;
+}
+</code></pre>
+
+<p>but this for me is not enough. Because I need more complex way to match two sentences.</p>
+
+<p>For example I want automatically tag some music, I have original song names, and i have songs with trash, like <em>super, quality,</em> years like <em>2007, 2008,</em> etc..etc.. also some files have just <a href="http://trash..thash..song_name_mp3.mp3">http://trash..thash..song_name_mp3.mp3</a>, other are normal. I want to create an algorithm which will work just more perfect than mine now.. Maybe anyone can help me?</p>
+
+<p>here is my current algo:</p>
+
+<pre><code>/// &lt;summary&gt;
+/// if we need to ignore this target.
+/// &lt;/summary&gt;
+/// &lt;param name="targetString"&gt;The target string.&lt;/param&gt;
+/// &lt;returns&gt;&lt;/returns&gt;
+private bool doIgnore(String targetString)
+{
+    if ((targetString != null) &amp;&amp; (targetString != String.Empty))
+    {
+        for (int i = 0; i &lt; ignoreWordsList.Length; ++i)
+        {
+            //* if we found ignore word or target string matching some some special cases like years (Regex).
+            if (targetString == ignoreWordsList[i] || (isMatchInSpecialCases(targetString))) return true;
+        }
+    }
+
+   return false;
+}
+
+/// &lt;summary&gt;
+/// Removes the duplicates.
+/// &lt;/summary&gt;
+/// &lt;param name="list"&gt;The list.&lt;/param&gt;
+private void removeDuplicates(List&lt;String&gt; list)
+{
+    if ((list != null) &amp;&amp; (list.Count &gt; 0))
+    {
+        for (int i = 0; i &lt; list.Count - 1; ++i)
+        {
+            if (list[i] == list[i + 1])
+            {
+                list.RemoveAt(i);
+                --i;
+            }
+        }
+    }
+}
+
+/// &lt;summary&gt;
+/// Does the fuzzy match.
+/// &lt;/summary&gt;
+/// &lt;param name="targetTitle"&gt;The target title.&lt;/param&gt;
+/// &lt;returns&gt;&lt;/returns&gt;
+private TitleMatchResult doFuzzyMatch(String targetTitle)
+{
+    TitleMatchResult matchResult = null;
+
+   if (targetTitle != null &amp;&amp; targetTitle != String.Empty)
+   {
+       try
+       {
+           //* change target title (string) to lower case.
+           targetTitle = targetTitle.ToLower();
+
+           //* scores, we will select higher score at the end.
+           Dictionary&lt;Title, float&gt; scores = new Dictionary&lt;Title, float&gt;();
+
+           //* do split special chars: '-', ' ', '.', ',', '?', '/', ':', ';', '%', '(', ')', '#', '\"', '\'', '!', '|', '^', '*', '[', ']', '{', '}', '=', '!', '+', '_'
+           List&lt;String&gt; targetKeywords = new List&lt;string&gt;(targetTitle.Split(ignoreCharsList, StringSplitOptions.RemoveEmptyEntries));
+
+          //* remove all trash from keywords, like super, quality, etc..
+           targetKeywords.RemoveAll(delegate(String x) { return doIgnore(x); });
+          //* sort keywords.
+          targetKeywords.Sort();
+        //* remove some duplicates.
+        removeDuplicates(targetKeywords);
+
+        //* go through all original titles.
+        foreach (Title sourceTitle in titles)
+        {
+            float tempScore = 0f;
+            //* split orig. title to keywords list.
+            List&lt;String&gt; sourceKeywords = new List&lt;string&gt;(sourceTitle.Name.Split(ignoreCharsList, StringSplitOptions.RemoveEmptyEntries));
+            sourceKeywords.Sort();
+            removeDuplicates(sourceKeywords);
+
+            //* go through all source ttl keywords.
+            foreach (String keyw1 in sourceKeywords)
+            {
+                float max = float.MinValue;
+                foreach (String keyw2 in targetKeywords)
+                {
+                    float currentScore = StringMatching.StringMatching.CalculateSimilarity(keyw1.ToLower(), keyw2);
+                    if (currentScore &gt; max)
+                    {
+                        max = currentScore;
+                    }
+                }
+                tempScore += max;
+            }
+
+            //* calculate average score.
+            float averageScore = (tempScore / Math.Max(targetKeywords.Count, sourceKeywords.Count)); 
+
+            //* if average score is bigger than minimal score and target title is not in this source title ignore list.
+            if (averageScore &gt;= minimalScore &amp;&amp; !sourceTitle.doIgnore(targetTitle))
+            {
+                //* add score.
+                scores.Add(sourceTitle, averageScore);
+            }
+        }
+
+        //* choose biggest score.
+        float maxi = float.MinValue;
+        foreach (KeyValuePair&lt;Title, float&gt; kvp in scores)
+        {
+            if (kvp.Value &gt; maxi)
+            {
+                maxi = kvp.Value;
+                matchResult = new TitleMatchResult(maxi, kvp.Key, MatchTechnique.FuzzyLogic);
+            }
+        }
+    }
+    catch { }
+}
+//* return result.
+return matchResult;
+}
+</code></pre>
+
+<p>This works normally but just in some cases, a lot of titles which should match, does not match... I think I need some kind of formula to play with weights and etc, but i can't think of one.. </p>
+
+<p>Ideas? Suggestions? Algos?</p>
+
+<p>by the way I already know this topic (My colleague already posted it but we cannot come with a proper solution for this problem.): 
+<a href="http://stackoverflow.com/questions/49263/approximate-string-matching-algorithms">http://stackoverflow.com/questions/49263/approximate-string-matching-algorithms</a></p>

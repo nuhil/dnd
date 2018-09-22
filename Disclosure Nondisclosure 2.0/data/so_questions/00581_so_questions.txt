@@ -1,0 +1,6 @@
+<p>The <a href="http://java.sun.com/j2se/1.4.2/docs/api/java/io/DataInput.html#skipBytes%28int%29" rel="nofollow">Sun Documentation for DataInput.skipBytes</a> states that it "makes an attempt to skip over n bytes of data from the input stream, discarding the skipped bytes. However, it may skip over some smaller number of bytes, possibly zero. This may result from any of a number of conditions; reaching end of file before n bytes have been skipped is only one possibility."</p>
+
+<ol>
+<li><p>Other than reaching end of file, why might <code>skipBytes()</code> not skip the right number of bytes? (The <code>DataInputStream</code> I am using will either be wrapping a <code>FileInputStream</code> or a <code>PipedInputStream</code>.)</p></li>
+<li><p>If I definitely want to skip n bytes and throw an <code>EOFException</code> if this causes me to go to the end of the file, should I use <code>readFully()</code> and ignore the resulting byte array? Or is there a better way?</p></li>
+</ol>

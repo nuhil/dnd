@@ -1,0 +1,9 @@
+<p>We need to regularly synchronize many dozens of binary files (project executables and DLLs) between many developers at several different locations, so that every developer has an up to date environment to build and test at. Due to nature of the project, updates must be done often and on-demand (overnight updates are not sufficient). This is not pretty, but we are stuck with it for a time.</p>
+
+<p>We settled on using a regular version (source) control system: put everything into it as binary files, get-latest before testing and check-in updated DLL after testing.</p>
+
+<p>It works fine, but a version control client has a lot of features which don't make sense for us and people occasionally get confused.</p>
+
+<p>Are there any tools better suited for the task? Or may be a completely different approach?</p>
+
+<p><strong>Update:</strong> I need to clarify that it's not a tightly integrated project - more like extensible system with a heap of "plugins", including thrid-party ones. We need to make sure those modules-plugins works nicely with recent versions of each other and the core. Centralised build as was suggested was considered initially, but it's not an option.</p>

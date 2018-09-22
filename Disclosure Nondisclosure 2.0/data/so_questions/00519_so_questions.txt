@@ -1,0 +1,5 @@
+<p>I am looking for a way to create an int\long representation of an arbitrary alpha-numeric String. Hash codes won't do it, because I can't afford hash collisions i.e. the representation must be unique and repeatable. </p>
+
+<p>The numeric representation will be used to perform efficient (hopefully) compares. The creation of the numeric key will take some time, but it only has to happen once, whereas I need to perform vast numbers of comparisons with it - which will hopefully be much faster than comparing the raw Strings.</p>
+
+<p>Any other idea's on faster String comparison will be most appreciated too...</p>

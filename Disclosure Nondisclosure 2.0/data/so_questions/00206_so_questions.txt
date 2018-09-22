@@ -1,0 +1,1 @@
+<p>I could only find the function <code>confirm()</code> that gives OK/Cancel buttons. Is there any way to give Yes/No buttons?</p>

@@ -1,0 +1,3 @@
+<p>I like how SQLite library can be included into an application and the application has a full-fledged database to use.</p>
+
+<p>Similarly, is there an open source versioning library that I can include into my application so that I can save versions of files as well as do diffs and merges?</p>

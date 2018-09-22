@@ -1,0 +1,43 @@
+<p>I am hitting some performance bottlenecks with my C# client inserting bulk data into a SQL Server 2005 database and I'm looking for ways in which to speed up the process.</p>
+
+<p>I am already using the SqlClient.SqlBulkCopy (which is based on TDS) to speed up the data transfer across the wire which helped a lot, but I'm still looking for more.</p>
+
+<p>I have a simple table that looks like this: </p>
+
+<pre><code> CREATE TABLE [BulkData](
+ [ContainerId] [int] NOT NULL,
+ [BinId] [smallint] NOT NULL,
+ [Sequence] [smallint] NOT NULL,
+ [ItemId] [int] NOT NULL,
+ [Left] [smallint] NOT NULL,
+ [Top] [smallint] NOT NULL,
+ [Right] [smallint] NOT NULL,
+ [Bottom] [smallint] NOT NULL,
+ CONSTRAINT [PKBulkData] PRIMARY KEY CLUSTERED 
+ (
+  [ContainerIdId] ASC,
+  [BinId] ASC,
+  [Sequence] ASC
+))
+</code></pre>
+
+<p>I'm inserting data in chunks that average about 300 rows where ContainerId and BinId are constant in each chunk and the Sequence value is 0-n and the values are pre-sorted based on the primary key.  </p>
+
+<p>The %Disk time performance counter spends a lot of time at 100% so it is clear that disk IO is the main issue but the speeds I'm getting are several orders of magnitude below a raw file copy.</p>
+
+<p>Does it help any if I:</p>
+
+<ol>
+<li>Drop the Primary key while I am doing the inserting and recreate it later</li>
+<li>Do inserts into a temporary table with the same schema and periodically transfer them into the main table to keep the size of the table where insertions are happening small</li>
+<li>Anything else?</li>
+</ol>
+
+<p>--
+Based on the responses I have gotten, let me clarify a little bit:</p>
+
+<p>Portman: I'm using a clustered index because when the data is all imported I will need to access data sequentially in that order.  I don't particularly need the index to be there while importing the data.  Is there any advantage to having a nonclustered PK index while doing the inserts as opposed to dropping the constraint entirely for import?</p>
+
+<p>Chopeen:  The data is being generated remotely on many other machines (my SQL server can only handle about 10 currently, but I would love to be able to add more).  It's not practical to run the entire process on the local machine because it would then have to process 50 times as much input data to generate the output.</p>
+
+<p>Jason: I am not doing any concurrent queries against the table during the import process, I will try dropping the primary key and see if that helps.</p>

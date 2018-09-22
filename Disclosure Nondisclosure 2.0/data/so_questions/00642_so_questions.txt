@@ -1,0 +1,13 @@
+<p>I've a class which is a wrapper class(serves as a common interface) around another class implementing the functionality required. So my code looks like this.</p>
+
+<pre><code>template&lt;typename ImplemenationClass&gt; class WrapperClass {
+// the code goes here
+}
+</code></pre>
+
+<p>Now, how do I make sure that <code>ImplementationClass</code> can be derived from a set of classes only, similar to java's generics</p>
+
+<pre><code>&lt;? extends BaseClass&gt;
+</code></pre>
+
+<p>syntax?</p>

@@ -1,0 +1,45 @@
+<p>I run a rather complex project with several independent applications. These use however a couple of shared components. So I have a source tree looking something like the below.</p>
+
+<ul>
+<li>My Project 
+<ul>
+<li>Application A</li>
+<li>Shared1</li>
+<li>Shared2 </li>
+<li>Application B </li>
+<li>Application C</li>
+</ul></li>
+</ul>
+
+<p>All applications have their own MSBuild script that builds the project and all the shared resources it needs. I also run these builds on a CruiseControl controlled continuous integration build server. </p>
+
+<p>When the applications are deployed they are deployed on several servers to distribute load. This means that it’s <em>extremely</em> important to keep track of what build/revision is deployed on each of the different servers (we need to have the current version in the DLL version, for example “1.0.0.68”). </p>
+
+<p>It’s equally important to be able to recreate a revision/build that been built to be able to roll back if something didn’t work out as intended (o yes, that happends ...). Today we’re using SourceSafe for source control but that possible to change if we could present good reasons for that (SS it’s actually working ok for us <em>so</em> far). </p>
+
+<p>Another principle that we try to follow is that it’s only code that been build and tested by the integration server that we deploy further. </p>
+
+<h2>"CrusieControl Build Labels" solution</h2>
+
+<p>We had several ideas on solving the above. The first was to have the continuous integration server build and locally deploy the project and test it (it does that now). As you probably know a successful build in CruiseControl generates a build label and I guess we somehow could use that to set the DLL version of our executables (so build label 35 would create a DLL like “1.0.0.35” )? The idea was also to use this build label to label the <strong>complete</strong> source tree. Then we probably could check out by that label and recreate the build later on. </p>
+
+<p>The reason for labeling the complete tree is to include not only the actual application code (that’s in one place in the source tree) but also all the shared items (that’s in different places in the tree). So a successful build of “Application A” would label to whole tree with label “ApplicationA35” for example. </p>
+
+<p>There might however be an issue when trying to recreate this build and setting the DLL version before deploying as we then don’t have access to the CruiseControl generated build label anymore. If all CrusieControl build labels were unique for all the projects we could use only the number for labeling but that’s not the case (both application A and B could at the same time be on build 35) so we have to include the application name in the label. Hence SourceSafe label “Application35”. <strong>How can I then recreate build 34 and set 1.0.0.34 to the DLL version numbers once we built build 35?</strong></p>
+
+<h2>"Revision number" solution</h2>
+
+<p>Someone told me that Subversion for example creates a revision number for the entire source tree on every check in – <strong>is this the case? Has SourceSafe something similar?</strong> If this is correct the idea is then to grab that revision number when getting latest and build on the CruiseControl server. The revision number could then be used to set the DLL version number (to for example “1.0.0.5678”). I guess we could then get this specific revision for the Subversion if needed and that then would include that application and all the shared items to be able to recreate a specific version from the past. <strong>Would that work and could this also be achived using SourceSafe?</strong></p>
+
+<h2>Summarize</h2>
+
+<p>So the two main requirements are:</p>
+
+<ol>
+<li>Be able to <strong>track build/revision number of the build and deployed DLL.</strong></li>
+<li>Be able to <strong>rebuild a past revision/build, set the old build/revision number on the executables of that build</strong> (to comply with requirement 1).</li>
+</ol>
+
+<p><strong>So how would you solve this?</strong> What would be your preferred approach and <strong>how</strong> would you solve it (or do you have a totally different idea?)? **Pleased give detailed answers. **</p>
+
+<p><em>Bonus question</em> What are the difference between a revision number and a build number and when would one really need both?</p>

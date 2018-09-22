@@ -1,0 +1,3 @@
+<p>Need to show a credits screen where I want to acknowledge the many contributors to my application. </p>
+
+<p>Want it to be an automatically scrolling box, much like the credits roll at the end of the film.</p>

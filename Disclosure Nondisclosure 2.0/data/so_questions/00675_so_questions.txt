@@ -1,0 +1,12 @@
+<p>We have a recurring problem at my company with build breaks in our Flex projects. The problem primarily occurs because the build that the developers do on their local machines is fundamentally different from the build that occurs on the build machine. The devs are building the projects using <code>FlexBuilder/eclipse</code> and the build machine is using the command line compilers. Inevitably, the <code>{projectname}-config.xml</code> and/or the batch file that runs the build get out of sync with the project files used by eclipse, so the the build succeeds on the dev's machine, but fails on the build machine.</p>
+
+<p>We started down the path of writing a utility program to convert FlexBuilder's project files into a <code>{projectname}-config.xml</code> file, but it's a) undocumented and b) a horrible hack.</p>
+
+<p>I've looked into the -dump-config switch to get the config files, but this has a couple of problems: 1) The generated config file has absolute paths which doesn't work in our environment (some developers use macs, some windows machines), and 2) only works right when run from the IDE, so can't be build into the build process.</p>
+
+<p>Tomorrow, we are going to discuss a couple of options, neither of which I'm terribly fond of:</p>
+
+<p><strong>a)</strong> Add a post check-in event to Subversion to remove these absolute references, or <br>
+<strong>b)</strong> add a pre-build process that removes the absolute reference.</p>
+
+<p>I can't believe that we are the first group of developers to run across this issue, but I can't find any good solutions on Google. How have other groups dealt with this problem?</p>

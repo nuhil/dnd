@@ -1,0 +1,41 @@
+<p>I'm currently learning F# quite intensively. I really love it as a language, it just sort of 'feels' right and seems to allow you to produce some succint elegant code.</p>
+
+<p>I'm interested in finding some really nice 'wow factor' snippets of F# code which demonstate the elegence of the language, especially compared to C#. For example I really like:-</p>
+
+<pre>
+#light
+let ListProduct l = List.fold_left (*) 1 l
+</pre>
+
+<p>Which inputs a list of ints and multiplies each element in the list, i.e. obtains the product of the list (e.g. a list of 1,2,3 would be calculated as 1*2*3=6). The closest C# equivilent, using LINQ and functional concepts is as follows:-</p>
+
+<pre><code>using System;
+using System.Collections.Generic;
+using System.Linq;
+
+...
+
+public static class ListHelper {
+  public static int ListProduct(List&lt;int&gt; l) {
+    return l.Aggregate(1, (i, j) =&gt; i * j);
+  }
+}    
+</code></pre>
+
+<p>Before LINQ that would have been:-</p>
+
+<pre><code>using System;
+using System.Collections.Generic;
+
+...
+
+public static class ListHelper {
+  public static int ListProduct(List&lt;int&gt; l) {
+    int ret = 1;
+    foreach (int i in l) ret *= i;
+    return ret;
+  }
+}
+</code></pre>
+
+<p>I'm certainly not trying to criticise C# here, I think it's a wonderful language, it's just nice to see how F# compares and to see how it can do some things more elegantly - does anyone have anything really nice?</p>

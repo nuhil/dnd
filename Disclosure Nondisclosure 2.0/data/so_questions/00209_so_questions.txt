@@ -1,0 +1,8 @@
+<p>Thinking about getting into .net technology project management</p>
+
+<p>I've had plenty of experience with PHP projects: I'm aware of most of the existing frameworks and libraries, and I've written specs and case studies based on this knowledge.</p>
+
+<p>What should I know about .net?
+Which top resources would you recommend me to know so I can rapidly learn and later stay up to date on the technology?</p>
+
+<p><strong>Edit (8.24.08):</strong> The answers I got so far essentially discuss being a good PM. Thanks, but this is not what I meant. Any .net essentials would be appreciated.</p>

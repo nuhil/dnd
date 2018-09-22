@@ -1,0 +1,14 @@
+<p>Whenever I use a macro in Visual Studio I get an annoying tip balloon in the system tray and an accompanying "pop" sound. It says:</p>
+
+<blockquote>
+  <p>Visual Studio .NET macros</p>
+  
+  <p>To stop the macro from running, double-click the spinning cassette.<br />
+  Click here to not show this balloon again.</p>
+</blockquote>
+
+<p>I have trouble clicking the balloon because my macro runs so quickly.</p>
+
+<p>Is this controllable by some dialog box option?</p>
+
+<p>(I found someone else asking this question on <a href="http://www.tech-archive.net/Archive/VisualStudio/microsoft.public.vsnet.ide/2005-11/msg00267.html">some other site</a> but it's not answered there. I give credit here because I've copied and pasted some pieces from there.)</p>

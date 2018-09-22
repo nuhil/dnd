@@ -1,0 +1,5 @@
+<p>I have a large database of normalized order data that is becoming very slow to query for reporting.  Many of the queries that I use in reports join five or six tables and are having to examine tens or hundreds of thousands of lines.</p>
+
+<p>There are lots of queries and most have been optimized as much as possible to reduce server load and increase speed.  I think it's time to start keeping a copy of the data in a denormalized format.</p>
+
+<p>Any ideas on an approach?  Should I start with a couple of my worst queries and go from there?</p>

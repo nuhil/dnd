@@ -1,0 +1,7 @@
+<p>Recently we got a new server at the office purely for testing purposes. It is set up so that we can access it from any computer. </p>
+
+<p>However today our ip got blocked from one of our other sites saying that our ip has been suspected of having a virus that sends spam emails. we learned this from the cbl <a href="http://cbl.abuseat.org/" rel="nofollow">http://cbl.abuseat.org/</a> </p>
+
+<p>So of course we turned the server off to stop this. The problem is the server must be on to continue developing our application and to access the database that is installed on it. Our normal admin is on vacation and is unreachable, and the rest of us are idiots(me included) in this area. </p>
+
+<p>We believe that the best solution is to remove it from connecting to the internet but still access it on the lan. If that is a valid solution how would this be done or is there a better way? say blocking specified ports or whatever.</p>

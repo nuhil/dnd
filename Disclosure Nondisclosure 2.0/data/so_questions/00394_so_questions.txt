@@ -1,0 +1,9 @@
+<p>I'm looking to push my domain model into a WCF Service API and wanted to get some thoughts on lazy loading techniques with this type of setup.</p>
+
+<p>Any suggestions when taking this approach?</p>
+
+<hr>
+
+<p>when I implemented this technique and step into my app, just before the server returns my list it hits the get of each property that is supposed to be lazy loaded ... Thus eager loading. Could you explain this issue or suggest a resolution?</p>
+
+<p>Edit:  It <a href="http://benders-blog.blogspot.com/2007/01/lazy-loading-in-soa-world.html" rel="nofollow">appears</a> you can use the XMLIgnore attribute so it doesn’t get looked at during serialization .. still reading up on this though</p>

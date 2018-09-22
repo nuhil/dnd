@@ -1,0 +1,6 @@
+<p>Task: implement paging of database records suitable for different RDBMS. Method should work for mainstream engines - MSSQL2000+, Oracle, MySql, etc.</p>
+
+<p>Please don't post RDBMS specific solutions, I know how to implement this for most of the modern database engines. I'm looking for the universal solution. Only temporary tables based solutions come to my mind at the moment.</p>
+
+<p><strong>EDIT:</strong><br />
+I'm looking for SQL solution, not 3rd party library.</p>

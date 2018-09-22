@@ -1,0 +1,14 @@
+<p>How do you specify that a foreign key constraint should be a 1:1 relationship in transact sql? Is declaring the column UNIQUE enough? Below is my existing code.!</p>
+
+<pre><code>CREATE TABLE [dbo].MyTable(
+    [MyTablekey] INT IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+    [OtherTableKey] INT NOT NULL UNIQUE
+        CONSTRAINT [FK_MyTable_OtherTable] FOREIGN KEY REFERENCES [dbo].[OtherTable]([OtherTableKey]),
+    ...
+    CONSTRAINT [PK_MyTable] PRIMARY KEY CLUSTERED 
+    (
+        [MyTableKey] ASC
+    ) WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+</code></pre>

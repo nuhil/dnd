@@ -1,0 +1,1 @@
+<p>I'm looking for a way to get the size of an instance of a reference type. sizeof is only for value types. Is this possible?</p>

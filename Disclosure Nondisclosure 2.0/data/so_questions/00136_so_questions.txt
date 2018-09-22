@@ -1,0 +1,11 @@
+<p>I want to define something like this in <em>php</em>:</p>
+
+<pre><code>$EL = "\n&lt;br /&gt;\n";
+</code></pre>
+
+<p>and then use that variable as an "endline" marker all over my site, like this:</p>
+
+<pre><code>echo "Blah blah blah{$EL}";
+</code></pre>
+
+<p>How do I define $EL once (in only 1 file), include it on every page on my site, and <em>not</em> have to reference it using the (strangely backwards) <code>global $EL;</code> statement in every page function?</p>

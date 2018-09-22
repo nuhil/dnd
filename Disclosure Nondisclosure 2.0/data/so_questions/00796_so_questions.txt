@@ -1,0 +1,3 @@
+<p>I was reading a book on programming skills wherein the author asks the interviewee, "How do you crash a JVM?" I thought that you could do so by writing an infinite for-loop that would eventually use up all the memory.</p>
+
+<p>Anybody has any idea?</p>

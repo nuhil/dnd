@@ -1,0 +1,7 @@
+<p>How can you suppress the <code>Terminated</code> message that comes up after you kill a
+process in a bash script?</p>
+
+<p>I tried <code>set +bm</code>, but that doesn't work.</p>
+
+<p>I know another solution involves calling <code>exec 2&gt; /dev/null</code>, but is that
+reliable? How do I reset it back so that I can continue to see stderr?</p>

@@ -1,0 +1,10 @@
+<p>I'm trying to maintain a Setup Project in <code>Visual Studio 2003</code> (yes, it's a legacy application). The problem we have at the moment is that we need to write registry entries to <code>HKCU</code> for every user on the computer. They need to be in the <code>HKCU</code> rather than <code>HKLM</code> because they are the default user settings, and they do change per user. My feeling is that</p>
+
+<ol>
+<li>This isn't possible</li>
+<li>This isn't something the installer should be doing, but something the application should be doing (after all what happens when a user profile is created after the install?).</li>
+</ol>
+
+<p>With that in mind, I still want to change as little as possible in the application, so my question is, <strong>is it possible to add registry entries for every user in a <code>Visual Studio 2003</code> setup project?</strong> </p>
+
+<p>And, at the moment the project lists five registry root keys (<code>HKEY_CLASSES_ROOT, HKEY_CURRENT_USER</code>, <code>HKEY_LOCAL_MACHINE</code>, <code>HKEY_USERS</code>, and User/Machine Hive). I don't really know anything about the Users root key, and haven't seen User/Machine Hive. Can anyone enlighten me on what they are? Perhaps they could solve my problem above.</p>

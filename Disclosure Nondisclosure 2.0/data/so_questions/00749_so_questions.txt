@@ -1,0 +1,4 @@
+<p>Does anyone know of any good tutorials on ADO.NET Entity Framework?</p>
+
+<p>There are a few useful links here at <a href="http://stackoverflow.com/questions/42826/where-to-start-with-entity-framework">Stack OverFlow</a>, and I've found one tutorial at <a href="http://dotnet-architecture-jdo.blogspot.com/2008/08/adonet-entity-framework-part.html">Jason's DotNet Architecture Blog</a>, but can anyone recommend any other good tutorials? 
+Any tutorials available from Microsoft, either online or as part of any conference/course material?</p>

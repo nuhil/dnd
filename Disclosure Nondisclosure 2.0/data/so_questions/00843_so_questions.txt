@@ -1,0 +1,21 @@
+<p>I have a WPF application in VS 2008 with some web service references. For varying reasons (max message size, authentication methods) I need to manually define a number of settings in the WPF client's app.config for the service bindings.</p>
+
+<p>Unfortunately, this means that when I update the service references in the project we end up with a mess - multiple bindings and endpoints. Visual Studio creates new bindings and endpoints with a numeric suffix (ie "Service1" as a duplicate of "Service"), resulting in an invalid configuration as there may only be a single binding per service reference in a project.</p>
+
+<p>This is easy to duplicate - just create a simple "Hello World" ASP.Net web service and WPF application in a solution, change the maxBufferSize and maxReceivedMessageSize in the app.config binding and then update the service reference.</p>
+
+<p>At the moment we are working around this by simply undoing checkout on the app.config after updating the references but I can't help but think there must be a better way!</p>
+
+<p>Also, the settings we need to manually change are:</p>
+
+<pre><code>&lt;security mode="TransportCredentialOnly"&gt;
+    &lt;transport clientCredentialType="Ntlm" /&gt;
+&lt;/security&gt;
+</code></pre>
+
+<p>and:</p>
+
+<pre><code>&lt;binding maxBufferSize="655360" maxReceivedMessageSize="655360" /&gt;
+</code></pre>
+
+<p>We use a service factory class so if these settings are somehow able to be set programmatically that would work, although the properties don't seem to be exposed.</p>

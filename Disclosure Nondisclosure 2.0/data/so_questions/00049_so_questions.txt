@@ -1,0 +1,7 @@
+<p>I've been doing ASP.NET development for a little while now, and I've used both the GridView and the DataGrid controls before for various things, but I never could find a really good reason to use one or the other. I'd like to know:</p>
+
+<p>What is the difference between these 2 ASP.NET controls? What are the advantages or disadvantages of both? Is one any faster? Newer? Easier to maintain?</p>
+
+<p>The intellisense summary for the controls doesn't seem to describe any difference between the two. They both can view, edit, and sort data and automatically generate columns at runtime.</p>
+
+<p><strong>Edit:</strong> Visual Studio 2008 no longer lists DataGrid as an available control in the toolbox. It is still available (for legacy support I assume) if you type it in by hand though.</p>

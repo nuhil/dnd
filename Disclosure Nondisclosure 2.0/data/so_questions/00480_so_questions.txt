@@ -1,0 +1,5 @@
+<p>When it comes to web-design, I am horrible at producing anything remotely good looking. Thankfully there are a lot of free <a href="http://www.mantisatemplates.com/web-templates.php">sources</a> for <a href="http://www.freecsstemplates.org/">design</a> <a href="http://www.oswd.org/">templates</a>. However, a problem with these designs is that they just cover a single page, and not many use cases. If you take a look at <a href="http://www.csszengarden.com/">CSS Zen Gardens</a>, they have 1 single HTML file, and can radically style it differently by just changing the CSS file.</p>
+
+<p>Now I am wondering if there is a standard HTML layout (tags and ids), that covers alot of use cases, and can be generically themed with different CSS files like Zen Garden. What I am imagining is a set of rules off how you write your html, and what boxes, lists, menus and styles you are supposed to use. A set of standard test pages covering the various uses can be created, and a new CSS file while have to support all the different pages in a nice view.</p>
+
+<p>Is there any projects that covers anything similar to what I am describing?</p>

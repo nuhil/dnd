@@ -1,0 +1,127 @@
+<p>In the application I'm developping (in Java/swing), I have to show a full screen window on the <em>second</em> screen of the user.
+I did this using a code similar to the one you'll find below...
+Be, as soon as I click in a window opened by windows explorer, or as soon as I open windows explorer (i'm using windows XP), the full screen window is minimized...</p>
+
+<p>Do you know any way or workaround to fix this problem, or is there something important I did not understand with full screen windows?</p>
+
+<p>Thanks for the help,</p>
+
+<pre><code>import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.JWindow;
+
+import java.awt.BorderLayout;
+import java.awt.Dimension;
+import java.awt.GraphicsDevice;
+import java.awt.GraphicsEnvironment;
+import java.awt.Window;
+
+import javax.swing.JButton;
+import javax.swing.JToggleButton;
+import java.awt.Rectangle;
+import java.awt.GridBagLayout;
+import javax.swing.JLabel;
+
+public class FullScreenTest {
+
+    private JFrame jFrame = null;  //  @jve:decl-index=0:visual-constraint="94,35"
+    private JPanel jContentPane = null;
+    private JToggleButton jToggleButton = null;
+    private JPanel jFSPanel = null;  //  @jve:decl-index=0:visual-constraint="392,37"
+    private JLabel jLabel = null;
+    private Window window;
+    /**
+     * This method initializes jFrame	
+     * 	
+     * @return javax.swing.JFrame	
+     */
+    private JFrame getJFrame() {
+    	if (jFrame == null) {
+    		jFrame = new JFrame();
+    		jFrame.setSize(new Dimension(474, 105));
+    		jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    		jFrame.setContentPane(getJContentPane());
+    	}
+    	return jFrame;
+    }
+
+    /**
+     * This method initializes jContentPane	
+     * 	
+     * @return javax.swing.JPanel	
+     */
+    private JPanel getJContentPane() {
+    	if (jContentPane == null) {
+    		jContentPane = new JPanel();
+    		jContentPane.setLayout(null);
+    		jContentPane.add(getJToggleButton(), null);
+    	}
+    	return jContentPane;
+    }
+
+    /**
+     * This method initializes jToggleButton	
+     * 	
+     * @return javax.swing.JToggleButton	
+     */
+    private JToggleButton getJToggleButton() {
+    	if (jToggleButton == null) {
+    		jToggleButton = new JToggleButton();
+    		jToggleButton.setBounds(new Rectangle(50, 23, 360, 28));
+    		jToggleButton.setText("Show Full Screen Window on 2nd screen");
+    		jToggleButton.addActionListener(new java.awt.event.ActionListener() {
+    			public void actionPerformed(java.awt.event.ActionEvent e) {
+    				showFullScreenWindow(jToggleButton.isSelected());
+    			}
+    		});
+    	}
+    	return jToggleButton;
+    }
+
+    protected void showFullScreenWindow(boolean b) {
+    	if(window==null){
+    		window = initFullScreenWindow();
+    	}
+    	window.setVisible(b);
+
+    }
+
+    private Window initFullScreenWindow() {
+    	GraphicsEnvironment ge = GraphicsEnvironment.getLocalGraphicsEnvironment();
+    	GraphicsDevice[] gds = ge.getScreenDevices();
+    	GraphicsDevice gd = gds[1];
+    	JWindow window = new JWindow(gd.getDefaultConfiguration());
+    	window.setContentPane(getJFSPanel());
+    	gd.setFullScreenWindow(window);
+    	return window;
+    }
+
+    /**
+     * This method initializes jFSPanel	
+     * 	
+     * @return javax.swing.JPanel	
+     */
+    private JPanel getJFSPanel() {
+    	if (jFSPanel == null) {
+    		jLabel = new JLabel();
+    		jLabel.setBounds(new Rectangle(18, 19, 500, 66));
+    		jLabel.setText("Hello ! Now, juste open windows explorer and see what happens...");
+    		jFSPanel = new JPanel();
+    		jFSPanel.setLayout(null);
+    		jFSPanel.setSize(new Dimension(500, 107));
+    		jFSPanel.add(jLabel, null);
+    	}
+    	return jFSPanel;
+    }
+
+    /**
+     * @param args
+     */
+    public static void main(String[] args) {
+    	FullScreenTest me = new FullScreenTest();
+    	me.getJFrame().setVisible(true);
+
+    }
+
+}
+</code></pre>

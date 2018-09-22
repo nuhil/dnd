@@ -1,0 +1,3 @@
+<p>Is there a way to enforce constraint checking in MSSQL only when inserting new rows?  I.e. allow the constraints to be violated when removing/updating rows?</p>
+
+<p>Update: I mean FK constraint.</p>

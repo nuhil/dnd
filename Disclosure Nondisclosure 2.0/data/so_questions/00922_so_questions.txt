@@ -1,0 +1,5 @@
+<p>What are current practices for enabling developers to build systems that contain private data? Can anyone point to a "best practices" guide for that sort of thing?</p>
+
+<p>We have a Catch-22 here in that developers need to write applications that go against systems that have data that is considered "private." The IT administration would like for us developers to not have access to the data (ie. provide a schema or data structure, but not data itself) whereas most developers (myself included) would like to have access to the production data since not having a representative dataset can lead to bad assumptions (eg. the format of data) and bugs later on.</p>
+
+<p>Does anyone have any formalized "best practices" for this type of thing? Especially official guildines from some "BigCo" (eg. Microsoft, IBM) might help since it is needed to convince management.</p>

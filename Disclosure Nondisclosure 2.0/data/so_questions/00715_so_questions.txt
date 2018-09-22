@@ -1,0 +1,1 @@
+<p>Does Java have a built-in way to escape arbitrary text so that it can be included in a regular expression? For example, if my users enter "$5", I'd like to match that exactly rather than a "5" after the end of input.</p>

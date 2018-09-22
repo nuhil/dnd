@@ -1,0 +1,11 @@
+<p>There is a rich scripting model for Microsoft Office, but not so with Apple iWork, and specifically the word processor Pages. While there are some AppleScript hooks, it looks like the best approach is to manipulate the underlying XML data.</p>
+
+<p>This turns out to be pretty ugly because (for example) page breaks are stored in XML. So for example, you have something like:</p>
+
+<pre><code>... we hold these truths to be self evident, that &lt;/page&gt;
+&lt;page&gt;all men are created equal, and are ...
+</code></pre>
+
+<p>So if you want to add or remove text, you have to move the start/end tags around based on the size of the text on the page. This is pretty impossible without computing the number of words a page can hold, which seems wildly inelegant.</p>
+
+<p>Anybody have any thoughts on this?</p>

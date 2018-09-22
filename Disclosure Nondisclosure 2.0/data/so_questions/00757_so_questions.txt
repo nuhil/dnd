@@ -1,0 +1,2 @@
+<p>I am working on an ASP.NET web application, it seems to be working properly when I try to debug it in Visual Studio. However when I emulate heavy load, IIS crashes without any trace -- log entry in the system journal is very generic, "The World Wide Web Publishing service terminated unexpectedly. It has done this 4 time(s)."
+How is it possible to get more information from IIS to troubleshoot this problem?</p>

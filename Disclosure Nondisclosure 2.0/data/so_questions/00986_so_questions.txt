@@ -1,0 +1,3 @@
+<p>I am using VirtualPc 2007 more and more, the one annoyance is "Alt-Tab".</p>
+
+<p>What I want is to be able to use alt-tab to iterate through all of the applications in the host pc and virtual(s) as if they were one long list. Is there a setting or program to do this?</p>

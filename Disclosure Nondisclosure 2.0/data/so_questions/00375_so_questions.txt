@@ -1,0 +1,3 @@
+<p>Since there are no header sections for user controls in asp.net, user controls have no way of knowing about stylesheet files. So css classes in the user controls are not recognized by visual studio and produces warnings. How can I make a user control know that it will relate to a css class, so if it is warning me about a non-existing css class, it means that the class really do not exist?</p>
+
+<p>Edit: Or should I go for a different design like exposing css classes as properties like "HeaderStyle-CssClass" of GridView?</p>

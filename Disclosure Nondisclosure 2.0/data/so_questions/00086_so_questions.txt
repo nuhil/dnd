@@ -1,0 +1,5 @@
+<p>Is there a general procedure for programming extensibility capability into your code?</p>
+
+<p>I am wondering what the general procedure is for adding extension-type capability to a system you are writing so that functionality can be extended through some kind of plugin API rather than having to modify the core code of a system.</p>
+
+<p>Do such things tend to be dependent on the language the system was written in, or is there a general method for allowing for this?</p>

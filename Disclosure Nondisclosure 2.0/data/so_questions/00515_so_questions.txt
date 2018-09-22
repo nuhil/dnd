@@ -1,0 +1,9 @@
+<p><a href="http://stackoverflow.com/questions/12073/what-is-the-best-xml-editor" rel="nofollow">http://stackoverflow.com/questions/12073/what-is-the-best-xml-editor</a> was a great question regarding XML editors on Windows. What about on OS X?</p>
+
+<p>Oxygen is feature complete, but, it's a Java app and a  bit clunky on OSX. It's also extremely expensive.</p>
+
+<p>Anything Mac native and comparable in features for less than $300 ?</p>
+
+<p>Thanks</p>
+
+<p>Andrew</p>

@@ -1,0 +1,9 @@
+<p>I was reading Joel's book where he was suggesting as interview question:</p>
+
+<blockquote>
+  <p>Write a program to reverse the "ON" bits in a given byte.</p>
+</blockquote>
+
+<p>I only can think of a solution using C. </p>
+
+<p>Asking here so you can show me how to do in a Non C way (if possible)</p>

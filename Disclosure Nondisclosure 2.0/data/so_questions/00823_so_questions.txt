@@ -1,0 +1,1 @@
+<p>We have a project with over 500,000 lines of VB.NET that we need to convert to C#. Any recommendations, based on experience, for tools to use? We are using Visual Studio 2008 and we're targeting 3.5 .</p>

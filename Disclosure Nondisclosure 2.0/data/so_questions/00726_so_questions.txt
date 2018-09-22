@@ -1,0 +1,3 @@
+<p>What is the best way for me to determine a controller variable's value during execution?</p>
+
+<p>For example, is there a way I can insert a break in the code, and cause the value of the variable to be output to the screen (or the log)?</p>

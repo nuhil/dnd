@@ -1,0 +1,18 @@
+<p>GNU sed version 4.1.5 seems to fail with International chars. Here is my input file:</p>
+
+<p>Gras Och Stenar Trad - From Moja to Minneapolis DVD [G2007DVD] 7812 | X
+<br>
+Gras Och Stenar Trad - From Möja to Minneapolis DVD [G2007DVD] 7812 | Y</p>
+
+<p>(Note the umlaut in second line.)</p>
+
+<p>And when I do</p>
+
+<p>sed 's/.*| //' &lt; in</p>
+
+<p>I would expect to see only the X and Y, as I've asked to remove ALL chars up to the '|' and space beyond it. Instead, I get:</p>
+
+<p>X<br>
+Gras Och Stenar Trad - From M? Y</p>
+
+<p>I know I can use tr to remove the International chars. first, but is there a way to just use sed?</p>

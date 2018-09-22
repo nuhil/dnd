@@ -1,0 +1,18 @@
+<p>Conceptually, I would like to accomplish the following but have had trouble understand how to code it properly in C#:</p>
+
+<pre><code>
+SomeMethod { // Member of AClass{}
+    DoSomething;
+    Start WorkerMethod() from BClass in another thread;
+    DoSomethingElse;
+}
+</code></pre>
+
+<p>Then, when WorkerMethod() is complete, run this:</p>
+
+<p><pre><code>
+void SomeOtherMethod()  // Also member of AClass{}
+{ ... }
+</pre></code></p>
+
+<p>Can anyone please give an example of that? </p>

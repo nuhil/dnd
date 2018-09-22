@@ -1,0 +1,1 @@
+<p>I have around 1000 pdf filesand I need to convert them to 300 dpi tiff files. What is the best way to do this? If there is an SDK or something or a tool that can be scripted that would be ideal. </p>

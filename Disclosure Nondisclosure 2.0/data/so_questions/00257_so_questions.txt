@@ -1,0 +1,23 @@
+<p>I'm doing a little bit of work on a horrid piece of software built by Bangalores best.</p>
+
+<p>It's written in mostly classic ASP/VbScript, but "ported" to ASP.NET, though most of the code is classic ASP style in the ASPX pages :(</p>
+
+<p>I'm getting this message when it tries to connect to my local database:</p>
+
+<p><strong>Multiple-step OLE DB operation generated errors. Check each OLE DB status value, if available. No work was done.</strong></p>
+
+<pre><code>Line 38:    MasterConn = New ADODB.Connection()
+Line 39:    MasterConn.connectiontimeout = 10000
+Line 40:        MasterConn.Open(strDB)
+</code></pre>
+
+<p>Anybody have a clue what this error means? Its connecting to my local machine (running SQLEXPRESS) using this connection string:</p>
+
+<pre><code>PROVIDER=MSDASQL;DRIVER={SQL Server};Server=JONATHAN-PC\SQLEXPRESS\;DATABASE=NetTraining;Integrated Security=true
+</code></pre>
+
+<p>Which is the connection string that it was initially using, I just repointed it at my database.</p>
+
+<p><strong>UPDATE:</strong></p>
+
+<p>The issue was using "Integrated Security" with ADO. I changed to using a user account and it connected just fine.</p>

@@ -1,0 +1,1 @@
+<p>A reliable coder friend told me that Python's current multi-threading implementation is seriously buggy - enough to avoid using altogether.  What can said about this rumor?</p>

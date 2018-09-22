@@ -1,0 +1,15 @@
+<p>There's plenty of them out there but none of them do what I would like them to do.</p>
+
+<p>Most of them crash when opening a file or simply corrupt the data. Many don't run at all. It seems to me that most were written 3-4 years ago for AS2 .sols and no longer work with FP9/AS3 sols. I'd attempt to write my own using AIR but I can't find a new spec of the byte format.</p>
+
+<p>There's an explanation of the file format here:
+<a href="http://sourceforge.net/docman/display_doc.php?docid=27026&amp;group_id=131628">http://sourceforge.net/docman/display_doc.php?docid=27026&amp;group_id=131628</a></p>
+
+<p>and another here:
+<a href="http://sourceforge.net/docman/display_doc.php?docid=27026&amp;group_id=131628">http://sourceforge.net/docman/display_doc.php?docid=27026&amp;group_id=131628</a></p>
+
+<p>but it looks as though both of these docs are a good 4 years old (pre-FP9) and as I'm not skilled or experienced in file formats,  writing a new one, especially without an updated spec, is seeming like less and less of a viable option. </p>
+
+<p>Ideally I'd like one that can not only read the .sol, but edit and save new values also.</p>
+
+<p>Thanks!</p>

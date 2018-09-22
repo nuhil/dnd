@@ -1,0 +1,11 @@
+<p>From what information I could find, they both solve the same problems - more esoteric operations like array containment and intersection (&amp;&amp;, @>, &lt;@, etc). However I would be interested in advice about when to use one or the other (or neither possibly).<br>
+The <a href="http://www.postgresql.org/docs/current/static/textsearch-indexes.html">PostgreSQL documentation</a> has some information about this:</p>
+
+<ul>
+<li>GIN index lookups are about three times faster than GiST</li>
+<li>GIN indexes take about three times longer to build than GiST</li>
+<li>GIN indexes are about ten times slower to update than GiST</li>
+<li>GIN indexes are two-to-three times larger than GiST</li>
+</ul>
+
+<p>However I would be particularly interested to know if there is a performance impact when the memory to index size ration starts getting small (ie. the index size becomes much bigger than the available memory)? I've been told on the #postgresql IRC channel that GIN needs to keep all the index in memory, otherwise it won't be effective, because, unlike B-Tree, it doesn't know which part to read in from disk for a particular query? The question would be: is this true (because I've also been told the opposite of this)? Does GiST have the same restrictions? Are there other restrictions I should be aware of while using one of these indexing algorithms?</p>

@@ -1,0 +1,8 @@
+<p>The first time I load the website in the production web server, it start very slow, subsequent pages load very quickly (included the home page).</p>
+
+<p>I precompiled the site, but nothing changes. </p>
+
+<p>I don't have any code at Application start.
+I don't have cached items.</p>
+
+<p>Any ideas? How can I find out what is happening?</p>

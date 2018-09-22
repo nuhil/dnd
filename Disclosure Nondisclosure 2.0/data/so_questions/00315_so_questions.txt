@@ -1,0 +1,7 @@
+<p>I'm giving a presentation to a Java User's Group on Groovy and I'm going to be doing some coding during the presentation to show some side-by-side Java/Groovy.  I really like the GroovyConsole as it's simple and I can resize the text easily.  </p>
+
+<p>I'm wondering if there is anything similar for Java?  I know I could just use Eclipse but I'd rather have a smaller app to use without having to customize a view.  What's the community got?</p>
+
+<p>Screen shot of GroovyConsole:</p>
+
+<p><img src="http://i.stack.imgur.com/GiR7b.jpg" alt="enter image description here"></p>

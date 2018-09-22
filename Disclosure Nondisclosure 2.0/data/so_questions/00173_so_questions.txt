@@ -1,0 +1,58 @@
+<p>Say I have an object that stores a byte array and I want to be able to efficiently generate a hashcode for it. I've used the cryptographic hash functions for this in the past because they are easy to implement, but they are doing a lot more work than they should to be cryptographically oneway, and I don't care about that (I'm just using the hashcode as a key into a hashtable).</p>
+
+<p>Here's what I have today:</p>
+
+<pre><code>struct SomeData : IEquatable&lt;SomeData&gt;
+{
+    private readonly byte[] data;
+    public SomeData(byte[] data)
+    {
+        if (null == data || data.Length &lt;= 0)
+        {
+            throw new ArgumentException("data");
+        }
+        this.data = new byte[data.Length];
+        Array.Copy(data, this.data, data.Length);
+    }
+
+    public override bool Equals(object obj)
+    {
+        return obj is SomeData &amp;&amp; Equals((SomeData)obj);
+    }
+
+    public bool Equals(SomeData other)
+    {
+        if (other.data.Length != data.Length)
+        {
+            return false;
+        }
+        for (int i = 0; i &lt; data.Length; ++i)
+        {
+            if (data[i] != other.data[i])
+            {
+                return false;
+            }
+        }
+        return true;
+    }
+    public override int GetHashCode()
+    {
+        return BitConverter.ToInt32(new MD5CryptoServiceProvider().ComputeHash(data), 0);
+    }
+}
+</code></pre>
+
+<p>Any thoughts?</p>
+
+<hr>
+
+<p>dp: You are right that I missed a check in Equals, I have updated it.  Using the existing hashcode from the byte array will result in reference equality (or at least that same concept translated to hashcodes).
+for example:</p>
+
+<pre><code>byte[] b1 = new byte[] { 1 };
+byte[] b2 = new byte[] { 1 };
+int h1 = b1.GetHashCode();
+int h2 = b2.GetHashCode();
+</code></pre>
+
+<p>With that code, despite the two byte arrays having the same values within them, they are referring to different parts of memory and will result in (probably) different hash codes. I need the hash codes for two byte arrays with the same contents to be equal.</p>

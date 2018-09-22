@@ -1,0 +1,5 @@
+<p>I would like to add a DataGridViewTextBoxCell cell to a DataGridViewCell control, but as well as being able to type in the text cell as normal it must also contain a '...' button that once clicks brings up the OpenFileDialog window to allow the user to select a file. Once selected, the text cell will be populated with the full file path.</p>
+
+<p>What is the best way to go about this?</p>
+
+<p>Thanks</p>

@@ -1,0 +1,1 @@
+<p>Every time I publish the application in <a href="http://en.wikipedia.org/wiki/ClickOnce" rel="nofollow">ClickOnce</a> I get get it to update the revision number by one. Is there a way to get this change automatically to change the version number in AssemblyInfo.cs file (all our error reporting looks at the Assembly Version)?</p>

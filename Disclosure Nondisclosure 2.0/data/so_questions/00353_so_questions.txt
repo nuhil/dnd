@@ -1,0 +1,5 @@
+<p>So the controller context depends on some asp.net internals. What are some ways to cleanly mock these up for unit tests? Seems like its very easy to clog up tests with tons of setup when I only need, for example, Request.HttpMethod to return "GET".</p>
+
+<p>I've seen some examples/helpers out on the nets, but some are dated. Figured this would be a good place to keep the latest and greatest.</p>
+
+<p>I'm using latest version of rhino mocks</p>

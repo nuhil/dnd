@@ -1,0 +1,8 @@
+<p>I have an Ajax.Net enabled ASP.Net 2.0 web site. Hosting for both the site and the database are out of my control as is the database's schema. In testing on hardware I do control the site performs well however on the client's hardware, there are noticeable delays when reloading or changing pages. </p>
+
+<p>What I would like to do is make my application as compact and speedy as possible when I deliver it. One idea is to set expiration dates for all of the site's static resources so they aren't recalled on page loads. By resources I mean images, linked style sheets and JavaScript source files. Is there an easy way to do this?</p>
+
+<p>What other ways are there to optimize a .Net web site?</p>
+
+<p>UPDATE: 
+I've run YSlow on the site and the areas where I am getting hit the hardest are in the number of JavaScript and Style Sheets being loaded (23 JS files and 5 style sheets). All but one (the main style sheet) has been inserted by Ajax.net and Asp. Why so many? </p>

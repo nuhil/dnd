@@ -1,0 +1,12 @@
+<p>Has anybody managed to get the Android Emulator working behind a proxy which requires authentication?</p>
+
+<p>I've tried setting the -http-proxy argument to </p>
+
+<pre><code>http://DOMAIN/USERNAME:PASSWORD@IP:PORT
+</code></pre>
+
+<p>but am having no success. </p>
+
+<p>I've tried following the docs to no avail. I've also tried the <code>-verbose-proxy</code> setting but this no longer seems to exist.</p>
+
+<p>Any pointers?</p>

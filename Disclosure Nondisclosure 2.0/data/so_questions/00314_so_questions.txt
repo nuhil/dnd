@@ -1,0 +1,5 @@
+<p>my school maths are very rusty and I think this is a good opportunity to take advance of this community :D</p>
+
+<p>I have two points (a line) and a rectangle, I would like to know how to calculate if the line intersects the rectangle, my first approach had so many "if" statements that the compiler sent me a link to this site.</p>
+
+<p>Thanks for your time!</p>

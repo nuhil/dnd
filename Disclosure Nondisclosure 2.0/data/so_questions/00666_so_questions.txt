@@ -1,0 +1,28 @@
+<p>Are there any <strong>tools</strong> to facilitate a migration from <a href="http://www.sourcegear.com/vault/index.html">Sourcegear's Vault</a> to <a href="http://subversion.tigris.org/">Subversion</a>?</p>
+
+<p>I'd really prefer an existing tool or project (I'll buy!).</p>
+
+<p><strong>Requirements:</strong></p>
+
+<ol>
+<li>One-time migration only</li>
+<li>Full history with comments</li>
+</ol>
+
+<p><strong>Optional:</strong></p>
+
+<ol>
+<li>Some support for labels/branches/tags</li>
+<li>Relatively speedy. It can take hours but not days.</li>
+<li>Cost if available</li>
+</ol>
+
+<p>Bonus points if you can share personal experience related to this process.</p>
+
+<p><hr /></p>
+
+<p>One of the reasons I'd like to do this is because we have lots of projects spread between Vault and Subversion (we're finally away from sourcesafe). It'd be helpful in some situations to be able to consolidate a particular customer's repos to SVN.</p>
+
+<p>Additionally, SVN is better supported among third party tools. For example, <a href="http://hudson.dev.java.net/">Hudson</a> and <a href="http://www.redmine.org/">Redmine</a>.</p>
+
+<p>Again, though: we're not abandoning vault altogether.</p>

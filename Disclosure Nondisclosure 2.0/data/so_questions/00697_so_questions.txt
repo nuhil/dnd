@@ -1,0 +1,3 @@
+<p>I'm trying to run some queries to get rid of XSS in our database using Web Data Administrator but I keep running into this Potentially Dangerous Request crap.</p>
+
+<p>How do I disable validation of the query in Web Data Administrator?</p>

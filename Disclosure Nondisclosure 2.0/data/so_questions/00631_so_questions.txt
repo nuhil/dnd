@@ -1,0 +1,1 @@
+<p>Supposing you have a form that collects and submits sensitive information and you want to ensure it is never accessed via insecure (non-HTTPS) means, how might you best go about enforcing that policy?</p>

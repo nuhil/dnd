@@ -1,0 +1,5 @@
+<p>If I'm adding a column to a table in Microsoft SQL Server, can I control where the column is displayed logically in queries?</p>
+
+<p>I don't want to mess with the physical layout of columns on disk, but I would like to logically group columns together when possible so that tools like SQL Server Management Studio list the contents of the table in a convenient way.</p>
+
+<p>I know that I can do this through SQL Management Studio by going into their "design" mode for tables and dragging the order of columns around, but I'd like to be able to do it in raw SQL so that I can perform the ordering scripted from the command line.</p>

@@ -1,0 +1,3 @@
+<p>Is there a Perl module that allows me to view diffs between actual and reference output of programs (or functions)? The test fails if there are differences.</p>
+
+<p>Also, in case there are differences but the output is OK (because the functionality has changed) I want to be able to commit the actual output as future reference output.</p>

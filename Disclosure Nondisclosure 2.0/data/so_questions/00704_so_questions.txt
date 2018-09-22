@@ -1,0 +1,22 @@
+<p>I understand the main function of the lock key word from MSDN</p>
+
+<blockquote>
+  <p>lock Statement (C# Reference)</p>
+  
+  <p>The lock keyword marks a statement
+  block as a critical section by
+  obtaining the mutual-exclusion lock
+  for a given object, executing a
+  statement, and then releasing the
+  lock.</p>
+</blockquote>
+
+<p>When should the lock be used?  </p>
+
+<p>For instance it makes sense with multi-threaded applications because it protects the data.  But is it necessary when the application does not spin off any other threads?</p>
+
+<p>Is there performance issues with using lock?</p>
+
+<p>I have just inherited an application that is using lock everywhere, and it is single threaded and I want to know should I leave them in, are they even necessary?</p>
+
+<p>Please note this is more of a general knowledge question, the application speed is fine, I want to know if that is a good design pattern to follow in the future or should this be avoided unless absolutely needed.</p>

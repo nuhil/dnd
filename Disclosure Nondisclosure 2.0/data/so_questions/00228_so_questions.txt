@@ -1,0 +1,70 @@
+<p>Here is the issue I am having: I have a large query that needs to compare datetimes in the where clause to see if two dates are on the same day.  My current solution, which sucks, is to send the datetimes into a UDF to convert them to midnight of the same day, and then check those dates for equality.  When it comes to the query plan, this is a disaster, as are almost all UDFs in joins or where clauses.  This is one of the only places in my application that I haven't been able to root out the functions and give the query optimizer something it can actually use to locate the best index.</p>
+
+<p>In this case, merging the function code back into the query seems impractical.</p>
+
+<p>I think I am missing something simple here.</p>
+
+<p>Here's the function for reference.</p>
+
+<pre><code>if not exists (select * from dbo.sysobjects 
+              where id = object_id(N'dbo.f_MakeDate') and               
+              type in (N'FN', N'IF', N'TF', N'FS', N'FT'))
+  exec('create function dbo.f_MakeDate() returns int as 
+         begin declare @retval int return @retval end')
+go
+
+alter function dbo.f_MakeDate
+(
+    @Day datetime, 
+    @Hour int, 
+    @Minute int
+)
+returns datetime
+as
+
+/*
+
+Creates a datetime using the year-month-day portion of @Day, and the 
+@Hour and @Minute provided
+
+*/
+
+begin
+
+declare @retval datetime
+set @retval = cast(
+    cast(datepart(m, @Day) as varchar(2)) + 
+    '/' + 
+    cast(datepart(d, @Day) as varchar(2)) + 
+    '/' + 
+    cast(datepart(yyyy, @Day) as varchar(4)) + 
+    ' ' + 
+    cast(@Hour as varchar(2)) + 
+    ':' + 
+    cast(@Minute as varchar(2)) as datetime)
+return @retval
+end
+
+go
+</code></pre>
+
+<p>To complicate matters, I am joining on time zone tables to check the date against the local time, which could be different for every row:</p>
+
+<pre><code>where 
+dbo.f_MakeDate(dateadd(hh, tz.Offset + 
+    case when ds.LocalTimeZone is not null 
+    then 1 else 0 end, t.TheDateINeedToCheck), 0, 0) = @activityDateMidnight
+</code></pre>
+
+<p>[Edit]</p>
+
+<p>I'm incorporating @Todd's suggestion:</p>
+
+<pre><code>where datediff(day, dateadd(hh, tz.Offset + 
+    case when ds.LocalTimeZone is not null 
+    then 1 else 0 end, t.TheDateINeedToCheck), @ActivityDate) = 0
+</code></pre>
+
+<p>My misconception about how datediff works (the same day of year in consecutive years yields 366, not 0 as I expected) caused me to waste a lot of effort.</p>
+
+<p>But the query plan didn't change.  I think I need to go back to the drawing board with the whole thing.</p>

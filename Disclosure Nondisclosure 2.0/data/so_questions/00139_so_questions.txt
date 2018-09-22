@@ -1,0 +1,23 @@
+<p>From time to time I get a System.Threading.ThreadStateException when attempting to restart a thread. The code in question is as follows:</p>
+
+<pre><code>// Make sure the thread is done stopping
+while (this.mThread.ThreadState == ThreadState.Running)
+{ 
+    Thread.Sleep(0);
+}
+// Respawn a thread if the current one is stopped or doesn't exist
+if (this.mThread == null || this.mThread.ThreadState == ThreadState.Stopped)
+{ 
+    this.mThread = new Thread(new ParameterizedThreadStart(Monitor)); }
+// Start the thread
+if (check)
+{ 
+    this.mThread.Start(60000); 
+}
+else
+{   
+    this.mThread.Start(0); 
+}
+</code></pre>
+
+<p>So two questions - is this the correct way of doing things, and  it is, is there a way to prevent the error from occurring?</p>

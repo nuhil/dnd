@@ -1,0 +1,28 @@
+<p><strong>Edit</strong>: Solved, there was a trigger with a loop on the table (read my own answer further below).</p>
+
+<p><hr /></p>
+
+<p>We have a simple delete statement that looks like this:</p>
+
+<pre><code>DELETE FROM tablename WHERE pk = 12345
+</code></pre>
+
+<p>This just hangs, no timeout, no nothing.</p>
+
+<p>We've looked at the execution plan, and it consists of many lookups on related tables to ensure no foreign keys would trip up the delete, but we've verified that none of those other tables have any rows referring to that particular row.</p>
+
+<p>There is no other user connected to the database at this time.</p>
+
+<p>We've run DBCC CHECKDB against it, and it reports 0 errors.</p>
+
+<p>Looking at the results of <em><code>sp_who</code></em> and <em><code>sp_lock</code></em> while the query is hanging, I notice that my spid has plenty of PAG and KEY locks, as well as the occasional TAB lock.</p>
+
+<p>The table has 1.777.621 rows, and yes, pk is the primary key, so it's a single row delete based on index. There is no table scan in the execution plan, though I notice that it contains something that says <em>Table Spool (Eager Spool)</em>, but says Estimated number of rows 1. Can this actually be a table-scan in disguise? It only says it looks at the primary key column.</p>
+
+<p>Tried DBCC DBREINDEX and UPDATE STATISTICS on the table. Both completed within reasonable time.</p>
+
+<p>There is unfortunately a high number of indexes on this particular table. It is the core table in our system, with plenty of columns, and references, both outgoing and incoming. The exact number is 48 indexes + the primary key clustered index.</p>
+
+<p>What else should we look at?</p>
+
+<p>Note also that this table did not have this problem before, this problem occured suddently today. We also have many databases with the same table setup (copies of customer databases), and they behave as expected, it's just this one that is problematic.</p>

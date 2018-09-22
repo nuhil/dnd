@@ -1,0 +1,42 @@
+<p><em>Disclaimer: I'm stuck on TFS and I hate it.</em></p>
+
+<p>My source control structure looks like this:</p>
+
+<ul>
+<li>/dev</li>
+<li>/releases</li>
+<li>/branches</li>
+<li>/experimental-upgrade</li>
+</ul>
+
+<p>I branched from dev to experimental-upgrade and didn't touch it.  I then did some more work in dev and merged to experimental-upgrade.  Somehow TFS complained that I had changes in both source and target and I had to resolve them.  I chose to "Copy item from source branch" for all 5 items.</p>
+
+<p>I check out the experimental-upgrade to a local folder and try to open the main solution file in there.  TFS prompts me: </p>
+
+<blockquote>
+  <p>"Projects have recently been added to this solution.  Would you like to get them from source control?</p>
+</blockquote>
+
+<p>If I say yes it does some stuff but ultimately comes back failing to load a handful of the projects.  If I say no I get the same result.</p>
+
+<p>Comparing my sln in both branches tells me that they are equal.</p>
+
+<p>Can anyone let me know what I'm doing wrong?  This should be a straightforward branch/merge operation...</p>
+
+<p>TIA.</p>
+
+<hr>
+
+<p><strong>UPDATE:</strong></p>
+
+<p>I noticed that if I click "yes" on the above dialog, the projects are downloaded to the $/ root of source control... (i.e. out of the dev &amp; branches folders)</p>
+
+<p>If I open up the solution in the branch and remove the dead projects and try to re-add them (by right-clicking sln, add existing project, choose project located in the branch folder, it gives me the error...</p>
+
+<blockquote>
+  <p>Cannot load the project c:\sandbox\my_solution\proj1\proj1.csproj, the file has been removed or deleted.  The project path I was trying to add is this:  c:\sandbox\my_solution\branches\experimental-upgrade\proj1\proj1.csproj</p>
+</blockquote>
+
+<p>What in the world is pointing these projects <em>outside</em> of their local root?  The solution file is identical to the one in the dev branch, and those projects load just fine.  I also looked at the vspscc and vssscc files but didn't find anything.</p>
+
+<p>Ideas?</p>

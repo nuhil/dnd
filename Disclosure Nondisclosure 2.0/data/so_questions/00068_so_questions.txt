@@ -1,0 +1,18 @@
+<p>I'm using subclipse in Flex Builder 3, and recently received this error when trying to commit:</p>
+
+<p><code>svn: Checksum mismatch for '/Users/redacted/Documents/Flex Builder 3/path/to/my/file.mxml'; expected: 'f8cb275de72776657406154dd3c10348', actual: 'null'</code></p>
+
+<p>I worked around it by:</p>
+
+<ol>
+<li>Committing all the other changed files, omitting the troublesome one.</li>
+<li>Copying the contents of the trouble file to a TextMate window</li>
+<li>Deleting my project in FlexBuilder/Eclipse</li>
+<li>Checking my project out fresh from SVN</li>
+<li>Copying the text of the trouble file back in from the TextMate Window</li>
+<li>Committing the changes.</li>
+</ol>
+
+<p>It worked, but I can't help but think there's a better way. What's actaully happening to cause the svn:checksum error, and what's the best fix.</p>
+
+<p>Maybe more important -- is this a symptom of a greater problem?</p>

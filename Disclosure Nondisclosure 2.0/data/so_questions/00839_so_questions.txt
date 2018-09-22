@@ -1,0 +1,16 @@
+<p>I am having problems getting text within a table to appear centered in IE. </p>
+
+<p>In Firefox 2, 3 and Safari everything work fine, but for some reason, the text doesn't appear centered in IE 6 or 7. </p>
+
+<p>I'm using:</p>
+
+<pre class="lang-css prettyprint-override"><code>h2 {
+  font: 300 12px "Helvetica", serif; 
+  text-align: center; 
+  text-transform: uppercase;
+}
+</code></pre>
+
+<p>I've also tried adding <code>margin-left:auto;</code>, <code>margin-right:auto</code> and <code>position:relative;</code> </p>
+
+<p>to no avail. </p>

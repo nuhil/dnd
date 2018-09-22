@@ -1,0 +1,10 @@
+<p>I'm writing an interpreter for an experimental language. Three of the main constructs of the language are definitions, statements, and expressions. Definitions can contain statements and expressions, statements can contain definitions and expressions, and one kind of expression can contain statements. I represent all of these using union types so I can easily use pattern matching on them. Ideally, I would like to put the code for these in different files, but OMake complains about circular dependency issues. As far as I know, circular type definitions across modules are not allowed.</p>
+
+<p>The only way I know of to solve this is to define all three types at once:</p>
+
+<pre><code>type defn = ...
+and stmt = ...
+and expr = ...
+</code></pre>
+
+<p>It seems like this requires all the code for types to be in the same file. Is there any way around this? How do you deal with circular definitions in your code?</p>

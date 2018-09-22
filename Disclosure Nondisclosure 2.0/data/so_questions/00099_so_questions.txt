@@ -1,0 +1,5 @@
+<p>Many applications have grids that display data from a database table one page at a time. Many of them also let the user pick the number of records per page, sort by any column, and navigate back and forth through the results.</p>
+
+<p>What's a good algorithm to implement this pattern without bringing the entire table to the client and then filtering the data on the client. How do you bring just the records you want to display to the user?</p>
+
+<p>Does LINQ simplify the solution?</p>

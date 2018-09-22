@@ -1,0 +1,22 @@
+<p>While it would be very convenient to use inline functions at some situations,</p>
+
+<p>Are there any drawbacks with inline functions?</p>
+
+<p><strong>Conclusion</strong>:</p>
+
+<p>Apparently, There is nothing wrong with using inline functions.</p>
+
+<p>But it is worth noting the following points!</p>
+
+<ul>
+<li><p>Overuse of inlining can actually make programs slower. Depending on a function's size, inlining it can cause the code size to increase or decrease. Inlining a very small accessor function will usually decrease code size while inlining a very large function can dramatically increase code size. On modern processors smaller code usually runs faster due to better use of the instruction cache. <a href="http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml#Inline_Functions">- Google Guidelines</a></p></li>
+<li><p>The speed benefits of inline functions tend to diminish as the function grows in size. At some point the overhead of the function call becomes small compared to the execution of the function body, and the benefit is lost <a href="http://www-rocq.inria.fr/who/Marc.Thiriet/Langages/tic0324.html">- Source</a></p></li>
+<li><p>There are few situations where an inline function may not work:</p>
+
+<ul>
+<li>For a function returning values; if a return statement exists.</li>
+<li>For a function not returning any values; if a loop, switch or goto statement exists. </li>
+<li>If a function is recursive. <a href="http://www-rocq.inria.fr/who/Marc.Thiriet/Langages/tic0324.html">-Source</a></li>
+</ul></li>
+<li><p>The <code>__inline</code> keyword causes a function to be inlined only if you specify the optimize option. If optimize is specified, whether or not <code>__inline</code> is honored depends on the setting of the inline optimizer option. By default, the inline option is in effect whenever the optimizer is run. If you specify optimize , you must also specify the noinline option if you want the <code>__inline</code> keyword to be ignored. <a href="http://support.sas.com/documentation/onlinedoc/sasc/doc750/html/clug/zcoptinl.htm">-Source</a></p></li>
+</ul>

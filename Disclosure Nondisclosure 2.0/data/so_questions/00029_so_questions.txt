@@ -1,0 +1,1 @@
+<p>A quick glance at the present-day internet would seem to indicate that Adobe Flash is the obvious choice for embedding video in a web page.  Is this accurate, or are they other effective choices?  Does the choice of ASP.NET as a platform influence this decision?</p>

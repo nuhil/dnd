@@ -1,0 +1,4 @@
+<p>What files can we modify so that our solution is still supported by Microsoft?</p>
+
+<p>Is it allowed to customize error pages? 
+Can we modify the web.config files to use custom HTTPHandlers?</p>

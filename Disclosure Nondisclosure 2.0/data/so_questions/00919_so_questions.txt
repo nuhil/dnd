@@ -1,0 +1,10 @@
+<p>I have one applicationContext.xml file, and it has two org.springframework.orm.jpa.JpaTransactionManager (each with its own persistence unit, different databases) configured in a Spring middleware custom application.
+<br><br>I want to use annotation based transactions (@Transactional), to not mess around with TransactionStatus commit, save, and rollback.<br><br>
+A coworker mentioned that something gets confused doing this when there are multiple transaction managers, even though the context file is set configured correctly (the references go to the correct persistence unit.
+Anyone ever see an issue?</p>
+
+<hr>
+
+<p>In your config, would you have two transaction managers?
+Would you have txManager1 and txManager2?<br><br>
+That's what I have with JPA, two different Spring beans that are transaction managers.</p>

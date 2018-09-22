@@ -1,0 +1,1 @@
+<p>Does anyone have links to documentation or guides on making the decision between REST vs. SOAP? I understand both of these but am looking for some references on the key decision points, eg, security, which may make you lean towards one or the other.</p>

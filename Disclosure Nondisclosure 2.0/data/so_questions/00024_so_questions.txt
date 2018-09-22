@@ -1,0 +1,10 @@
+<p>I want to get the MD5 Hash of a string value in SQL Server 2005. I do this with the following command:</p>
+
+<pre><code>SELECT HashBytes('MD5', 'HelloWorld')
+</code></pre>
+
+<p>However, this returns a VarBinary instead of a VarChar value. If I attempt to convert <code>0x68E109F0F40CA72A15E05CC22786F8E6</code> into a VarChar I get <code>há ðô§*à\Â'†øæ</code> instead of <code>68E109F0F40CA72A15E05CC22786F8E6</code>.</p>
+
+<p>Is there any SQL-based solution?</p>
+
+<p><strong><a href="http://stackoverflow.com/questions/2120/#2382">Yes</a></strong></p>

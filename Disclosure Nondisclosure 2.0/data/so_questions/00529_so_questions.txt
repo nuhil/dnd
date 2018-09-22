@@ -1,0 +1,3 @@
+<p>I'm using the d programing language to write a program, and I'm trying to use ddbg to debug it.  When there is an exception, I want to have the program break whenever there is an exception thrown so that I can inspect the stack.</p>
+
+<p>Alternatively, is there another debugger that works with d?  Is there another way to get a stack trace when there is an exception?</p>

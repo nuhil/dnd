@@ -1,0 +1,7 @@
+<p>So basically I am looking for good templates for writing both technical and functional specs on a project or work request.</p>
+
+<p>What do you use? How deep do you get while writing the specs? Any additional general tips you could provide would be appreciated.</p>
+
+<p>My company needs these badly. I work for a contractor and right now we do not use these documents at all. </p>
+
+<p><strong>EDIT:</strong> I have read Joel's take about <a href="http://www.joelonsoftware.com/articles/fog0000000036.html">Painless Specification</a>, I really liked it, but are there any other opinions :) </p>

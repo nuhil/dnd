@@ -1,0 +1,3 @@
+<p>We need to move off traditional FTP for security purposes (it transmits it's passwords unencrypted). I am hearing SSH touted as the obvious alternative. However I have been driving FTP from an ASP.NET program interface to automate my web-site development, which is now quite a highly web-enabled process. </p>
+
+<p>Can anyone recommend a secure way to transfer files around which has a program interface that I can drive from ASP.NET?</p>

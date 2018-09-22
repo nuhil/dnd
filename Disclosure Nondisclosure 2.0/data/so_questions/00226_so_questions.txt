@@ -1,0 +1,27 @@
+<blockquote>
+  <p>See also <a href="http://stackoverflow.com/questions/1700917/how-does-a-wcf-server-inform-a-wcf-client-about-changes-better-solution-then-si">How does a WCF server inform
+  a WCF client about changes? (Better
+  solution then simple polling, e.g.
+  Coment or long polling)</a></p>
+</blockquote>
+
+<p>I need to use push-technology with WCF through client firewalls. This must be a common problem, and I know for a fact it works in theory (see links below), but I have failed to get it working, and I haven't been able to find a code sample that demonstrates it.</p>
+
+<p>Requirements: </p>
+
+<ul>
+<li>WCF</li>
+<li>Clients connects to server through tcp port 80 (netTcpBinding).</li>
+<li>Server pushes back information at irregular intervals (1 min to several hours).</li>
+<li>Users should not have to configure their firewalls, server pushes must pass through firewalls that have all inbound ports closed. TCP duplex on the same connection is needed for this, a dual binding does not work since a port has to be opened on the client firewall.</li>
+<li>Clients sends heartbeats to server at regular intervals (perhaps every 15 mins) so server knows client is still alive.</li>
+<li>Server is IIS7 with WAS.</li>
+</ul>
+
+<p>The solution seems to be duplex netTcpBinding. Based on this information:</p>
+
+<p><a href="http://blogs.msdn.com/drnick/archive/2006/05/01/configuring-wcf-for-nats-and-firewalls.aspx">WCF through firewalls and NATs</a></p>
+
+<p><a href="http://blogs.msdn.com/drnick/archive/2006/10/20/keeping-connections-open-in-iis.aspx">Keeping connections open in IIS</a></p>
+
+<p>But I have yet to find a code sample that works.. I've tried combining the "Duplex" and "TcpActivation" samples from Microsoft's WCF Samples without any luck. Please can someone point me to example code that works, or build a small sample app. Thanks a lot!</p>

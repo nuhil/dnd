@@ -1,0 +1,1 @@
+<p>I'm tearing my hair out with this one. If I start a block comment <code>/*</code> in VS.NET 2005+ then carriage return, Visual Studio insists that I have another asterisk <code>*</code>. I know there's an option to turn this off but I just can't find it. Anyone know how to turn this feature off?</p>

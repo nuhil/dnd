@@ -1,0 +1,1 @@
+<p>Does anybody know any good resources for learning how to program CIL with in-depth descriptions of commands, etc.? I have looked around but not found anything particularly good.</p>

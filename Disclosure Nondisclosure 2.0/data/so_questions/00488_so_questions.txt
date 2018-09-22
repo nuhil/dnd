@@ -1,0 +1,5 @@
+<p>Does anyone have any experience with any COTS systems for managing workshops and the associated registrations, courses, communications, etc.?</p>
+
+<p>We have a home-built Perl system that is about 8 years old and is currently embedded as an iframe in a SharePoint portal site (externally facing). Needless to say, it isn't integrated into our site well, looks like crap, needs an overhaul, lacks features, etc. It would be nice to find either a product we can install or a service that provides those features.</p>
+
+<p>Thanks!</p>

@@ -1,0 +1,1 @@
+<p>Is there a recommendation for a hardware platform for developing/testing SideShow devices, or is the Emulator adequate?</p>

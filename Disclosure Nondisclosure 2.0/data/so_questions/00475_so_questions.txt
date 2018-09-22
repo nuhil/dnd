@@ -1,0 +1,1 @@
+<p>Does anyone know how to setup <a href="http://www.selenic.com/mercurial/wiki/index.cgi/Mercurial">Mercurial</a> to use <a href="http://www.perforce.com/perforce/products/merge.html">p4merge</a> as the merge/diff tool on OS X 10.5?</p>

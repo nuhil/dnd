@@ -1,0 +1,14 @@
+<p>I've got the following rough structure:</p>
+
+<pre><code>Object -&gt; Object Revisions -&gt; Data
+</code></pre>
+
+<p>The Data can be shared between several Objects.</p>
+
+<p>What I'm trying to do is clean out old Object Revisions. I want to keep the first, active, and a spread of revisions so that the last change for a time period is kept. The Data might be changed a lot over the course of 2 days then left alone for months, so I want to keep the last revision before the changes started and the end change of the new set.</p>
+
+<p>I'm currently using a cursor and temp table to hold the IDs and date between changes so I can select out the low hanging fruit to get rid of. This means using @LastID, @LastDate, updates and inserts to the temp table, etc... </p>
+
+<p>Is there an easier/better way to calculate the date difference between the current row and the next row in my initial result set without using a cursor and temp table? </p>
+
+<p>I'm on sql server 2000, but would be interested in any new features of 2005, 2008 that could help with this as well.</p>

@@ -1,0 +1,9 @@
+<p>A database application that I'm currently working on, stores all sorts of settings in the database. Most of those settings are there to customize certain business rules, but there's also some other stuff in there.</p>
+
+<p>The app contains objects that specifically do a certain task, e.g., a certain complicated calculation. Those non-UI objects are unit-tested, but also need access to lots of those global settings. The way we've implemented this right now, is by giving the objects properties that are filled by the Application Controller at runtime. When testing, we create the objects in the test and fill in values for testing (not from the database).</p>
+
+<p>This works better, in any case much better than having all those objects need some global <em>Settings</em> object --- that of course effectively makes unit testing impossible :) Disadvantage can be that you sometimes need to set a dozen of properties, or that you need to let those properties 'percolate' into sub-objects.</p>
+
+<p><strong>So the general question is</strong>: how do you provide access to global application settings in your projects, without the need for global variables, while still being able to unit test your code? This must be a problem that's been solved 100's of times...</p>
+
+<p>(Note: I'm not too much of an experienced programmer, as you'll have noticed; but I love to learn! And of course, I've already done research into this topic, but I'm really looking for some first-hand experiences)</p>

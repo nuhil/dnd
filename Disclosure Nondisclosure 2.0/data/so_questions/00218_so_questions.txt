@@ -1,0 +1,3 @@
+<p>I seem to be missing something about LINQ.  To me, it looks like it's taking some of the elements of SQL that I like the least and moving them into the C# language and using them for other things.</p>
+
+<p>I mean, I could see the benefit of using SQL-like statements on things other than databases.  But if I wanted to write SQL, well, why not just write SQL and keep it out of C#?  What am I missing here?</p>

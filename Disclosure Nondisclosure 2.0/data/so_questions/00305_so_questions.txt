@@ -1,0 +1,3 @@
+<p>I've writen an Excel-based, database reporting tool. Currentely, all the VBA code is associated with a single XLS file. The user generates the report by clicking a button on the toolbar. Unfortunately, unless the user has saved the file under another file name, all the reported data gets wiped-out.</p>
+
+<p>When I have created similar tools in Word, I can put all the code in a template (.dot) file and call it from there. If I put the template file in the Office startup folder, it will launch everytime I start Word. Is there a similar way, to package and distribute my code in Excel? I've tried using Add-ins, but I didn't find a way to call the code from the application window.</p>

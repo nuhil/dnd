@@ -1,0 +1,5 @@
+<p>We often hear/read that one should avoid dynamic casting. I was wondering what would be 'good use' examples of it, according to you?</p>
+
+<p>Edit:</p>
+
+<p>Yes, I'm aware of <a href="http://stackoverflow.com/questions/28002/regular-cast-vs-staticcast-vs-dynamiccast">that other thread</a>: it is indeed when reading one of the first answers there that I asked my question!</p>

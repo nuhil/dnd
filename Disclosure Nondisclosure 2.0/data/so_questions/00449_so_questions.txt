@@ -1,0 +1,5 @@
+<p>The .NET <code>System.Security.Cryptography</code> namespace has a rather bewildering collection of algorithms that I could use for encryption of credit card details. Which is the best?</p>
+
+<p>It clearly needs to be secure for a relatively short string. </p>
+
+<p>EDIT: I'm in the UK, where I understand we're OK storing encrypted credit card details so long as the three-digit CVV number is never stored. And thanks all for the great responses.</p>

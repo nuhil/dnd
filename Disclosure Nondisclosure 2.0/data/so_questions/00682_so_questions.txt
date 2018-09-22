@@ -1,0 +1,19 @@
+<p>The following bit of code catches the EOS Exception</p>
+
+<pre><code>using (var reader = new BinaryReader(httpRequestBodyStream)) {
+
+    try {
+        while (true) {
+            bodyByteList.Add(reader.ReadByte());
+        }
+    } catch (EndOfStreamException) { }
+}
+</code></pre>
+
+<p>So why do I still receive first-chance exceptions in my console? </p>
+
+<blockquote>
+  <p>A first chance exception of type 'System.IO.EndOfStreamException' occurred in mscorlib.dll</p>
+</blockquote>
+
+<p>Is there a way to hide these first chance exception messages?</p>

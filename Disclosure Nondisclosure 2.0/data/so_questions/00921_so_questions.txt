@@ -1,0 +1,37 @@
+<p>We need to reliably get the Quick Launch folder for both All and Current users under both Vista and XP.  I'm developing in C++, but this is probably more of a general Windows API question.</p>
+
+<p>For reference, here is code to get the Application Data folder under both systems:</p>
+
+<pre><code>	HRESULT hres; 
+	CString basePath;
+	hres = SHGetSpecialFolderPath(this-&gt;GetSafeHwnd(), basePath.GetBuffer(MAX_PATH), CSIDL_APPDATA, FALSE);
+	basePath.ReleaseBuffer();
+</code></pre>
+
+<p>I suspect this is just a matter of knowing which sub-folder Microsoft uses.</p>
+
+<p>Under Windows XP, the app data subfolder is:</p>
+
+<p>Microsoft\Internet Explorer\Quick Launch</p>
+
+<p>Under Vista, it appears that the sub-folder has been changed to:</p>
+
+<p>Roaming\Microsoft\Internet Explorer\Quick Launch</p>
+
+<p>but I'd like to make sure that this is the correct way to determine the correct location.</p>
+
+<p>Finding the <em>correct</em> way to determine this location is quite important, as relying on hard coded folder names almost always breaks as you move into international installs, etc...  The fact that the folder is named 'Roaming' in Vista makes me wonder if there is some special handling related to that folder (akin to the Local Settings folder under XP).</p>
+
+<p>EDIT:
+The following msdn article:  <a href="http://msdn.microsoft.com/en-us/library/bb762494.aspx" rel="nofollow">http://msdn.microsoft.com/en-us/library/bb762494.aspx</a> indicates that CSIDL_APPDATA has an equivalent ID of FOLDERID_RoamingAppData, which does seem to support StocksR's assertion that CSIDL_APPDATA does return C:\Users\xxxx\AppData\Roaming, so it should be possible to use the same relative path for CSIDL_APPDATA to get to quick launch (\Microsoft\Internet Explorer\Quick Launch).</p>
+
+<p>So the following algorithm is correct per MS:</p>
+
+<pre><code>HRESULT hres; 
+CString basePath;
+hres = SHGetSpecialFolderPath(this-&gt;GetSafeHwnd(), basePath.GetBuffer(MAX_PATH), CSIDL_APPDATA, FALSE);
+basePath.ReleaseBuffer();
+CString qlPath = basePath + "\\Microsoft\\Internet Explorer\\Quick Launch";
+</code></pre>
+
+<p>it would also be a good idea to check hres to ensure that the call to SHGetSpecialFolderPath was successful.</p>

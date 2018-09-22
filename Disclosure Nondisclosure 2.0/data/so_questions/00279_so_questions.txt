@@ -1,0 +1,17 @@
+<p>In Java 5 and above you have the foreach loop, which works magically on anything that implements <code>Iterable</code>:</p>
+
+<pre><code>for (Object o : list) {
+  doStuff(o);
+}
+</code></pre>
+
+<p>However, <code>Enumerable</code> still does not implement <code>Iterable</code>, meaning that to iterate over an <code>Enumeration</code> you must do the following:</p>
+
+<pre><code>for(; e.hasMoreElements() ;) {
+  doStuff(e.nextElement());
+}
+</code></pre>
+
+<p>Does anyone know if there is a reason why <code>Enumeration</code> still does not implement <code>Iterable</code>?</p>
+
+<p><strong>Edit:</strong> As a clarification, I'm not talking about the language concept of an <a href="http://en.wikipedia.org/wiki/Enumerated_type" rel="nofollow">enum</a>, I'm talking a Java-specific class in the Java API called '<a href="http://java.sun.com/j2se/1.5.0/docs/api/java/util/Enumeration.html" rel="nofollow">Enumeration</a>'. </p>

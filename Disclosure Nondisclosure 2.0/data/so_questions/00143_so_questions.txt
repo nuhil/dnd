@@ -1,0 +1,12 @@
+<p>I was reading <a href="http://stackoverflow.com/questions/6173/regular-expression-for-parsing-links-from-a-webpage">this question</a> about how to parse URLs out of web pages and had a question about the <a href="http://stackoverflow.com/questions/6173/regular-expression-for-parsing-links-from-a-webpage#6183">accepted answer</a> which offered this solution:</p>
+
+<pre class="lang-none prettyprint-override"><code>((mailto\:|(news|(ht|f)tp(s?))\://){1}\S+)
+</code></pre>
+
+<p>The solution was offered by <a href="http://stackoverflow.com/users/350/csmba">csmba</a> and he credited it to <a href="http://regexlib.com/Search.aspx?k=URL" rel="nofollow">regexlib.com</a>. Whew. Credits done.</p>
+
+<p>I think this is a fairly naive regular expression but it's a fine starting point for building something better.  But, my question is this:</p>
+
+<p>What is the point of <code>{1}</code>? It means "exactly one of the previous grouping", right? Isn't that the default behavior of a grouping in a regular expression? Would the expression be changed in any way if the <code>{1}</code> were removed?</p>
+
+<p>If I saw this from a coworker I would point out his or her error but as I write this the response is rated at a 6 and the expression on regexlib.com is rated a 4 of 5. So maybe I'm missing something?</p>

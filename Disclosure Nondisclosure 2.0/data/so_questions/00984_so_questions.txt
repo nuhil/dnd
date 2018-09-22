@@ -1,0 +1,3 @@
+<p>I have a list I've built in Sharepoint, where one of the fields is a date that the user enters.
+I want to add another field, which is a calculated value field that needs to be the date provided by the user + 30 days.
+What formula do I need to pass to the calculated value field to achieve that?</p>

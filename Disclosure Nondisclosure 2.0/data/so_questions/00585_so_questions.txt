@@ -1,0 +1,35 @@
+<p>G'day,</p>
+
+<p>I was thinking about a comment from <a href="http://stackoverflow.com/users/1175/kristopher-johnson" rel="nofollow">Kristopher Johnson</a> about my answer to this <a href="http://stackoverflow.com/questions/50612/software-development-quality" rel="nofollow">question</a> regarding Software Development Quality.</p>
+
+<p>I'd posted a list of software quality metrics that I could think of off the top of my head that included:</p>
+
+<ol>
+<li>McCabe Cyclometric Complexity - basically a measure of the number of linear paths through code.</li>
+<li>Levels of indentation - a measure of complexity when looking at nested decision statements.</li>
+<li>Distance from declaration to first use - how many statements exist between where a variable is declared and where it is first used.</li>
+<li>Comment percentage - how many lines of code are comments compared to source code.</li>
+<li>Percent test coverage - as a percentage of lines of code, how many are exercised by your suite of tests.</li>
+<li>Path test coverage - how many paths of execution are exercised by your tests.</li>
+<li>Unit coverage - how many individual units, classes, packages, etc., are exercised by your unit tests.</li>
+</ol>
+
+<p>Kris's comment was:</p>
+
+<blockquote>
+  <p>Only the test-coverage metrics listed here could be considered a measure of "quality." The others are measurements of complexity and readability, which really has nothing to do with quality.</p>
+</blockquote>
+
+<p>Apart from the fact that I don't agree with this statement at all, it got me thinking.</p>
+
+<p>When I have to review code that has hardly any associated tests, whether unit, system or integration, I tend to approach the code much, much more warily than if I see a good suite of tests that have been successfully passed.</p>
+
+<p>Same thing when performing security audits on code. If I see unused variables, huge functions, bizarre mixtures of configs, per server, per dir, etc. being used in Apache modules it also predisposes me to approach the code very warily.</p>
+
+<p>Does anyone else use this initial "gut feeling" approach and does it affect the outcome?</p>
+
+<p>BTW I don't agree with Kris's comment because all the other metrics are definitely valid measures that will help highlight badly designed, poorly executed code. As Damian Conway says:</p>
+
+<blockquote>
+  <p>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.</p>
+</blockquote>

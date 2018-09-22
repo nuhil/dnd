@@ -1,0 +1,15 @@
+<p>I hope this question does not come off as broad as it may seem at first.  I am designing a software application in my <code>&lt;sarcasm&gt;</code><em>voluminous</em><code>&lt;/sarcasm&gt;</code> spare time.  I would like it to be both cross-platform and modular.  At this point, because I am still in the planning phase, I can pick practically any language and toolset.</p>
+
+<p>This makes things harder, not easier, because there are seemingly so many ways of accomplishing both of the goals (modularity, platform agnosticism). </p>
+
+<p>My basic premise is that security, data storage, interaction with the operating system, and configuration should all be handled by a "container" application - but most of the other functionality will be supplied through plug-in modules.  If I had to describe it at a high level (without completely giving away my idea), it would be a single application that can do many different jobs, all dedicated to the same goal (there are lots of disparate things to do, but all the data has to interact and be highly available).</p>
+
+<p>This is not a new idea, and not particularly exotic.  Yet I find myself wrestling with not so much how to do it (I can think of lots of ways), but which method is best.</p>
+
+<p>For example, I know that Eclipse practically embodies what I am describing, but I find Java applications in general (and Eclipse is no exception) to be too large and slow for what I need. Ditto desktop apps written Python and Ruby (which are excellent languages!)  </p>
+
+<p>I don't mind recompiling the code base for different platforms as native exectables.  Yet, C and C++ have their own set of issues.</p>
+
+<p>As a C# developer, I have a preference for managed code.  But I am not at all sold on Mono, yet (I could be convinced).</p>
+
+<p>Does anyone have any ideas/experiences/ specific favorite frameworks to share?</p>

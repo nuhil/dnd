@@ -1,0 +1,26 @@
+<p>I can't be sure if my code is sucking, or if it's just that the browsers haven't caught up with the spec yet.</p>
+
+<p>My goal is to simulate list markers using generated content, so as to get e.g. continuation of the counters from list to list in pure CSS. So the HTML is like this:</p>
+
+<pre><code>&lt;ol&gt;
+ &lt;li&gt;The&lt;li&gt;
+ &lt;li&gt;quick&lt;/li&gt;
+ &lt;li&gt;brown&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ol&gt;
+ &lt;li&gt;fox&lt;/li&gt;
+ &lt;li&gt;jumped&lt;/li&gt;
+ &lt;li&gt;over&lt;/li&gt;
+&lt;/ol&gt;
+</code></pre>
+
+<p>and the CSS, which I <em>think</em> is correct according to <a href="http://www.w3.org/TR/CSS2/generate.html#markers" rel="nofollow">the spec</a>, is like this:</p>
+
+<pre><code>html { counter-reset: myCounter; }
+li { counter-increment: myCounter; }
+li:before { content: counter(myCounter)". "; display: marker; width: 5em; text-align: right; marker-offset: 1em; }
+</code></pre>
+
+<p>But this doesn't seem to generate markers, in either FF3, Chrome, or IE8 beta 2, and if I recall correctly not Opera either (although I've since uninstalled Opera).</p>
+
+<p>So, does anyone know if markers are <em>supposed</em> to work? Quirksmode.org isn't being its usual helpful self in this regard :(.</p>

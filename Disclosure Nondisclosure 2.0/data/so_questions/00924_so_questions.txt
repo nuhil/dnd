@@ -1,0 +1,3 @@
+<p>We are using PowerDesigner at work for database modelling. But there is a hell of a price tag on that piece of software. And frankly, all I use is physical diagrams for MS SQL, which is about 1% of what PD knows.</p>
+
+<p>Are there any good alternatives? I know about Visio and MS SQL Diagrams, but looking for other options.</p>

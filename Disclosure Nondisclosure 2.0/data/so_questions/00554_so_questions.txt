@@ -1,0 +1,3 @@
+<p>For many years I have used two great tools <a href="http://www.compuware.com/products/devpartner/visualc.htm">BoundsChecker</a> &amp; <a href="http://www-01.ibm.com/software/awdtools/purify/win/">Purify</a>, but the developers of these applications have let me down, they no longer put effort into maintaining them or developing them. We have corporate accounts with both companies, and they both tell me that they have no intention of producing versions to support 64 bit applications.</p>
+
+<p>Can anyone recommend either open source or commercial alternatives that support 64 bit native C++/MFC applications?</p>

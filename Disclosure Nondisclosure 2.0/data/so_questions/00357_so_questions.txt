@@ -1,0 +1,3 @@
+<p>I'd like to add dvd burning functionality to my .Net app (running on Windows Server 2003), are there any good components available?  I've used the NeroCOM sdk that used to come with Nero but they no longer support the sdk in the latest versions of Nero.  I learned that Microsoft has created an IMAPI2 upgrade for Windows XP/2003 and there is an <a href="http://www.codeproject.com/KB/miscctrl/imapi2.aspx" rel="nofollow">example project</a> at CodeProject but not having used it myself I can't say how easy/reliable it is to use.</p>
+
+<p>I'm not really worried about burning audio/video to DVD as this is for file backup purposes only.</p>

@@ -1,0 +1,1 @@
+<p><a href="http://en.wikipedia.org/wiki/SHA-1">SHA Hash functions</a></p>

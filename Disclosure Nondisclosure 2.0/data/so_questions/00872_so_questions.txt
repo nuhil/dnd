@@ -1,0 +1,20 @@
+<p>With this code I can show an animated gif while the server script is running:</p>
+
+<pre><code>function calculateTotals() {
+    $('#results').load('getResults.php', null, showStatusFinished);
+    showLoadStatus();
+}
+
+function showLoadStatus() {
+    $('#status').html('');
+}
+
+
+function showStatusFinished() {
+    $('#status').html('Finished.');
+}
+</code></pre>
+
+<p>However, I would like to display a status of how far along the script is, e.g. "Processing line 342 of 20000..." and have it count up until it is finished.</p>
+
+<p>How can I do that? I can make a server-script which constantly contains the updated information but where do I put the command to read this, say, every second?</p>

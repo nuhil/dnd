@@ -1,0 +1,5 @@
+<p>How many ServiceContracts can a WCF service have?</p>
+
+<p>Specifically, since a ServiceContract is an attribute to an interface, how many interfaces can I code into one WCF web service? Is it a one-to-one?</p>
+
+<p>Does it make sense to separate the contracts across multiple web services?</p>

@@ -1,0 +1,5 @@
+<p>We're working on an application that displays information through a Direct3D visualisation. A late client request is the ability to view this application via some Remote Desktop solution.</p>
+
+<p>Has anyone done anything similar? What options are available / unavailable? I'm thinking RDC, VNC, Citrix...</p>
+
+<p>Any advice?</p>

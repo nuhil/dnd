@@ -1,0 +1,7 @@
+<p>I am wondering what  directory structure are commonly used in development projects. I mean with the idea of facilitating builds, deploys release, and etc.</p>
+
+<p>I recently used a <a href="http://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html">Maven structure</a> for a java project, but I am not sure it's the best structure for a non-maven driven project.</p>
+
+<p>So, I have two questions: When you guys start new projects, what structure you use? And: What if you need to integrate two different languages, like for example java classes into a PHP application; PHP files are source files, web files, you you use a /src, /classes, webapps/php ? What are your choices in such scenarios. </p>
+
+<p>As a note: I am wondering also what are you choices for directories names. I like the 3-letters names (src, lib, bin, web, img, css, xml, cfg) but what are your opinions about descriptive names like libraris, sources or htdocs/public_html ?</p>

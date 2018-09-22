@@ -1,0 +1,17 @@
+<p>I am looking for a way to concatenate the strings of a field within a group by query. So for example, I have a table:</p>
+
+<pre><code>ID   COMPANY_ID   EMPLOYEE
+1    1            Anna
+2    1            Bill
+3    2            Carol
+4    2            Dave
+</code></pre>
+
+<p>and I wanted to group by company_id to get something like:</p>
+
+<pre><code>COMPANY_ID   EMPLOYEE
+1            Anna, Bill
+2            Carol, Dave
+</code></pre>
+
+<p>There is a built-in function in mySQL to do this <a href="http://dev.mysql.com/doc/refman/5.0/en/group-by-functions.html#function_group-concat">group_concat</a></p>

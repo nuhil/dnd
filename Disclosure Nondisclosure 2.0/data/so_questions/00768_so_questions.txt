@@ -1,0 +1,70 @@
+<p>I hope everyone will pardon the length, and narrative fashion, of this question.  I decided to describe the situation in some detail in my blog.  I later saw Joel's invitation to this site, and I thought I'd paste it here to see if anyone has any insight into the situation.</p>
+
+<p>I wrote, and now support, an application that consists of a Visual Basic thick client speaking DCOM to middle tier COM+ components written in C++ using ATL. It runs in all eight of our offices.  Each office hosts a back-end server that contains the COM+ application (consisting of 18 separate components) and the SQLServer. The SQLServer is typically on the same back-end server, but need not be.</p>
+
+<p>We recently migrated the back-end server in our largest office -- New York -- from a MSC cluster to a new virtual machine hosted on VMWare's ESX technology. Since the location of the COM+ application had moved from the old server to a new one with a different name, I had to redirect all the clients so that they activated the COM+ application on the new server. The procedure was old hat as I had done essentially the same thing for several of my smaller offices that had gone through similar infrastructure upgrades.</p>
+
+<p>All seemed routine and on Monday morning the entire office -- about 1,000 Windows XP workstations -- were running without incident on the new server. But then the call came from my mobile group -- there was an attorney working from home with a VPN connection that was getting a strange error after being redirected to the new server:</p>
+
+<pre>
+Error on FillTreeView2 - The stub received bad data.
+</pre>
+
+<p>Huh? I had never seen this error message before. Was it the new server? But all the workstations in the office were working fine. I told the mobile group to switch the attorney back to the old sever (which was still up), and the error disappeared. So what was the difference? Turns out this attorney was running Vista at home.</p>
+
+<p>We don't run Vista in any of our offices, but we do have some attorneys that run Vista at home (certainly some in my New York office). I do as well and I've never seen this problem. To confirm that there was an issue, I fired up my Vista laptop, pointed it to the new server, and got the same error. I pointed it back to the old server, and it worked fine. Clearly there was some problem with Vista and the components on the new server -- a problem that did not seem to affect XP clients. What could it be?</p>
+
+<p>Next stop -- the application error log on my laptop. This yielded more information on the error:</p>
+
+<pre>
+Source:        Microsoft-Windows-RPC-Events
+Date:          9/2/2008 11:56:07 AM
+Event ID:      10
+Level:         Error
+Computer:      DevLaptop
+Description:   Application has failed to complete a COM call because an incorrect
+interface ID was passed as a parameter.
+
+The expected Interface ID was 00000555-0000-0010-8000-00aa006d2ea4, 
+The Interface ID returned was 00000556-0000-0010-8000-00aa006d2ea4.
+
+User Action - Contact the application vendor for updated version of the application.
+</pre>
+
+<p>The interface ids provided the clue I needed to unravel the mystery. The "expected" interface id identifies MDAC's Recordset interface -- specifically version 2.1 of that interface. The "returned" interface corresponds to a later version of Recordset (version 2.5 which differs from version 2.1 by the inclusion of one additional entry at the end of the vtable -- method Save).</p>
+
+<p>Indeed my component's interfaces expose many methods that pass Recordset as an output parameter. So were they suddenly returning a later version of Recordset -- with a different interface id? It certainly appeared to be the case. And then I thought, why should it matter. The vtable looks the same to clients of the older interface. Indeed, I suspect that if we were talking about in-process COM, and not DCOM, this apparently innocuous impedance mismatch would have been silently ignored and would have caused no issues.</p>
+
+<p>Of course, when process and machine boundaries come into play, there is a proxy and a stub between the client and the server. In this case, I was using type library marshaling with the free threaded marshaller. So there were two mysteries to solve:</p>
+
+<p>Why was I returning a different interface in the output parameters from methods on my new server?</p>
+
+<p>Why did this affect only Vista clients?</p>
+
+<p>As my server software was hosted on servers at each of my eight offices, I decided to try pointing my Vista client at all of them in sequence to see which had problems with Vista and which didn't. Illuminating test. Some of the older servers still worked with Vista but the newer ones did not. Although some of the older servers were still running Windows 2000 while the newer ones were at 2003, that did not seem to be the issue.</p>
+
+<p>After comparing the dates of the component DLLs it appeared that whenever the client pointed to servers with component DLLs dated before 2003 Vista was fine. But those that had DLLs with dates after 2003 were problematic. Believe it or nor, there were no (or at least no significant) changes to the code on the server components in many years. Apparently the differing dates were simply due to recompiles of my components on my development machine(s). And it appeared that one of those recompiles happened in 2003.</p>
+
+<p>The light bulb went on. When passing Recordsets back from server to client, my ATL C++ components refer to the interface as _Recordset. This symbol comes from the type library embedded within msado15.dll. This is the line I had in the C++ code:</p>
+
+<pre>
+#import "c:\Program Files\Common Files\System\ADO\msado15.dll" no_namespace rename ( "EOF", "adoEOF" )
+</pre>
+
+<p>Don't be deceived by the 15 in msdad15.dll. Apparently this DLL has not changed name in the long series of MDAC versions.</p>
+
+<p>When I compiled the application back in the day, the version of MDAC was 2.1. So _Recordset compiled with the 2.1 interface id and that is the interface returned by the servers running those components.</p>
+
+<p>All the client's use the COM+ application proxy that was generated (I believe) back in 1999. The type library that defines my interfaces includes the line:</p>
+
+<pre>
+importlib("msado21.tlb");
+</pre>
+
+<p>which explains why they expect version 2.1 of Recordset in my method's output parameters. Clearly the problem was with my 2003 recompile and the fact that at that time the _Recordset symbol no longer corresponded to version 2.1. Indeed _Recordset corresponded to the 2.5 version with its distinct interface id. The solution for me was to change all references from _Recordset to Recordset21 in my C++ code. I rebuilt the components and deployed them to the new server. Voila -- the clients seemed happy again.</p>
+
+<p>In conclusion, there are two nagging questions that remain for me.</p>
+
+<p>Why does the proxy/stub infrastructure seem to behave differently with Vista clients? It appears that Vista is making stricter checks of the interface ids coming back from method parameters than is XP.</p>
+
+<p>How should I have coded this differently back in 1999 so that this would not have happened? Interfaces are supposed to be immutable and when I recompiled under a newer version of MDAC, I inadvertently changed my interface because the methods now returned a different Recordset interface as an output parameter. As far as I know, the type library back then did not have a version-specific symbol -- that is, later versions of the MDAC type libraries define Recordset21, but that symbol was not available back in the 2.1 type library.</p>

@@ -1,0 +1,7 @@
+<p>I am in need of a way to mute a specific application in Vista.</p>
+
+<p>Example: Mute just Firefox, but not all of the other application.  Much similar to muting a specific program from within the volume mixer in vista. </p>
+
+<p>If there is a program that will do this, i would appreciate that.  Otherwise if there is a way to do this, I will write a small app(Preferrably something .net).</p>
+
+<p>EDIT: I want to automate this procedure, possibly key-map it.</p>

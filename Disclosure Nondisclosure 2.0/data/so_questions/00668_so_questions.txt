@@ -1,0 +1,1 @@
+<p>Should developers avoid using <a href="http://msdn.microsoft.com/en-us/library/923ahwt1.aspx">continue</a> in C# or its equivalent in other languages to force the next iteration of a loop? Would arguments for or against overlap with arguments about <a href="http://stackoverflow.com/questions/46586/goto-still-considered-harmful">Goto</a>? </p>

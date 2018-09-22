@@ -1,0 +1,3 @@
+<p>I would like to move a file or folder from one place to another within the same repository without having to use Repo Browser to do it, and without creating two independent add/delete operations.  Using Repo Browser works fine except that your code will be hanging in a broken state until you get any supporting changes checked in afterwards (like the .csproj file for example).</p>
+
+<p>Update: People have suggested "move" from the command line. Is there a TortoiseSVN equivalent?</p>

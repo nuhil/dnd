@@ -1,0 +1,3 @@
+<p>What is the best way to create a lock on a file in Perl?</p>
+
+<p>Is it best to flock on the file or to create a lock file to place a lock on and check for a lock on the lock file?</p>

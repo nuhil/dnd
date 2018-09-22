@@ -1,0 +1,1 @@
+<p>Are there any noted differences in appearance rendering of html and xhtml in Google Chrome from Firefox? From IE? From other browsers/what browser does it render the code the most similar to?</p>

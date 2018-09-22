@@ -1,0 +1,7 @@
+<p>Ok, so there has to be a way to do this... no? If not I'd love some ideas. </p>
+
+<p>I have two repeaters and an image inside an update panel along with some AJAX dropdowns with link buttons to the left. I want to update the data inside the update panel as fast as possible as values are selected from the dropdowns. </p>
+
+<p>What do you think would be the best way to update the data? The repeaters are populated by objects, so if I could just filter the objects by some properties I could end up with the correct data. No new data from the server is needed. </p>
+
+<p>Anyone have some ideas?</p>

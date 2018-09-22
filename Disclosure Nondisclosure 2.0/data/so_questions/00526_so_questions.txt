@@ -1,0 +1,5 @@
+<p>And/or: do I need one?</p>
+
+<p>I've recently started using FogBugz for my hobby projects, and I'm very happy with things so far. Having read more about it, especially the evidence-based scheduling, I'd like to start using it for my PhD as well. (Heh; something tells me my supervisors won't be opening tickets for me, though.)</p>
+
+<p>Last night I stumbled onto <a href="http://www.mathworks.com/matlabcentral/fileexchange/loadFile.do?objectId=9016">TimePost</a>, which looks like a tidy app that doesn't do much but could be a real bonus to logging my time in FogBugz effectively. I tried looking around for similar apps but came up a little empty-handed. Are there any other FogBugz clients that you've used and recommend for Mac OS X? Or are you happy with the web interface?</p>

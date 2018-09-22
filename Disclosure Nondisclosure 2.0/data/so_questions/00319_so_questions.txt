@@ -1,0 +1,7 @@
+<p>I'm currently using VS2005 Profesional and .NET 2.0, and since our project is rather large (25 projects in the solution), I'd like to try VS 2008, since its theoretically faster with larger projects. </p>
+
+<p>Before doing such thing, i'd like to know if what I've read is true: can I use VS2008 in ".net 2.0" mode? I don't want my customers to install .net 3.0 or .3.5, I just want to install VS2008, open my solution and start working from there. </p>
+
+<p>Is this possible?</p>
+
+<p>P.D.: the solution is a c# Window Forms project.</p>

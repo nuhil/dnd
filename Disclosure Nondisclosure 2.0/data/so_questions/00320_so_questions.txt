@@ -1,0 +1,5 @@
+<p>This error just started popping up all over our site.</p>
+
+<p><strong><em>Permission denied to call method to Location.toString</em></strong></p>
+
+<p>I'm seeing google posts that suggest that this is related to flash and our crossdomain.xml.  What caused this to occur and how do you fix?</p>

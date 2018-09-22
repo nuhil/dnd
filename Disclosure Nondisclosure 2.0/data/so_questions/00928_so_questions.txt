@@ -1,0 +1,1 @@
+<p>I'm looking for a little shell script that will take anything piped into it, and dump it to a file.. for email debugging purposes. Any ideas?</p>

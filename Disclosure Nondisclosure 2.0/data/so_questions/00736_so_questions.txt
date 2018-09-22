@@ -1,0 +1,42 @@
+<p>My motto for Java is "just because Java has static blocks, it doesn't mean that you should be using them." Jokes aside, there are a lot of tricks in Java that make testing a nightmare. Two of the most I hate are Anonymous Classes and Static Blocks. We have a lot of legacy code that make use of Static Blocks and these are one of the annoying points in our push in writing unit tests. Our goal is to be able to write unit tests for classes that depend on this static initialization with minimal code changes. </p>
+
+<p>So far my suggestion to my colleagues is to move the body of the static block into a private static method and call it <code>staticInit</code>. This method can then be called from within the static block. For unit testing another class that depends on this class could easily mock <code>staticInit</code> with JMockit to not do anything. Let's see this in example.</p>
+
+<pre><code>public class ClassWithStaticInit {
+  static {
+    System.out.println("static initializer.");
+  }
+}
+</code></pre>
+
+<p>Will be changed to</p>
+
+<pre><code>public class ClassWithStaticInit {
+  static {
+    staticInit();
+  }
+
+  private static void staticInit() {
+    System.out.println("static initialized.");
+  }
+}
+</code></pre>
+
+<p>So that we can do the following in a JUnit.</p>
+
+<pre><code>public class DependentClassTest {
+  public static class MockClassWithStaticInit {
+    public static void staticInit() {
+    }
+  }
+
+  @BeforeClass
+  public static void setUpBeforeClass() {
+    Mockit.redefineMethods(ClassWithStaticInit.class, MockClassWithStaticInit.class);
+  }
+}
+</code></pre>
+
+<p>However this solution also comes with its own problems. You can't run <code>DependentClassTest</code> and <code>ClassWithStaticInitTest</code> on the same JVM since you actually want the static block to run for <code>ClassWithStaticInitTest</code>.</p>
+
+<p>What would be your way of accomplishing this task? Or any better, non-JMockit based solutions that you think would work cleaner?</p>

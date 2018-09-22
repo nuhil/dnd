@@ -1,0 +1,18 @@
+<p>I was curious about how other people use the <strong>this</strong> keyword. I tend to use it in constructors, but I may also use it throughout the class in other methods. Some examples:</p>
+
+<p>In a constructor:</p>
+
+<pre><code>public Light(Vector v)
+{
+    this.dir = new Vector(v);
+}
+</code></pre>
+
+<p>Elsewhere</p>
+
+<pre><code>public void SomeMethod()
+{
+    Vector vec = new Vector();
+    double d = (vec * vec) - (this.radius * this.radius);
+}
+</code></pre>

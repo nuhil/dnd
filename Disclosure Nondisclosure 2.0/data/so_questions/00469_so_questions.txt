@@ -1,0 +1,5 @@
+<p>I'd like to take some time to learn more about dynamic languages built on top of the DLR and I'm not sure which language would be better to learn.</p>
+
+<p>Having limited time, I really only have time to look learn one of them.</p>
+
+<p>Any opinions on which of the two (Iron Ruby or Iron Python) would be more useful in the long run?</p>

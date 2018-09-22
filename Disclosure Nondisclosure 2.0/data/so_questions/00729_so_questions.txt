@@ -1,0 +1,11 @@
+<p>Does anyone know of a way to find out how much memory an instance of an object is taking?</p>
+
+<p>For example, if I have an instance of the following object:</p>
+
+<p>TestClass tc = new TestClass();</p>
+
+<p>Is there a way to find out how much memory the instance "tc" is taking?</p>
+
+<p>The reason for asking, is that although C# has built in memory management, I often run into issues with not clearing an instance of an object (e.g. a List that keeps track of something).</p>
+
+<p>There are couple of reasonably good memory profilers (e.g. ANTS Profiler) but in a multi-threaded environment is pretty hard to figure out what belongs where, even with those tools. </p>

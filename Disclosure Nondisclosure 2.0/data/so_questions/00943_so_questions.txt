@@ -1,0 +1,25 @@
+<p>I have an SQL Server database where I have the data and log files stored on an external USB drive.  I switch the external drive between my main development machine in my office and my laptop when not in my office.  I am trying to use sp_detach_db and sp_attach_db when moving between desktop and laptop machines.  I find that this works OK on the desktop - I can detach and reattach the database there no problems.  But on the laptop I cannot reattach the database (the database was actually originally created on the laptop and the first detach happened there).  When I try to reattach on the laptop I get the following error:</p>
+
+<p>Unable to open the physical file "p:\SQLData\AppManager.mdf". Operating system error 5: "5(error not found)"</p>
+
+<p>I find a lot of references to this error all stating that it is a permissions issue.  So I went down this path and made sure that the SQL Server service account has appropriate permissions.  I have also created a new database on this same path and been able to succesfully detach and reattach it.  So I am confident permissions is not the issue.</p>
+
+<p>Further investigation reveals that I cannot rename, copy or move the data files as Windows thinks they are locked - even when the SQL Server service is stopped.  Process Explorer does not show up any process locking the files.  </p>
+
+<p>How can I find out what is locking the files and unlock them.</p>
+
+<p>I have verified that the databases do not show up in SSMS - so SQL Server does not still think they exist.</p>
+
+<p><strong>Update 18/09/2008</strong></p>
+
+<p>I have tried all of the suggested answers to date with no success.  However trying these suggestions has helped to clarify the situation.  I can verify the following:</p>
+
+<ol>
+<li>I can successfully detach and reattach the database only when the external drive is attached to the server that a copy of the database is restored to - effectively the server where the database is "created" - lets call this the "Source Server".  </li>
+<li>I can move, copy or rename the data and log files, after detaching the database, while the external drive is still attached to the Source Server.  </li>
+<li>As soon as I move the external drive to another machine the data and log files are "locked", although the 2 tools that I have tried - Process Explorer and Unlocker, both find no locking handles attached to the files. </li>
+</ol>
+
+<p>NB.  After detaching the database I tried both stopping the SQL Server service and shutting down the Source Server prior to moving the external drive - still with no success.</p>
+
+<p>So at this stage all that I can do to move data between desktop and laptop is to make a backup of the data onto the external drive, move the external drive, restore the data from the backup.  Works OK but takes a bit more time as the database is a reasonable size (1gb).  Anyway this is the only choice I have at this stage even though I was trying to avoid having to go down this path.</p>

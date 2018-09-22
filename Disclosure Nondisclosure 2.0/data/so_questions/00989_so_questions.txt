@@ -1,0 +1,20 @@
+<p>I have a template class that I serialize (call it C), for which I want to specify a version for boost serialization. As BOOST_CLASS_VERSION does not work for template classes. I tried this:</p>
+
+<pre><code>namespace boost {
+namespace serialization {
+    template&lt; typename T, typename U &gt;
+    struct version&lt; C&lt;T,U&gt; &gt;
+    {
+        typedef mpl::int_&lt;1&gt; type;
+        typedef mpl::integral_c_tag tag;
+        BOOST_STATIC_CONSTANT(unsigned int, value = version::type::value);
+    };
+}
+}
+</code></pre>
+
+<p>but it does not compile. Under VC8, a subsequent call to BOOST_CLASS_VERSION gives this error:</p>
+
+<p><code>error C2913: explicit specialization; 'boost::serialization::version' is not a specialization of a class template</code></p>
+
+<p>What is the correct way to do it?</p>

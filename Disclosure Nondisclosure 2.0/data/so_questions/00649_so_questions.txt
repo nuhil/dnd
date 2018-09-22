@@ -1,0 +1,3 @@
+<p>Are there any utilities out there which can draw pictures of the merge history of a subversion repo - we always commit merges with a (fairly) consistent log message, and it would be handy to be able to automatically extract this info into a single picture that shows what branches occurred when, and what the state of merges is.</p>
+
+<p>I'm just interested in an informational tool, not something to help with actually performing merges.</p>

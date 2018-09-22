@@ -1,0 +1,1 @@
+<p>I'd like to experiment with burn-down and planning game with the team I'm on.  People on my team are interested in making it happen, however I'm sure someone has done this before and has learned some lessons we hopefully don't have to repeat.  Does anyone know of an example Excel (or other tool) template available for burn-down or planning game activities?</p>

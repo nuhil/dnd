@@ -1,0 +1,25 @@
+<p>In a ColdFusion Component (CFC), is it necessary to use fully qualified names for variables-scoped variables?</p>
+
+<p>Am I going to get myself into trouble if I change this:</p>
+
+<pre><code>&lt;cfcomponent&gt;
+    &lt;cfset variables.foo = "a private instance variable"&gt;
+
+    &lt;cffunction name = "doSomething"&gt;
+    	&lt;cfset var bar = "a function local variable"&gt;
+    	&lt;cfreturn "I have #variables.foo# and #bar#."&gt;
+    &lt;/cffunction&gt;
+&lt;/cfcomponent&gt;
+</code></pre>
+
+<p>to this?</p>
+
+<pre><code>&lt;cfcomponent&gt;
+    &lt;cfset foo = "a private instance variable"&gt;
+
+    &lt;cffunction name = "doSomething"&gt;
+    	&lt;cfset var bar = "a function local variable"&gt;
+    	&lt;cfreturn "I have #foo# and #bar#."&gt;
+    &lt;/cffunction&gt;
+&lt;/cfcomponent&gt;
+</code></pre>

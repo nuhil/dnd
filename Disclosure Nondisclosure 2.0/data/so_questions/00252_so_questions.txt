@@ -1,0 +1,17 @@
+<p>Trying to find some simple SQL Server PIVOT examples.  Most of the examples that I have found involve counting or summing up numbers.  I just want to pivot some string data.  For example, I have a query returning the following.</p>
+
+<pre><code>Action1 VIEW  
+Action1 EDIT  
+Action2 VIEW  
+Action3 VIEW  
+Action3 EDIT  
+</code></pre>
+
+<p>I would like to use PIVOT (if even possible) to make the results like so:</p>
+
+<pre><code>Action1 VIEW EDIT  
+Action2 VIEW NULL  
+Action3 VIEW EDIT  
+</code></pre>
+
+<p>Is this even possible with the PIVOT functionality?</p>

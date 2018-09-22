@@ -1,0 +1,1 @@
+<p>I am taking a class that requires Python. We will review the language in class next week, and I am a quick study on new languages, but I was wondering if there are any really great Python books I can grab while I am struggling through the basics of setting up my IDE, server environment and all those other "gotchas" that come with a new programming language. Suggestions?</p>

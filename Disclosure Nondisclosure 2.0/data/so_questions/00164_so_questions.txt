@@ -1,0 +1,5 @@
+<p>It's been mentioned to me that I'll be the sole developer behind a large new system.  Among other things I'll be designing a UI and database schema.</p>
+
+<p>I'm sure I'll receive some guidance, but I'd like to be able to knock their socks off.  What can I do in the meantime to prepare, and what will I need to keep in mind when I sit down at my computer with the spec?</p>
+
+<p>A few things to keep in mind: I'm a college student at my first real programming job.  I'll be using Java.  We already have SCM set up with automated testing, etc...so tools are not an issue.</p>

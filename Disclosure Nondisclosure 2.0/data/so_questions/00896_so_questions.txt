@@ -1,0 +1,1 @@
+<p>What do I need to add to my <code>.spec</code> file to create the desktop shortcut and assign an icon to the shortcut during install of my <code>.rpm</code>?  If a script is required, an example would be very helpful.</p>

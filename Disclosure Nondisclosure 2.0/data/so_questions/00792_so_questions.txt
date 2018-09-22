@@ -1,0 +1,1 @@
+<p>VB 6.0 does not have any global handler.To catch runtime errors,we need to add a handler in each method where we feel an error can occur.But, still some places might be left out.So,we end up getting runtime errors.Adding error handler in all the methods of an application,the only way?</p>

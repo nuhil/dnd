@@ -1,0 +1,3 @@
+<p>I want to be able to generate PDF ouput from my (native) C++ Windows application. Are there any free/open source libraries available to do this?</p>
+
+<p>I looked at the answers to <a href="http://stackoverflow.com/questions/177/how-do-i-programmatically-create-a-pdf-in-my-net-application" rel="nofollow">this question</a>, but they mostly relate to .Net.</p>

@@ -1,0 +1,7 @@
+<p>I am using MSBuild to build my stuff. I want to use CruiseControl.net as by Build Server.</p>
+
+<p>Now, CCNET refers nAnt a lot, but it looks as if ccnet can do most of the stuff nant could do through the project configuration and msbuild. Also, nAnt seems a bit unsupported, with a Beta release that is almost a year old now.</p>
+
+<p>In short: I am actually quite happy with MSBuild (especially since it's the "official" compiler front end) and a bit uncomfortable with nAnt, but I do not want to judge prematurely.</p>
+
+<p>What would be reasons to use nAnt over MSBuild? Especially with ccnet, which seems to overlap a bit with nant in terms of features (and adding the automated build related stuff)</p>

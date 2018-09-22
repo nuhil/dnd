@@ -1,0 +1,5 @@
+<p>I'm trying to fully understand all of Haskell's concepts.</p>
+
+<p>In what ways are algebraic data types similar to generic types, e.g., in C# and Java? And how are they different? What's so algebraic about them anyway? </p>
+
+<p>I'm familiar with universal algebra and its rings and fields, but I only have a vague idea of how Haskell's types work.</p>

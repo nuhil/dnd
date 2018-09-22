@@ -1,0 +1,7 @@
+<p>I'm used to the Vi(m) editor and am using MS Visual Studio 2005 at work. I couldn't find a free Vi add-in (there's only one for the 2003 version). I googled a bit, saw that there was a 'Google summer of code' project this year to write such an add-in, and am eagerly awaiting the result. I've also heard of ViEmu (not free, and I can't test it at work).</p>
+
+<p>Has anyone in my situation has found a solution (and/or tested ViEmu)?</p>
+
+<p>Edit: I can't test ViEmu at work because they are paranoid about what we install on our boxes: it has to go through required channels, and for 30 days I don't reckon it's worth it (and I have no Windows box at home).</p>
+
+<p>Edit: Since both answers were equivalent, I ended up accepting the first one that came in.</p>

@@ -1,0 +1,39 @@
+<p>Is it really viable to use GCJ to publish server-side applications?  Webapps?  </p>
+
+<p>My boss is convinced that compiling our (<strong><em>my</em></strong>) webapp into a binary executable is a brilliant idea.  (Then again, he likes nice, small simple things with blinky lights that he can understand.)  He instinctively sees no issues with this, while I only see an endless series of problems and degradations.  Once I start talking to him about the complexity of our platform, and more in depth specifics of byte code, JVMs, libraries, differences between operating systems, processor architectures, etc...well...his eyes glaze over, he smiles and he has made it clear he thinks I'm being childishly resistive.</p>
+
+<p>Why does he want a single magic executable?  He sees a couple of "benefits":</p>
+
+<ul>
+<li>If it is a binary executable, then it is hard to reverse engineer and circumvent any licensing.  Management lives in constant fear that this is happening, even though we sell into larger corporates who generally do not do cheat with server software.  </li>
+<li>There is that vision of downloading this magic executable, running it, and everything works. (No more sending me out to do customer installations, which is not that frequent.)</li>
+</ul>
+
+<p>So, I've done my obligatory 20 minutes of googling, and now I am here.  </p>
+
+<p>A bit of background on my application: </p>
+
+<p><strong>What it is made from:</strong></p>
+
+<ul>
+<li>Java 6 (Sun's JVM)</li>
+<li>AspectJ 1.6</li>
+<li>Tomcat 6</li>
+<li>Hibernate 3</li>
+<li>Spring 2</li>
+<li>another two dozen supporting jar files</li>
+</ul>
+
+<p><strong>What it does</strong></p>
+
+<ul>
+<li>A streaming media CMS</li>
+<li>Performance sensitive</li>
+<li>Deployed on Linux, Solaris, Windows (and developed on a Mac)</li>
+</ul>
+
+<p>As you can probably gather, I'm highly skeptical of this <em>"compiling Java to native code"</em> thing.  It sound like where Mono (VB on Linux) was back in 2000.  But am I being overly pessimistic?  Is it viable?  Should I actually spend the time (days if not weeks) to try this out?</p>
+
+<p>There is one other similar thread (<a href="http://stackoverflow.com/questions/53845/java-compiler-options-to-produce-exe-files">Java Compiler Options to produce .exe files</a>) but it is a bit too simple, the links dated, and not really geared towards a server-side question.</p>
+
+<p>Your informed opinions will be highly cherished, my dear SOpedians! TIA!</p>

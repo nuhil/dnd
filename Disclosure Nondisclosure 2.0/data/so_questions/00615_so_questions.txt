@@ -1,0 +1,3 @@
+<p>Say I'm building an ASP.Net class that inherits from IHttpHandler, should I wire this up to a URL ending in .ashx, or should I use the .axd extension? </p>
+
+<p>Does it matter as long as there's no naming conflict?</p>

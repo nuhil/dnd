@@ -1,0 +1,1 @@
+<p>I'm wondering if there's any way to write CSS specifically for Safari using only CSS. I know there has to be something out there, but I haven't found it yet.</p>

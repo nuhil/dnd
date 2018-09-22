@@ -1,0 +1,3 @@
+<p>We have a question with regards to XML-sig and need detail about the optional elements as well as some of the canonicalization and transform stuff.  We're writing a spec for a very small XML-syntax payload that will go into the metadata of media files and it needs to by cryptographically signed.  Rather than re-invent the wheel, We thought we should use the XML-sig spec but I think most of it is overkill for what we need, and so we like to have more information/dialogue with people who know the details.</p>
+
+<p>Specifically, do we need to care about either transforms or canonicalization if the XML is very basic with no tabs for formatting and is specific to our needs?</p>

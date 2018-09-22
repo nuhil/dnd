@@ -1,0 +1,1 @@
+<p>Instead of relying on my host to send email, I was thinking of sending the messages though my Gmail account. The emails are personalized emails to the bands I play on my show. Is it possible to do?</p>

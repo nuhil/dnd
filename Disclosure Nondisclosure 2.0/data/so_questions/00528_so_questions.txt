@@ -1,0 +1,5 @@
+<p>With the code, forms and data inside the same database I am wondering what are the best practices to design a suite of tests for a Microsoft Access application (say for Access 2007).</p>
+
+<p>One of the main issues with testing forms is that only a few controls have a <code>hwnd</code> handle and other controls only get one they have focus, which makes automation quite opaque since you cant get a list of controls on a form to act on.</p>
+
+<p>Any experience to share?</p>

@@ -1,0 +1,1 @@
+<p>Pretty much every other editor that isn't a vi descendant (vim, cream, vi-emu) seems to use the emacs shortcuts (<kbd>ctrl</kbd>+<kbd>w</kbd> to delete back a word and so on)</p>

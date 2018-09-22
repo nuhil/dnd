@@ -1,0 +1,6 @@
+<p>Phantom References serve for post-mortem operations.
+The Java specification states that a <strong>phantom referenced object</strong> will not be deallocated until the phantom-reference itself is cleaned.</p>
+
+<p>My question is: What purpose does this feature (object not deallocated) serve?</p>
+
+<p>(The only idea i came up with, is to allow native code to do post-mortem cleanup on the object, but it isn't much convincing).</p>

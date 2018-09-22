@@ -1,0 +1,26 @@
+<p>I'm looking at the SOAP output from a web service I'm developing, and I noticed something curious:</p>
+
+<pre><code>&lt;soapenv:Envelope xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"&gt;
+   &lt;soapenv:Body&gt;
+      &lt;ns1:CreateEntityTypesResponse xmlns:ns1="http://somedomain.com/wsinterface"&gt;
+         &lt;newKeys&gt;
+            &lt;value&gt;1234&lt;/value&gt;
+         &lt;/newKeys&gt;
+         &lt;newKeys&gt;
+            &lt;value&gt;2345&lt;/value&gt;
+         &lt;/newKeys&gt;
+         &lt;newKeys&gt;
+            &lt;value&gt;3456&lt;/value&gt;
+         &lt;/newKeys&gt;
+         &lt;newKeys xsi:nil="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/&gt;
+         &lt;newKeys xsi:nil="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/&gt;
+         &lt;errors&gt;Error1&lt;/errors&gt;
+         &lt;errors&gt;Error2&lt;/errors&gt;
+      &lt;/ns1:CreateEntityTypesResponse&gt;
+   &lt;/soapenv:Body&gt;
+&lt;/soapenv:Envelope&gt;
+</code></pre>
+
+<p>I have two newKeys elements that are nil, and both elements insert a namespace reference for xsi.  I'd like to include that namespace in the soapenv:Envelope element so that the namespace reference is only sent once.</p>
+
+<p>I am using WSDL2Java to generate the service skeleton, so I don't directly have access to the Axis2 API.</p>

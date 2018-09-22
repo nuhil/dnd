@@ -1,0 +1,41 @@
+<p>Here is a quick test program:</p>
+
+<pre><code>    public static void main( String[] args )
+{
+    Date date = Calendar.getInstance().getTime();
+
+    System.out.println("Months:");
+    printDate( "MMMM", "en", date );
+    printDate( "MMMM", "es", date );
+    printDate( "MMMM", "fr", date );
+    printDate( "MMMM", "de", date );
+
+    System.out.println("Days:");
+    printDate( "EEEE", "en", date );
+    printDate( "EEEE", "es", date );
+    printDate( "EEEE", "fr", date );
+    printDate( "EEEE", "de", date );
+
+}
+
+public static void printDate( String format, String locale, Date date )
+{
+    System.out.println( locale + ": " + (new SimpleDateFormat( format, new Locale( locale ) )).format( date ) );
+}
+</code></pre>
+
+<p>The output is:</p>
+
+<p><code>
+Months:
+en: September
+es: septiembre
+fr: septembre
+de: September
+Days:
+en: Monday
+es: lunes
+fr: lundi
+de: Montag</code></p>
+
+<p>How can I control the capitalization of the names. For some reason the Spanish and French always seem to return names that start with a lowercase letter.</p>

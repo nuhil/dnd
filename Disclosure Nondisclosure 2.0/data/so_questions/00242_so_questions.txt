@@ -1,0 +1,11 @@
+<p>What are some strategies that people have had success with for maintaining a change history for data in a fairly complex database. One of the applications that I frequently use and develop for could really benefit from a more comprehensive way of tracking how records have changed over time. For instance, right now records can have a number of timestamp and modified user fields, but we currently don't have a scheme for logging multiple change, for instance if an operation is rolled back. In a perfect world, it would be possible to reconstruct the record as it was after each save, etc.</p>
+
+<p>Some info on the DB:</p>
+
+<ul>
+<li>Needs to have the capacity to grow by thousands of records per week</li>
+<li>50-60 Tables</li>
+<li>Main revisioned tables may have several million records each</li>
+<li>Reasonable amount of foreign keys and indexes set</li>
+<li>Using PostgreSQL 8.x</li>
+</ul>

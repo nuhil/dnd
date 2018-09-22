@@ -1,0 +1,7 @@
+<p>I am using Apache Axis to connect my Java app to a web server. I used wsdl2java to create the stubs for me, but when I try to use the stubs, I get the following exception:</p>
+
+<blockquote>
+  <p>org.apache.axis.ConfigurationException: No service named <code>&lt;web service name&gt;</code> is available</p>
+</blockquote>
+
+<p>any idea?</p>

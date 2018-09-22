@@ -1,0 +1,56 @@
+<p>This has me puzzled. This code worked on another server, but it's failing on Perl v5.8.8 with <a href="http://search.cpan.org/dist/Date-Manip" rel="nofollow">Date::Manip</a> loaded from CPAN today.</p>
+
+<pre><code>Warning:
+Use of uninitialized value in numeric lt (&lt;) at /home/downside/lib/Date/Manip.pm line 3327.
+at dailyupdate.pl line 13
+        main::__ANON__('Use of uninitialized value in numeric lt (&lt;) at
+/home/downsid...') called at
+/home/downside/lib/Date/Manip.pm line 3327
+        Date::Manip::Date_SecsSince1970GMT(09, 16, 2008, 00, 21, 22) called at
+/home/downside/lib/Date/Manip.pm line 1905
+        Date::Manip::UnixDate('today', '%Y-%m-%d') called at
+TICKER/SYMBOLS/updatesymbols.pm line 122
+        TICKER::SYMBOLS::updatesymbols::getdate() called at
+TICKER/SYMBOLS/updatesymbols.pm line 439
+        TICKER::SYMBOLS::updatesymbols::updatesymbol('DBI::db=HASH(0x87fcc34)',
+'TICKER::SYMBOLS::symbol=HASH(0x8a43540)') called at
+TICKER/SYMBOLS/updatesymbols.pm line 565
+TICKER::SYMBOLS::updatesymbols::updatesymbols('DBI::db=HASH(0x87fcc34)', 1, 0, -1) called at
+dailyupdate.pl line 149
+        EDGAR::updatesymbols('DBI::db=HASH(0x87fcc34)', 1, 0, -1) called at
+dailyupdate.pl line 180
+        EDGAR::dailyupdate() called at dailyupdate.pl line 193
+</code></pre>
+
+<p>The code that's failing is simply:</p>
+
+<pre><code>sub getdate()
+{    my $err;                ## today
+    &amp;Date::Manip::Date_Init('TZ=EST5EDT');       
+    my $today = Date::Manip::UnixDate('today','%Y-%m-%d'); ## today's date
+    ####print "Today is ",$today,"\n";        ## ***TEMP***
+    return($today);
+}
+</code></pre>
+
+<p>That's right; <a href="http://search.cpan.org/dist/Date-Manip" rel="nofollow">Date::Manip</a> is failing for <code>"today"</code>.</p>
+
+<p>The line in <a href="http://search.cpan.org/dist/Date-Manip" rel="nofollow">Date::Manip</a> that is failing is:</p>
+
+<pre><code>  my($tz)=$Cnf{"ConvTZ"};  
+  $tz=$Cnf{"TZ"}  if (! $tz);  
+  $tz=$Zone{"n2o"}{lc($tz)}  if ($tz !~ /^[+-]\d{4}$/);  
+
+  my($tzs)=1;  
+  $tzs=-1 if ($tz&lt;0); ### ERROR OCCURS HERE
+</code></pre>
+
+<p>So <a href="http://search.cpan.org/dist/Date-Manip" rel="nofollow">Date::Manip</a> is assuming that <code>$Cnf</code> has been initialized with elements <code>"ConvTZ"</code> or <code>"TZ"</code>.  Those are initialized in <code>Date_Init</code>, so that should have been taken care of.</p>
+
+<p>It's only failing in my large program.  If I just extract "<code>getdate()</code>" above
+and run it standalone, there's no error.  So there's something about the
+global environment that affects this.</p>
+
+<p>This seems to be a known, but not understood problem.  If you search Google for
+"Use of uninitialized value date manip" there are about 2400 hits.
+This error has been reported with <a href="http://www.lemis.com/grog/videorecorder/mythsetup-sep-2006.html" rel="nofollow">MythTV</a> and <a href="http://www.cpan.org/modules/by-module/Mail/grepmail-4.51.readme" rel="nofollow">grepmail</a>.</p>

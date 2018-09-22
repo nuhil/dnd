@@ -1,0 +1,5 @@
+<p>I have a .exe and many plug-in .dll modules that the .exe loads. (I have source for both.) A cross-platform (with source) solution would be ideal, but the platform can be narrowed to WinXP and Visual Studio (7.1/2003 in my case).</p>
+
+<p>The built-in VS leak detector only gives the line where new/malloc was called from, but I have a wrapper for allocations, so a full symbolic stack trace would be best.</p>
+
+<p>The detector would also be able to detect for a leak in both the .exe and its accompanying plug-in .dll modules.</p>

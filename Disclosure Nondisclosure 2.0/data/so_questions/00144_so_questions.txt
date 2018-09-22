@@ -1,0 +1,13 @@
+<p>I've written a stored proc that will do an update if a record exists, otherwise it will do an insert. It looks something like this:</p>
+
+<pre><code>update myTable set Col1=@col1, Col2=@col2 where ID=@ID
+if @@rowcount = 0
+insert into myTable (Col1, Col2) values (@col1, @col2)
+</code></pre>
+
+<p>My logic behind writing it in this way is that the update will perform an implicit select using the where clause and if that returns 0 then the insert will take place.</p>
+
+<p>The alternative to doing it this way would be to do a select and then based on the number of rows returned either do an update or insert. This I considered inefficient because if you are to do an update it will cause 2 selects (the first explicit select call and the second implicit in the where of the update). If the proc were to do an insert then there'd be no difference in efficiency.</p>
+
+<p>Is my logic sound here?
+Is this how you would combine an insert and update into a stored proc?</p>

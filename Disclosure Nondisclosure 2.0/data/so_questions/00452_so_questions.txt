@@ -1,0 +1,7 @@
+<p>I just wonder what the best approach is to have multiple users work on a Project in Visual Studio 2005 Professional.</p>
+
+<p>We got a Solution with multiple Class Libraries, but when everyone opens the solution, we keep getting the "X was modified, Reload/Discard?" prompt all the time. Just opening one project is an obvious alternative, but I find it harder to use as you can't just see some of the other classes in other projects that way.</p>
+
+<p>Are there any Guidelines for Team Development with VS2005 Pro?</p>
+
+<p>Edit: Thanks. The current environment is a bit limited in the sense there is only 1 PC with RDP Connection, but that will change in the future. Marking the first answer as Accepted, but they are all good :)</p>

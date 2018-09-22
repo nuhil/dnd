@@ -1,0 +1,22 @@
+<p>I have a <code>byte[]</code> array, the contents of which represent a TIFF file (as in, if I write out these bytes directly to a file using the <code>BinaryWriter</code> object, it forms a perfectly valid TIFF file) and I'm trying to turn it into a System.Drawing.Image object so that I can use it for later manipulation (feeding into a multipage TIFF object)</p>
+
+<p>The problem I'm having is that the commonly accepted code for this task:</p>
+
+<pre><code>    public Image byteArrayToImage(byte[] byteArrayIn)
+    {
+        MemoryStream ms = new MemoryStream(byteArrayIn);
+        Image returnImage = Image.FromStream(ms, true);
+        return returnImage;
+    }
+</code></pre>
+
+<p>doesn't work for me. The second line of the above method where it calls the <code>Image.FromStream</code> method dies at runtime, saying</p>
+
+<pre><code>Parameter Not Valid
+</code></pre>
+
+<p>I believe that the method is choking on the fact that this is a TIFF file but I cannot figure out how to make the <code>FromStream</code> method accept this fact.</p>
+
+<p>How do I turn a byte array of a TIFF image into an Image object?</p>
+
+<p>Also, like I said the end goal of this is to have a byte array representing a multipage TIFF file, which contains the TIFF files for which I have byte array objects of right now. If there's a much better way to go about doing this, I'm all for it.</p>

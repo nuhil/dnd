@@ -1,0 +1,1 @@
+<p>In a LotusScript Agent that is being run via WebQueryOpen, how do you get the name of the current server?</p>

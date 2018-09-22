@@ -1,0 +1,1 @@
+<p>I'm looking for a way to delete a file which is locked by another process using C#. I suspect the method must be able to find which process is locking the file (perhaps by tracking the handles, although I'm not sure how to do this in C#) then close that process before being able to complete the file delete using <code>File.Delete()</code>.</p>

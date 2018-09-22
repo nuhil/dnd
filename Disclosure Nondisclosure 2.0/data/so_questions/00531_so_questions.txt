@@ -1,0 +1,5 @@
+<p>What are the best code snippets for C#? (using visual studio)  VB has a lot that are pre-defined, but there are only a handful for C#.  Do you have any really useful ones for C#?</p>
+
+<p>Anyone want to post a good custom one you created yourself?</p>
+
+<p><a href="http://en.wikipedia.org/wiki/Ferris_Bueller" rel="nofollow">Anyone?... Bueller?</a></p>

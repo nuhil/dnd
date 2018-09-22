@@ -1,0 +1,7 @@
+<p>A number of forms in my project inherit from a base form. It is easy to get at the Controls collection of the derived forms, but I have not found a simple way to access the Components collection, since VS marks this as private. </p>
+
+<p>I assume this could be done with reflection, but I'm not really sure how best to go about it, not having worked with reflection before.</p>
+
+<p>Right now, I'm using a sort of clunky workaround, in which I override a function GetComponents and return an array of the components I'm interested in. This is obviously prone to errors, since it's easy to forget to implement the overridden function or update it when components are added.</p>
+
+<p>If anyone has any tips or can suggest a better way, I'd be glad to hear.</p>

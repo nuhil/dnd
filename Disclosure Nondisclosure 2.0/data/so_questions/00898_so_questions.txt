@@ -1,0 +1,6 @@
+<p>In IE, the dropdown-list takes the same width as the dropbox (I hope I am making sense) whereas in Firefox the dropdown-list's width varies according to the content. </p>
+
+<p>This basically means that I have to make sure that the dropbox is wide enough to display the longest selection possible. This makes my page look very ugly :(</p>
+
+<p>Is there any workaround for this problem? 
+How can I use CSS to set different widths for dropbox and the dropdownlist?</p>

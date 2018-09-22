@@ -1,0 +1,5 @@
+<p>I have to develop an application which parses a log file and sends specific data to a server. It has to run on both Linux and Windows. </p>
+
+<p>The problem appears when I want to test the log rolling system (which appends .1 to the name of the creates a new one with the same name). On Windows (haven't tested yet on Linux) I can't rename a file that I have opened with std::ifstream() (exclusive access?) even if I open it in "input mode" (ios::in).</p>
+
+<p>Is there a cross-platform way to open file in a non-exclusive way?</p>

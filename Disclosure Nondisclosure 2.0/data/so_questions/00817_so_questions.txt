@@ -1,0 +1,3 @@
+<p>Has anybody experience in building a custom style in Qt? What I have in my mind is a complete new style that affects all kind of widgets. I have seen some examples in the web for a custom combo box. But I have no idea how much time and code it takes to build a "complete" new custom style ... maybe someone can give me a hint.</p>
+
+<p>We think of using Qt 4.3 (or even newer) ...</p>

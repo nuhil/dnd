@@ -1,0 +1,1 @@
+<p>Is it possible in C# to have a Struct with a member variable which is a Class type?  If so, where does the information get stored, on the Stack, the Heap, or both?</p>

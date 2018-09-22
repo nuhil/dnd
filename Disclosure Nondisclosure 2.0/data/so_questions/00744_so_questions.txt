@@ -1,0 +1,7 @@
+<p>I need to create a 2D int array of size 800x800.  But doing so creates a stack overflow (ha ha).</p>
+
+<p>I'm new to C++, so should I do something like a vector of vectors?  And just encapsulate the 2d array into a class?</p>
+
+<p>Specifically, this array is my zbuffer in a graphics program.  I need to store a z value for every pixel on the screen (hence the large size of 800x800).</p>
+
+<p>Thanks!</p>

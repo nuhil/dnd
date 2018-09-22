@@ -1,0 +1,3 @@
+<p>I'm pretty new to my company (2 weeks) and we're starting a new platform for our system using .NET 3.5 Team Foundation from DotNetNuke. Our "architect" is suggesting we use one class project. Of course, I chime back with a "3-tier" architecture (Business, Data, Web class projects). </p>
+
+<p>Is there any disadvantages to using this architecture? Pro's would be separation of code from data, keeping class objects away from your code, etc.</p>

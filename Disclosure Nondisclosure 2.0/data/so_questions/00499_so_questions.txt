@@ -1,0 +1,7 @@
+<p>I need to write a program that can sift through specially-formatted text files (essentially CSV files with a fixed set of column types that have different delimiters for some columns ... comma in most places, colons in others) to search for formatting errors.  I figure regular expressions will be the way to go.</p>
+
+<p>The question:  Is there a good regex library for VB6?</p>
+
+<p>Thank you!</p>
+
+<p>Edit:  Holy crap, 3 responses in under an hour.  Thanks a ton, folks!  I've heard such good things about Regex Buddy from Jeff's postings / podcasting, that I will have to take a look.</p>

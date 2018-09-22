@@ -1,0 +1,7 @@
+<p>I am using VS 2008 with SP1 and the IE 8 beta 2. Whenever I start a new Web site or when I double-click an ASPX in the solution explorer, VS insists on attempting to the display the ASPX page in a free-standing IE browser instance. The address is the local file path to the ASPX it's trying to load and an error that says, "The XML page cannot be displayed" is shown. </p>
+
+<p>Otherwise, things work work correctly (I just close the offending browser window. ASP.NET is registered with IIS and I have no other problems. I have tested my same configuration on other PCs and it works fine. Has anyone had this problem? </p>
+
+<p>Thanks</p>
+
+<p>rp</p>

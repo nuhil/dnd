@@ -1,0 +1,60 @@
+<p>I have a large table with 1 million+ records. Unfortunately, the person who created the table decided to put dates in a <code>varchar(50)</code> field.</p>
+
+<p>I need to do a simple date comparison -</p>
+
+<pre><code>datediff(dd, convert(datetime, lastUpdate, 100), getDate()) &lt; 31
+</code></pre>
+
+<p>But it fails on the <code>convert()</code>:</p>
+
+<pre><code>Conversion failed when converting datetime from character string.
+</code></pre>
+
+<p>Apparently there is something in that field it doesn't like, and since there are so many records, I can't tell just by looking at it. How can I properly sanitize the entire date field so it does not fail on the <code>convert()</code>? Here is what I have now:</p>
+
+<pre><code>select count(*)
+from MyTable
+where
+    isdate(lastUpdate) &gt; 0
+    and datediff(dd, convert(datetime, lastUpdate, 100), getDate()) &lt; 31
+</code></pre>
+
+<hr>
+
+<p><a href="http://stackoverflow.com/questions/28110/ms-sql-datetime-conversion-failure#28209">@SQLMenace</a></p>
+
+<p>I'm not concerned about performance in this case. This is going to be a one time query. Changing the table to a datetime field is not an option.</p>
+
+<p><a href="http://stackoverflow.com/questions/28110/ms-sql-datetime-conversion-failure#28139">@Jon Limjap</a></p>
+
+<p>I've tried adding the third argument, and it makes no difference.</p>
+
+<hr>
+
+<p><a href="http://stackoverflow.com/questions/28110/ms-sql-datetime-conversion-failure#28209">@SQLMenace</a></p>
+
+<blockquote>
+  <p>The problem is most likely how the data is stored, there are only two safe formats; ISO YYYYMMDD; ISO 8601 yyyy-mm-dd Thh:mm:ss:mmm (no spaces)</p>
+</blockquote>
+
+<p>Wouldn't the <code>isdate()</code> check take care of this?</p>
+
+<p>I don't have a need for 100% accuracy. I just want to get most of the records that are from the last 30 days.</p>
+
+<hr>
+
+<p><a href="http://stackoverflow.com/questions/28110/ms-sql-datetime-conversion-failure#28209">@SQLMenace</a></p>
+
+<pre><code>select isdate('20080131') -- returns 1
+select isdate('01312008') -- returns 0
+</code></pre>
+
+<hr>
+
+<p><a href="http://stackoverflow.com/questions/28110/ms-sql-datetime-conversion-failure#28209">@Brian Schkerke</a></p>
+
+<blockquote>
+  <p>Place the CASE and ISDATE inside the CONVERT() function.</p>
+</blockquote>
+
+<p>Thanks! That did it.</p>

@@ -1,0 +1,1 @@
+<p>I'm working on a C# winforms application (VS.NET 2008, .NET 3.5 sp 1). I have a search field on a form, and rather than have a label next to the search field I'd like to show some grey text in the background of the search field itself ('Search terms', for example). When the user starts entering text in the search field the text should disappear. How can I achieve this?</p>

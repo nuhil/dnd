@@ -1,0 +1,41 @@
+<p>I'm not overly familiar with Tomcat, but my team has inherited a complex project that revolves around a Java Servlet being hosted in Tomcat across many servers. Custom configuration management software is used to write out the server.xml, and various resources (connection pools, beans, server variables, etc) written into server.xml configure the servlet. This is all well and good.</p>
+
+<p>However, the names of some of the resources aren't known in advance. For example, the Servlet may need access to any number of "Anonymizers" as configured by the operator. Each anonymizer has a unique name associated with it. We create and configure each anonymizer using java beans similar to the following:</p>
+
+<pre><code>&lt;Resource
+  name="bean/Anonymizer_toon"
+  type="com.company.tomcatutil.AnonymizerBean"
+  factory="org.apache.naming.factory.BeanFactory"
+  className="teAnonymizer"
+  databaseId="50"
+/&gt;
+&lt;Resource
+  name="bean/Anonymizer_default"
+  type="com.company.tomcatutil.AnonymizerBean"
+  factory="org.apache.naming.factory.BeanFactory"
+  className="teAnonymizer"
+  databaseId="54"
+/&gt;
+</code></pre>
+
+<p>However, this appears to require us to have explicit entries in the Servlet's context.xml file for each an every possible resource name in advance. I'd like to replace the explicit context.xml entries with wildcards, or know if there is a better solution to this type of problem.</p>
+
+<p>Currently:</p>
+
+<pre><code>  &lt;ResourceLink name="bean/Anonymizer_default"
+                global="bean/Anonymizer_default"
+                type="com.company.tomcatutil.AnonymizerBean"/&gt;
+
+  &lt;ResourceLink name="bean/Anonymizer_toon"
+                global="bean/Anonymizer_toon"
+                type="com.company.tomcatutil.AnonymizerBean"/&gt;
+</code></pre>
+
+<p>Replaced with something like:</p>
+
+<pre><code>  &lt;ResourceLink name="bean/Anonymizer_*"
+                global="bean/Anonymizer_*"
+                type="com.company.tomcatutil.AnonymizerBean"/&gt;
+</code></pre>
+
+<p>However, I haven't been able to figure out if this is possible or what the correct syntax might be. Can anyone make any suggestions about better ways to handle this?</p>

@@ -1,0 +1,8 @@
+<p>I'd like to make a debug logging function with the same parameters as <code>printf</code>.  But one that can be removed by the pre-processor during optimized builds.</p>
+
+<p>For example:</p>
+
+<pre><code>Debug_Print("Warning: value %d &gt; 3!\n", value);
+</code></pre>
+
+<p>I've looked at variadic macros but those aren't available on all platforms. <code>gcc</code> supports them, <code>msvc</code> does not.</p>

@@ -1,0 +1,24 @@
+<p>I'm writing a Telnet client of sorts in C# and part of what I have to parse are ANSI/VT100 escape sequences, specifically, just those used for colour and formatting (detailed <a href="http://www.termsys.demon.co.uk/vtansi.htm#colors">here</a>).</p>
+
+<p>One method I have is one to find all the codes and remove them, so I can render the text without any formatting if needed:</p>
+
+<pre><code>    
+public static string StripStringFormating(string formattedString)
+{
+    if (rTest.IsMatch(formattedString))
+        return rTest.Replace(formattedString, string.Empty);
+    else
+        return formattedString;
+}
+</code></pre>
+
+<p>I'm new to regular expressions and I was suggested to use this:</p>
+
+<pre><code>static Regex rText = new Regex(@"\e\[[\d;]+m", RegexOptions.Compiled);</code></pre>
+
+<p>However, this failed if the escape code was incomplete due to an error on the server. So then this was suggested, but my friend warned it might be slower (this one also matches another condition (z) that I might come across later):</p>
+
+<pre><code>static Regex rTest = 
+              new Regex(@"(\e(\[([\d;]*[mz]?))?)?", RegexOptions.Compiled);</code></pre>
+
+<p>This not only worked, but was in fact faster to and reduced the impact on my text rendering. Can someone explain to a regexp newbie, why? :)</p>

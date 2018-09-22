@@ -1,0 +1,13 @@
+<p>How is your javaScript code organized? Does it follow patterns like MVC, or something else? </p>
+
+<p>I've been working on a side project for some time now, and the further I get, the more my webpage has turned into a full-featured application. Right now, I'm sticking with <a href="http://jquery.com">jQuery</a>, however, the logic on the page is growing to a point where some organization, or dare I say it, "architecture" is needed. My first approach is "MVC-ish":</p>
+
+<ul>
+<li>The 'model' is a JSON tree that gets extended with helpers</li>
+<li>The view is the DOM plus classes that tweak it</li>
+<li>The controller is the object where I connect events handling and kick off view or model manipulation</li>
+</ul>
+
+<p>I'm very interested, however, in how other people have built more substantial javaScript apps. I'm not interested in GWT, or other server-oriented approaches... just in the approach of "javaScript + &lt;generic web service-y thingy here&gt;"</p>
+
+<p>Note: earlier I said javaScript "is not really OO, not really functional". This, I think, distracted everyone. Let's put it this way, because javaScript is unique in many ways, and I'm coming from a strongly-typed background, I don't want to force paradigms I know but were developed in very different languages.</p>

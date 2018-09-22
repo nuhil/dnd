@@ -1,0 +1,15 @@
+<p>I am currently using the following command to upload my site content:</p>
+
+<pre><code>scp -r web/* user@site.com:site.com/
+</code></pre>
+
+<p>This works great except that the .htaccess file is not sent. Presumably, this is because it's hidden.</p>
+
+<p>I have tried adding a second line to send the file explicitely:</p>
+
+<pre><code>scp -r web/.htaccess user@site.com:site.com/.htaccess
+</code></pre>
+
+<p>This works great except now I have to enter my password twice.</p>
+
+<p>Any thoughts on how to make this deploy with only 1 or 0 entries of my password?</p>

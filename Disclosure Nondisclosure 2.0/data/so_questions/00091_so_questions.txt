@@ -1,0 +1,12 @@
+<p>With VMWare Server running under Linux (Debain), I would like to have the following setup:</p>
+
+<ul>
+<li>1st: NIC being used by many of the
+images running under VMWare, as well
+as being used by the Linux OS </li>
+<li>2nd: NIC being used by only 1 image and to be unused by the Linux OS (as its part of a DMZ)</li>
+</ul>
+
+<p>Although the second NIC won't be used by Linux, it is certainly recognised as a NIC (e.g. eth1).</p>
+
+<p>Is this possible under VMWare Server, and if so, is it as simple as not binding eth1 under Linux and then bridging it to the image under VMWare Server?</p>

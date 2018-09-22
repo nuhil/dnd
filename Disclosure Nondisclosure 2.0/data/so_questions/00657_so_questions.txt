@@ -1,0 +1,14 @@
+<p>The documentation for the <a href="http://docs.python.org/lib/built-in-funcs.html">round()</a> function states that you pass it a number, and the positions past the decimal to round. Thus it <em>should</em> do this:</p>
+
+<pre><code>n = 5.59
+round(n, 1) # 5.6
+</code></pre>
+
+<p>But, in actuality, good old floating point weirdness creeps in and you get:</p>
+
+<pre><code>5.5999999999999996
+</code></pre>
+
+<p>For the purposes of UI, I need to display <code>5.6</code>. I poked around the Internet and found some <a href="http://mail.python.org/pipermail/python-list/2005-September/340383.html">documentation</a> that this is dependent on my implementation of Python. Unfortunately, this occurs on both my Windows dev machine and each Linux server I've tried. <a href="http://www.python.org/doc/2.5.1/tut/node16.html">See here also</a>.</p>
+
+<p>Short of creating my own round library, is there any way around this?</p>

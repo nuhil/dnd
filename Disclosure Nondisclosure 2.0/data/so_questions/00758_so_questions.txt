@@ -1,0 +1,10 @@
+<p>I use RCF with boost.serialization (why use RCF's copy when we already use the original?) It works OK, but when an exception is thrown in the server, it's not passed correctly to the client. Instead, I get an RCF::SerializationException quoting an <code>archive_exception</code> saying "class name too long". When I change the protocol to BsText, the exceptions is "unregistered class". When I change the protocol to SfBinary, it works.
+I've registered RemoteException on both server and client like this:</p>
+
+<pre><code>BOOST_CLASS_VERSION(RCF::RemoteException, 0)
+BOOST_CLASS_EXPORT(RCF::RemoteException)
+</code></pre>
+
+<p>I even tried serializing and deserializing a <code>boost::shared_ptr&lt;RCF::RemoteException&gt;</code> in the same test, and it works.</p>
+
+<p>So how can I make RCF pass exceptions correctly without resorting to SF?</p>

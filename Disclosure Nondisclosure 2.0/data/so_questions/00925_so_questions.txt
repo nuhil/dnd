@@ -1,0 +1,18 @@
+<p>As developers and as professional engineers have you been exposed to the tenants of Extreme Programming as defined in the "version 1" by Kent Beck.
+Which of those 12 core principles do you feel you have been either allowed to practice or at least be a part of in your current job or others?</p>
+
+<pre><code>* Pair programming[5]
+* Planning game
+* Test driven development
+* Whole team (being empowered to deliver)
+* Continuous integration
+* Refactoring or design improvement
+* Small releases
+* Coding standards
+* Collective code ownership
+* Simple design
+* System metaphor
+* Sustainable pace
+</code></pre>
+
+<p>From an engineers point of view I feel that the main engineering principles of XP arevastly superior to anything else I have been involved in. What is your opinion?</p>

@@ -1,0 +1,10 @@
+<p>I've been doing scrum with a team for a while, but things seem messy for some reasons. I've been thinking on how they could be changed and have a couple of questions that I would like to raise here.  </p>
+
+<p>First, what should be the role of testers, designers and non-developers as a whole in the Scrum process?
+If they are equal to other team members a couple of issues arise. Designers and testers usually work on a task after development is done, so they cannot adequately plan for a sprint because of this dependency.  </p>
+
+<p>Second, we have deadlines. These are strict and have a lot of impact on prioritization. The end result is backlog changes in the middle of a sprint because of deadline changes, or bad results in the end of the sprint.
+We also have a lot of non-technical work like customer support that has to be done in the meantime and cannot be planned as it varies a lot.
+So I'm thinking that the team structure, culture and practices are kind of not compatible with Scrum. Scrum for me is a process management tool for teams working on the development of a single software product.  </p>
+
+<p>What do you guys think about applying it in more specific and complicated scenarios? Do you have any experience to share?</p>

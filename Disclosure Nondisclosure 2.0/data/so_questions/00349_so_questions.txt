@@ -1,0 +1,5 @@
+<p>Here's the situation:  I need to bind a WPF <code>FixedPage</code> against a <code>DataRow</code>.  Bindings don't work against <code>DataRows</code>; they work against <code>DataRowViews</code>.  I need to do this in the most generic way possible, as I know nothing about and have no control over what is in the <code>DataRow</code>.  </p>
+
+<p>What I need is to be able to get a <code>DataRowView</code> for a given <code>DataRow</code>.  I can't use the <code>Find()</code> method on the <code>DefaultView</code> because that takes a key, and there is no guarantee the table will have a primary key set.</p>
+
+<p>Does anybody have a suggestion as to the best way to go around this?  </p>

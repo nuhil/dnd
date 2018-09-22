@@ -1,0 +1,7 @@
+<p>My C# program has a list of files that can be dragged from it and dropped into another program. My requirements are that the file be copied to a different directory first.</p>
+
+<p>So, can I be notified of the drop operation so that I can only copy the file if operation succeeds? I'd rather wait till I know it needs to be copied before actually performing the copy.</p>
+
+<p>Also, is it possible to know what program the drop operation is occurring in? Ideally I'd like to alter the filepath based on who or what its being dropped.</p>
+
+<p>The solution to this can be in any .NET language or C/C++ with COM.</p>

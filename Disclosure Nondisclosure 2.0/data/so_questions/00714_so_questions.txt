@@ -1,0 +1,12 @@
+<p>I've just coded a 700 line class. Awful. I hang my head in shame.  It's as opposite to DRY as a British summer.</p>
+
+<p>It's full of cut and paste with minor tweaks here and there.  This makes it's a prime candidate for refactoring.  Before I embark on this, I'd thought I'd ask when you have lots of repetition, what are the first refactoring opportunities you look for?</p>
+
+<p>For the record, mine are probably using:</p>
+
+<ol>
+<li>Generic classes and methods</li>
+<li>Method overloading/chaining.</li>
+</ol>
+
+<p>What are yours?</p>

@@ -1,0 +1,24 @@
+<p>What can be a practical solution to center vertically and horizontally content in HTML that works in Firefox, IE6 and IE7?</p>
+
+<p>Some details:</p>
+
+<ul>
+<li><p>I am looking for solution for the entire page.</p></li>
+<li><p>You need to specify only width of the element to be centered. Height of the element is not known in design time.</p></li>
+<li><p>When minimizing window, scrolling should appear only when all white space is gone.
+In other words, width of screen should be represented as:  </p></li>
+</ul>
+
+<p>"leftSpace width=(screenWidth-widthOfCenteredElement)/2"+<br />
+"centeredElement width=widthOfCenteredElement"+<br />
+"rightSpace width=(screenWidth-widthOfCenteredElement)/2"  </p>
+
+<p>And the same for the height:</p>
+
+<p>"topSpace height=(screenHeight-heightOfCenteredElement)/2"+<br />
+"centeredElement height=heightOfCenteredElement"+<br />
+"bottomSpace height=(screenWidth-heightOfCenteredElement)/2"</p>
+
+<ul>
+<li>By practical I mean that use of tables is OK. I intend to use this layout mostly for special pages like login. So CSS purity is not so important here, while following standards is desirable for future compatibility.</li>
+</ul>

@@ -1,0 +1,5 @@
+<p>Although somewhat related to <a href="http://stackoverflow.com/questions/4409/is-the-desktop-app-dead" rel="nofollow">this question</a>, I have what I think is a different take on it.</p>
+
+<p>Is a desktop app that has no connections to the "cloud" dead? I believe that some things are going to continue to be on the machine (operating systems obviously, browsers, some light-weight applications), but more and more things are moving to network-based applications (see Google Docs for office suites, GMail and other web-email clients for email, flickr for photo management, and more).</p>
+
+<p>So other than the lightweight applications, is there anything that, in 5 to 10 years, will continue to be (either out of necessity or just demand) remain on the desktop and off the cloud?</p>

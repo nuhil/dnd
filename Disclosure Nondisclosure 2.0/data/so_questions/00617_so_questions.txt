@@ -1,0 +1,5 @@
+<p>I've created a custom list, and made some changes to the way the CQWP renders it on a page by modifying ItemStyle.xsl. However, I'd like to use some custom css classes and therefore I'd like to link to my own custom .css file from the head tag of the pages containing this CQWP.</p>
+
+<p>So my question is, where to do put my .css file and how do I link it properly to a page containing the CQWPs. Please have in mind that I'm making a solution that should be deployed on multi sharepoint installations.</p>
+
+<p>Thanks.</p>

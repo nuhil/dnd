@@ -1,0 +1,3 @@
+<p>Poppler is a classic example of something without documentation that you would prefer be documented. This question is language agnostic, just asking about the general idea..
+In short, how do you make a PDF viewer control with poppler?<br />
+From what I can tell, you'd need to use poppler to render it to some surface, which sounds good up until you ask yourself how the user would select text and such. Does poppler offer a window for its various bindings, or do you have to code it all yourself?</p>

@@ -1,0 +1,34 @@
+<p>I am looking to do this in C/C++.</p>
+
+<p>I came across <a href="http://www.swig.org/Doc1.3/Varargs.html"><strong>Variable Length Arguments</strong></a> but this suggests a solution with Python &amp; C using <a href="http://sourceware.org/libffi/">libffi</a>.</p>
+
+<p>Now, if I want to wrap <code>printf</code> function with <code>myprintf</code></p>
+
+<p>What I do is like below:</p>
+
+<pre><code>void myprintf(char* fmt, ...)
+{
+    va_list args;
+    va_start(args,fmt);
+    printf(fmt,args);
+    va_end(args);
+}
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+    int a = 9;
+    int b = 10;
+    char v = 'C';
+    myprintf("This is a number: %d and \nthis is a character: %c and \n another number: %d\n",a, v, b);
+    return 0;
+}
+</code></pre>
+
+<p>But the results are not as expected!</p>
+
+<pre><code>This is a number: 1244780 and
+this is a character: h and
+another number: 29953463
+</code></pre>
+
+<p>Any point where did I miss??</p>

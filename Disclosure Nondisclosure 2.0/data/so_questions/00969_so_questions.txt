@@ -1,0 +1,13 @@
+<blockquote>
+  <p><strong>Possible Duplicate:</strong><br>
+  <a href="http://stackoverflow.com/questions/48935/how-can-i-register-a-global-hot-key-to-say-ctrlshiftletter-using-wpf-and-ne">How can I register a global hot key to say CTRL+SHIFT+(LETTER) using WPF and .NET 3.5?</a>  </p>
+</blockquote>
+
+
+
+<p>I'd like to have multiple global hotkeys in my new app (to control the app from anywhere in windows), and all of the given sources/solutions I found on the web seem to provide with a sort of a limping solution (either solutions only for one g.hotkey, or solutions that while running create annoying mouse delays on the screen).</p>
+
+<p>Does anyone here know of a resource that can help me achive this, that I can learn from?
+Anything?</p>
+
+<p>Thanks !  :)</p>

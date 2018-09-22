@@ -1,0 +1,11 @@
+<p>We have an ASP.NET application that manages it's own User, Roles and Permission database and we have recently added a field to the User table to hold the Windows domain account.  </p>
+
+<p>I would like to make it so that the user doesn't have to  <strong>physically</strong> log in to our application, but rather would be automatically logged in based on the currently logged in Windows domain account DOMAIN\username.  We want to authenticate the Windows domain account against our own User table.  </p>
+
+<p>This is a piece of cake to do in Windows Forms, is it possible to do this in Web Forms?</p>
+
+<p>I don't want the user to be prompted with a Windows challenge screen,  I want our system to handle the log in.</p>
+
+<p><strong>Clarification</strong>: We are using our own custom Principal object.</p>
+
+<p><strong>Clarification</strong>: Not sure if it makes a difference or not, but we are using IIS7.</p>

@@ -1,0 +1,1 @@
+<p>I want to point a file dialog at a particular folder in the current user's Local Settings folder on Windows.  What is the shortcut to get this path?</p>

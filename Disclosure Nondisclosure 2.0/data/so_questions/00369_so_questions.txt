@@ -1,0 +1,5 @@
+<p>I would like to retrieve the ethernet address of the network interface that is used to access a particular website.</p>
+
+<p>How can this be done in Java?</p>
+
+<p><strong>Solution</strong> Note that the accepted solution of <code>getHardwareAddress</code> is only available in Java 6. There does not seem to be a solution for Java 5 aside from executing i(f|p)confing.</p>

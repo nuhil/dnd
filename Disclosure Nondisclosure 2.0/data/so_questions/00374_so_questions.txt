@@ -1,0 +1,3 @@
+<p>Has the introduction of the .net framework made raw programming in COM and DCOM redundant ? </p>
+
+<p>(Except for using some COM+ services, e.g. for transaction management through the System.EnterpriseServices namespace)</p>

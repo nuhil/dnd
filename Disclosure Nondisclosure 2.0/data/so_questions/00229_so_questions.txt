@@ -1,0 +1,5 @@
+<p>We have a situation where users are allowed to upload content, and then separately make some changes, then submit a form based on those changes.</p>
+
+<p>This works fine in a single-server, non-failover environment, however we would like some sort of solution for sharing the files between servers that supports failover.</p>
+
+<p>Has anyone run into this in the past?  And what kind of solutions were you able to develop?  Obviously persisting to the database is one option, but we'd prefer to avoid that.</p>

@@ -1,0 +1,10 @@
+<p>I feel like I have a verry basic/stupid question, yet I never saw/read/heard anything in this direction.</p>
+
+<p>Say I have a table <em>users(userId, name)</em> and a table <em>preferences(id, userId, language)</em>. The example is trivial, but could be extended to a situation with multi-level relations and way more tables..
+When my UI requests to delete a user I first want to show a warning stating that also its preferences will be deleted. If at some point the database gets extended with more tables and relationships, but the software isn't adapted accordingly (client didn't update) a generic message should be shown.</p>
+
+<p>How can I implement this? The UI cannot know about the whole data structure and should not be bothered to walk down all the relations to manually delete all the depending records.<br />
+I would think this would be with constraints.
+The constraint would be <em>no action</em> at first so the constraint will throw an error that can be caught by the UI. After the UI receives a confirmation, the constraint should become a <em>cascade</em>.</p>
+
+<p>Somehow I'm feeling like I'm getting this all wrong..</p>

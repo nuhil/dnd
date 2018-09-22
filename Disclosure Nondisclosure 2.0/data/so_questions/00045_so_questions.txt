@@ -1,0 +1,13 @@
+<p>I've been working on a project that accesses the WMI to get information about the software installed on a user's machine. We've been querying Win32_Product only to find that it doesn't exist in 64-bit versions of Windows because it's an <a href="http://msdn.microsoft.com/en-us/library/aa392726%28VS.85%29.aspx" rel="nofollow">"optional component"</a>.</p>
+
+<p>I know there are a lot of really good alternatives to querying the WMI for this information, but I've got a bit of a <a href="http://www.codeplex.com/linq2wmi" rel="nofollow">vested interest</a> in finding out how well this is going to work out.</p>
+
+<p>What I want to know is if there's some kind of redistributable that can be packaged with our software to allow 64-bit users to get the WMI Installer Provider put onto their machines? Right now, they have to install it manually and the installation requires they have their Windows disc handy.</p>
+
+<p>Edit:</p>
+
+<blockquote>
+  <p>You didn't mention for what OS, but the WMI Redistributable Components version 1.0 definitely exists.</p>
+</blockquote>
+
+<p>For Operation System, we've been using .NET 3.5 so we need packages that will work on XP64 and 64bit versions of Windows Vista.</p>

@@ -1,0 +1,1 @@
+<p>How would people recommend doing version control for word documents? Is the in build control up to the job or is it better to rely on dedicated version control systems, and if so, which ones?</p>

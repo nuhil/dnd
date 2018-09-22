@@ -1,0 +1,13 @@
+<p><br />
+I've been wanting to teach myself Lisp for a while.  However, all the interpreters of which I've heard involve some flavor of emacs.
+Are there any command line interpreters, such that I could type this into the command line:</p>
+
+<blockquote>
+  <p>lispinterpret sourcefile.lisp</p>
+</blockquote>
+
+<p>just like I can run perl or python.</p>
+
+<p>While I'd also like to become more familiar with Emacs (if only not to be frustrated when I work with somebody who uses Emacs), I'd rather decouple learning Emacs from learning Lisp.</p>
+
+<p>Edit: I actually want to follow SICP which uses Scheme, so an answer about Scheme would be more useful.  I'm just not that familiar with the differences.</p>

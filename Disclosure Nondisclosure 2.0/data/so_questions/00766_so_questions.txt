@@ -1,0 +1,4 @@
+<p>Two reasons this would be useful, in case there's some other way to achieve these goals:
+1) Building in the Flash IDE is really slow; I was hoping a third-party compiler would be faster.
+2) It would be nice to be able to build projects on machines that don't have the Flash IDE installed.
+I'm familiar with other AS3 compilers that are out there, but I don't know of any that take FLA files as input.</p>

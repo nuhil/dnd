@@ -1,0 +1,28 @@
+<p>I am in charge of about 100+ documents (word document, not source code) that needs revision by different people in my department. Currently all the documents are in a shared folder where they will retrieve, revise and save back into the folder. </p>
+
+<p>What I am doing now is looking up the "date modified" in the shared folder, opened up recent modified documents and use the "Track Change" function in MS Word to apply the changes. I find this a bit tedious.</p>
+
+<p>So will it be better and easier if I commit this in a version control database?</p>
+
+<p>Basically I want to keep different version of a file.</p>
+
+<p><hr>
+What have I learn from answers:</p>
+
+<ul>
+<li><p>Use Time Machine to save different
+version (or Shadow copy in Vista)</p></li>
+<li><p>There is a difference between text
+and binary documents when you use
+version control app. (I didn't know
+that)</p></li>
+<li><p>Diff won't work on binary files</p></li>
+<li><p>A notification system (ie email) for revision is great</p></li>
+<li><p>Google Docs revision feature.</p></li>
+</ul>
+
+<p><strong>Update</strong> : </p>
+
+<p>I played around with Google Docs revision feature and feel that it is almost right for me. Just a bit annoyed with the too frequent versioning (autosaving). </p>
+
+<p>But what feels right for me doesn't mean it feels right for my dept. Will they be okay with saving all these documents with Google? </p>

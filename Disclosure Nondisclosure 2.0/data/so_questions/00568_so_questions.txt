@@ -1,0 +1,20 @@
+<p>This has been driving me crazy for a few days.  Why doesn't the following work?</p>
+
+<blockquote>
+<pre><code>    Dim arr(3, 3) As Integer
+
+    For y As Integer = 0 To arr.GetLength(0) - 1
+        For x As Integer = 0 To arr.GetLength(y) - 1
+            arr(y, x) = y + x
+        Next
+    Next
+</code></pre>
+</blockquote>
+
+<p>Also, what if the array looked like this instead?</p>
+
+<pre><code>{ {1, 2, 3},
+  {4, 5, 6, 7, 8, 9, 9, 9},
+  {5, 4, 3, 2}
+}
+</code></pre>

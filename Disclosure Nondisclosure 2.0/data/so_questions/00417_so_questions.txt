@@ -1,0 +1,5 @@
+<p>When performing string concatentation of an existing string in the intern pool, is a new string entered into the intern pool or is a reference returned to the existing string in the intern pool? According to this article, String.Concat and StringBuilder will insert new string instances into the intern pool? </p>
+
+<p><a href="http://community.bartdesmet.net/blogs/bart/archive/2006/09/27/4472.aspx" rel="nofollow">http://community.bartdesmet.net/blogs/bart/archive/2006/09/27/4472.aspx</a></p>
+
+<p>Can anyone explain how concatenation works with the intern pool?</p>

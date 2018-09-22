@@ -1,0 +1,27 @@
+<p>Can you suggest some light weight fuzzy text search library?</p>
+
+<p>What I want to do is to allow users to find correct data for search terms with typos.</p>
+
+<p>I could use full-text search engines like Lucene, but I think it's an overkill.</p>
+
+<p><strong>Edit:</strong><br>
+To make question more clear here is a main scenario for that library:<br>
+I have a large list of strings.  I want to be able to search in this list (something like MSVS' intellisense) but it should be possible to filter this list by string which is not present in it but close enough to some string which is in the list.<br>
+Example:  </p>
+
+<ul>
+<li>Red</li>
+<li>Green</li>
+<li>Blue</li>
+</ul>
+
+<p>When I type 'Gren' or 'Geen' in a text box, I want to see 'Green' in the result set.</p>
+
+<p>Main language for indexed data will be English.</p>
+
+<p>I think that Lucene is to heavy for that task.</p>
+
+<p><strong>Update</strong>:</p>
+
+<p>I found one product matching my requirements. It's <a href="http://shuffletext.com/Highlight/">ShuffleText</a>.<br>
+Do you know any alternatives?</p>

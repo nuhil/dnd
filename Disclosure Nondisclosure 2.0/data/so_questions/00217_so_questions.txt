@@ -1,0 +1,3 @@
+<p>I'm tired of being in the middle of typing something, having a pop-up with a question appear, and hitting enter before reading it... (it also happens with some windows that are not pop-ups)</p>
+
+<p>Do you know if there's some setting I could touch for this not to happen?</p>

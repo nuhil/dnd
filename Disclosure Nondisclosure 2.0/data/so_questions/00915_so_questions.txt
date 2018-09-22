@@ -1,0 +1,2 @@
+<p>How can I configure NHibernate to not cache a file?<br>
+I know I can create a method that does an HSQL, but can I through a configuration setting in the &lt;class>.xml file or the hibernate xml file itself to not cache a property?</p>

@@ -1,0 +1,9 @@
+<p>I'm creating an ASP.NET web site where all pages hang off a database-driven tree-hierarchy.  Pages typically present HTML content.  But, some will execute programming.</p>
+
+<p>Examples: (1) a "contact us" form or (2) a report generator</p>
+
+<p>How should I represent/reference the programming within the database?  Should I have a varchar value of a Web User Control (.ascx) name?  Or a Web Form (.aspx) name?  Something else?  Or should it just be an integer or other such ID in a dictionary within my application?</p>
+
+<p>Can I make an ASP.NET Site Map Provider with this structure?</p>
+
+<p>See more information here: <a href="http://stackoverflow.com/questions/56981/which-is-the-best-database-schema-for-my-navigation" rel="nofollow">Which is the best database schema for my navigation?</a></p>

@@ -1,0 +1,12 @@
+<p>I've been working through <a href="http://gigamonkeys.com/book" rel="nofollow">Practical Common Lisp</a> and as an exercise decided to write a macro to determine if a number is a multiple of another number:</p>
+
+<p><code>(defmacro multp (value factor)<br />
+   `(= (rem ,value ,factor)  0))</code></p>
+
+<p>so that :
+<code>(multp 40 10)</code>
+evaluates to true whilst
+<code>(multp 40 13)</code>
+does not </p>
+
+<p>The question is does this macro <a href="http://gigamonkeys.com/book/macros-defining-your-own.html#plugging-the-leaks" rel="nofollow">leak</a> in some way?  Also is this "good" Lisp?  Is there already an existing function/macro that I could have used?</p>

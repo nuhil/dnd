@@ -1,0 +1,3 @@
+<p>I'm designing a portal's security architecture. The site has pages, videos, pictures, users, databases, file system objects, etc. What is the best way to control access to all of these objects? How would you store permissions? Is a 64-bit database variable enough for storing permissions? </p>
+
+<p>E.g. Windows employs <a href="http://en.wikipedia.org/wiki/Access_control_list" rel="nofollow">ACLs</a> and <a href="http://en.wikipedia.org/wiki/Security_Identifier" rel="nofollow">SIDs</a>. Do you have a more up-to-date solution? </p>

@@ -1,0 +1,20 @@
+<p>In a recent sharepoint project, I implemented an authentication webpart which should replace the NTLM authentication dialog box. It works fine as long as the user provides valid credentials. Whenever the user provides invalid credentials, the NTLM dialog box pops up in Internet Explorer.</p>
+
+<p>My Javascript code which does the authentication via XmlHttpRequest looks like this:</p>
+
+<pre><code>function Login() {
+   var request = GetRequest(); // retrieves XmlHttpRequest
+   request.onreadystatechange = function() {
+      if (this.status == 401) {     // unauthorized request -&gt; invalid credentials
+         // do something to suppress NTLM dialog box...
+         // already tried location.reload(); and window.location = &lt;url to authentication form&gt;;
+      }
+   }
+   request.open("GET", "http://myServer", false, "domain\\username", "password");
+   request.send(null);
+}
+</code></pre>
+
+<p>I don't want the NTLM dialog box to be displayed when the user provides invalid credentials. Instead the postback by the login button in the authentication form should be executed. In other words, the browser should not find out about my unauthorized request.</p>
+
+<p>Is there any way to do this via Javascript?</p>

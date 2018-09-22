@@ -1,0 +1,43 @@
+<p>I've been handed a table with about 18000 rows. Each record describes the location of one customer. The issue is, that when the person created the table, they did not add a field for "Company Name", only "Location Name," and one company can have many locations.</p>
+
+<p>For example, here are some records that describe the same customer:</p>
+
+<p><strong>Location Table</strong></p>
+
+<pre><code> ID  Location_Name     
+ 1   TownShop#1        
+ 2   Town Shop - Loc 2 
+ 3   The Town Shop     
+ 4   TTS - Someplace   
+ 5   Town Shop,the 3   
+ 6   Toen Shop4        
+</code></pre>
+
+<p>My goal is to make it look like:</p>
+
+<p><strong>Location Table</strong></p>
+
+<pre><code> ID  Company_ID   Location_Name     
+ 1   1            Town Shop#1       
+ 2   1            Town Shop - Loc 2 
+ 3   1            The Town Shop     
+ 4   1            TTS - Someplace   
+ 5   1            Town Shop,the 3   
+ 6   1            Toen Shop4        
+</code></pre>
+
+<p><strong>Company Table</strong></p>
+
+<pre><code> Company_ID  Company_Name  
+ 1           The Town Shop 
+</code></pre>
+
+<p>There is no "Company" table, I will have to generate the Company Name list from the most descriptive or best Location Name that represents the multiple locations.</p>
+
+<p>Currently I am thinking I need to generate a list of Location Names that are similar, and then and go through that list by hand.</p>
+
+<p>Any suggestions on how I can approach this is appreciated.</p>
+
+<p><strong>@Neall, Thank you for your statement, but unfortunately, each location name is distinct, there are no duplicate location names, only similar. So in the results from your statement "repcount" is 1 in each row.</strong></p>
+
+<p><strong>@yukondude, Your step 4 is the heart of my question.</strong></p>

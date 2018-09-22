@@ -1,0 +1,6 @@
+<p>Will the code below work if the clock on the server is ahead of the clock on the client?</p>
+
+<pre><code>Response.Cache.SetExpires(DateTime.Now.AddSeconds(-1))
+</code></pre>
+
+<p>EDIT: the reason I ask is on one of our web apps some users are claiming they are seeing the pages ( account numbers, etc ) from a user that previously used that machine.  Yet we use the line above and others to 'prevent' this from happening.</p>

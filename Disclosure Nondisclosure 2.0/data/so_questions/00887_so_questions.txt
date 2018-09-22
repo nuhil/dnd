@@ -1,0 +1,5 @@
+<p>I have an app that I've written in C#/WinForms (<a href="http://www.thekbase.com" rel="nofollow" title="TheKBase">my little app</a>). To make it cross-platform, I'm thinking of redoing it in Adobe AIR. Are there any arguments in favor of WinForms as a cross-platform app? Is there a cross-platform future for Winforms (e.g., Mono, etc.)? Suggestions for cross-platform UI development?</p>
+
+<p>By cross-platform I mean, currently, Mac OSX, Windows and Linux.</p>
+
+<p>This question was <a href="http://stackoverflow.com/questions/116468/winforms-for-mono-on-mac-linux-and-pc-redux">asked again and answered with better success</a>.</p>

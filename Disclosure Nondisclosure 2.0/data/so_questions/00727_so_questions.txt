@@ -1,0 +1,3 @@
+<p>Is there an IE6/PNG fix that is officially developed by the jQuery team?</p>
+
+<p>If not which of the available plugins should I use?</p>

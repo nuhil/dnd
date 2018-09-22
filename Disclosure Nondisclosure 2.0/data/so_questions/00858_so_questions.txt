@@ -1,0 +1,8 @@
+<p>I am looking for attributes I can use to ensure the best runtime performance for my .Net application by giving hints to the loader, JIT compiler or ngen.</p>
+
+<p>For example we have <a href="http://msdn.microsoft.com/en-us/library/k2wxda47.aspx">DebuggableAttribute</a> which should be set to not debug and not disable optimization for optimal performance.</p>
+
+<pre><code>[Debuggable(false, false)]
+</code></pre>
+
+<p>Are there any others I should know about?</p>

@@ -1,0 +1,4 @@
+<p>I'm on laptop (Ubuntu) with a network that use HTTP proxy (only http connections allowed).<br>
+When I use svn up for url like 'http://.....' everything is cool (google chrome repository works perfect), but right now I need to svn up from server with 'svn://....' and I see connection refused.<br>
+I've set proxy configuration in /etc/subversion/servers but it doesn't help.<br>
+Anyone have opinion/solution?<br></p>

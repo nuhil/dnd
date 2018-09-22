@@ -1,0 +1,5 @@
+<p>I want to maintain a list of global messages that will be displayed to all users of a web app. I want each user to be able to mark these messages as read individually. I've created 2 tables; <code>messages (id, body)</code> and <code>messages_read (user_id, message_id)</code>.</p>
+
+<p>Can you provide an sql statement that selects the unread messages for a single user? Or do you have any suggestions for a better way to handle this?</p>
+
+<p>Thanks!</p>

@@ -1,0 +1,3 @@
+<p>In Tomcat 5.5 the server.xml can have many connectors, typically port only 8080, but for my application a user might configure their servlet.xml to also have other ports open (say 8081-8088).  I would like for my servlet to figure out what socket connections ports will be vaild (During the Servlet.init() tomcat has not yet started the connectors.) </p>
+
+<p>I could find and parse the server.xml myself (grotty), I could look at the thread names (after tomcat starts up - but how would I know when a good time to do that is? )  But I would prefer a solution that can execute in my servlet.init() and determine what will be the valid port range.   Any ideas?   A solution can be tightly bound to Tomcat for my application that's ok.</p>

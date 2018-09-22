@@ -1,0 +1,3 @@
+<p>I have a large CSV file and I want to execute a stored procedure for each line.</p>
+
+<p>What is the best way to execute a stored procedure from PowerShell?</p>

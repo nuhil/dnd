@@ -1,0 +1,3 @@
+<p>I was wondering if there are any alternatives to Microsoft's SQL Server Management Studio?</p>
+
+<p>Not there's anything wrong with SSMS, but sometimes it just seem too big an application where all I want todo is browse/edit tables and run queries.</p>

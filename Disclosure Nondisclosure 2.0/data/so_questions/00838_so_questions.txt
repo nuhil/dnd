@@ -1,0 +1,7 @@
+<p>A friend is having mysterious health problems that we're trying to track down.  One thing that would help would be to improve his record keeping by giving him a handheld device with which he could keep track of various details of his day including diet and environmental factors.</p>
+
+<p>We will be getting him a device but haven't decided on Palm vs. Windows Mobile vs. other.  I'd like to find some existing software but so far haven't been able to find something that is general enough or customizable to fit our needs.  Ideally I'd like to find an open source project that I can join and contribute while customizing the software to do what I need it to, which I haven't even totally defined yet.</p>
+
+<p>I'm a C++ developer (way too) familiar with MSVS6 but would be happy to have an excuse to get into .NET or other modern frameworks.  But if the easiest and quickest option is to work with something in C for the Palm I'd be happy to do that as well.  (I've found a good but somewhat dated reference for <a href="http://answers.google.com/answers/threadview/id/123584.html" rel="nofollow">C++ programming for the Palm</a>)  Similar and more recent info like this is what I'm looking for.</p>
+
+<p>Thanks for any advice or suggestions about how to get started with this.  </p>

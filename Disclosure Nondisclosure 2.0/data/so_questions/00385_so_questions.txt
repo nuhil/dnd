@@ -1,0 +1,12 @@
+<p>What does it mean if a task is declared with the automatic keyword in Verilog?</p>
+
+<pre><code>task automatic do_things;
+  input [31:0] number_of_things;
+  reg [31:0] tmp_thing;
+  begin
+    // ...
+  end
+endtask;
+</code></pre>
+
+<p>Note: This question is mostly because I'm curious if there are any hardware programmers on the site. :)</p>

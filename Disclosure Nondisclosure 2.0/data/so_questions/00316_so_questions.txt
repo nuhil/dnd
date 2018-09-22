@@ -1,0 +1,3 @@
+<p>Are there any useful techniques for reducing the repetition of constants in a CSS file?</p>
+
+<p>(For example, a bunch of different selectors which should all apply the same colour, or the same font size)?</p>

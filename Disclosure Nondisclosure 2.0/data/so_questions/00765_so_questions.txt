@@ -1,0 +1,28 @@
+<p>While working in a Java app, I recently needed to assemble a comma-delimited list of values to pass to another web service without knowing how many elements there would be in advance. The best I could come up with off the top of my head was something like this:</p>
+
+<pre><code>public String appendWithDelimiter( String original, String addition, String delimiter ) {
+    if ( original.equals( "" ) ) {
+        return addition;
+    } else {
+        return original + delimiter + addition;
+    }
+}
+
+String parameterString = "";
+if ( condition ) parameterString = appendWithDelimiter( parameterString, "elementName", "," );
+if ( anotherCondition ) parameterString = appendWithDelimiter( parameterString, "anotherElementName", "," );
+</code></pre>
+
+<p>I realize this isn't particularly efficient, since there are strings being created all over the place, but I was going for clarity more than optimization.</p>
+
+<p>In Ruby, I can do something like this instead, which feels much more elegant:</p>
+
+<pre><code>parameterArray = [];
+parameterArray &lt;&lt; "elementName" if condition;
+parameterArray &lt;&lt; "anotherElementName" if anotherCondition;
+parameterString = parameterArray.join(",");
+</code></pre>
+
+<p>But since Java lacks a join command, I couldn't figure out anything equivalent.</p>
+
+<p>So, what's the best way to do this in Java?</p>

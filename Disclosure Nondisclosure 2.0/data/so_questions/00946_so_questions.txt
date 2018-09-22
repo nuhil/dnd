@@ -1,0 +1,5 @@
+<p>I'm using KVM to run a Windows virtual machine on my Linux box. Networking is accomplished through a tap device, hooked into a bridged Ethernet device, which allows the Windows VM to basically appear like a separate physical computer on my network. This is pretty nice.</p>
+
+<p>However, my understanding is that most, if not all, wireless drivers can't support bridging. I'd really like to be able to roam a little more freely while I'm working -- does anyone know of an effective workaround?</p>
+
+<p>User-mode networking won't work, as I have to use some Windows VPN software that wants lower-level networking access.</p>

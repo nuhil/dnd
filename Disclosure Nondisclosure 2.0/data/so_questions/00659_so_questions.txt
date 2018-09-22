@@ -1,0 +1,16 @@
+<p>We all know T-SQL's string manipulation capabilities sometimes leaves much to be desired...</p>
+
+<p>I have a numeric field that needs to be output in T-SQL as a right-aligned text column. Example:</p>
+
+<pre><code>Value
+----------
+   143.55
+  3532.13
+     1.75
+</code></pre>
+
+<p>How would you go about that? A good solution ought to be clear and compact, but remember there is such a thing as "too clever".</p>
+
+<p>I agree this is the wrong place to do this, but sometimes we're stuck by forces outside our control.</p>
+
+<p>Thank you.</p>

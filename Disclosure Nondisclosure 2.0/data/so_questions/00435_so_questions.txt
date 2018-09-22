@@ -1,0 +1,8 @@
+<p>I have lots of article store in MS SQL server 2005 database in a table called Articles-</p>
+
+<pre><code>"Articles (ArticleID, ArticleTitle, ArticleContent)"
+</code></pre>
+
+<p>Now I want some SP or SQL query which could return me similar Article against any user's input (very much like "Similar Posts" in blogs OR "Related Questions" in stackoverflow). The matching should work on both ArticleTitle and ArticleContent. The query should be intelligent enough to sort the result on the basis on their relevancy.</p>
+
+<p>Is it possible to do this in MS SQL Server 2005?</p>

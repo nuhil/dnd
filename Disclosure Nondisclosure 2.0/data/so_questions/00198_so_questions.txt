@@ -1,0 +1,17 @@
+<p>Are there any open source (or I guess commercial) packages that you can plug into your site for monitoring purposes? I'd like something that we can hook up to our ASP.NET site and use to provide reporting on things like:</p>
+
+<ul>
+<li>performance over time</li>
+<li>current load</li>
+<li>page traffic</li>
+<li>SQL performance</li>
+<li>PU time monitoring </li>
+</ul>
+
+<p>Ideally in c# :)</p>
+
+<p>With some sexy graphs.</p>
+
+<p><strong>Edit</strong>: I'd also be happy with a package that I can feed statistics and views of data to, and it would analyse trends, spot abnormal behaviour (e.g. "no one has logged in for the last hour. is this Ok?", "high traffic levels detected", "low number of API calls detected")  and generally be very useful indeed. Does such a thing exist?</p>
+
+<p>At my last office we had a big screen which showed us loads and loads of performance counters over a couple of time ranges, and we could spot weird stuff happening, but the data was not stored and there was no way to report on it. Its a package for doing this that I'm after.</p>

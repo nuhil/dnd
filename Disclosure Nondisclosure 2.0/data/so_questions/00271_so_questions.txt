@@ -1,0 +1,3 @@
+<p>In my web app, I submit some form fields with jQuery <code>$.getJSON()</code> Method. I am having some problems with the encoding. The character-set of my app is <code>charset=ISO-8859-1</code> but I think these fields are submitted with <code>UTF-8</code>. </p>
+
+<p>Does anyone know, how I can set encoding in <code>$.getJSON</code> calls? </p>

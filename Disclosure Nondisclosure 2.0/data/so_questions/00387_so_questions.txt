@@ -1,0 +1,46 @@
+<p>In the code below I am using a recursive CTE(Common Table Expression) in SQL Server 2005 to try and find the top level parent of a basic hierarchical structure. The rule of this hierarchy is that every CustID has a ParentID and if the CustID has no parent then the ParentID = CustID and it is the highest level.</p>
+
+<pre><code>DECLARE @LookupID int
+
+--Our test value
+SET @LookupID = 1
+
+WITH cteLevelOne (ParentID, CustID) AS
+(
+    	SELECT   a.ParentID, a.CustID
+    	FROM     tblCustomer AS a
+    	WHERE    a.CustID = @LookupID
+    UNION ALL
+    	SELECT   a.ParentID, a.CustID
+    	FROM     tblCustomer AS a
+    	INNER JOIN cteLevelOne AS c ON a.CustID = c.ParentID
+    	WHERE c.CustID &lt;&gt; a.CustomerID
+)
+</code></pre>
+
+<p>So if tblCustomer looks like this:  </p>
+
+<pre><code>ParentID    CustID
+5            5
+1            8
+5            4
+4            1
+</code></pre>
+
+<p>The result I get from the code above is:  </p>
+
+<pre><code>ParentID    CustID
+4            1
+5            4
+5            5
+</code></pre>
+
+<p>What I want is just the last row of that result:  </p>
+
+<pre><code>ParentID    CustID
+5            5
+</code></pre>
+
+<p>How do I just return the last record generated in the CTE (which would be highest level CustID)?</p>
+
+<p>Also note that there are multiple unrelated CustID hierarchies in this table so I can't just do a SELECT * FROM tblCustomer WHERE ParentID = CustID. I can't order by ParentID or CustID because the ID number is not related to where it is in the hierarchy.</p>

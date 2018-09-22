@@ -1,0 +1,11 @@
+<p>I am currently in the process of restructuring my local Subversion repository by adding some new projects and merging legacy code and data from a couple of older repositories into it. </p>
+
+<p>When I have done this in the past I have usually put the legacy code in a dedicated "legacy" folder, as not to "disturb" the new and "well-structured" code tree. However, in the spirit of refactoring I feel this is somewhat wrong. In theory, the legacy code will be refactored over time and moved to its new location, but in practice this rarely happens.</p>
+
+<p>How do you treat your legacy code? As much as I feel tempted to tuck away old sins in the "legacy" folder, never to look at it again, on some level I hope that by forcing it to live among the more "healthy" inhabitants in the repository, maybe the legacy code will have a better chance of getting well some day?</p>
+
+<p>(Yeah, we all know <a href="http://www.joelonsoftware.com/articles/fog0000000069.html" rel="nofollow">we shouldn't rewrite stuff</a>, but this is my "fun" repository, not my business projects...)</p>
+
+<p><strong>Update</strong></p>
+
+<p>I am not worried about the technical aspects of keeping track of various versions. I know how to use tags and branches for that. This is more of a psychological aspect, as I prefer to have a "neat" structure in the repository, which makes navigating it much easier&mdash;for humans.</p>

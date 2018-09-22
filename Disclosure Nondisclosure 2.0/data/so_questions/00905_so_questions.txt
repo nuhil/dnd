@@ -1,0 +1,3 @@
+<p>I'm maintaining <a href="http://perl-begin.org/" rel="nofollow">the Perl Beginners' Site</a> and used a modified template from Open Source Web Designs. Now, the problem is that I still have an undesired artifact: a gray line on the left side of the main frame, to the left of the navigation menu. Here's <a href="http://www.shlomifish.org/Files/files/images/Computer/Screenshots/perl-begin-bad-artif.png" rel="nofollow">an image</a> highlighting the undesired effect.</p>
+
+<p>How can I fix the CSS to remedy this problem?</p>

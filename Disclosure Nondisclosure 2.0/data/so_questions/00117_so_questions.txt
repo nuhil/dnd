@@ -1,0 +1,1 @@
+<p>Does SQL Server 2008 ship with the .NET 3.5 CLR, so that stored procedures written in CLR can use 3.5 features?</p>

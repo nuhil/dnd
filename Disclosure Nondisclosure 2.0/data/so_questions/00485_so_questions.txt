@@ -1,0 +1,25 @@
+<p><strong>Original Question</strong></p>
+
+<p>I want to be able to generate a new (fully valid) MP3 file from an existing MP3 file to be used as a preview -- try-before-you-buy style. The new file should only contain the first <em>n</em> seconds of the track.</p>
+
+<p>Now, I know I could just "chop the stream" at <em>n</em> seconds (calculating from the bitrate and header size) when delivering the file, but this is a bit dirty and a real PITA on a VBR track. I'd like to be able to generate a proper MP3 file.</p>
+
+<p>Anyone any ideas?</p>
+
+<p><strong>Answers</strong></p>
+
+<p>Both mp3split and ffmpeg are both good solutions. I chose ffmpeg as it is commonly installed on linux servers and is also <a href="http://sourceforge.net/project/showfiles.php?group_id=205275&amp;package_id=248632">easily available for windows</a>.  Here's some more good command line parameters for generating previews with ffmpeg</p>
+
+<ul>
+<li><strong><code>-t &lt;seconds&gt;</code></strong> chop after specified number of seconds</li>
+<li><strong><code>-y</code></strong> force file overwrite</li>
+<li><strong><code>-ab &lt;bitrate&gt;</code></strong> set bitrate e.g. <em>-ab 96k</em></li>
+<li><strong><code>-ar &lt;rate Hz&gt;</code></strong> set sampling rate e.g. <em>-ar 22050</em> for 22.05kHz</li>
+<li><strong><code>-map_meta_data &lt;outfile&gt;:&lt;infile&gt;</code></strong> copy track metadata from infile to outfile</li>
+</ul>
+
+<p>instead of setting -ab and -ar, you can copy the original track settings, as Tim Farley suggests, with:</p>
+
+<ul>
+<li><strong><code>-acodec copy</code></strong></li>
+</ul>

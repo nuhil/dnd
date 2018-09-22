@@ -1,0 +1,102 @@
+<p>The <a href="http://dev.jquery.com/view/trunk/ui/demos/functional/#ui.dialog" rel="nofollow">demos</a> for the jquery ui dialog all use the "flora" theme. I wanted a customized theme, so I used the themeroller to generate a css file. When I used it, everything seemed to be working fine, but later I found that I can't control any input element contained in the dialog (i.e, can't type into a text field, can't check checkboxes). Further investigation revealed that this happens if I set the dialog attribute "modal" to true. This doesn't happen when I use the flora theme. </p>
+
+<p>Here is the js file:</p>
+
+<pre><code>topMenu = {
+    init: function(){
+        $("#my_button").bind("click", function(){
+            $("#SERVICE03_DLG").dialog("open");
+            $("#something").focus();
+        });
+
+        $("#SERVICE03_DLG").dialog({ 
+            autoOpen: false,
+            modal: true, 
+            resizable: false,
+            title: "my title",
+            overlay: { 
+                opacity: 0.5, 
+                background: "black" 
+            }, 
+            buttons: { 
+                "OK": function() { 
+                    alert("hi!");
+                }, 
+                "cancel": function() { 
+                    $(this).dialog("close"); 
+                } 
+            },
+            close: function(){
+                $("#something").val("");
+            }
+        });
+    }
+}
+
+$(document).ready(topMenu.init);
+</code></pre>
+
+<p>Here is the html that uses the flora theme:</p>
+
+<pre><code>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS"&gt;
+&lt;title&gt;sample&lt;/title&gt;
+&lt;script src="jquery-1.2.6.min.js" language="JavaScript"&gt;&lt;/script&gt;
+&lt;link rel="stylesheet" href="flora/flora.all.css" type="text/css"&gt;
+&lt;script src="jquery-ui-personalized-1.5.2.min.js" language="JavaScript"&gt;&lt;/script&gt;
+&lt;script src="TopMenu.js" language="JavaScript"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;input type="button" value="click me!" id="my_button"&gt;
+&lt;div id="SERVICE03_DLG" class="flora"&gt;please enter something&lt;br&gt;&lt;br&gt;
+&lt;label for="something"&gt;somthing:&lt;/label&gt;&amp;nbsp;&lt;input name="something" id="something" type="text" maxlength="20" size="24"&gt;
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+
+<p>Here is the html that uses the downloaded themeroller theme:</p>
+
+<pre><code>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS"&gt;
+&lt;title&gt;sample&lt;/title&gt;
+&lt;script src="jquery-1.2.6.min.js" language="JavaScript"&gt;&lt;/script&gt;
+&lt;link rel="stylesheet" href="jquery-ui-themeroller.css" type="text/css"&gt;
+&lt;script src="jquery-ui-personalized-1.5.2.min.js" language="JavaScript"&gt;&lt;/script&gt;
+&lt;script src="TopMenu.js" language="JavaScript"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;input type="button" value="click me!" id="my_button"&gt;
+&lt;div id="SERVICE03_DLG" class="ui-dialog"&gt;please enter something&lt;br&gt;&lt;br&gt;
+&lt;label for="something"&gt;somthing:&lt;/label&gt;&amp;nbsp;&lt;input name="something" id="something" type="text" maxlength="20" size="24"&gt;
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+
+<p>As you can see, only the referenced css file and class names are different.
+Anybody have a clue as to what could be wrong?</p>
+
+<p>@David: I tried it, and it doesn't seem to work (neither on FF or IE). I tried inline css:</p>
+
+<pre class="lang-none prettyprint-override"><code>style="z-index:5000"
+</code></pre>
+
+<p>and I've also tried it referencing an external css file:</p>
+
+<pre class="lang-none prettyprint-override"><code>#SERVICE03_DLG{z-index:5000;}
+</code></pre>
+
+<p>But neither of these work. Am I missing something in what you suggested?</p>
+
+<p><strong>Edit:</strong><br>
+Solve by brostbeef!<br>
+Since I was originally using flora, I had mistakenly assumed that I have to specify a class attribute. Turns out, this is only true when you actually use the flora theme (as in the samples). If you use the customized theme, specifying a class attribute causes that strange behaviour.</p>

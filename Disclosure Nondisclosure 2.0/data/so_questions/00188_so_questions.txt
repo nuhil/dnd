@@ -1,0 +1,1 @@
+<p>We created a tool which converts a language called P2, a language similar to assembly which I think exists only in Japan, to C#. There are at least a hundred modules written in P2 and we want to verify if the conversion to C# is right? How can we test this?</p>

@@ -1,0 +1,5 @@
+<p>In one of my applications, I am querying active directory to get a list of all users below a given user (using the "Direct Reports" thing). So basically, given the name of the person, it is looked up in AD, then the Direct Reports are read. But then for every direct report, the tool needs to check the direct reports of the direct reports. Or, more abstract: The Tool will use a person as the root of the tree and then walk down the complete tree to get the names of all the leaves (can be several hundred)</p>
+
+<p>Now, my concern is obviously performance, as this needs to be done quite a few times. My idea is to manually cache that (essentially just put all the names in a long string and store that somewhere and update it once a day).</p>
+
+<p>But I just wonder if there is a more elegant way to first get the information and then cache it, possibly using something in the System.DirectoryServices Namespace?</p>

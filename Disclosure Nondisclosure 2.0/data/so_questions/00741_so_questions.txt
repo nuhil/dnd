@@ -1,0 +1,5 @@
+<p>I'm sure most of you are writing lots of automated tests and that you also have run into some common pitfalls when unit testing. </p>
+
+<p>My question is do you follow any rules of conduct for writing tests in order to avoid problems in the future? To be more specific: What are the <strong>properties of good unit tests</strong> or how do you write your tests?</p>
+
+<p>Language agnostic suggestions are encouraged.</p>

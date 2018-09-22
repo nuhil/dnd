@@ -1,0 +1,28 @@
+<p>I'm stuck on a fix to a legacy Visual C++ 6 app. In the C++ DLL source I have put</p>
+
+<pre><code>extern "C" _declspec(dllexport) char* MyNewVariable = 0;
+</code></pre>
+
+<p>which results in MyNewVariable showing up (nicely undecorated) in the export table (as shown by dumpbin /exports blah.dll). However, I can't figure out how to declare the variable so that I can access it in a C source file. I have tried various things, including</p>
+
+<pre><code>_declspec(dllimport) char* MyNewVariable;
+</code></pre>
+
+<p>but that just gives me a linker error:</p>
+
+<p>unresolved external symbol "__declspec(dllimport) char * MyNewVariable" (__imp_?MyNewVariable@@3PADA)</p>
+
+<pre><code>extern "C" _declspec(dllimport) char* MyNewVariable;
+</code></pre>
+
+<p>as suggested by Tony (and as I tried before) results in a different expected decoration, but still hasn't removed it:</p>
+
+<p>unresolved external symbol __imp__MyNewVariable</p>
+
+<p>How do I write the declaration so that the C++ DLL variable is accessible from the C app?</p>
+
+<p><hr /></p>
+
+<h2>The Answer</h2>
+
+<p>As identified by botismarius and others (many thanks to all), I needed to link with the DLL's .lib. To prevent the name being mangled I needed to declare it (in the C source) with no decorators, which means I needed to use the .lib file.</p>

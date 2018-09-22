@@ -1,0 +1,3 @@
+<p>I have a rather large file (150 million lines of 10 chars). I need to split it in 150 files of 2 million lines, with each output line being alternatively the first 5 characters or the last 5 characters of the source line.
+I could do this in Perl rather quickly, but I was wondering if there was an easy solution using bash.
+Any ideas?</p>

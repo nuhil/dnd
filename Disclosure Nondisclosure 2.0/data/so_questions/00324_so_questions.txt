@@ -1,0 +1,3 @@
+<p>I can connect with the DataContext to the Oracle database however I get errors in running the query against the oracle database.  I looked at the SQL generated and it is for MSSQL and not Oracle PSQL.  </p>
+
+<p>Does anybody know of a decent easy to use wrapper to use LINQ against an Oracle Database?</p>

@@ -1,0 +1,6 @@
+<p>What is the best way to manage a list of windows (keeping them in order) to be able to promote the next window to the top-level when the current top-level window is closed.<br>
+This is for a web application, so we're using jQuery Javascript.</p>
+
+<p>We'd talked through a few simplistic solutions, such as using an array and just treating [0] index as the top-most window.</p>
+
+<p>I'm wondering if there's any potentially more efficient or useful alternative to what we had brainstormed.</p>

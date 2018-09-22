@@ -1,0 +1,21 @@
+<p>How to implement a website with a recommendation system similar to stackoverflow/digg/reddit? I.e., users submit content and the website needs to calculate some sort of "hotness" according to how popular the item is. The flow is as follows:</p>
+
+<ul>
+<li>Users submit content</li>
+<li>Other users view and vote on the content (assume 90% of the users only views content and 10% actively votes up or down on content)</li>
+<li>New content is continuously submitted</li>
+</ul>
+
+<p>How do I implement an algorithm that calculates the "hotness" of a submitted item, preferably in real-time? Are there any best-practices or design patterns?</p>
+
+<p>I would assume that the algorithm takes the following into consideration:</p>
+
+<ul>
+<li>When an item was submitted</li>
+<li>When each vote was cast</li>
+<li>When the item was viewed</li>
+</ul>
+
+<p>E.g. an item that gets a constant trickle of votes would stay somewhat "hot" constantly while an item that receives a burst of votes when it is first submitted will jump to the top of the "hotness"-list but then fall down as the votes stop coming in.</p>
+
+<p>(I am using a MySQL+PHP but I am interested in general design patterns).</p>

@@ -1,0 +1,21 @@
+<p>Lets say I have a loop in bash:</p>
+
+<pre><code>for foo in `some-command`
+do
+   do-something $foo
+done
+</code></pre>
+
+<p><code>do-something</code> is cpu bound and I have a nice shiny 4 core processor. I'd like to be able to run up to 4 <code>do-something</code>'s at once.</p>
+
+<p>The naive approach seems to be:</p>
+
+<pre><code>for foo in `some-command`
+do
+   do-something $foo &amp;
+done
+</code></pre>
+
+<p>This will run <em>all</em> <code>do-something</code>s at once, but there are a couple downsides, mainly that do-something may also have some significant I/O which performing <em>all</em> at once might slow down a bit. The other problem is that this code block returns immediately, so no way to do other work when all the <code>do-something</code>s are finished.</p>
+
+<p>How would you write this loop so there are always X <code>do-something</code>s running at once?</p>

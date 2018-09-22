@@ -1,0 +1,100 @@
+<p>One thing I've always wanted to do is develop my very own operating system (not necessarily fancy like Linux or Windows, but better than a simple boot loader which I've already done).</p>
+
+<p>I'm having a hard time finding resources/guides that take you past writing a simple "Hello World" OS.  </p>
+
+<p>I know lots of people will probably recommend I look at Linux or BSD; but the code base for systems like that is (presumably) so big that I wouldn't know where to start.</p>
+
+<p>Any suggestions?</p>
+
+<p>Update: To make it easier for people who land on this post through Google here are some OS development resources:</p>
+
+<ul>
+<li><p><a href="https://web.archive.org/web/20120506110242/http://osix.net/modules/article/?id=359">Writing Your Own Operating System</a> (Thanks Adam)</p></li>
+<li><p><a href="http://www.linuxfromscratch.org/">Linux From Scratch</a> (Thanks John)</p></li>
+<li><p><a href="http://en.wikipedia.org/wiki/SharpOS_(operating_system)">SharpOS (C# Operating System)</a> (Thanks lomaxx)</p></li>
+<li><p><a href="http://www.minix3.org/">Minix3</a> and <a href="http://minix1.woodhull.com/mxdownld.html">Minix2</a> (Thanks Mike)</p></li>
+<li><p><a href="http://wiki.osdev.org/Main_Page">OS Dev Wiki</a> and <a href="http://forum.osdev.org/">Forums</a> (Thanks Steve)</p></li>
+<li><p><a href="http://www.osdever.net/">BonaFide</a> (Thanks Steve)</p></li>
+<li><p><a href="http://osdever.net/bkerndev/Docs/intro.htm">Bran</a> (Thanks Steve)</p></li>
+<li><p><a href="http://www.jamesmolloy.co.uk/tutorial_html/index.html">Roll your own toy UNIX-clone OS</a> (Thanks Steve)</p></li>
+<li><p><a href="http://www.brokenthorn.com/Resources/OSDevIndex.html">Broken Thorn OS Development Series</a></p></li>
+</ul>
+
+<p>Other resources:</p>
+
+<p>I found a nice resource named <a href="http://mikeos.berlios.de/">MikeOS</a>, "MikeOS is a learning tool to demonstrate how simple OSes work. It uses 16-bit real mode for BIOS access, so that it doesn't need complex drivers"</p>
+
+<p><em>Updated 11/14/08</em> </p>
+
+<p>I found some resources at <a href="http://www.freebyte.com/operatingsystems/#osprojects">Freebyte's Guide to...Free and non-free Operating Systems</a> that links to kits such as OSKit and ExOS library.  These seem super useful in getting started in OS development.</p>
+
+<p><em>Updated 2/23/09</em></p>
+
+<p><a href="http://stackoverflow.com/users/42019/ric-tokyo">Ric Tokyo</a> recommended <a href="http://code.google.com/p/nanoos/">nanoos</a> in this <a href="http://stackoverflow.com/questions/580308/making-an-os-in-c/580362#580362">question</a>.  Nanoos is an OS written in C++.</p>
+
+<p><em>Updated 3/9/09</em></p>
+
+<p>Dinah provided some useful Stack Overflow discussion of aspiring OS developers: <a href="http://stackoverflow.com/questions/340674/roadblocks-in-creating-a-custom-operating-system">Roadblocks in creating a custom operating system</a> discusses what pitfalls you might encounter while developing an OS
+and <a href="http://stackoverflow.com/questions/130065/os-development">OS Development</a> is a more general discussion.</p>
+
+<p><em>Updated 7/9/09</em></p>
+
+<p>LB provided a link to the <a href="http://www.scs.stanford.edu/07au-cs140/pintos/pintos.html">Pintos Project</a>, an education OS designed for students learning OS development.</p>
+
+<p><em>Updated 7/27/09 (Still going strong!)</em></p>
+
+<p>I stumbled upon an <a href="http://academicearth.org/courses/operating-systems-and-system-programming">online OS course</a> from Berkley featuring 23 lectures.</p>
+
+<p><a href="http://tomos.sourceforge.net/">TomOS</a> is a fork of <a href="http://mikeos.berlios.de/">MikeOS</a> that includes a little memory manager and mouse support. As MikeOS, it is designed to be an educational project.  It is written in NASM assembler.</p>
+
+<p><em>Updated 8/4/09</em></p>
+
+<p>I found the <a href="http://www.cs.berkeley.edu/~kubitron/courses/cs162-F08/">slides and other materials</a> to go along with the online Berkeley lectures listed above. </p>
+
+<p><em>Updated 8/23/09</em></p>
+
+<p>All <a href="http://stackoverflow.com/questions/tagged/osdev">questions tagged osdev</a> on stackoverflow</p>
+
+<p><a href="http://www.eecs.harvard.edu/syrah/os161/">OS/161</a> is an academic OS written in c that runs on a simulated hardware.  This OS is similar in Nachos.  Thanks Novelocrat!</p>
+
+<p>tangurena recommends <a href="http://en.wikipedia.org/wiki/MicroC/OS-II">http://en.wikipedia.org/wiki/MicroC/OS-II</a>, an OS designed for embedded systems.  There is a <a href="http://rads.stackoverflow.com/amzn/click/1578201039">companion book</a> as well.</p>
+
+<p><a href="http://rads.stackoverflow.com/amzn/click/0672327201">Linux Kernel Development</a> by Robert Love is suggested by Anders.  It is a "widely acclaimed insider's look at the Linux kernel."</p>
+
+<p><em>Updated 9/18/2009</em></p>
+
+<p>Thanks Tim S. Van Haren for telling us about <a href="http://www.gocosmos.org/index.en.aspx">Cosmos</a>, an OS written entirely in c#.</p>
+
+<p>tgiphil tells us about <a href="http://www.codeplex.com/mosa">Managed Operating System Alliance (MOSA) Framework</a>, "a set of tools, specifications and source code to foster development of managed operating systems based on the Common Intermediate Language."</p>
+
+<p><em>Update 9/24/2009</em></p>
+
+<p>Steve found a couple resources for development on windows using Visual Studio, check out <a href="http://www.brokenthorn.com/Resources/OSDevMSVC.html">BrokenThorn's guide setup with VS 2005</a> or <a href="http://wiki.osdev.org/Visual%5FStudio">OSDev's VS Section</a>.</p>
+
+<p><em>Update 1/20/2012</em></p>
+
+<p>A set of tutorials aims to take you through programming a simple UNIX-clone operating system for the x86 architecture.
+<a href="http://www.jamesmolloy.co.uk/tutorial_html/">JamesM's kernel development tutorials</a></p>
+
+<p><em>Updated 9/5/2012</em></p>
+
+<p>kerneltrap.org is no longer available.  The linux kernel v0.01 is available from <a href="http://www.kernel.org/pub/linux/kernel/Historic/linux-0.01.tar.gz">kernel.org</a></p>
+
+<p><em>Updated 12/21/2012</em>
+A basic OS development <a href="http://nw08.american.edu/~mblack/teaching.html#OSPROJECT">tutorial</a> designed to be a semester's project. It guides you through to build an OS with basic components. Very good start for beginners. Related <a href="http://nw08.american.edu/~mblack/papers/sigcse09.pdf">paper</a>.  Thanks Srujan!</p>
+
+<p><em>Updated 11/15/2013</em></p>
+
+<p><a href="http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf">Writing a Simple Operating System From Scratch</a>.  Thanks James Moore!</p>
+
+<p><em>Updated 12/8/2013</em></p>
+
+<p><a href="https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System">How to make a computer operating system</a>  Thanks ddtoni!</p>
+
+<p><em>Updated 3/18/2014</em></p>
+
+<p><a href="https://github.com/klange/toaruos">ToAruOS an OS built mostly from scratch, including GUI</a></p>
+
+<p><em>Updated Sept 12 2016</em></p>
+
+<p><a href="http://www.independent-software.com/writing-your-own-toy-operating-system/">Writing your own Toy Operating System</a></p>

@@ -1,0 +1,31 @@
+<p>The <code>datepicker</code> function only works on the first input box that is created.</p>
+
+<p>I'm trying to duplicate a datepicker by cloning the <code>div</code> that is containing it.</p>
+
+<pre><code>&lt;a href="#" id="dupMe"&gt;click&lt;/a&gt;
+&lt;div id="template"&gt;
+input-text &lt;input type="text" value="text1" id="txt" /&gt;
+date time picker &lt;input type="text" id="example" value="(add date)" /&gt;
+&lt;/div&gt;
+</code></pre>
+
+<p>To initialize the datepicker, according to the <a href="http://docs.jquery.com/UI/Datepicker" rel="nofollow">jQuery UI documentation</a> I only have to do <code>$('#example').datepicker();</code> and it does work, but only on the first datepicker that is created.</p>
+
+<p>The code to duplicate the <code>div</code> is the following:</p>
+
+<pre><code>$("a#dupMe").click(function(event){
+    event.preventDefault();
+    i++;
+    var a = $("#template").clone(true).insertBefore("#template").hide().fadeIn(1000);
+    a.find("input#txt").attr('value', i);
+    a.find("input#example").datepicker();
+});
+</code></pre>
+
+<p>The strangest thing is that on the <code>document.ready</code> I have:</p>
+
+<pre><code>$('#template #example').datepicker();
+$("#template #txt").click(function() { alert($(this).val()); });
+</code></pre>
+
+<p>and if I click on the <code>#txt</code> it always works.</p>

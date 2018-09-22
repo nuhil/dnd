@@ -1,0 +1,11 @@
+<p>I would like to execute an OS command from my ruby script but I want to add an argument from a ruby variable.</p>
+
+<p>I know that's possible by using keyword <em>system</em> like that :</p>
+
+<pre><code>#!/usr/bin/env ruby
+directory = '/home/paulgreg/'
+system 'ls ' + directory
+</code></pre>
+
+<p>but is that possible by using the "backquotes or backticks syntax" ?
+(I mean by using that syntax : <code>ls</code>)</p>

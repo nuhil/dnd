@@ -1,0 +1,3 @@
+<p>I've used the <a href="http://groups.csail.mit.edu/pag/continuoustesting/">MIT Continuous testing</a> plugin in the past, but it has long since passed out of date and is no longer compatible with anything approaching a modern release of Eclipse. </p>
+
+<p>Does anyone have a good replacement? Free, naturally, is preferred. </p>

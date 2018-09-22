@@ -1,0 +1,22 @@
+<p>I'm writing a utility for myself, partly as an exercise in learning C# Reflection and partly because I actually want the resulting tool for my own use.</p>
+
+<p>What I'm after is basically pointing the application at an assembly and choosing a given class from which to select properties that should be included in an exported HTML form as fields. That form will be then used in my ASP.NET MVC app as the beginning of a View.</p>
+
+<p>As I'm using Subsonic objects for the applications where I want to use, this should be reasonable and I figured that, by wanting to include things like differing output HTML depending on data type, Reflection was the way to get this done.</p>
+
+<p>What I'm looking for, however, seems to be elusive. I'm trying to take the DLL/EXE that's chosen through the OpenFileDialog as the starting point and load it:</p>
+
+<pre><code>String FilePath = Path.GetDirectoryName(FileName);
+System.Reflection.Assembly o = System.Reflection.Assembly.LoadFile(FileName);
+</code></pre>
+
+<p>That works fine, but because Subsonic-generated objects actually are full of object types that are defined in Subsonic.dll, etc., those dependent objects aren't loaded. Enter:</p>
+
+<pre><code>AssemblyName[] ReferencedAssemblies = o.GetReferencedAssemblies();
+</code></pre>
+
+<p>That, too, contains exactly what I would expect it to. However, what I'm trying to figure out is how to load those assemblies so that my digging into my objects will work properly. I understand that if those assemblies were in the GAC or in the directory of the running executable, I could just load them by their name, but that isn't likely to be the case for this use case and it's my primary use case.</p>
+
+<p>So, what it boils down to is how do I load a given assembly and all of its arbitrary assemblies starting with a filename and resulting in a completely Reflection-browsable tree of types, properties, methods, etc.</p>
+
+<p>I know that tools like Reflector do this, I just can't find the syntax for getting at it. </p>

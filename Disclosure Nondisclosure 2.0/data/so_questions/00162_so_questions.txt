@@ -1,0 +1,23 @@
+<p>What are some standard practices for managing a medium-large JavaScript application? My concerns are both speed for browser download and ease and maintainability of development.</p>
+
+<p>Our JavaScript code is roughly "namespaced" as:</p>
+
+<pre><code>var Client = {
+   var1: '',
+   var2: '',
+
+   accounts: {
+      /* 100's of functions and variables */
+   },
+
+   orders: {
+      /* 100's of functions and variables and subsections */
+   }
+
+   /* etc, etc  for a couple hundred kb */
+}
+</code></pre>
+
+<p>At the moment, we have one (unpacked, unstripped, highly readable) JavaScript file to handle all the business logic on the web application. In addition, there is jQuery and several jQuery extensions. The problem we face is that it takes <em>forever</em> to find anything in the JavaScript code and the browser still has a dozen files to download.</p>
+
+<p>Is it common to have a handful of "source" JavaScript files that gets "compiled" into one final, compressed JavaScript file? Any other handy hints or best practices?</p>

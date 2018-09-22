@@ -1,0 +1,1 @@
+<p>Whenever I run rspec tests for my Rails application it takes forever and a day of overhead before it actually starts running tests.  Why is rspec so slow?  Is there a way to speed up Rails' initial load or single out the part of my Rails app I need (e.g. ActiveRecord stuff only) so it doesn't load absolutely everything to run a few tests?</p>

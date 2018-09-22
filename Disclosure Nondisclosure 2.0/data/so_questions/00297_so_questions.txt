@@ -1,0 +1,7 @@
+<p>We are a small team of 3 developers (2 experienced but new to  this particular business sector) developing a functionally complex product.  We're using Scrum and have a demo at the end of each sprint.  Its clear that the functional team have plenty of ideas but these are not well communicated to the development team and the demo poses more questions than answers. </p>
+
+<p>Have you any recommendations for improving the the quality of input from the functional people?</p>
+
+<p><strong>Further info:</strong> I think part of the problem is that there are no <em>specs</em> or  User Stories as such.  Personally I think they need to be writing down some sort of requirements - what sort of things should they be writing down and to what complexity given its an agile process?</p>
+
+<p>TIA</p>

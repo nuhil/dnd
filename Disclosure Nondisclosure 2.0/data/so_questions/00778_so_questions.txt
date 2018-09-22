@@ -1,0 +1,5 @@
+<p>I'm trying to write a web-app that records WAV files (eg: from the user's microphone). I know Javascript alone can not do this, but I'm interested in the least proprietary method to augment my Javascript with. My targeted browsers are Firefox for PC and Mac (so no ActiveX). Please share your experiences with this. I gather it can be done with Flash (but not as a WAV formated file). I gather it can be done with Java (but not without code-signing). Are these the only options?</p>
+
+<p><a href="http://stackoverflow.com/questions/64010/how-does-one-record-audio-from-a-javascript-based-webapp#64159">@dominic-mazzoni</a> I'd like to record the file as a WAV because because the purpose of the webapp will be to assemble a library of <em>good</em> quality short soundbites. I estimate upload will be 50 MB, which is well worth it for the quality. The app will only be used on our intranet.</p>
+
+<p>UPDATE: There's now an alternate solution thanks to JetPack's upcoming Audio API: See <a href="https://wiki.mozilla.org/Labs/Jetpack/JEP/18">https://wiki.mozilla.org/Labs/Jetpack/JEP/18</a></p>

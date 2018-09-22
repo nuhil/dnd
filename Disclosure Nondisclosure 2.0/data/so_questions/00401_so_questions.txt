@@ -1,0 +1,10 @@
+<p>I'm developing a web app on Yaws 1.65 (installed through apt) running on Debian etch on a VPS with UML.  Whenever I do /etc/init.d/yaws restart or a stop/start, it initializes according to an old version of the config file (/etc/yaws/yaws.conf).</p>
+
+<p>I know this because I changed the docroot from the default to another directory (call it A), then a few weeks later changed it to directory B, and the config file has stayed with B for the last several months.  But then, after a restart, it switches back to A.  If it switched back to the package default, that would be understandable, but it switches to an old customized version instead.</p>
+
+<p>The funny thing is that if I leave it stopped for several minutes, when I start it again, everything switches back to normal (using directory B).  But while it's stopped, if I run ps, I don't see any yaws-related processes (yaws, heart, etc).  This problem has survived several reboots, so it's got to be an old cached copy of the config somewhere, but I have yet to find anything like that.</p>
+
+<p>Any idea what could be going on?</p>
+
+<p>Update:
+@Gorgapor - I stopped yaws, renamed the config file and tried to start it again.  It failed to start.  However, I was able to restart a couple of times and this time it didn't switch back to the old version.</p>

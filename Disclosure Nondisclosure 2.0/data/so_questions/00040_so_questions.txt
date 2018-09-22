@@ -1,0 +1,9 @@
+<p>We use a data acquisition card to take readings from a device that increases its signal to a peak and then falls back to near the original value. To find the peak value we currently search the array for the highest reading and use the index to determine the timing of the peak value which is used in our calculations.</p>
+
+<p>This works well if the highest value is the peak we are looking for but if the device is not working correctly we can see a second peak which can be higher than the initial peak. We take 10 readings a second from 16 devices over a 90 second period.</p>
+
+<p>My initial thoughts are to cycle through the readings checking to see if the previous and next points are less than the current to find a peak and construct an array of peaks. Maybe we should be looking at a average of a number of points either side of the current position to allow for noise in the system. Is this the best way to proceed or are there better techniques?</p>
+
+<hr>
+
+<p>We do use LabVIEW and I have checked the <a href="http://forums.lavag.org/Peak-Detection-t8499.html">LAVA forums</a> and there are a number of interesting examples. This is part of our test software and we are trying to avoid using too many non-standard VI libraries so I was hoping for feedback on the process/algorithms involved rather than specific code. </p>

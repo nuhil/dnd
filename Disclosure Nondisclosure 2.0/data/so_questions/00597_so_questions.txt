@@ -1,0 +1,17 @@
+<p>How can you obtain the Type (the name as a string is sufficient) of an Object in VB6 at runtime?</p>
+
+<p>i.e. something like:</p>
+
+<pre><code>If Typeof(foobar) = "CommandButton" Then ...
+</code></pre>
+
+<p><strong>/EDIT:</strong> to clarify, I need to check on Dynamically Typed objects. An example:</p>
+
+<pre><code>Dim y As Object 
+
+Set y = CreateObject("SomeType")
+
+Debug.Print( &lt;The type name of&gt; y)
+</code></pre>
+
+<p>Where the output would be "CommandButton"</p>

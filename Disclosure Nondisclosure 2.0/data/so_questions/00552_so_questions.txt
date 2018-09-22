@@ -1,0 +1,16 @@
+<p>Im trying to redirect requests for a wildcard domain to a sub-directory.<br />
+ie. <code>something.blah.domain.com</code> --> <code>blah.domain.com/something</code></p>
+
+<p>I dont know how to get the subdomain name to use in the rewrite rule.</p>
+
+<p><strong>Final Solution:</strong></p>
+
+<pre><code>RewriteCond %{HTTP_HOST} !^blah\.domain\.com
+RewriteCond %{HTTP_HOST} ^([^.]+)
+RewriteRule ^(.*) /%1/$1 [L]
+</code></pre>
+
+<p>Or as pointed out by pilif</p>
+
+<pre><code>RewriteCond %{HTTP_HOST} ^([^.]+)\.media\.xnet\.tk$
+</code></pre>

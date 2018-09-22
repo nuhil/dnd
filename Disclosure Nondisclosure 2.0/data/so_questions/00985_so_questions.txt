@@ -1,0 +1,5 @@
+<p>Tomcat (version 5 here) stores session information in memory. When clustering this information is periodically broadcast to other servers in the cluster to keep things in sync. You can use a database store to make sessions persistant but this information is only written periodically as well and is only really used for failure-recovery rather than actually replacing the in-memory sessions.</p>
+
+<p>If you don't want to use sticky sessions (our configuration doesn't allow it unfortunately) this raises the problem of the sessions getting out of sync.</p>
+
+<p>In other languages, web frameworks tend to allow you to use a database as the primary session store. Whilst this introduces a potential scaling issue it does make session management very straightforward. I'm wondering if there's a way to get tomcat to use a database for sessions in this way (technically this would also remove the need for any clustering configuration in the tomcat server.xml).</p>

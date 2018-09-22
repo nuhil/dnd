@@ -1,0 +1,1 @@
+<p>What's the best lifetime model for a DataContext? Should I just create a new one whenever I need it (aka, function level), should I keep one available in each class that would use it (class level), or should I create a static class with a static DataContext (app-domain level)? Are there any considered best practices on this?</p>

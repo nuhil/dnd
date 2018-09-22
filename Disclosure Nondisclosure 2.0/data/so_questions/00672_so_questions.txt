@@ -1,0 +1,13 @@
+<p>I have a wrapper around a C++ function call which I call from C# code. How do I attach a debugger in Visual Studio to step into the native C++ code?</p>
+
+<p>This is the wrapper that I have which calls GetData() defined in a C++ file:</p>
+
+<pre><code>    [DllImport("Unmanaged.dll", CallingConvention=CallingConvention.Cdecl, 
+               EntryPoint = "GetData", BestFitMapping = false)]
+        public static extern String GetData(String url);
+</code></pre>
+
+<p>The code is crashing and I want to investigate the root cause.</p>
+
+<p>Thanks,
+Nikhil</p>

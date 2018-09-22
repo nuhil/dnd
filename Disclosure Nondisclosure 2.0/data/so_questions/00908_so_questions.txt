@@ -1,0 +1,5 @@
+<p>Is it possible to listen for a certain hotkey ( e.g:<kbd>Ctrl</kbd><kbd>-</kbd><kbd>I</kbd> ) and then perform a specific action ? My application is written in C , will only run on Linux , and it doesn't have a GUI . Are there any libraries that help with this kind of task ?</p>
+
+<p>EDIT:as an example,amarok has global shortcuts , so for example if you map a combination of keys to an action ( let's say <kbd>Ctrl</kbd><kbd>-</kbd><kbd>+</kbd> , <kbd>Ctrl</kbd> and <kbd>+</kbd> ) you could execute that action when you press the keys . If I would map <kbd>Ctrl</kbd><kbd>-</kbd><kbd>+</kbd> to the volume increase action , each time I press <kbd>ctrl</kbd><kbd>-</kbd><kbd>+</kbd> the volume would increase by a certain amount .</p>
+
+<p>Thanks</p>

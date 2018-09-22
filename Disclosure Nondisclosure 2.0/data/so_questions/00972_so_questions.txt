@@ -1,0 +1,65 @@
+<p>Is there a tool or script which easily merges a bunch of <a href="http://en.wikipedia.org/wiki/JAR_%28file_format%29">JAR</a> files into one JAR file? A bonus would be to easily set the main-file manifest and make it executable.</p>
+
+<p>The concrete case is a <a href="http://jrst.labs.libre-entreprise.org/en/user/functionality.html">Java restructured text tool</a>. I would like to run it with something like:</p>
+
+<blockquote>
+  <p>java -jar rst.jar</p>
+</blockquote>
+
+<p>As far as I can tell, it has no dependencies which indicates that it shouldn't be an easy single-file tool, but the downloaded ZIP file contains a lot of libraries.</p>
+
+<pre><code>      0  11-30-07 10:01   jrst-0.8.1/
+    922  11-30-07 09:53   jrst-0.8.1/jrst.bat
+    898  11-30-07 09:53   jrst-0.8.1/jrst.sh
+   2675  11-30-07 09:42   jrst-0.8.1/readmeEN.txt
+ 108821  11-30-07 09:59   jrst-0.8.1/jrst-0.8.1.jar
+   2675  11-30-07 09:42   jrst-0.8.1/readme.txt
+      0  11-30-07 10:01   jrst-0.8.1/lib/
+  81508  11-30-07 09:49   jrst-0.8.1/lib/batik-util-1.6-1.jar
+2450757  11-30-07 09:49   jrst-0.8.1/lib/icu4j-2.6.1.jar
+ 559366  11-30-07 09:49   jrst-0.8.1/lib/commons-collections-3.1.jar
+  83613  11-30-07 09:49   jrst-0.8.1/lib/commons-io-1.3.1.jar
+ 207723  11-30-07 09:49   jrst-0.8.1/lib/commons-lang-2.1.jar
+  52915  11-30-07 09:49   jrst-0.8.1/lib/commons-logging-1.1.jar
+ 260172  11-30-07 09:49   jrst-0.8.1/lib/commons-primitives-1.0.jar
+ 313898  11-30-07 09:49   jrst-0.8.1/lib/dom4j-1.6.1.jar
+1994150  11-30-07 09:49   jrst-0.8.1/lib/fop-0.93-jdk15.jar
+  55147  11-30-07 09:49   jrst-0.8.1/lib/activation-1.0.2.jar
+ 355030  11-30-07 09:49   jrst-0.8.1/lib/mail-1.3.3.jar
+  77977  11-30-07 09:49   jrst-0.8.1/lib/servlet-api-2.3.jar
+ 226915  11-30-07 09:49   jrst-0.8.1/lib/jaxen-1.1.1.jar
+ 153253  11-30-07 09:49   jrst-0.8.1/lib/jdom-1.0.jar
+  50789  11-30-07 09:49   jrst-0.8.1/lib/jewelcli-0.41.jar
+ 324952  11-30-07 09:49   jrst-0.8.1/lib/looks-1.2.2.jar
+ 121070  11-30-07 09:49   jrst-0.8.1/lib/junit-3.8.1.jar
+ 358085  11-30-07 09:49   jrst-0.8.1/lib/log4j-1.2.12.jar
+  72150  11-30-07 09:49   jrst-0.8.1/lib/logkit-1.0.1.jar
+ 342897  11-30-07 09:49   jrst-0.8.1/lib/lutinwidget-0.9.jar
+2160934  11-30-07 09:49   jrst-0.8.1/lib/docbook-xsl-nwalsh-1.71.1.jar
+ 301249  11-30-07 09:49   jrst-0.8.1/lib/xmlgraphics-commons-1.1.jar
+  68610  11-30-07 09:49   jrst-0.8.1/lib/sdoc-0.5.0-beta.jar
+3149655  11-30-07 09:49   jrst-0.8.1/lib/xalan-2.6.0.jar
+1010675  11-30-07 09:49   jrst-0.8.1/lib/xercesImpl-2.6.2.jar
+ 194205  11-30-07 09:49   jrst-0.8.1/lib/xml-apis-1.3.02.jar
+  78440  11-30-07 09:49   jrst-0.8.1/lib/xmlParserAPIs-2.0.2.jar
+  86249  11-30-07 09:49   jrst-0.8.1/lib/xmlunit-1.1.jar
+ 108874  11-30-07 09:49   jrst-0.8.1/lib/xom-1.0.jar
+  63966  11-30-07 09:49   jrst-0.8.1/lib/avalon-framework-4.1.3.jar
+ 138228  11-30-07 09:49   jrst-0.8.1/lib/batik-gui-util-1.6-1.jar
+ 216394  11-30-07 09:49   jrst-0.8.1/lib/l2fprod-common-0.1.jar
+ 121689  11-30-07 09:49   jrst-0.8.1/lib/lutinutil-0.26.jar
+  76687  11-30-07 09:49   jrst-0.8.1/lib/batik-ext-1.6-1.jar
+ 124724  11-30-07 09:49   jrst-0.8.1/lib/xmlParserAPIs-2.6.2.jar
+</code></pre>
+
+<p>As you can see, it is somewhat desirable to not need to do this manually.</p>
+
+<p>So far I've only tried AutoJar and ProGuard, both of which were fairly easy to get running. It appears that there's some issue with the constant pool in the JAR files.</p>
+
+<p>Apparently jrst is slightly broken, so I'll make a go of fixing it. The <a href="http://en.wikipedia.org/wiki/Apache_Maven">Maven</a> <code>pom.xml</code> file was apparently broken too, so I'll have to fix that before fixing jrst ... I feel like a bug-magnet :-)</p>
+
+<hr>
+
+<p>Update: I never got around to fixing this application, but I checked out <a href="http://en.wikipedia.org/wiki/Eclipse_%28software%29">Eclipse</a>'s "Runnable JAR export wizard" which is based on a fat JAR. I found this very easy to use for deploying my own code.</p>
+
+<p>Some of the other excellent suggestions might be better for builds in a non-Eclipse environment, oss probably should make a nice build using <a href="http://en.wikipedia.org/wiki/Apache_Ant">Ant</a>. (Maven, so far has just given me pain, but others love it.)</p>

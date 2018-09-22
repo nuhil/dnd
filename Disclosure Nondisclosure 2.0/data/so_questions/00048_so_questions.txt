@@ -1,0 +1,3 @@
+<p>I need to learn ADO.NET to build applications based on MS Office. I have read a good deal about ADO.NET in the MSDN Library, but everything seems rather messy to me.</p>
+
+<p>What are the basics one must figure out when using ADO.NET? I think a few key words will suffice to let me organize my learning.</p>

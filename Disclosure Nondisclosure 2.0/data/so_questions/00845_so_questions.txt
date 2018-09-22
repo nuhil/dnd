@@ -1,0 +1,1 @@
+<p>What kind of documentation you'd recommend to support for Agile project? What are the core metrics you use to detect amount of documentation needed? Do you think you can store all of project info as TFS work items?</p>

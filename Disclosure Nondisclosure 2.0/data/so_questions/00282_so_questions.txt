@@ -1,0 +1,7 @@
+<p>We currently maintain a suit of MFC applications that are fairly well designed, however the user interface is beginning to look tired and a lot of the code is in need quite a bit of refactoring to tidy up some duplication and/or performance problems.  We make use of quite a few custom controls that handle all their own drawing (all written using MFC).</p>
+
+<p>Recently I've been doing more research into Qt and the benefits it provides (cross-platform and supports what you might call a more "professional" looking framework for UI development).</p>
+
+<p>My question is - <strong>what would be the best approach to perhaps moving to the Qt framework</strong>?  Does Qt play nice with MFC?  Would it be better to start porting some of our custom controls to Qt and gradually integrate more and more into our existing MFC apps? (is this possible?).</p>
+
+<p>Any advice or previous experience is appreciated.</p>

@@ -1,0 +1,1 @@
+<p>I am trying to find a way to determine at run-time how much memory a given class is using in .NET.  Using Marshal.SizeOf() is out, as it only works on value types.  Is there a way to check exactly how much memory a class uses?</p>

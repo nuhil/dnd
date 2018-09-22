@@ -1,0 +1,1 @@
+<p>How can I visually customize autocomplete fields in Wicket (change colors, fonts, etc.)?</p>

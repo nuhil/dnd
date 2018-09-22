@@ -1,0 +1,8 @@
+<p>Say I have the following C++:</p>
+
+<pre><code>char *p = new char[cb];
+SOME_STRUCT *pSS = (SOME_STRUCT *) p;
+delete pSS;
+</code></pre>
+
+<p>Is this safe according to the C++ standard? Do I need to cast back to a <code>char*</code> and then use <code>delete[]</code>? I know it'll work in most C++ compilers, because it's plain-ordinary-data, with no destructors. Is it guaranteed to be safe?</p>

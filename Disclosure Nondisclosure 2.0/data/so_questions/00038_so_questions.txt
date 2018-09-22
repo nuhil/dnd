@@ -1,0 +1,5 @@
+<p>Is there anyone working solo and using fogbugz out there? I'm interested in personal experience/overhead versus paper.</p>
+
+<p>I am involved in several projects and get pretty hammered with lots of details to keep track of... Any experience welcome.</p>
+
+<p>(Yes I know Mr. Joel is on the stackoverflow team... I still want good answers :)</p>

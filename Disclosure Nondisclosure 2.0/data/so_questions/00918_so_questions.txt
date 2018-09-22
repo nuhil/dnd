@@ -1,0 +1,14 @@
+<p>I'm working in a team environment where each developer works from their local desktop and deploys to a virtual machine that they own on the network.  What I'm trying to do is set up the Visual Studio solution so that when they build the solution each projects deployment is handled in the post-build event to that developers virtual machine.</p>
+
+<p>What I'd really like to do is give ownership of those scripts to the individual developer as well so that they own their post build steps and they don't have to be the same for everyone.</p>
+
+<p>A couple of questions:</p>
+
+<ul>
+<li>Is a post build event the place to execute this type of deployment operation?  If not what is the best place to do it?</li>
+<li>What software, tools, or tutorials/blog posts are available to assist in developing an automatic deployment system that supports these scenarios?</li>
+</ul>
+
+<p><strong>Edit:</strong> MSBuild seems to be the way to go in this situation.  Anyone use alternative technologies with any success?</p>
+
+<p><strong>Edit:</strong> If you are reading this question and wondering how to execute a different set of MSBuild tasks for each developer please see this question; <a href="http://stackoverflow.com/questions/78018/executing-different-set-of-msbuild-tasks-for-each-user">Executing different set of MSBuild tasks for each user?</a></p>

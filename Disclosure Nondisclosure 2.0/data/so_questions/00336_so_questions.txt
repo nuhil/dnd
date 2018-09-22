@@ -1,0 +1,8 @@
+<p>If I have a query like:</p>
+
+<pre><code>Select EmployeeId 
+From Employee 
+Where EmployeeTypeId IN (1,2,3)
+</code></pre>
+
+<p>and I have an index on the <code>EmployeeTypeId</code> field, does SQL server still use that index?</p>

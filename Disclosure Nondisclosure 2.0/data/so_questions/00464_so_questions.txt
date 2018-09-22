@@ -1,0 +1,5 @@
+<p>I'm almost certain I know the answer to this question, but I'm hoping there's something I've overlooked.</p>
+
+<p>Certain applications seem to have the Vista Aero look and feel to their caption bars and buttons even when running on Windows XP. (Google Chrome and  Windows Live Photo Gallery come to mind as examples.)  I know that one way to accomplish this from WinForms would be to create a borderless form and draw the caption bar/buttons yourself, then overriding <code>WndProc</code> to make sure moving, resizing, and button clicks do what they're supposed to do (I'm not clear on the specifics but could probably pull it off given a day to read documentation.)  I'm curious if there's a different, easier way that I'm overlooking.  Perhaps some API calls or window styles I've overlooked?</p>
+
+<p>I believe Google has answered it for me by using the roll-your-own-window approach with Chrome.  I will leave the question open for another day in case someone has new information, but I believe I have answered the question myself.</p>

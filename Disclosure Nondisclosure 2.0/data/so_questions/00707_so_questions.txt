@@ -1,0 +1,4 @@
+<p>I have been hearing the podcast blog for a while, I hope I dont break this. 
+The question is this: I have to insert an xml to a database. This will be for already defined tables and fields. So what is the best way to accomplish this? So far I am leaning toward programatic. I have been seeing varios options, one is Data Transfer Objects (DTO), in the SQL Server there is the sp_xml_preparedocument that is used to get transfer XMLs to an object and throught code. </p>
+
+<p>I am using CSharp and SQL Server 2005. The fields are not XML fields, they are the usual SQL datatypes. </p>

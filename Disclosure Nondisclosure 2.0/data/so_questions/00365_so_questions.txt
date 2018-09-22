@@ -1,0 +1,7 @@
+<p>Obviously, that's 64-bit windows.</p>
+
+<p>Also, what's the maximum amount of memory a single 64-bit process can use?
+I was kind of counting on using it all... 
+(Yes, I know what I'm doing, please don't tell me that if I need that much RAM i must be doing something wrong)</p>
+
+<p>Also, is this the same for a .Net 2.0 process? Or is there a lower limit for .Net?</p>

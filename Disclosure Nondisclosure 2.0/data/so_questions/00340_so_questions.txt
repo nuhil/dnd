@@ -1,0 +1,9 @@
+<p>What is the best way to include an html entity in XSLT?</p>
+
+<pre><code>&lt;xsl:template match="/a/node"&gt;
+    &lt;xsl:value-of select="."/&gt;
+    &lt;xsl:text&gt;&amp;nbsp;&lt;/xsl:text&gt;
+&lt;/xsl:template&gt;
+</code></pre>
+
+<p>this one returns a <strong>XsltParseError</strong></p>

@@ -1,0 +1,15 @@
+<p>What is the best method to get objects out of a BlockingQueue, in a concurrent program, without hitting a race condition?  I'm currently doing the following and I'm not convinced it is the best method:</p>
+
+<pre><code>BlockingQueue&lt;Violation&gt; vQueue;
+/* 
+in the constructor I pass in a BlockingQueue object 
+full of violations that need to be processed - cut out for brevity
+*/
+
+Violation v;
+while ( ( v = vQueue.poll(500, TimeUnit.MILLISECONDS) ) != null ) {
+    // do stuff with the violation
+}
+</code></pre>
+
+<p>I have yet to hit a race condition... but, I'm none too sure if this is truly safe.</p>

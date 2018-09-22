@@ -1,0 +1,16 @@
+<p>I am using .Net 2 and the normal way to store my settings. I store my custom object serialized to xml. I am trying to retrieve the default value of the property (but without reseting other properties). I use:</p>
+
+<pre><code>ValuationInput valuationInput = (ValuationInput) Settings.Default.Properties["ValuationInput"].DefaultValue;
+</code></pre>
+
+<p>But it seems to return a string instead of ValuationInput and it throws an exception. </p>
+
+<p>I made a quick hack, which works fine:</p>
+
+<pre><code>string valuationInputStr = (string) 
+Settings.Default.Properties["ValuationInput"].DefaultValue;
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(ValuationInput));
+            ValuationInput valuationInput = (ValuationInput) xmlSerializer.Deserialize(new StringReader(valuationInputStr));
+</code></pre>
+
+<p>But this is really ugly - when I use all the tool to define a strongly typed setting, I don't want to serialize the default value myself, I would like to read it the same way as I read the current value: ValuationInput valuationInput = Settings.Default.ValuationInput;</p>

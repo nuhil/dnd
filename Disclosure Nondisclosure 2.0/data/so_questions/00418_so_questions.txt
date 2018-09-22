@@ -1,0 +1,5 @@
+<p>I need to do a quick demo app using Google Maps (or Yahoo Maps, or any similar service).  So far I haven't had much luck finding .NET wrappers for any of these services.</p>
+
+<p>Any suggestions or pointers?</p>
+
+<p>I'm not opposed to using the native javascript api to do this, but I assumed someone would have already written a wrapper to easily integrate this into an ASP.NET application.</p>

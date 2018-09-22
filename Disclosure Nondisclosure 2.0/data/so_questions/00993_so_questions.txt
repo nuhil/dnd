@@ -1,0 +1,17 @@
+<p>I had this question in mind and since I just discovered this site I decided to post it here.</p>
+
+<p>Let's say I have a table with a timestamp and a state for a given "object" (generic meaning, not OOP object); is there an optimal way to calculate the time between a state and the next occurrence of another (or same) state (what I call a "trip") with a single SQL statement (inner SELECTs and UNIONs aren't counted)?</p>
+
+<p>Ex: For the following, the trip time between Initial and Done would be 6 days, but between Initial and Review it would be 2 days.  </p>
+
+<blockquote>
+  <p>2008-08-01 13:30:00 - Initial<br />
+  2008-08-02 13:30:00 - Work<br />
+  2008-08-03 13:30:00 - Review<br />
+  2008-08-04 13:30:00 - Work<br />
+  2008-08-05 13:30:00 - Review<br />
+  2008-08-06 13:30:00 - Accepted<br />
+  2008-08-07 13:30:00 - Done</p>
+</blockquote>
+
+<p>No need to be generic, just say what <a href="http://stackoverflow.com/questions/980813/what-is-sgbd">SGBD</a> your solution is specific to if not generic.</p>

@@ -1,0 +1,1 @@
+<p>Is there a way to change the appearance of an icon (ie. contrast / luminosity) when I hover the cursor, without requiring a second image file (or without requiring a hidden portion of the image)?</p>

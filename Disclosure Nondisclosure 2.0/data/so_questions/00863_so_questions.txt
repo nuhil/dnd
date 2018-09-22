@@ -1,0 +1,1 @@
+<p>I'm trying to find a way of finding out who is downloading what image from an image gallery. Users can download using a button beside the thumbnail or right click and use the "save link as" Is it possible to relate a user session or ID to a "save link as" action from all browsers using either PHP or JavaScript.</p>

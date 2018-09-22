@@ -1,0 +1,1 @@
+<p>I have an Java desktop application wich connects directly with the DB (an Oracle). The application has multiple user accounts. What is the correct method to send the user's password (not DB password) over the network? I don't want to send it in plain text</p>

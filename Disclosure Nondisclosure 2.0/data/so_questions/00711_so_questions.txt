@@ -1,0 +1,21 @@
+<p>In C++, can member function pointers be used to point to derived (or even base) class members? </p>
+
+<p>EDIT: 
+Perhaps an example will help. Suppose we have a hierarchy of three classes <code>X</code>, <code>Y</code>, <code>Z</code> in order of inheritance. 
+<code>Y</code> therefore has a base class <code>X</code> and a derived class <code>Z</code>.</p>
+
+<p>Now we can define a member function pointer <code>p</code> for class <code>Y</code>. This is written as:</p>
+
+<pre><code>void (Y::*p)();
+</code></pre>
+
+<p>(For simplicity, I'll assume we're only interested in functions with the signature <code>void f()</code> )  </p>
+
+<p>This pointer <code>p</code> can now be used to point to member functions of class <code>Y</code>.</p>
+
+<p>This question (two questions, really) is then:</p>
+
+<ol>
+<li>Can <code>p</code> be used to point to a function in the derived class <code>Z</code>?</li>
+<li>Can <code>p</code> be used to point to a function in the base class <code>X</code>?</li>
+</ol>

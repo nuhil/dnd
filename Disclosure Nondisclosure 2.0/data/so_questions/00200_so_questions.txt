@@ -1,0 +1,9 @@
+<p>Within Ruby on Rails applications database.yml is a plain text file that stores database credentials.</p>
+
+<p>When I deploy my Rails applications I have an after deploy callback in my Capistrano 
+recipe that creates a symbolic link within the application's /config directory to the database.yml file. The file itself is stored in a separate directory that's outside the standard Capistrano /releases directory structure. I chmod 400 the file so it's only readable by the user who created it.</p>
+
+<ul>
+<li>Is this sufficient to lock it down? If not, what else do you do?</li>
+<li>Is anyone encrypting their database.yml files?</li>
+</ul>

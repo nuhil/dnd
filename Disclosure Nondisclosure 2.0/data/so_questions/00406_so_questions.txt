@@ -1,0 +1,49 @@
+<p>I have three tables: page, attachment, page-attachment</p>
+
+<p>I have data like this:</p>
+
+<pre><code>page
+ID    NAME
+1     first page
+2     second page
+3     third page
+4     fourth page
+
+attachment
+ID    NAME
+1     foo.word
+2     test.xsl
+3     mm.ppt
+
+page-attachment
+ID    PAGE-ID   ATTACHMENT-ID
+1     2         1
+2     2         2
+3     3         3
+</code></pre>
+
+<p>I would like to get the number of attachments per page <strong>also when that number is 0</strong>. I have tried with: </p>
+
+<pre><code>select page.name, count(page-attachment.id) as attachmentsnumber 
+from page 
+    inner join page-attachment on page.id=page-id 
+group by page.id
+</code></pre>
+
+<p>I am getting this output: </p>
+
+<pre><code>NAME        ATTACHMENTSNUMBER
+second page  2
+third page   1
+</code></pre>
+
+<p>I would like to get this output:</p>
+
+<pre><code>NAME        ATTACHMENTSNUMBER
+first page   0
+second page  2
+third page   1
+fourth page  0
+</code></pre>
+
+<p>How do I get the 0 part?</p>

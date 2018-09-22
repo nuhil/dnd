@@ -1,0 +1,27 @@
+<p>I need to do a multilingual website, with urls like</p>
+
+<pre><code>www.domain.com/en/home.aspx for english
+www.domain.com/es/home.aspx for spanish
+</code></pre>
+
+<p>In the past, I would set up two virtual directories in IIS, and then detect the URL in global.aspx and change the language according to the URL</p>
+
+<pre><code>Sub Application_BeginRequest(ByVal sender As Object, ByVal e As EventArgs)
+    Dim lang As String
+    If HttpContext.Current.Request.Path.Contains("/en/") Then
+        lang = "en"
+    Else
+        lang = "es"
+    End If
+    Thread.CurrentThread.CurrentUICulture = CultureInfo.GetCultureInfo(lang)
+    Thread.CurrentThread.CurrentCulture = CultureInfo.CreateSpecificCulture(lang)
+
+
+End Sub
+</code></pre>
+
+<p>The solution is more like a hack.  I'm thinking about using Routing for a new website.  </p>
+
+<p><strong>Do you know a better or more elegant way to do it?</strong></p>
+
+<p>edit: The question is about the URL handling, not about resources, etc.</p>

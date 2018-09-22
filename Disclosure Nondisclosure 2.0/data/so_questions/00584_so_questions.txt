@@ -1,0 +1,6 @@
+<p>In <a href="http://en.wikipedia.org/wiki/PostgreSQL">PostgreSQL</a>, I can do something like this:</p>
+
+<pre><code>ALTER SEQUENCE serial RESTART WITH 0;
+</code></pre>
+
+<p>Is there an Oracle equivalent?</p>

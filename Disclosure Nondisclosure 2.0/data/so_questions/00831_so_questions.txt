@@ -1,0 +1,1 @@
+<p>I would like to debug my separately running JSP/Struts/Tomcat/Hibernate application stack using the Eclipse IDE debugger. How do I setup the java JVM and eclipse so that I can set breakpoints, monitor variable values, and see the code that is currently executing?</p>

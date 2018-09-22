@@ -1,0 +1,16 @@
+<p>I'm programming WCF using the ChannelFactory which expects a type in order to call the CreateChannel method. For example: </p>
+
+<pre><code>IProxy proxy = ChannelFactory&lt;IProxy&gt;.CreateChannel(...);
+</code></pre>
+
+<p>In my case I'm doing routing so I don't know what type my channel factory will be using. I can parse a message header to determine the type but I hit a brick wall there because even if I have an instance of Type I can't pass that where ChannelFactory expects a generic type. </p>
+
+<p>Another way of restating this problem in very simple terms would be that I'm attempting to do something like this:</p>
+
+<pre><code>string listtype = Console.ReadLine(); // say "System.Int32"
+Type t = Type.GetType( listtype);
+List&lt;t&gt; myIntegers = new List&lt;&gt;(); // does not compile, expects a "type"
+List&lt;typeof(t)&gt; myIntegers = new List&lt;typeof(t)&gt;(); // interesting - type must resolve at compile time?
+</code></pre>
+
+<p>Is there an approach to this I can leverage within C#?</p>

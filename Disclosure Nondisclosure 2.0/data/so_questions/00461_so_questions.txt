@@ -1,0 +1,33 @@
+<p>What's going on here?</p>
+
+<p>printf.sh:</p>
+
+<pre><code>#! /bin/sh
+NAME="George W. Bush"
+printf "Hello, %s\n" $NAME
+</code></pre>
+
+<p>Command line session:</p>
+
+<pre><code>$ ./printf.sh
+Hello, George
+Hello, W.
+Hello, Bush
+</code></pre>
+
+<p>UPDATE: <code>printf "Hello, %s\n" "$NAME"</code> works. For why I'm not using <code>echo</code>, consider</p>
+
+<p>echo.sh:</p>
+
+<pre><code>#! /bin/sh
+FILE="C:\tmp"
+echo "Filename: $FILE"
+</code></pre>
+
+<p>Command-line:</p>
+
+<pre><code>$ ./echo.sh
+Filename: C:    mp
+</code></pre>
+
+<p>The <a href="http://www.opengroup.org/onlinepubs/009695399/utilities/echo.html" rel="nofollow">POSIX spec for <code>echo</code></a> says, "New applications are encouraged to use <code>printf</code> instead of <code>echo</code>" (for this and other reasons). </p>

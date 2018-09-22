@@ -1,0 +1,6 @@
+<p>I'm aware I can add maven repositories for fetching dependencies in ~/.m2/settings.xml. But is it possible to add a repository using command line, something like:</p>
+
+<pre><code>mvn install -Dmaven.repository=http://example.com/maven2
+</code></pre>
+
+<p>The reason I want to do this is because I'm using a continuous integration tool where I have full control over the command line options it uses to call maven, but managing the settings.xml for the user that runs the integration tool is a bit of a hassle.</p>

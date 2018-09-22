@@ -1,0 +1,2 @@
+<p>I was looking out for a free plugin for developing/debugging JSP pages in eclipse.<br />
+Any suggestions? </p>

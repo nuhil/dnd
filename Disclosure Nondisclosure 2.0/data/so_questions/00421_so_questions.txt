@@ -1,0 +1,3 @@
+<p>Is is possible to read a disk directly with .Net?  By directly I mean via the device bypassing the file system.  I think I would go about this by opening the device some way "\Device\Ide\IdeDeviceP2T0L0-1" for example. </p>
+
+<p>If I can't open the device with a .NET api knowing which Win32 API to use would be helpful.  </p>
