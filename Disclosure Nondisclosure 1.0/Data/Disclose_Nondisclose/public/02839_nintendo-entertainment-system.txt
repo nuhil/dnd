@@ -1,0 +1,11 @@
+Nintendo Entertainment System
+
+The Nintendo Entertainment System (NES) also known as the Family Computer or Famicom in Japan is the first video game console made by Nintendo in Japan, Europe, the United States. It came out in 1985 in the United States and was very popular.
+
+The controller for the NES was different from the joysticks that older consoles had. It had a D-pad button, that could go up, down, left, or right. It also had A, B, Select, and Start buttons. The NES could use up to two controllers for multiplayer games. There were also other types of controllers that could be used with the NES.
+
+Some famous games for the NES are "Super Mario Bros.", "The Legend of Zelda", "Metroid", "Mega Man", "Castlevania", "Donkey Kong", and "Final Fantasy". There have been many sequels made to these games and they are still enjoyed today. Nintendo discontinued (stopped making and selling) the NES in 1995.
+
+The CPU (Central Processing Unit) in the NES is called MOS 6502 and is an 8-bit CPU. The chip that contains the CPU also contains other electronics that generate sound for games and help with some other things. There are two different versions of the chip called 2A03 and 2A07 that are used in different regions of the world (2A03 works with NTSC TVs, 2A07 with PAL TVs). It was made by a company called Ricoh.
+
+The NES uses a chip called the PPU (Picture Processing Unit) to draw graphics on the TV. It has two different versions called 2C02 (for NTSC TVs) and 2C07 (for PAL TVs). It was also made by Ricoh.

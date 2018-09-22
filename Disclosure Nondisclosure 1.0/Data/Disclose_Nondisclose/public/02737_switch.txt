@@ -1,0 +1,9 @@
+Switch
+
+A switch is something that changes the flow of an electrical circuit. The most common kind of switch is something (for example a railroad switch) which can be taken off of one course and put onto another. The term "switch" usually means electrical power. In applications where more than one switch is needed, (i.e. a telephone service) mechanical switches have been replaced by electronic switches which can be controlled automatically.
+
+The switch is called a "gate" when used in a mathematical form. In logic, arguments are represented as logic gates. The use of electronic "gates" to work as a system of logical gates is the basic idea behind the computer —i.e. a computer is a lot of electronic switches that work as logic gates.
+
+There are many types of switches. Some of these are: 
+
+The word 'switch' can also mean to change between two things. For example, on a railway line, sometimes the track can split into two different tracks. If the train is travelling on one line and changes over to the other, it has just done a switch.

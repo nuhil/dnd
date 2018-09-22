@@ -1,0 +1,9 @@
+Microprocessor
+
+A microprocessor is an electronic component that is used by a computer to do its work. It is a central processing unit on a single integrated circuit chip containing millions of very small components including transistors, resistors, and diodes that work together. Microprocessors help to do everything from writing to searching the Web. Everything a computer does is described by lots of precise instructions, and microprocessors carry out these instructions at incredible speed—many millions of times a second. 
+
+Microprocessors were invented in the 1970s for use in embedded systems. The majority are still used that way, in such things as mobile phones, cars, military weapons, and home appliances. Some microprocessors are microcontrollers, so small and inexpensive that they are used to control very simple products like flashlights and greeting cards that play music when you open them. A few especially powerful microprocessors are used in personal computers.
+
+Like other central processing units, microprocessors use three steps commonly called Fetch, Decode, and Execute. In the Fetch step, an instruction is copied from the computer memory into the microprocessor. In the Decode step, the microprocessor figures out what operation the instruction is meant to do. In the Execute step, this operation is performed.
+
+Operations can be very simple, like adding two numbers, or moving some data from one place to another, or complicated, like copying a series of letters and numbers (called a string) from one place in the computer's memory to a different place.

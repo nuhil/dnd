@@ -1,0 +1,52 @@
+Intelligence quotient
+
+An intelligence quotient, or an IQ is a number. This number is the score (result) of a standard test. There are several different tests. The tests are designed to measure the intelligence of an individual. 
+
+IQ is a comparative measure: it tells one how much above or below the average a person is. The idea of the test was developed at the start of the 20th century. The tests try to avoid specific knowledge, and try to ask questions which, in principle, anyone might be able to answer.
+
+One modern IQ test is the Wechsler Adult Intelligence Scale. It says where the subject's score is on the Gaussian bell. The bell curve used has a center value of 100 and a standard deviation of 15; other tests may have different standard deviations. 
+
+IQ scores can tell some things about a person, as well as intelligence. This is because intelligence is linked to other aspects of life. "All the cognitive tests completed in 1983 predicted onset of dementia and Alzheimer’s disease up to 11 years later". They can predict the social status of the parents, and the parents' IQ. 
+
+There is still disagreement about to what extent IQ is inherited. People still disagree about how much of a person's IQ comes his parents and how much depends on his environment (what his home is like).
+
+IQ scores are used in various ways: 
+
+The average IQ scores for many populations have been rising about three points per decade since the early 20th century. Most of the increase is in the lower half of the IQ range. This is called the Flynn effect. People who study it disagree whether these changes in scores are really happening, or it they mean that there were mistakes in how people were tested in the past.
+
+There are many different kinds of intelligence tests that use many methods. Some kinds of tests are 
+
+The different tests are strongly correlated with each other. psychologist Charles Spearman in 1904 first studied how the scores from different kinds of intelligence tests are related to each other. He did factor analysis of correlations between the tests, and found a single common factor explained the positive correlations among tests. 
+
+Spearman found that if a person got a high (or low) score on one kind of test, he probably (but not always) would get a similar score on the other kinds of tests. Because of this, he said that a person's intelligence could be described with one number. He called this number "g" (for general factor). Tests that use abstract reasoning are usually the best to tell what the scores on the other kinds of tests probably will be. Because of that, Spearman thought that a person's abstract reasoning ability (how good he was at solving puzzles or problems) was what other kinds of intelligence are based on. 
+
+Therefore, the number "g" is what an IQ test is supposed to measure. One of the most commonly used measures of "g" is Raven's Progressive Matrices, which is a test of visual reasoning.
+
+During World War I, the military needed a way to test recruits and decide what kind of job they could do best. They used IQ tests. 
+
+The testing generated controversy and much public debate. Nonverbal or "performance" tests were developed for those who could not speak English or were suspected of malingering. After the war, positive publicity on army psychological testing helped to make psychology a respected field. Afterwards, there was an increase in jobs and funding in psychology in the United States. Group intelligence tests were developed and became widely used in schools and industry.
+
+There are a number of problems with intelligence quotients. They relate to different fields of the subject. The problems can be grouped:
+
+Alfred Binet, a French psychologist (who designed one of the first tests in 1905) had this opinion. He used the test to see which pupils would need special help with the school curriculum. He believed that the test scales were not able to measure intelligence:
+He argued that with good education programs, most students could catch up and perform quite well in school. This was independent of the background of the pupil. He did not believe that intelligence was a measurable fixed entity.
+
+Some dispute psychometrics entirely. Paleontologist Stephen Jay Gould argued that intelligence tests were based on faulty assumptions and showed their history of being used as the basis for scientific racism. In his opinion, the general intelligence factor "g" (which these tests measure), is simply a mathematical artifact.
+
+However, as explained above, IQ tests were highly successful in assessing recruits during wartime. Therefore, "it must be true that they are measuring a relevant mental capability". Therefore IQs are not simply a mathematical fiction: they relate to the ability of individuals to perform certain functions. Even if experts do not agree on a definition of intelligence, that does not disprove the usefulness (or otherwise) of the tests. In every day life people do notice the relative intelligence of others. The issue is central to human nature and evolutionary psychology, because humans evolved the characteristics which helped them survive and reproduce. 
+
+The American Psychological Association's report "Intelligence: knowns and unknowns" states that IQ tests as predictors of social achievement are not biased against people of African descent. They predict future performance, such as school achievement, similarly to the way they predict future performance for European descent.
+
+However, IQ tests may well be biased when used in other situations. A 2005 study stated that "differential validity in prediction suggests that the WAIS-R test may contain cultural influences that reduce the validity of the WAIS-R as a measure of cognitive ability for Mexican American students", indicating a weaker positive correlation relative to sampled white students. Other recent studies have questioned the culture-fairness of IQ tests when used in South Africa. Standard intelligence tests, such as the Stanford-Binet test, are often inappropriate for children with autism and dyslexia; the alternative of using developmental or adaptive skills measures are relatively poor measures of intelligence in autistic children, and have resulted in incorrect claims that a majority of children with autism are mentally retarded.
+
+Claimed low intelligence has historically been used to justify the feudal system and unequal treatment of women. In contrast, others claim that the refusal of "high-IQ elites" to take IQ seriously as a cause of inequality is itself immoral.
+
+The American Psychological Association's Board of Scientific Affairs established a task force in 1995 to write a consensus statement on the state of intelligence research which could be used by all sides as a basis for discussion. The full text of the report is available through several websites. 
+
+In this paper the representatives of the association regret that IQ-related works are frequently written with a view to their political consequences: "research findings were often assessed not so much on their merits or their scientific standing as on their supposed political implications".
+
+The task force concluded that IQ scores do have high predictive validity for individual differences in school achievement. They confirm the predictive validity of IQ for adult occupational status, even when variables such as education and family background have been statistically controlled. They found that individual differences in intelligence are substantially influenced by genetics and that both genes and environment, in complex interplay, are essential to the development of intellectual competence.
+
+They state there is little evidence to show that childhood diet influences intelligence except in cases of severe malnutrition. The task force agrees that large differences do exist between the average IQ scores of blacks and whites, and that these differences cannot be attributed to biases in test construction. The task force suggests that explanations based on social status and cultural differences are possible, and that environmental factors have raised mean test scores in many populations. 
+
+The APA journal that published the statement, "American Psychologist," later published responses in January 1997. Several of these argued that the report failed to examine adequately the evidence for partly-genetic explanations.

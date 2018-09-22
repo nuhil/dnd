@@ -1,0 +1,17 @@
+Electrical cell
+
+An electrical cell is a device that is used to generate electricity, or one that is used to make chemical reactions possible by applying electricity. A battery is one kind.
+
+The simple electrical cells were first developed in 1800s. They are also called "galvanic cells", because an Italian scientist named Luigi Galvani invented these cells.
+
+Special chemical reactions which occur inside the electrical cell, result in oxidation and reduction of the substances inside the cell. This produces electrical energy. Normal batteries work like this.
+
+Some electrical cells produce electricity without using chemical energy. For example, solar cells produce electricity when they are exposed to sun light.
+
+These cells are commonly related with chemical reactions. For example, a plate of zinc and a plate of copper are immersed in a dilute solution which contains acid or salt. The solution acts as an electrolyte (electric conductor). When the two plates are connected to a meter with a wire, electric current will pass; this is because oxidation and reduction processes take place in this chemical reaction turning the zinc plate to a negative electrode and the copper plate to a positive electrode, and so the electrons flows from zinc to copper which makes the meter move. 
+
+Some chemical reactions need high energy to happen. An example is the breakdown of water into hydrogen and oxygen. An electrical cell (or an "electrolytic cell") is used for these reactions. It is a container which has to have a chemical reaction involving electrodes. The chemical substances are exposed to electrical power, and the electrolysis reaction happens inside the electrical cell.
+
+Two pieces of metal are placed in water that has a little electrolyte such as hydrochloric acid, sulfuric acid, sodium bicarbonate, or sodium hydroxide added to it. An electric current is applied and gas comes out of each electrode. Some greenish-brown color may be seen too if iron was used. 
+
+There may also be a chemical reaction which will result in the explosion of the iron and has a strong blast radius (safety goggles recommended).

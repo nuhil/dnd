@@ -1,0 +1,20 @@
+Nupedia
+
+Nupedia was an English-language online encyclopedia. Its articles were written by experts, and they were licensed as free content. It was founded by Jimmy Wales and Larry Sanger. Nupedia was online from March 2000 until September 2003. It is mostly known as the website which came before Wikipedia.
+
+Unlike Wikipedia, Nupedia was not a wiki. It also had a long peer-review process for all of its articles. This was supposed to make its articles as good as professional encyclopedias. Nupedia wanted scholars to help build it. Before it shut down, Nupedia had 25 articles that completed its review process.
+
+In June 2008, CNET said that Nupedia was one of the greatest closed websites in Internet history.
+
+In late 1999, Jimmy Wales began thinking about an online encyclopedia built by volunteers. In January 2000, he hired Larry Sanger to manage it. The project went online on March 9, 2000.
+By November 2000, only two full articles had been published.
+
+From when it started, Nupedia was a free content encyclopedia. Bomis, Jimmy Wales' company, was going to get money from adverts on the Nupedia website. At first, the project used a license that was made up by Wales and Sanger. Later, it began using the Nupedia Open Content License. In January 2001, it switched to the GNU Free Documentation License. This was because Richard Stallman and the Free Software Foundation said they should.
+
+Also in January 2001, Nupedia started Wikipedia. At first, it was not meant to be an encyclopedia. Instead, it was meant as a side-project to allow people to work on articles for Nupedia before they were peer reviewed. As Wikipedia got bigger and attracted new users, it began to run without Nupedia. However, Larry Sanger first led activity on Wikipedia. This was because he was the chief editor on Nupedia.
+
+Wikipedia led to the gradual shutdown of Nupedia. Jimmy Wales decided to stop paying Sanger in December 2001. Sanger then left both Nupedia and Wikipedia. After Sanger left, Nupedia became even less noticed than Wikipedia. As Nupedia was used less and less, the idea of changing its articles into Wikipedia articles was sometimes proposed. However, it was never done. After it closed down, Nupedia's articles were moved in to Wikipedia.
+
+Nupedia's articles were all peer reviewed. These were the steps they had to follow:
+
+People who wrote for Nupedia were supposed to be experts in what they wrote about. However, some articles could be written by a good writer, rather than an expert. People who "changed" content on Nupedia were expected to be "true experts in their fields and (with few exceptions) possess PhDs", which means that they should be experts in what they are changing and (generally) have PhDs.

@@ -1,0 +1,31 @@
+Compiler
+
+A compiler is a computer program that translates instruction text into a different language of instruction text. The first language is called the source language, which is why instruction text is called source code. The second language, called the target, is usually for the computer to follow. In that case, the instructions become machine code.
+
+If a compiler can convert the same instruction text into machine code for different computers (like smartphones or video game machines), it is a 'cross-compiler'. If the compiler can make instruction text that is easier for people to read, it is a 'de-compiler'. People who write these instructions are called programmers. Some even made programs that can translate the instructions that describe how a compiler should work, into a compiler. That kind of program is called a compiler-compiler.
+
+A compiler usually has three steps. It reads the text and makes notes about how the words and sentences go together. If the words don't make sense, it will try to tell the programmer. Then it will use what it knows about the target language to make the instructions fit better. It then writes down the instructions in the target language. If the source instructions are on different pages, it may have to compile several before it can write everything down.
+
+A compiler has six parts to turn source code into target code.
+
+The first piece, a lexical analyzer, will read a page of instruction text and split it into words and sentences. It also marks what kind of word it is. It might mark the word as a number, a word that might mean different things at diffent times (a variable), a verb, a math sign, or an adjective. In the end, it will get a long list of marked words called tokens.
+
+codice_1
+
+codice_2
+
+It hands the list to a parser. That piece will look at the way that the words flow in each sentence. It checks whether the sentences make sense in the source language. Then it checks whether the sentences flow okay. This is called semantic analysis. For example, the parser might complain about the lexed example above, if it "hadn't" already seen codice_3 with its type adjetive. The parser uses what it learned to make a web of all the text. The web structure is typically called an AST.
+`( sentence 
+
+The next piece, an optimizer will rearrange the web so the target language is better. 'Better' might mean the target text uses fewer instructions to do the same work. This could be important if we want the final program to check a lot of data. (Like seeing how many people, in the whole country, are fifty years old "and" buy medicine.) On the other hand, a 'better' result might mean turning long instructions into more small instructions.
+
+A programmer usually tries to write the instructions in small, related groups. That way, he or she can keep track of fewer changes in the program. But, that means the code may go on several pages. When a compiler sees that the target program uses several pages to explain the whole recipe, it may use a linker. The linker will put instructions that say where to find the code that's next. Finally, the compiler writes down the instructions in the target language.
+ADD 0, 5, spot_1
+LOAD location_y, , spot_2
+ADD spot_1, spot_2, spot_3
+SAVE spot_3, , location_x
+If the programmer made a mistake, like a misspelled word, the compiler will try to tell him or her what went wrong. But, since compilers are also programs, sometimes they were made with problems too. When that happens, it's hard to tell which is making trouble. So, programmers who make compilers try very hard to make them perfect.
+
+At the end of each compilation step the partial finished product could be stored and then only processed later on. A language like Java uses this successfully, where they lack the final translation step to instructions the processor understands. They only do the final translation step once the Java program is running on a computer. This is either called "interpreting" or "JIT"ting, depending on the used technique.
+
+For example, the source code might contain an equation, such as "x = 5*10 ". The lexical analyzer would separate each number and symbol (such as "*" or "+") into separate tokens. The parser would note the pattern of tokens, as being an equation. The intermediate-code generator would write a form of coding which defines a storage variable named "x" and assigns the numerical product of 5*10 plus 6 and 1. The optimizer would simplify the calculation, of 5*10+6+1, as being just 57. Hence, the target machine-code generator would set a variable named "x" and put the value 57 into that storage place in the computer's memory, using the instructions of whichever computer chip is being used.

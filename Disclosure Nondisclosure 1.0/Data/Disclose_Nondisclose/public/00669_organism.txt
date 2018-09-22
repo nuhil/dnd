@@ -1,0 +1,17 @@
+Organism
+
+An organism is any individual living thing. It is easy to recognize a living thing, but not so easy to define it. Animals and plants are organisms, obviously. Organisms are a biotic, or living, part of the environment. Rocks and sunshine are parts of the non-living environment.
+
+Organisms usually have five basic needs. They need air, water, nutrients (food), energy and a place to live. However, not all living things need all these at the same time. Many organisms do not need access to air at all.
+
+A little thought is needed about viruses. There is no agreement as to whether they should be regarded as living. They are made of protein and nucleic acid, and they evolve, which is a really important fact. However, they exist in two quite different phases. One phase is dormant, not active. The other is inside a living cell of some other organism. Then the virus is very active reproducing itself. Consider the parallel with a computer program. When in use it is active; when it is not, it is completely inactive. It is still a program all the same.
+
+Another example from biology is the spore, which is a distribution phase of a bacteria, fungus or some plants. They are not active until they get to the right situation. They have all the working parts to build a complete organism, but for the moment it is switched off.
+
+Some organisms are made up of millions of cells. They are multicellular organisms. Many can be seen without using a microscope.
+
+Most organisms are so small that they cannot be seen with the naked eye. You need a microscope to see them. They are called microorganisms. Organisms can be made up of just one cell. They are called "unicellular organisms" or "single celled organisms". Examples include bacteria, and protozoa such as the "Amoeba" and "Paramecium".
+
+The project which works on the relationships between living things is the Tree of Life project; identifying a LUCA (last universal common ancestor) is one of its main aims. The LUCA is estimated to have lived some 3.8 billion years ago (sometime in the Palaeoarchaean era).
+
+The idea came from Charles Darwin's "On the Origin of Species", "Therefore... probably all the organic beings which have ever lived on this earth have descended from some one primordial form..."

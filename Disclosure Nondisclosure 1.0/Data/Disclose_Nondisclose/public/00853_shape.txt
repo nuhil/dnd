@@ -1,0 +1,12 @@
+Shape
+
+A shape is a geometric figure that can be described with mathematics. One way to classify shapes is to describe a bigger kind of shape that the shape is one of. For example, they can be classified by their different numbers of dimensions. Thus, circles are two-dimensional shapes so, like other 2D shapes, they will fit into a flat plane.
+
+Three-dimensional objects like cubes will not fit inside a plane, because they are not flat. Four-dimensional shapes made of polygons are called polychorons, and shapes made of polygons of any dimension are polytopes.
+
+Two shapes are said to be equal, if one can be changed into the other by turning, moving, growing, shrinking, or more than one of these in combination.
+
+
+These are two-dimensional shapes or flat plane geometry shapes. Their sides are made of straight or curved lines. They can have any number of sides. Plane figures made of lines are called polygons. Triangles and squares are examples of polygons.
+
+These are three-dimensional shapes. Their sides are made of flat or curved surfaces.

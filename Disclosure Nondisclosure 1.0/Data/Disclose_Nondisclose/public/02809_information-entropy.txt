@@ -1,0 +1,15 @@
+Information entropy
+
+Information entropy is a concept from information theory. It tells how much information there is in an event. In general, the more uncertain or random the event is, the more information it will contain. More clearly stated, information is a decrease in uncertainty or entropy. The concept of information entropy was created by mathematician Claude Shannon.
+
+Information and its relationship to entropy can be modeled by:R = H(x) - Hy(x)"The conditional entropy Hy(x) will, for convenience, be called the equivocation. It measures the average ambiguity of the received signal."
+
+The "average ambiguity" or Hy(x) meaning uncertainty or entropy. H(x) represents information. R is the received signal.
+
+It has applications in many areas, including lossless data compression, statistical inference, cryptography, and sometimes in other disciplines as biology, physics or machine learning.
+
+The information gain is a measure of the probability with which a certain result is expected to happen. In the context of a coin flip, with a 50-50 probability, the entropy is the highest value of 1. It does not involve information gain because it does not incline towards a specific result more than the other. If there is a 100-0 probability that a result will occur, the entropy is 0.
+
+Let's look at an example. If someone is told something they already know, the information they get is very small. It will be pointless for them to be told something they already know. This information would have very low entropy.
+
+If they were told about something they knew little about, they would get much new information. This information would be very valuable to them. They would learn something. This information would have high entropy.

@@ -1,0 +1,17 @@
+Planet
+
+<onlyinclude>A planet is a large object such as Jupiter or Earth that orbits a star. It is smaller than a star, and it does not make light. 
+
+Planets are shaped like a slightly squashed ball (a spheroid). Objects that orbit planets are called satellites. A star and everything which orbits it are called a star system. 
+
+There are eight planets in our Solar System. Pluto used to be called a planet, but in August 2006, the International Astronomical Union decided it was a dwarf planet instead. There are four more known dwarf planets in the Solar System, Ceres, Makemake, Eris and Haumea.
+
+The name "planet" is from the Greek word πλανήτης ("planetes"), meaning "wanderers", or "things that move". Until the 1990s, people only knew of those in the Solar System. As of June 2017, we know of 3,610 other planets. These newly found planets are orbiting other stars: they are "extrasolar" planets. Sometimes people call them "exoplanets".</onlyinclude>
+
+The planets in the Solar System have names of Greek or Roman gods, apart from Earth, because people did not think Earth was a planet in old times. However, Earth is occasionally referred by the name of a Roman god: "Terra". Other languages, for example Chinese, use different names. Moons also have names of gods and people from classical mythology, or from the plays written by Shakespeare. 
+
+Here is a list of planets in the Solar System. They are ordered by how close they are to the Sun, nearest first. 
+Astronomers speak about "major" (or true) planets, and minor planets, which are smaller objects that go around the Sun. Some examples of "minor planets" are asteroids, comets, and trans-Neptunian objects.
+
+Planets in the Solar System are of three sorts:
+Many objects in the Solar System that are not planets are also "icy". Examples are the icy moons of the outer planets of the Solar System (like Triton).

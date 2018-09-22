@@ -1,0 +1,11 @@
+Camera lens
+
+A camera lens is the part of a camera that directs light to the film or, in a digital camera, to a computer chip that can sense the light. Many cheap lenses are plastic but better ones are made from glass. The lens makes an image by focusing the light.
+
+The majority of cameras only have one lens that users cannot change or take out. This is called a "fixed lens" design. More expensive cameras usually have lenses that come off, so anyone can take out one lens and put in another. A lens may be simple, or may actually be made of several lenses.
+
+Photographers can use different lenses (objectives) to make different kinds of pictures. For example, a telephoto lens can take a picture of something far away. A wide-angle lens is the opposite. A zoom lens is more versatile; it can do both. There are many kinds of lenses.
+
+The study of lenses and how they work is called optics.
+
+Lenses for large sheet film cameras are especially difficult to design. Cameras and their lenses have been made since the 19th century. Some from before World War II, are still usable today. Computers now let engineers make better lenses, though, because they can calculate the way that light goes through the lens and find the best design for each task.

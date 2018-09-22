@@ -1,0 +1,18 @@
+David Hilbert
+
+David Hilbert (Königsberg, Prussia, 23 January 1862 –Göttingen, Germany, 14 February 1943) was a German mathematician, logician, and philosopher of mathematics. He is widely considered to be one of the most influential and greatest mathematicians of the 19th and 20th centuries.
+
+Hilbert discovered and developed a range of fundamental ideas in many areas. He worked on invariant theory, the axiomization of geometry, and the notion of Hilbert space. This is one of the foundations of functional analysis. Hilbert and his students supplied much of the mathematics needed for quantum mechanics and general relativity. He was one of the founders of proof theory and mathematical logic. He was also one of the first people to make the distinction between mathematics and metamathematics, and warmly defended Georg Cantor's set theory and transfinite numbers.
+
+In 1895 Hilbert became Chairman of Mathematics at the University of Göttingen, at that time the best research center for mathematics in the world. He remained for the rest of his life. Among his students were: Hermann Weyl, the champion of chess Emanuel Lasker, Ernst Zermelo, and Carl Gustav Hempel. John von Neumann was his assistant. At the University of Göttingen, Hilbert was surrounded by a social circle of some of the most important mathematicians of the 20th century, such as Emmy Noether and Alonzo Church.
+
+The text "Grundlagen der Geometrie" ("Foundations of Geometry") was published by Hilbert in 1899. It proposed a formal set, Hilbert's axioms, instead of the traditional axioms of Euclid. They avoid weaknesses in those of Euclid, whose works at the time were still used textbmathematics is his 1900 presentation of a set of problems that set the course for much of the mathematical research of the 20th century.
+
+He put forward a number of unsolved problems at the International Congress of Mathematicians in Paris in 1900. This is reckoned the most successful and deeply considered compilation of open problems ever to be produced by an individual mathematician. Later he expanded his list to 23 problems.
+
+In 1920 he proposed explicitly a research project in "metamathematics", which became known as Hilbert's program. He wanted mathematics to be formulated on a solid and complete logical foundation. He believed that in principle this could be done, by showing that:
+
+
+He seems to have had both technical and philosophical reasons for formulating this proposal.
+
+After 1912, Hilbert turned his focus to physics. At that time, he worked in general relativity and mathematical physics. His work in these fields is also important.

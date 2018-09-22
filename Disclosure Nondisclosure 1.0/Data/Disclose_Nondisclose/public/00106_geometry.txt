@@ -1,0 +1,12 @@
+Geometry
+
+Geometry is a kind of mathematics that studies the size, shapes, positions and dimensions of things. There are flat (2D) shapes and solid (3D) shapes in geometry.
+Squares, circles and triangles are some of the simplest shapes in flat geometry. Cubes, cylinders, cones and spheres are simple shapes in solid geometry.
+
+Plane geometry can be used to measure the area and perimeter of a flat shape. Solid geometry can also measure a solid shape's volume and surface area.
+
+Geometry can be used to calculate the size and shape of many things. For example, geometry can help people find: 
+
+Geometry began as the art of measuring the shape of land so that it could be shared fairly between people. The word "geometry" means "to measure the land". It has grown from this to become one of the most important parts of mathematics. The Greek mathematician Euclid wrote the first book about geometry. Geometry is one of the oldest branches of mathematics.
+
+Geometry starts with a few simple ideas that are thought to be true, called axioms. Such as:

@@ -1,0 +1,13 @@
+X-ray
+
+X-radiation is a kind of electromagnetic radiation. X-rays are waves of X-radiation. X-rays have a shorter wavelength, and therefore more energy, than ultraviolet radiation. They have a much shorter wavelength than visible light (the light that we can see). Radiation with shorter wavelengths (more energy) than the X-ray is called Gamma radiation (γ-rays). These are all parts of the electromagnetic spectrum.
+
+The wavelength of X-rays covers a wide range. Most X-rays have a wavelength in the range of 0.01 to 10 nanometres. This corresponds with frequencies in the range 30 petahertz to 30 exahertz (3×10 Hz to 3×10 Hz) and energies in the range 100 eV to 100 keV.
+
+X-rays can go through many solid materials. For this reason, taking photograms with X-rays is used in medicine in order to see bones and other things inside the body. Sometimes the term "X-Ray" means these pictures instead of the radiation that makes them.
+
+What these images show will depend on three things: Rayleigh scattering, Compton scattering and photoabsorption. The images show bone because it is dense enough that X-rays are not able to pass through it. Instead, the X-rays are either absorbed or scattered. The images do not show skin and muscle, however, because these tissues are transparent enough for the X-rays to pass through them without being absorbed too much. To detect tumors, other imaging devices are used; such as magnetic resonance imaging. A computed tomography scanner combines an X-ray machine and computer to construct a three dimensional (3D) picture. This has some ability to see other things besides bone.
+
+X-rays are made by hitting metal with fast-moving electrons. They are photons, tiny packets of energy that can move atoms and change chemicals in the body. The things they do depend on the wavelength of the X-rays (or how much energy they have). X-rays with smaller energies ("soft" x-rays) cause the photoelectric effect. Mid-level energies cause Compton scattering. High-level energies ("hard" X-rays) cause pair production. X-rays used for making pictures of people have low to medium energy. Radiation therapy that treats cancer uses Compton scattering and sometimes Pair production.
+
+There are small amounts of X-rays in the air. Like other energy in the air, X-rays can change living cells. Exposing the human body to high doses of X-rays for a long time is dangerous. It can cause cancer. However, cancer cells are hurt more easily, so X-rays are sometimes used to kill them.

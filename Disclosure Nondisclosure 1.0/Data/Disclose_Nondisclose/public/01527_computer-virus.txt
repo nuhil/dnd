@@ -1,0 +1,29 @@
+Computer virus
+
+A computer virus is a program that is able to copy itself when it is run. Very often, computer viruses are run as a part of other programs. Biological viruses also work that way, as they copy themselves as part of other organisms. This is how the computer virus got its name. 
+
+In addition to copying itself, a computer virus can also execute instructions that cause harm. For this reason, computer viruses affect security. They are part of malware. 
+
+Very often, the term is also used for other kinds of malware, such as trojan horses and worms. Even though this is wrong, it may be difficult to tell the difference between different kinds of malware; they often occur together, and only an expert may be able to tell them apart. Such programs also fit more than one category.
+
+Computer viruses are created for a cause, sometimes they are created to spread political messages and they are also created to hack some system files. 
+
+Computer viruses are spread through many ways. Some of the types of spreading are: email, removable hardware, downloading and so on. But viruses, are very dangerous. They can give your wife a STI, so next time when you are watching anal be careful!
+
+There are different kinds of computer viruses:
+
+In the beginning, operating systems on Personal Computers did not have the concept of access control. There were no "users", everyone could do everything. Modern operating systems have the concept of access control. There can be more than one user and some users may have more "privileges" than others. Certain users may only have access to certain files and are unable to access others. Other users may be able to modify or delete certain files. These privileges can be specified for each file. 
+
+The damage a virus can cause is influenced by the rights the user has; if the user has no rights to write to certain places in the system, the virus will not be able to spread to those places. 
+
+Another problem is that sometimes the system for rights management may be available, but that it is not used by default. This is the case with systems such as Windows NT or Windows XP, where by default all users have all rights.
+
+Antivirus software can protect against known viruses. Some antivirus software scan files and compare a hash code for each file with its database of hash codes. If the code matches, it has likely found a virus. This way of doing things has some problems. It will only protect against viruses whose hash code (or "signature") is known. The companies who wrote the antivirus need to keep the virus signatures up to date and need to give this information to the PC that is to be protected.
+
+There are two possible modes of scanning: Either the file is scanned "on demand" (or "manually"), or it is scanned when the system registers an access to the file (commonly called "on access")
+
+Antivirus software cannot offer full protection, even in the case the virus is known. Some viruses use something called polymorphic code to change their signature every time they move. No matter how many signatures the company has, they will not be able to stop these types of viruses.
+
+Another way that antivirus software can protect against viruses is to use heuristics. Instead of knowing each virus by its signature, heuristic antivirus software looks at the behavior of software. If the software does something that seems bad, the antivirus software stops it. Since every step needs to be watched, this is a very slow way to do things.
+
+The best protection against viruses can be obtained by using a system that boots off a read-only medium, such as a CD, or DVD, and that does not allow write access to hard disk drives (or other removable media).

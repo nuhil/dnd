@@ -1,0 +1,34 @@
+Mozilla Firefox
+
+Mozilla Firefox (branded as Firefox Quantum and simply known as Firefox) is a free and open source web browser which is made by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. It works on common operating systems, such as Windows, macOS, Linux and Android. With Firefox, browsing features can be added or removed and users can customize Firefox to fit their needs. This was done to make Firefox safe and simple to use. 
+
+Firefox uses the Gecko layout engine to load web pages, which uses up-to-date web standards. However, Firefox for iOS, which was released in late 2015, does not use Gecko due to Apple's restrictions which only allow third-party web browsers to use the WebKit-based layout engine that is built into iOS.
+
+Firefox was created in 2002, under the name "Phoenix" by the Mozilla community members who wanted a standalone browser rather than a bundle of different Mozilla applications. Even in its beta phase, Firefox proved to be popular with its testers and was praised for its speed, security, and add-ons compared to Microsoft's then-popular Internet Explorer 6. Firefox was released in November 2004 and was highly successful with 60 million downloads within nine months, marking the first time that Internet Explorer's popularity was being challenged. Firefox is considered the spiritual successor of Netscape Navigator since the Mozilla community was created by Netscape in 1998.
+
+Firefox 3.0, while it was being made, was given the name "Gran Paradiso". Like other Firefox development names, "Gran Paradiso" is an actual place; in this case, it is the second-highest mountain group in the Graian Alps.
+
+In 2006, the development team asked people who used Firefox to submit ideas for features in Firefox 3.
+
+NetApplications says that the use of Firefox 3 had been going up quickly to a usage share of 23.75% in September 2009. They believe that this means that Firefox 3 is stable and that users are making it their main browser.
+
+The date for the launch of Firefox 3 was June 17, 2008, named "Download Day 2008." Firefox was aiming to set the record for most Firefox downloads in 24 hours. As of June 18, 2008, more than 6.88 million people have downloaded Firefox 3.
+
+Many people tried going to the Mozilla website on June 17, making it unavailable for at least a few hours. The site was not updated for the download of Firefox 3 until 12:00 PDT. "Download Day" ended at 11:16 AM PDT June 18. Firefox 3 has been downloaded 28,340,281 different times.
+
+Features include tabbed browsing, spell checking, incremental find, live bookmarking, Smart Bookmarks, a download manager, private browsing, location-aware browsing (also known as "geolocation") based on a Google service, and an integrated search system.
+
+Extensions let a user add new things to the browser or change how it does something. They are created by other users. Because extensions are able to access all parts of the computer that Firefox can, extensions that can harm a computer could be made. However,the extension can only change system settings if you have administrator privileges.
+
+Firefox also has themes or skinning which change the way the browser looks to the user. Some themes that can make Firefox look like other browsers, such as Internet Explorer and Netscape.
+
+Tabbed browsing is a feature used in the browser where many webpages can be opened in one window, with labeled tabs on top to select the webpage. To make a new empty tab, type control-T.
+
+There is a search box in Firefox that can be seen in the top right corner of the window. When someone using Mozilla Firefox types something in the search box and presses enter, the browser will search the Internet using a search engine like Google or Yahoo!.
+There are ""search suggestions"" in Firefox 2. When words are typed in the search box, suggested words will appear. For example, if ""wiki"" is typed, the browser will suggest ""Wikipedia"".
+
+Firefox can use spell checking, if a word is typed badly into a text box, like the one where someone changes a Wikipedia page, the program will underline the word that is spelled wrong with a red line. If you scroll over that word and right click, Mozilla Firefox will list words which use the right spelling. For example: the wrong word "chekc" will have "check" as a suggestion.
+
+Firefox's international usage grew to 32% by the end of 2009. After the release of Google Chrome, Firefox's popularity began to decline. , Firefox has between 9% and 16% of worldwide usage as a desktop browser, making it the second most-popular web browser. Firefox continues to be the most popular browser in Cuba, Eritrea, and Germany, with 85.93%, 79.39%, and 38.36% of the market share, respectively. It is also the most popular desktop browser in many African countries. According to Mozilla, , there were half a billion Firefox users around the world. With Internet Explorer declining, Firefox has reached second place in February 2016 as a desktop browser, behind Google Chrome.
+
+Mozilla Firefox has been given a number of awards by many organizations. These awards include:

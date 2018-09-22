@@ -1,0 +1,19 @@
+Thermodynamics
+
+Thermodynamics is a branch of physics that studies the movement of heat between different objects. Thermodynamics also studies the change in pressure and volume of objects. A branch of math called statistics is often used in thermodynamics to look at the motion of particles. 
+
+Thermodynamics is useful because it helps us understand how the world of the very small atoms connects to the large scale world we see everyday. 
+
+Thermodynamics also has two main branches called classical thermodynamics and statistical thermodynamics. An important idea in thermodynamics is that of a thermodynamic system.
+
+An example of a thermodynamic system is a brick. A brick is made up of many atoms which all have their own properties. All thermodynamic systems have two kinds of properties, "extensive" and "intensive". For the brick, the extensive properties are the ones you get by adding up all the atoms. Things like the volume, energy, mass, and charge are extensive because two of the same brick put together have twice as much mass as one brick. The intensive properties of the brick are the ones you get by looking at the average over all atoms. Things like temperature, pressure, and density are intensive because two of the same brick still has the same temperature as one brick alone.
+
+There are four laws of thermodynamics that say how energy can be moved between two objects in the form of heat. 
+
+
+
+
+
+Earlier, thermodynamics was studied to make steam engines work better. Now, ideas from thermodynamics are used in everything from making engines to studying black holes.
+
+Scientists use thermodynamics for many reasons. One is to make better engines and refrigerators. Another is to understand the properties of everyday materials so that they can make them stronger in the future. Thermodynamics is also used in chemistry to explain which reactions will work and which will not. Thermodynamics is powerful because simple models for atoms work well in explaining the properties of large systems like bricks.

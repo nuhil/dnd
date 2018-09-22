@@ -1,0 +1,45 @@
+Enzyme
+
+Enzymes are protein molecules in cells which work as catalysts. Enzymes speed up chemical reactions in the body, but do not get used up in the process.
+
+Almost all biochemical reactions in living things need enzymes. With an enzyme, chemical reactions go much faster than they would without the enzyme.
+
+The substances at the start of the reaction are called substrates. The substances at the end of the reaction are the products. Enzymes work on the substrates, and turn them into products.
+
+The first enzyme was found in 1833, by Anselme Payen.
+
+Enzymes are large molecules made from many amino acids. The amino acids link together in a long chain, which is folded up into a complex structure. Enzymes have a part which holds the substrate: a "claw, cleft, hollow or knob to grasp, hold, stretch and bend the molecule it acts on, the substrate".
+
+There are thousands of different enzymes. Enzymes have names which show what they do. Enzyme names usually end in –ase to show that they are enzymes. Examples of this include ATP synthase. It makes a chemical called ATP. Another example is DNA polymerase. It reads an intact DNA strand and uses it as a template to make a new strand.
+
+One example of an enzyme is amylase, found in saliva. It breaks down starch molecules into smaller glucose and maltose molecules. Another kind of enzyme is lipase. It breaks down fats into smaller molecules.
+
+The proteases are a whole class of enzymes. They break down other enzymes and proteins back into amino acids. Nucleases are enzymes that cut DNA or RNA, often in specific place in the molecule.
+
+Enzymes are not only for breaking large chemicals into smaller chemicals. Other enzymes take smaller chemicals and build them up into bigger chemicals, and do many other chemical tasks. The classification below lists the main types.
+
+Biochemists often draw a picture of an enzyme to use as a visual aid or map of the enzyme. This is hard to do because there may be hundreds or thousands of atoms in an enzyme. Biochemists can not draw all this detail. Instead, they use ribbon models as pictures of enzymes. Ribbon models can show the shape of an enzyme without having to draw every atom.
+
+Most enzymes will not work unless the temperature and pH are just right. In mammals the right temperature is usually about 37C degrees (body temperature). The correct pH can vary greatly. Pepsin is an example of an enzyme that works best when pH is about 1.5.
+
+Heating an enzyme above a certain temperature will destroy the enzyme permanently. It will be broken down by protease and the chemicals will be used again.
+
+Some chemicals can help an enzyme do its job even better. These are called "activators". Sometimes, a chemical can slow down an enzyme or even make the enzyme not work at all. These are called "inhibitors". Most drugs are chemicals that either speed up or slow down some enzyme in the human body.
+
+Enzymes are very specific. In 1894 Emil Fischer suggested that both the enzyme and the substrate have specific complementary geometric shapes that fit exactly into one another. This is often referred to as "the lock and key" model. However, this model fails to explain what happens next.
+
+In 1958, Daniel Koshland suggested a modification to the lock and key model. Since enzymes are rather flexible structures, the active site is reshaped by interactions with the substrate. As a result, the substrate does not simply bind to a rigid active site. The amino acid side-chains of the active site are bent into positions so the enzyme does its catalytic work. In some cases, such as glycosidases, the substrate molecule also changes shape slightly as it enters the active site.
+
+The general equation for an enzyme reaction is:
+
+Enzymes lower the activation energy of a reaction by forming an intermediary complex with the substrate. This complex is called an enzyme-substrate complex.
+
+For example, sucrase, 400 times the size of its substrate sucrose, splits the sucrose into its constituent sugars, which are glucose and fructose. The sucrase bends the sucrose, and strains the bond between the glucose and fructose. Water molecules join in and make the cleavage in a fraction of a second. Enzymes have these key features:
+
+There are five main ways that enzyme activity is controlled in the cell.
+
+
+Cofactors, or coenzymes, are helper molecules which are needed to make an enzyme work. They are not proteins, and may be organic or inorganic molecules. Both types of molecules sometimes contain a metal ion at the centre, such as Mg, Cu, Mn or iron-sulphur clusters. This is because such ions may act as electron donors, and this is important in many reactions. The need of enzymes for various little helpers is the basic reason why animals, including ourselves, need trace elements and vitamins.
+
+Enzymes have been classified by the "International Union of Biochemistry". Their Commission on Enzymes has grouped all known enzymes into six classes:
+The individual enzymes are given a four-figure number which classifies them in the database.

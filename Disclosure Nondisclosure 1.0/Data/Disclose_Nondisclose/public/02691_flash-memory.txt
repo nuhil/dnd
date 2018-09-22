@@ -1,0 +1,11 @@
+Flash memory
+
+Flash memory is a memory storage device for computers and electronics. It is most often used in devices like digital cameras, USB flash drives, and video games. It is quite similar to EEPROM.
+
+Flash memory is different from RAM because RAM is volatile (not permanent). When power is turned off, RAM loses all its data. Flash can keep its data intact with no power at all. A hard drive is also permanent (non-volatile) storage, but it is bulky and fragile. Flash memory is one kind of Non-volatile random-access memory. It is slower than RAM but faster than hard drives. It is much used in small electronics because it is small and has no moving parts.
+
+The main weakness of flash memory is that it is more expensive than hard drives for the same amount of storage. Another weakness of flash memory is the number of times that data can be written to it. Data can be read from flash as many times as desired, but after a certain number of "write" operations, it will stop working. Most flash devices are designed for about 100,000 - 1,000,000 write operations (or "write cycles").
+
+EEPROM has the same limitation that flash does: it can only survive about 100,000 write cycles. But it is more expensive than flash, so it is rarely used for storage greater than 128kB. The main difference between EEPROM and flash memory is that EEPROM can "write" to any byte of memory, at any time. Flash memory can only write to an entire chunk, or "sector", of memory at a time. That means that if the user wants to change only one byte, flash must also re-write all the bytes in that sector. This means that flash memory can wear out faster than EEPROM. Flash Memory can store as many as hundreds of GBs. Many are in the form of a pen drive. 
+
+Flash memory is used in USB Drives, SSD Drives, computer RAM (occasionally), hybrid drives (small SSD + Hard Drive), graphics cards, and memory cards.

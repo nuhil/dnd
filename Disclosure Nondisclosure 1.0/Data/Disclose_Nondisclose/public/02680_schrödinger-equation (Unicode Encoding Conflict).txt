@@ -1,0 +1,33 @@
+Schrödinger equation
+
+The Schrödinger equation is a differential equation (a type of equation that involves an unknown function rather than an unknown number) that forms the basis of quantum mechanics, one of the most accurate theory of how subatomic particles behave. It is a mathematical equation that was thought of by Erwin Schrödinger in 1925. It defines a wave function of a particle or system (group of particles) which has a certain value at every point in space for every given time. These values have no physical meaning (in fact, they are mathematically complex), yet the wave function contains all information that can be known about a particle or system. This information can be found by mathematically manipulating the wave function to return real values relating to physical properties such as position, momentum, energy, etc. The wave function can be thought of as a picture of how this particle or system acts with time and describes it as fully as possible.
+
+The wave function can be in a number of different states at once, and so a particle may have many different positions, energies, velocities or other physical properties at the same time (i.e. "be in two places at once"). However, when one of these properties is measured it has only one specific value (which cannot be definitely predicted), and the wave function is therefore in just one specific state. This is called wave function collapse and seems to be caused by the act of observation or measurement. The exact cause and interpretation of wave function collapse is still widely debated in the scientific community.
+
+For one particle that only moves in one direction in space, the Schrödinger equation looks like:
+
+formula_1
+where formula_2 is the square root of -1, formula_3 is the reduced Planck's constant, formula_4 is time, formula_5 is a position, formula_6 is the wave function, and formula_7 is the potential energy, an as yet not chosen function of position. The left hand side is equivalent to the Hamiltonian energy operator acting on formula_8.
+
+Assuming that the wave function, formula_9, is separable, i.e. assuming the function of two variables can be written as the product of two different functions of a single variable:
+formula_10
+then, using standard mathematical techniques of Partial differential equations, it can be shown that the wave equation can be rewritten as two distinct differential equations
+formula_11
+
+formula_12
+where the first equation is solely dependent on time formula_13, and the second equation depends only on position formula_14, and where formula_15 is just a number. The first equation can be solved immediately to give
+formula_16
+where formula_17 is Euler's number. Solutions of the second equation depend on the potential energy function, formula_7, and so cannot be solved until this function is given. It can be shown using quantum mechanics that the number formula_15 is actually the energy of the system, so these separable wave functions describe systems of constant energy. Since energy is constant in many important physical systems (for example: an electron in an atom), the second equation of the set of separated differential equations presented above is often used. This equation is known as the Time independent Schrödinger Equation, as it does not involve formula_4.
+
+There are many philosophical interpretations of the wave function, and a few of the leading ideas will be considered here. The main idea, called the Born probability interpretation (named after physicist Max Born) comes from the simple idea that the wave function is square integrable; i.e.
+formula_21
+This rather simple formula has great physical implications. Born hypothesized that The above integral determines that the particle "exists somewhere in space". But how can we find it? We use the integral 
+formula_22 to formula_23. In other words, all that can be known in advance about a particle in general are probabilities, averages, and other statistical quantities associated with its physical quantities (position, momentum, etc.). Basically, this is the Born interpretation.
+
+An extension of the above ideas can be made. Since the Born interpretation says that the actual position particle cannot be known, we can derive the following. If formula_24 are solutions to the wave equation, then the superposition of those solutions, i.e.
+formula_25
+is also a solution. This implies, then, that the particle exists in every possible position. When an observer comes and measures the position of the particle, then the superposition is reduced to a single possible wave function. (i.e., formula_26 → formula_27, where formula_27 is any of the possible wave function states.) This idea that a particle's position cannot exactly be known, and that a particle exists in multiple positions simultaneously gives rise to the Uncertainty principle. The mathematical formulation of this principle can be given by
+formula_29
+Where formula_30 is the uncertainty in position, and formula_31 is the uncertainty in momentum. This principle can be mathematically derived from the Fourier transforms between momentum and position as defined by quantum mechanics, but we will not derive it in this article. 
+
+There are various other interpretations, such as the many-worlds interpretation, and quantum determinism.

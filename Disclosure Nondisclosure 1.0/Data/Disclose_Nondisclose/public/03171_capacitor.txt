@@ -1,0 +1,22 @@
+Capacitor
+
+A capacitor (also called condenser, which is the older term) is an electronic device that stores electric energy. It is similar to a battery, but is smaller, lightweight and charges up much quicker. Capacitors are used in many electronic devices today, and can be made out of many different types of material. The Leyden jar was one of the first capacitors invented.
+
+Capacitors are usually made with two metal plates that are on top of each other and near each other, but that do not actually touch. When powered, they allow energy to be stored inside an electrical field. Because the plates need a lot of area to store even a small amount of charge, the plates are usually rolled up into some other shape, such as a cylinder. Sometimes, other shapes of capacitors are used for special purposes. A capacitor-like effect can also result just from two conductors being close to each other, whether you want it to exist or not.
+
+The type of capacitor used depends on the application. Capacitors come in many sizes. They can be as small as an ant or as large as a dustbin. A few capacitors are adjustable. 
+
+All capacitors have two connections, or leads. Most kinds of capacitors can be replaced easily by someone who has basic skills in electronics. However, one of the more powerful types - the electrolytic capacitor - must be used the correct way, or they can explode violently.
+
+While capacitors can store energy, as batteries do, capacitors can also release all their stored energy very quickly, even faster than a second.
+
+A charging and discharging defibrillator or a photoflash capacitor is a good example of how a capacitor gradually charges up, until it can not be filled any more, and then quickly discharges its stored power to a device that needs to have it quickly. 
+
+Supercapacitors hold a bigger charge than regular capacitors. They are used to store electricity for motors and other purposes when batteries won't discharge quickly enough. 
+
+This type of capacitor is not for use in high frequency circuits, being made with a coil inside. They are used in filter circuits or timing circuits which run at several hundred KHz or less.
+
+Electrolytic capacitors use a conducting surface inside a liquid electrolyte. They have polarity and so they have to be attached correctly. There are two leads; one will have a + and the other a -. This means one lead is "positive" and one is "negative". There are two different styles: axial, where the leads are connected to each end, and radial, where the leads are connected to one end. The rating of an electrolytic capacitor is easy to find because they are printed with capacitance and voltage rating.
+
+Since the voltage rating can be low, it is important to check that the electrolytic capacitor is not overcharged. Capacitors can be separated from a battery, then connected in series. Because the capacitor is polarized, the positive terminal must be connected to a negative terminal. This creates "correct polarity" through the electrical circuit and prevents breakdown.
+Some electrolytic capacitors are unpolarized, meaning that either side can be positive or negative. These are mostly used in loudspeakers to block low-frequency signals (bass) from reaching high-frequency (tweeter) drivers.

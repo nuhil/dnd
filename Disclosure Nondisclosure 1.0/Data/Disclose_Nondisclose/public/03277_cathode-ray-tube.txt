@@ -1,0 +1,9 @@
+Cathode ray tube
+
+The cathode ray tube or CRT was invented by Karl Ferdinand Braun. It was the most common type of display for many years. It was used in almost all computer monitors and televisions until LCD and plasma screens started being used.
+
+A cathode ray tube is an electron gun. The cathode is an electrode (a metal that can send out electrons when heated). The cathode is inside a glass tube. Also inside the glass tube is an anode that attracts electrons. This is used to pull the electrons toward the front of the glass tube, so the electrons shoot out in one direction, like a ray gun. To better control the direction of the electrons, the air is taken out of the tube, making a vacuum.
+
+The electrons hit the front of the tube, where a phosphor screen is. The electrons make the phosphor light up. The electrons can be aimed by creating a magnetic field. By carefully controlling which bits of phosphor light up, a bright picture can be made on the front of the vacuum tube. Changing this picture 30 times every second will make it look like the picture is moving. Because there is a vacuum inside the tube (which has to be strong enough to hold out the air), and the tube must be glass for the phosphor to be visible, the tube must be made of thick glass. For a large television, this vacuum tube can be quite heavy.
+
+The cathode ray tube was invented in 1897, and used as an oscilloscope (a machine to show waves). Later, along with other inventions and improvements, it was used for the first modern electronic television by Philo T. Farnsworth in the 1920s. The CRT was the main type of television screen until the liquid crystal display became popular in the early 2000s.

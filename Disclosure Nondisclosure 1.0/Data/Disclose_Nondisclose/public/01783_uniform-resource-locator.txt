@@ -1,0 +1,18 @@
+Uniform Resource Locator
+
+Uniform Resource Locator (URL) is another name for a web address. URLs are made of letters, numbers and other symbols in a standard form. People use them on computers by clicking a pre-prepared link or typing one into a web browser, to make the computer fetch and show some specific resource (usually a web page) from another computer (web server) on the Internet.
+
+URLs consist of several parts:
+
+In some cases, the URL may also contain
+
+The URL of this page is <nowiki>http://simple.wikipedia.org/w/index.php?title=Uniform_Resource_Locator</nowiki>
+
+
+A shorter form, called a "relative" URL, is used when a computer could correctly fill in the full ("absolute") URL from context. For example of <nowiki>/wiki/URL</nowiki> only works for a link on wikipedia to this page on wikipedia. Absolute URLs can be shared outside of computers, even with little or no explanation.
+
+URLs is URI. URI is Uniform Resource Identifier. URL vs URI is basically same. So, you don't need to confuse in it.
+
+These are at the end of the domain name which has a period mark before it. At first there were six main extensions:
+
+Today, there are many other URL extensions. These are usually either a top level domain or interest grouping. Each country has its own top level domain, for example, .ca for Canada, .us for the United States of America or .co.uk for the United Kingdom. Many countries have a government-only extension, for example the United States uses .gov or .fed.us, .gc.ca for Canada and .gov.uk for the United Kingdom. Interest group domains would include .tv (television), .pro (professionals) and .xxx (pornography). These are not used as often as the original extensions.

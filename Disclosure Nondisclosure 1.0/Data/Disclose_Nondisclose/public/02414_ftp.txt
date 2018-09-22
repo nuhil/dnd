@@ -1,0 +1,9 @@
+FTP
+
+FTP, also known as File Transfer Protocol, is a communication protocol for the rapid, simple transmission of files across a network supporting the TCP/IP protocol. This network is generally the Internet, or a local network. FTP is a way of accessing files on another computer. FTP uses the Client-Server architecture, meaning that there is a server, that holds the files, and does the authentication, and a client, or the end-user, who is accessing the files. The server listens on the network for connection requests from other computers. The client can make a connection to the FTP server by using FTP client software. Once connected and authenticated (via rsh or SFTP) the client can do things such as uploading files to the server, downloading files (taking the server's files and putting them on his own computer) from the server, and renaming, deleting files on the server, changing file permissions, etc.
+
+Most modern Operating Systems support FTP. This implies that any computer to connected to a TCP/IP based network can manipulate files on another computer on that network regardless of which operating systems are involved, provided that they are open to FTP connections. There are many existing FTP client and server programs, many of these are available free, or open source.
+
+FTP connection is also seen in cellular phones when trying to transfer or receive data from a computer nearby. 
+
+FTP server return codes show their status by the digits within them. A short explanation of various digits' meanings are given below:

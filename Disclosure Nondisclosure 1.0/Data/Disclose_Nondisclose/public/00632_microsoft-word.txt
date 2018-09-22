@@ -1,0 +1,22 @@
+Microsoft Word
+
+Microsoft Word or MS-WORD (often called "Word") is a graphical word processing program that users can type with. It is made by the computer company Microsoft. Its purpose is to allow users to type and save documents. 
+
+Similar to other word processors, it has helpful tools to make documents.
+
+MS Word is a part of Microsoft Office, but can also be bought separately.
+
+The program was first released in 1981.
+Many of the ideas and features in Microsoft Word came from Bravo, the first graphical writing program.
+Microsoft bought the Bravo program, and changed its name to "Microsoft Word".
+When it first came out, it was not very popular, and did not sell as well as other writing programs like WordPerfect.
+Although it was not very popular when it came out, it had a feature called "WYSIWYG" (What You See Is What You Get), which meant that people can change the visual style of writing (e.g. bold, italics), by clicking on buttons, when in other programs like WordPerfect, people had to add special 'codes' to change the style of writing. "WYSIWYG" is now a common feature of all computer writing programs.
+
+There are versions for Microsoft Word for other operating systems as well as Microsoft Windows. New versions support fewer operating systems, although they always support Windows.
+
+"Note: "Word for Windows" is the name of the Microsoft word made for Microsoft Windows.'"'
+
+
+The program is very popular.
+
+Without configuration the program saved the document in a proprietary file format, so other programs could not open it. When the user sent his document to a friend, the friend needed a copy of Microsoft Word to read the document. Then that friend would probably also save documents in the same secret format of Word. This gave Microsoft Word a dominant position.

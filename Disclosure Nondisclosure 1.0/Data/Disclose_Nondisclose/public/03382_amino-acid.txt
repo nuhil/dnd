@@ -1,0 +1,24 @@
+Amino acid
+
+Amino acids are the building blocks of proteins.
+In eukaryotes, there are 20 standard amino acids out of which almost all proteins are made.
+
+In biochemistry, an amino acid is any molecule that has both amine (NH+R) and carboxyl (C=O) functional groups. In biochemistry, this term refers to alpha-amino acids with the general formula HNCHRCOOH, where R is one of many side groups (see diagram). 
+
+About 500 amino acids are known. For animals, the most important thing that amino acids do is to make proteins, which are very long chains of amino acids. Every protein has its own sequence of amino acids, and that sequence makes the protein take different shapes, and have different functions. Amino acids are like the alphabet for proteins; even though you only have a few letters, if you connect them, you can make many different sentences.
+
+Nine of the 20 standard amino acids are "essential" amino acids for humans. They cannot be built (synthesised) from other compounds by the human body, and so must be taken in as food. Others may be essential for some ages or medical conditions. Essential amino acids may also differ between species. Herbivores have to get their essential amino acids from their diet, which for some is almost entirely grass. Ruminants such as cows get some amino acids via microbes in the first two stomach chambers.
+
+An amino acid consists of an α-carbon atom that is covalently bonded to four groups.
+
+
+Every amino acid has at least one amino group (-NH) and one carboxyl group (-COOH), except proline.
+
+These are the proteinogenic amino acids, which are the building blocks for proteins. They are produced by cellular machinery coded for in the genetic code of any organism.
+† The stop codon is not an amino acid, but is included for completeness.
+†† UAG and UGA do not always act as stop codons (see above).
+‡ An essential amino acid cannot be synthesized in humans. It must be supplied in the diet. Conditionally essential amino acids are not normally required in the diet, but must be supplied to populations which do not make enough of it.
+
+To these α-amino acids further in biosynthesis processes appearing non-essential ones are structurally (here by using SMILES notation) related:
+
+OC(=O)C(N)–

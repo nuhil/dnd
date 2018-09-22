@@ -1,0 +1,11 @@
+Floppy disk
+
+The floppy disk (or a 3½ floppy for today's standard) is a removable magnetic storage medium. Floppy disks are used for moving information between computers, laptops or other devices. Some early digital cameras, electronic music instruments and older computer game consoles use floppy disks. Floppy disks are inserted in to a floppy disk drive or simply floppy drive to allow data to be read or stored.
+
+Floppy disks store much less data than a CD-ROM disk or USB flash drive. A normal 3½ inch disk can store 1.44 megabytes of data. This is usually enough for simple text documents.
+
+A special type of floppy disk was made in the late 1980s. It could store 2.88 MB of data. They did not become popular. Larger size floppy disks became available in the 1990s. The two most popular were the Zip drive and the Jaz drive, both made by Iomega.
+
+Floppy disk technology has been around since the early 1970s (the 8-inch floppy was the first). Today, floppy disks have been replaced by other storage media, like USB flash drives.
+
+A floppy drive (often called drive “A” on a computer) can be connected to or installed in a personal computer (PC). It is the part of a computer that reads and writes the disk that can be removed. A disk, often called a "floppy disk", is used to store files and carry them from one computer to another by using the floppy drive. The floppy drive reads the disk (or diskette) and the user is then able to open and change the files saved on the disk.

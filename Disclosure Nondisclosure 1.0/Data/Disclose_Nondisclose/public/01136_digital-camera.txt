@@ -1,0 +1,17 @@
+Digital camera
+
+A digital camera is a camera that stores pictures in electronic memory instead of film. Because of this, a digital camera can hold many more pictures than a traditional film camera. A digital camera can sometimes hold hundreds or thousands of pictures. Many use a memory card to store them. Most digital cameras can use a USB cable that connects into a computer to send pictures that are in the camera to the computer.
+
+Digital photography is a kind of photography where a digital camera is used to take photos. Digital cameras use an image sensor instead of photographic film. Very often, they also use a memory card to store the photos in a digital format. Most photography is digital, though some photographers still use the old film cameras. 
+
+The majority of cameras are part of a mobile phone, called a "camera phone". They can send their pictures to other phones and other devices. Most camera phones do not make as good pictures as larger separate cameras do, especially where light is not bright.
+
+Most digital cameras can serve as Video cameras. Some have a direct link to another computer where the data may be stored.
+
+When you take a picture or a video, it is saved on a memory device. The memory device can be internal - flash memory inside the camera, or external - memory cards, microdrives and so on. The most used method for saving pictures and videos from a camera is a SD card.
+
+The picture can be saved in a compressed file (JPEG, TIFF) or in an uncompressed RAW file. The compressed picture is lower quality than the uncompressed, but the uncompressed picture has to be processed in a computer.
+
+A video is usually saved as an AVI, MPEG or MOV file format (it depends on the producer of the camera).
+
+Most modern cameras also put Exif information in the picture file. This metadata information usually includes the date of taking the picture, the camera type, and its settings. Some cameras include GPS coordinates.

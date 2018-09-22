@@ -1,0 +1,18 @@
+Windows Vista
+
+Windows Vista is the 6th version of the Microsoft Windows operating system from Microsoft. While it was being made, it was called Longhorn. On July 28, 2005, Microsoft gave out its real name, Windows Vista.
+
+Microsoft had worked on Vista for more than five years, so it came with many new features, such as improved graphics, new built-in programs, and stronger defenses against computer viruses. However, Vista introduced many changes to the way the operating system worked, which caused some older programs to stop working.
+
+Vista was released in November 2006 for system builders and January 30, 2007 for home users. The four main editions of Windows Vista are:
+
+
+There are 2 special versions called Home Starter Edition, and Enterprise Edition. Home Starter is basically the same as XP Starter, and is for low budget countries. Vista needs at least 512 MB of RAM to run on all computers. Some new parts of Vista need 1 GB of RAM to work. Unofficially, it can run with 256 MB, but the performance will be poor.
+
+For stability and performance, more than 1 Gigabyte of main memory (RAM) is always helpful with a large operating system such as this.
+
+Microsoft releases service packs to update software and fix problems.
+
+Windows Vista Service Pack 1 (SP1) was released on February 4, 2008 alongside Windows Server 2008 to OEM partners, after a five-month beta test period. The first use of the service pack caused a number of machines to continually reboot, rendering the machines unusable. This caused Microsoft to temporarily suspend automatic deployment of the service pack until the problem was resolved. The same release date of the two operating systems showed the merging of the workstation and server kernels back into a single code base for the first time since Windows 2000. MSDN subscribers were able to download SP1 on February 15, 2008. SP1 became available to current Windows Vista users on Windows Update and the Download Center on March 18, 2008. Initially, the service pack only supported 5 languages - English, French, Spanish, German and Japanese. Support for the remaining 31 languages was released on April 14, 2008.
+
+Service Pack 2 for Windows Vista was released to manufacturing on April 28, 2009, and released to Microsoft Download Center and Windows Update on May 26, 2009. In addition to a number of security and other fixes, a number of new features have been added. However, it did not include Internet Explorer 8.

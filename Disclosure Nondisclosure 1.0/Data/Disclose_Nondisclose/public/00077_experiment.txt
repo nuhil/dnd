@@ -1,0 +1,7 @@
+Experiment
+
+An experiment is a test of an idea or a method. It is often used by scientists and engineers. An experiment is used to see how well the idea matches the real world. Experiments have been used for many years to help people understand the world around them. Experiments are part of scientific method.
+
+Experiments can tell us if a theory is false, or if something does not work. They cannot tell us if a theory is true. When Einstein said that gravity could affect light, it took a few years before astronomers could test it. General relativity predicts that the path of light is bent in a gravitational field; light passing a massive body is deflected towards that body. This effect has been confirmed by observing the light of stars or distant quasars being deflected as it passes the Sun.
+
+Now, a hundred years or so after Einstein published his ideas, there have been many tests, all of which have been consistent with Einstein's predictions. But, one day, we might find the theory has some limits beyond which it does not work. What we test are implications of the theory, because the theory itself is too large and complicated to test all at once.

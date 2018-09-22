@@ -1,0 +1,11 @@
+Euclid
+
+Euclid of Alexandria (Greek: ) (about 325 BC–265 BC) was a Greek mathematician who lived in Alexandria, Egypt and worked at the Library of Alexandria. Little is known about this person, but people think he lived there when Ptolemy I was Pharaoh. It is not known where or when he was born.
+
+Euclid collected together all that was known of geometry, which is part of mathematics. His "Elements" is the main source of ancient geometry. Textbooks based on Euclid have been used up to the present day. In the book, he starts out from a small set of axioms (that is, a group of things that everyone thinks are true). Euclid then shows the properties of geometric objects and of whole numbers, based on those axioms.
+
+The "Elements" also includes works on perspective, conic sections, spherical geometry, and possibly quadric surfaces. Apart from geometry, the work also includes number theory. Euclid came up with the idea of "greatest common divisors". They were in his "Elements". The greatest common divisor of two numbers is the greatest number that can fit evenly in both of the two numbers.
+
+The geometrical system described in the "Elements" was long known simply as geometry, and was considered to be the only geometry possible. Today that system is referred to as Euclidean geometry to distinguish it from other so-called non-Euclidean geometries which mathematicians developed in the 19th century. 
+
+In addition to the "Elements", at least five works of Euclid have survived to the present day. They follow the same logical structure as "Elements", with definitions and proved propositions.

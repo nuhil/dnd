@@ -1,0 +1,17 @@
+Particle physics
+
+Particle physics is a category of physics that studies really tiny pieces of things, known as particles. These particles are the really small pieces that build up the world around us. 
+
+Particles can carry fundamental forces. For example, the electromagnetic force is carried by photons. The four fundamental forces are responsible for almost everything in all of physics. These fundamental forces are: gravity, magnetism, weak interaction and strong interaction.
+
+One of the important concepts of particle physics is called the Standard Model. The Standard Model is a theory which tries to explain the fundamental forces. The Standard Model combined with General Relativity is currently the most accepted explanation of how the Universe works. 
+
+The Standard Model is known to have problems. For example, there is not much in it that explains gravity. This is why General Relativity, a different theory to explain how things have gravity, needs to be included in order for physicists to explain the universe. There is a lot of work to improve the theory and/or find a better theory that is being done. This work is often called theoretical particle physics, because none of it has been actually proven. Theoretical particle physicists make theories to try to improve the Standard Model. One example of this is how there are many theories that predict undiscovered particles.
+
+Physicists find out about particles by studying collisions between different particles. A good analogy of how physicists study particles through colliding is the car crash example. Imagine a person wanted to look inside cars. By crashing two cars together at very high speeds, we can break the cars apart and see inside. In the same way, physicists crash two particles together in order to break them and study the inside.
+
+If particles are moving at very high speeds, some of them will break apart when they collide. When they break, they create new smaller particles. These particles are very hard to find and detect because they decay (change into lighter particles) very quickly. Modern particle physics involves colliding particles together very energetically to create new particles inside a particle accelerator. This is called high-energy physics, due to the large amount of energy needed.
+
+However, many particles do not simply break apart, such as electrons. Because it does not break apart, the electron is called a fundamental particle. If you were to smash two super-fast electrons against each other, they would not break, but instead they might create more particles around them without breaking (this is another form of decay, known as a hadron jet). The Standard Model says that there are 17 types of fundamental particles, but there are actually twice as many because they can all be created out of antimatter.
+
+Particle physics can help us learn about the early universe, because conditions that are similar to the early universe (which was a much more energetic place than it is now) can be made in a small volume of space using the collisions of these particles. The biggest particle accelerator in the world is the Large Hadron Collider at CERN in Europe.

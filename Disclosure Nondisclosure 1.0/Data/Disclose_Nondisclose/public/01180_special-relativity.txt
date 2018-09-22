@@ -1,0 +1,74 @@
+Special relativity
+
+Special relativity (or the special theory of relativity) is a theory in physics that was developed and explained by Albert Einstein in 1905. It applies to all physical phenomena, so long as gravitation is not significant. Special relativity applies to Minkowski space, or "flat spacetime" (phenomena which are not influenced by gravitation).
+
+Einstein knew that some weaknesses had been discovered in older physics. For example, older physics thought light moved in luminiferous aether. Various tiny effects were expected if this theory were true. Gradually it seemed these predictions were not going to work out. 
+
+Eventually, Einstein (1905) drew the conclusion that the concepts of space and time needed a fundamental revision. The result was special relativity theory. This is based on the constancy of the speed of light in all inertial frames of reference and the principle of relativity.
+
+
+Galileo had already established the principle of relativity, which said that physical events must look the same to all observers, and no observer has the "right" way to look at the things studied by physics. For example, the Earth is moving very fast around the Sun, but we do not notice it because we are moving with the Earth at the same speed; therefore, from our point of view, the Earth is at rest. However, Galileo's math could not explain some things, such as the speed of light. According to him, the measured speed of light should be different for different speeds of the observer in comparison with its source. However, the Michelson-Morley experiment showed that this is not true, at least not for all cases. Einstein's theory of special relativity explained this among other things.
+Suppose that you are moving toward something that is moving toward you. If you measure its speed, it will seem to be moving faster than if you were not moving. Now suppose you are moving away from something that is moving toward you. If you measure its speed again, it will seem to be moving more slowly. This is the idea of "relative speed"—the speed of the object relative to you.
+
+Before Albert Einstein, scientists were trying to measure the "relative speed" of light. They were doing this by measuring the speed of star light reaching the Earth. They expected that if the Earth was moving toward a star, the light from that star should seem faster than if the Earth was moving away from that star. However, they noticed that no matter who performed the experiments, where the experiments were performed, or what star light was used, the measured speed of light in a vacuum was always the same.
+
+Einstein said this happens because there is something unexpected about length and duration, or how long something lasts. He thought that as Earth moves through space, all measurable durations change very slightly. Any clock used to measure a duration will be wrong by exactly the right amount so that the speed of light remains the same. Imagining a "light clock" allows us to better understand this remarkable fact for the case of a single light wave.
+
+Also, Einstein said that as Earth moves through space, all measurable lengths change (ever so slightly). Any device measuring length will give a length off by exactly the right amount so that the speed of light remains the same.
+
+The most difficult thing to understand is that events that appear to be simultaneous in one frame may not be simultaneous in another. This has many effects that are not easy to perceive or understand. Since the length of an object is the distance from head to tail at one simultaneous moment, it follows that if two observers disagree about what events are simultaneous then this will affect (sometimes dramatically) their measurements of the length of objects. Furthermore, if a line of clocks appear synchronized to a stationary observer and appear to be out of sync to that same observer after accelerating to a certain velocity then it follows that during the acceleration the clocks ran at different speeds. Some may even run backwards. This line of reasoning leads to general relativity.
+
+Other scientists before Einstein had written about light seeming to go the same speed no matter how it was observed. What made Einstein's theory so revolutionary is that it considers the measurement of the speed of light to be constant by definition, in other words it is a law of nature. This has the remarkable implications that speed-related measurements, length and duration, change in order to accommodate this.
+
+The mathematical bases of special relativity are the Lorentz transformations, which mathematically describe the views of space and time for two observers who are moving relative to each other but are not experiencing acceleration.
+
+Let there be an observer K who describes when events occur with a time coordinate "t", and who describes where events occur with spatial coordinates "x", "y", and "z". 
+This is mathematically defining the first observer whose "point of view" will be our first reference.
+
+Let us specify that the time of an event is given: by the time that it is observed "t" (say today, at 12 o'clock) minus the time that it took for the observation to reach the observer.
+
+Now with these definitions in place, let there be another observer K' who is
+where "x"' axis is coincident with the "x" axis, 
+and with the "y' "and "z' "axes - "always being parallel" to the "y" and "z" axes.
+
+This means that when K' gives a location like (3,1,2), the x (which is 3 in this example) is the same place that K, the first observer would be talking about, but the 1 on the y axis or the 2 on the z axis are only "parallel" to some location on the K' observer's coordinate system,
+and
+
+The Lorentz Transformations then are <br>
+
+In special relativity, the momentum formula_6 and the total energy formula_7 of an object as a function of its mass formula_8 are
+and
+
+A frequently made error (also in some books) is to rewrite these equation using a "relativistic mass" (in the direction of motion) of formula_11.
+The reason why this is incorrect is that light, for example, has no mass, but has energy. If we use this formula, the photon (particule of light) has a mass, which is according to experiments incorrect.
+
+In special relativity, an object's mass, total energy and momentum are related by the equation
+For an object at rest, formula_13 so the above equation simplifies to formula_14. Hence, a massive object at rest still has energy. We call this rest energy and denote it by formula_15:
+
+The need for special relativity arose from Maxwell's equations of electromagnetism, which were published in 1865. It was later found that they call for electromagnetic waves (such as light) to move at a constant speed (i.e., the speed of light).
+
+To have James Clerk Maxwell's equations be consistent with both astronomical observations and Newtonian physics, Maxwell proposed in 1877 that light travels through an ether which is everywhere in the universe.
+
+In 1887, the famous Michelson-Morley experiment tried to detect the "ether wind" generated by the movement of the Earth. The persistent null results of this experiment puzzled physicists, and called the ether theory into question.
+
+In 1895, Lorentz and Fitzgerald noted that the null result of the Michelson-Morley experiment could be explained by the ether wind contracting the experiment in the direction of motion of the ether. This effect is called the Lorentz contraction, and (without ether) is a consequence of special relativity.
+
+In 1899, Lorentz first published the Lorentz equations. Although this was not the first time they had been published, this was the first time that they were used as an explanation of the Michelson-Morley's null result, since the Lorentz contraction is a result of them.
+
+In 1900, Poincaré gave a famous speech in which he considered the possibility that some "new physics" was needed to explain the Michelson-Morley experiment.
+
+In 1904, Lorentz showed that electrical and magnetic fields can be modified into each other through the Lorentz transformations.
+
+In 1905, Einstein published his article introducing special relativity, ""On the Electrodynamics of Moving Bodies"", in "Annalen der Physik". In this article, he presented the postulates of relativity, derived the Lorentz transformations from them, and (unaware of Lorentz's 1904 article) also showed how the Lorentz Transformations affect electric and magnetic fields.
+
+Later in 1905, Einstein published another article presenting "E" = "mc".
+
+In 1908, Max Planck endorsed Einstein's theory and named it "relativity". In that same year, Hermann Minkowski gave a famous speech on "Space and Time" in which he showed that relativity is self-consistent and further developed the theory. These events forced the physics community to take relativity seriously. Relativity came to be more and more accepted after that.
+
+In 1912, Einstein and Lorentz were nominated for the Nobel prize in physics due to their pioneering work on relativity. Unfortunately, relativity was so controversial then, and remained controversial for such a long time that a Nobel prize was never awarded for it.
+
+
+
+
+
+http://math.ucr.edu/home/baez/physics/Relativity/SR/rocket.html

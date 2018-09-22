@@ -1,0 +1,14 @@
+Temperature
+
+Temperature is how hot or cold a thing is. Our bodies can feel the difference between something which is hot and something which is cold. To measure temperature more accurately, a thermometer can be used. Thermometers use a temperature scale to record how hot or cold something is. The scale most often used is in degrees Celsius (°C), sometimes called centigrade. In the USA, degrees Fahrenheit (°F) are more often used while scientists mostly use kelvins (K) to measure temperature because it never goes below zero.
+
+Scientifically, temperature is a physical quantity which describes how quickly molecules are moving inside a material. In solids and liquids the molecules are vibrating around a fixed point in the substance, but in gases they are in free flight and bouncing off each other as they travel. In a gas the temperature, pressure and volume of the gas are closely related by a law of physics.
+
+When they invented temperature scales scientists found there were certain things which were always around the same temperature:
+
+
+Temperature is not the same as heat. Heat is energy which moves from one thing, cooling it, to another, heating it. Temperature is a measure of the movements (vibration) of the molecules inside a thing. If the thing has a high temperature, it means the average speed of its molecules is fast. A thing may have a high temperature but because it contains very few or light atoms it has very little heat.
+
+The amount of heat that is needed to make a substance one degree higher is called its heat capacity. Different substances have different heat capacities. For example, a kilogram of water has more heat capacity than a kilogram of steel. This means that more energy is needed to make the temperature of water 1 °C hotter than is needed to make the temperature of steel 1 °C hotter.
+
+Temperature is also important in weather and climate. It is related to the amount of heat energy in the air. Isotherm maps are used to show how temperature is different across an area. Temperature will be different during different times of day, different seasons and in different places. It is affected by how much heat reaches the place from the suns rays (insolation), how high the place is above the level of the sea, and how much heat is brought to the place by the movement of winds and ocean currents.

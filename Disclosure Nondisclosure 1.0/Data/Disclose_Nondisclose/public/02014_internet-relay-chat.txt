@@ -1,0 +1,19 @@
+Internet Relay Chat
+
+Internet Relay Chat (IRC) is a chat system on the Internet. It allows people from around the world to have conversations together, but it can also be used for two people to chat privately.
+
+The IRC chat rooms are also called "IRC channels". These channels are on IRC servers, which you can connect to by finding that server's information. This information will often begin with "irc," then a period, the name of the server, then another period, and finally, .com .org or .net. An example would be 'irc.[Servername].org'
+
+There are small IRC servers (for example, OperaNet) to medium IRC servers (freenode and DalNet, which have about 30,000 users) and big IRC servers (for example, EFNet, UnderNet, which have over 100,000 users).
+
+An IRC client is needed to use IRC. An IRC client is a computer program designed to work with IRC. There are many Java web browser based clients as well as application based. Popular stand-alone clients includes mIRC for Microsoft Windows and XChat for Linux and Microsoft Windows. The Opera web browser has an IRC client built into the browser. ChatZilla is a chat client which is a plugin to Mozilla Firefox.
+
+IRC bots are computer programs used to help control and protect channels.
+
+IRC channels usually begin with a hash (#). 
+
+IRC is an open protocol that uses TCP and optionally TLS. An IRC server can connect to other IRC servers to expand the IRC network. Users access IRC networks by connecting a client to a server. There are many client and server programs, such as mIRC and the Bahamut IRCd, respectively. Most IRC servers do not require users to log in, but a user will have to set a nickname before being connected.
+
+IRC was originally a plain text protocol (although later extended), which on request was assigned port 194/TCP by IANA. However, most servers now run IRC on 6667/TCP and nearby port numbers (for example TCP ports 6112-6119) so that the server does not have to be run with root privileges.
+
+This is a list of some programs that allow users to connect to IRC.

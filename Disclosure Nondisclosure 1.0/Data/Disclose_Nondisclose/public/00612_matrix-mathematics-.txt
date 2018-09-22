@@ -1,0 +1,57 @@
+Matrix (mathematics)
+
+In mathematics, a matrix (plural: matrices) is a rectangle of numbers, arranged in rows and columns. The rows are each left-to-right (horizontal) lines, and the columns go top-to-bottom (vertical). The top-left cell is at row 1, column 1 "(see diagram at right)".
+
+There are rules for adding, subtracting and "multiplying" matrices together, but the rules are different than for numbers. As an example, formula_1 does not always give the same result as formula_2, which is the case for the multiplication of ordinary numbers. A matrix can have more than 2 dimensions, such as a 3D matrix. Also, a matrix can be one-dimensional, as a single row or column.
+
+Many natural sciences use matrices quite a lot. In many universities, courses about matrices (usually called linear algebra) are taught very early, sometimes even in the first year of studies. Matrices are also very common in computer science.
+
+The horizontal lines in a matrix are called rows and the vertical lines are called columns. A matrix with "m" rows and "n" columns is called an "m"-by-"n" matrix (or "m"×"n" matrix) and "m" and "n" are called its dimensions. 
+
+The places in the matrix where the numbers are is called "entries". The entry of a matrix "A" that lies in the row number "i" and column number "j" is called the "i,j" entry of "A". This is written as "A"["i,j"] or "a".
+
+We write formula_3 to define an "m" × "n" matrix "A" with each entry in the matrix called "a" for all 1 ≤ "i" ≤ "m" and 1 ≤ "j" ≤ "n".
+
+The matrix
+
+is a 4×3 matrix. This matrix has m=4 rows, and n=3 columns. 
+
+The element "A"[2,3] or "a" is 7.
+
+The sum of two matrices is the matrix, which ("i","j")-th entry is equal to the sum of the ("i","j")-th entries of two matrices:
+
+The two matrices have the same dimensions. Here formula_6 is true.
+
+The multiplication of two matrices is a bit more complicated: 
+So with Numbers:
+
+There are some matrices that are special. 
+
+A square matrix has the same number of rows as columns, so m=n. 
+
+An example of a square matrix is 
+
+This matrix has 3 rows and 3 columns: m=n=3.
+
+Every square dimension set of a matrix has a special counterpart called an "identity matrix". The identity matrix has nothing but zeroes except on the main diagonal, where there are all ones. For example:
+is an identity matrix. There is exactly one identity matrix for each square dimension set. An identity matrix is special because when multiplying any matrix by the identity matrix, the result is always the original matrix with no change.
+
+An inverse matrix is a matrix that, when multiplied by another matrix, equals the identity matrix. For example:
+formula_14 is the inverse of 
+formula_15.
+
+The formula for the inverse of a 2x2 matrix, formula_16 is:
+
+formula_17 
+
+A matrix, that has many rows, but only one column, is called a column vector.
+
+The determinant takes a square matrix and returns a number. To understand what the number means, take each column of the matrix and draw it as a vector. The parallelogram drawn by those vectors has an area, which is the determinant. For all 2x2 matrices, the formula is very simple:
+formula_18
+
+For 3x3 matrices the formula is more complicated:
+formula_19
+
+There are no simple formulas for the determinants of larger matrices, and many computer programmers study how to get computers to quickly find large determinants.
+
+There are three rules that all determinants follow. These are:

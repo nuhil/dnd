@@ -1,0 +1,16 @@
+Computer mouse
+
+A computer mouse is an input device that is most often used with a personal computer. Moving a mouse along a flat surface can move the on-screen cursor to different items on the screen. Items can be moved or selected by pressing the mouse buttons (called clicking).
+
+It is called a computer mouse because of the wire that connects the mouse to the computer. The people who designed the first computer mice thought that it looked like the tail on a mouse. Today, many computer mice use wireless technology and have no wire. 
+
+In 1964 Douglas Engelbart (1925-2013), a researcher at Stanford Research Institute, wanted to find a way to make using computers easier. In those days, computers were large and expensive. Using them was very hard because everything had to be typed in by hand, and there was no way to alter things if you made a mistake.
+
+After studying and designing for a long time, Engelbart succeeded in inventing an input device which he named 'XY index'.
+
+At first, it needed two hands to use, but it was changed so that only one hand was needed to use it. This model was more like the mouse that we use today. Xerox Palo Alto Research introduced a GUI in 1981, using a mouse. 
+The mouse was used with Macintosh of Apple Inc. when it came out in 1984. Microsoft Windows also used the mouse when it came out, so over time computer mice became used with many computers. Modern mice have three buttons: left button, right button, scroll button.
+
+On most computers, the user can move the mouse to move the cursor in the same direction. To choose something that is on the screen, the user can move the cursor to it and "click" the left mouse button. The right mouse button is used to open menus that are different depending on where the cursor is. The other mouse buttons can do different things, depending on the software. Most mice have two buttons to click. 
+
+Most mice also have a "scroll wheel"—a small wheel found between the two main mouse buttons. The user can move the wheel back and forth to "scroll" through things like a website or folder. "Scrolling" means moving the words or pictures up or down on the screen, so another part of the page comes into view. The wheel can also be pressed, to click it like another button.

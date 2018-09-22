@@ -1,0 +1,23 @@
+James Watt
+
+James Watt (19 January 1736 19 August 1819) was a Scottish mathematician and engineer. He did not invent the first steam engine, but he did modify it to work better. There were other patented steam engines (such as the Savery and Newcomen steam engines) in use by the time Watt started his work on them. His major contribution is in developing the modern form of the steam engine. The Watt steam engine is credited for driving the Industrial Revolution of the 18th and 19th centuries. James Watt was a brilliant engineer and he also transformed the Newcomen engine.
+
+Today, most people honor him by naming a unit of power, the watt, after him.
+
+James Watt was born on 19 January 1736 in Greenock, Renfrewshire, a seaport on the Firth of Clyde. His father was a shipwright, ship owner and contractor, and served as the town's chief baillie, while his mother, Agnes Muirhead, came from a distinguished family and was well educated. Both were Presbyterians and strong Covenanters. Watt's grandfather, Thomas Watt, taught mathematics and was a baillie to the Baron of Cartsburn. Watt did not go to school every day. At first, he was mostly schooled at home by his mother but later he attended Greenock grammar school. He exhibited great manual dexterity and an aptitude for mathematics, although Latin and Greek failed to interest him, and he absorbed the legends and lore of the Scottish people.
+
+One of Watt's many improvements was the invention of a "centrifugal governor" to regulate automatically the speed of the engine. This is most obvious on steam engines where it regulates the admission of steam into the cylinder(s). It is also found on internal combustion engines and variously fueled turbines, and in some modern striking clocks.
+
+A centrifugal governor is a homeostatic device which controls the speed of an engine by regulating the amount of "intermediate substance" (steam) which drives the machine. This keeps a near constant speed whatever the load or fuel supply conditions. It uses the principle of proportional control: this means the cut-off of (in this case) steam varies according to the speed of the machine.
+
+On Watt's fly-ball device, as the machine speeds up, the balls fly round faster. As they fly round faster, they move out from the central post. As they move out from the central post, they close the steam supply more firmly. As they do so, the machine slows down and the balls spin more slowly, and allow more steam into the cylinders. In addition, the system has a safety release valve to allow excess steam to escape without driving the wheels. 500 Boulton & Watt engines were built by the firm between 1775 and 1800.
+
+Later, this kind of feedback loop became an important tool of cybernetics.
+
+Watt went into partnership with a fellow member of the Midlands Lunar Society, Matthew Boulton. The firm of Boulton & Watt designed and built steam engines, and was very important to the industrial revolution.
+
+At first the partnership made the drawing and specifications for the engines, and supervised the work to erect it on the customer's property. They produced almost none of the parts themselves. Watt did most of his work at his home in Harper’s Hill in Birmingham, while Boulton worked at the Soho Manufactory.
+
+Gradually the partners began to actually make more and more of the parts, and by 1795 they purchased a property about a mile away from the Soho manufactory, on the banks of the Birmingham Canal. There they built a new foundry for making the engines. The Soho Foundry opened in 1796 at a time when Watt’s sons, Gregory and James Jr. were heavily involved in the management of the enterprise. In 1800, the year of Watt’s retirement, the firm made a total of forty-one engines.
+
+Watt retired in 1800, the same year that his fundamental patent and partnership with Boulton expired. The famous partnership was transferred to the men's sons, Matthew Robinson Boulton and James Watt Jr. Longtime firm engineer William Murdoch was soon made a partner and the firm prospered.

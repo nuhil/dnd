@@ -1,0 +1,32 @@
+Archimedes
+
+Archimedes (287 BC–212 BC) was a Greek scientist. He was an inventor, an astronomer, and a mathematician. He was born in the town of Syracuse in Sicily. 
+
+His father was Phidias, an astronomer, and he may have been in the family of a king of Syracuse. Syracuse was a rich Greek city, on the sea shore in Sicily. When Archimedes was about ten years old, he left Syracuse to study in Alexandria, Egypt. He was in the school of Euclid, a famous mathematician. Not much is known about the personal life of Archimedes, for example, whether he was married or if he had children. 
+
+When the Romans invaded Syracuse, they captured Archimedes so they could learn all of the things he knew. About two years after he was drawing a mathematical diagram in the sand and enraged a soldier by refusing to go to meet the Roman general until he had finished working on the problem. The Roman killed him. His last words are supposed to have been “Do not disturb my circles!”  
+
+"On the Sphere and Cylinder" is a work that was published by Archimedes in two volumes in about 225 BC. On the sphere, he showed that the surface area is four times the area of its great circle. In modern terms, this means that the surface area is equal to:
+The surface area of a cylinder is equal to:
+The volume of the cylinder is:
+The volume of the contained ball is two-thirds the volume of a "circumscribed" cylinder. meaning that the volume is
+
+A sculpted sphere and cylinder were placed on the tomb of Archimedes at his request.
+
+Archimedes is also well known for being the first person to understand statics, which is a part of applied mathematics. It has to do with loads that do not move, for example in buildings or bridges. He also understood and wrote about what happens when things float in liquids, which is called buoyancy.
+
+Archimedes' principle: the weight of water displaced by an object equals the amount of buoyancy it gets. It has practical uses. It can be used to measure the density of an object, and hence whether or not it is made of gold.
+
+The story of the golden crown does not appear in the surviving works of Archimedes. Archimedes may have got a solution known in hydrostatics as Archimedes' principle, which he describes in his treatise "On Floating Bodies". This principle states that a body immersed in a fluid experiences a buoyant force equal to the weight of the fluid it displaces. Using this principle, it would have been possible to compare the density of the golden crown to that of solid gold by balancing the crown on a scale with a gold reference sample, then immersing the apparatus in water. The difference in density between the two samples would cause the scale to tip accordingly. Galileo considered it "probable that this method is the same that Archimedes followed, since, besides being very accurate, it is based on demonstrations found by Archimedes himself".
+
+Archimedes is also famous as an inventor because he made new tools and machines. For example, he made a machine to lift water that could be used by farmers to bring water to their crops. This is called Archimedes' screw.
+
+Archimedes probably also invented a machine to measure distance, an odometer. A cart was built with wheels that turned four hundred times in one mile. A pin on the wheel would hit a 400-tooth gear, so it turned once for every mile. This gear would then make a small stone fall into a cup. At the end of a journey one could count the number of stones in the cup to find the distance.
+
+Archimedes also made a system which one person could pull a large ship with just one rope. This was called the compound pulley. This is an important machine even today, as it helps people in everyday life, although the versions we now use are much more complicated. They still work by the same principle, though.
+
+Archimedes also invented or made many machines used in war, for example he made better catapults. This was during the Punic Wars, which were between Rome in what is now Italy and the city of Carthage in what is now North Africa. For many years he helped stop the Roman army from attacking Syracuse, his city. One war machine was called the "claw of Archimedes", or the "iron hand". It was used to defend the city from attacks by ships. Ancient writers said that it was a kind of crane with a hook that lifted ships out of the water and caused their destruction.
+
+Another story about Archimedes is that he burned Roman ships from far away using many mirrors and the light from the sun. This is perhaps possible, but it is perhaps more likely that this was done with flaming missiles from a catapul
+
+Archimedes is thought to be so important as a mathematician that scientists have honoured him:

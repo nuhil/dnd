@@ -1,0 +1,20 @@
+Ionizing radiation
+
+Ionizing radiation is a process in physics where something sends out particles or waves that can ionize an atom or molecule through atomic interactions. 
+
+The strength of ionizing radiation depends on the energy of the individual particles or waves, and not a function of the number of particles or waves present. 
+
+Ionizing radiation can be electromagnetic radiation or subatomic particles. 
+Electromagnetic:
+
+Subatomic particle radiation includes:
+
+Some radiation can go through the human body and other objects. Usually when people use the term radiation, they are talking specifically about potentially harmful types of ionizing radiation. If something produces this sort of radiation, we can say it is radioactive.
+
+There is a little radiation all around us all the time, which people's bodies are used to, but larger amounts of radiation can make people sick or kill them. Natural ionizing radiation is produced by radioactive decay of some chemical elements, such as uranium. Stars and other things in outer space also make radiation. "See cosmic ray". Some isotopes that are radioactive only stay radioactive for much less than a second. Other things can stay radioactive for thousands of years. 
+
+People and anything that lives gives off radiation naturally, because of the potassium and Carbon-14 inside. 
+
+Some of the machines that make radiation are called particle accelerators. Scientists use these machines to make radiation so they can study it. X-ray machines also make radiation, so doctors can see the inside of the human body and help people. Nuclear weapons (atomic weapons) use a nuclear reaction to produce massive amounts of energy, in the form of heat, light, and radiation. This radiation is spread by the dust, ash, and smoke produced by the blast.
+
+Nuclear reactors are used to make electricity. They make a lot of radiation, but the reactors are built carefully to keep the radiation inside the reactor. But many people are afraid that if there were a problem with the reactor, radioactive material could escape into the environment, harming or killing many animals and people. Also, the parts of the reactor stay radioactive, and can kill people, for hundreds or thousands of years, so people are not sure where they can keep parts of old reactors safely away from people.

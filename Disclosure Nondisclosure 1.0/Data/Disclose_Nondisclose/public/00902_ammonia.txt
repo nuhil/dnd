@@ -1,0 +1,30 @@
+Ammonia
+
+Ammonia is a chemical. Its formula is NH (not to be confused with "Ammonium" that has a formula of NH4). It is made from nitrogen and hydrogen atoms.
+
+
+
+Many organic nitrogen compounds are in animal waste, including urine and guano. In the 19th century the Distillation (boiling for separation) of nitrogenous vegetable and animal waste was the main source of ammonia. During the 20th century the Haber process using high temperature and pressure with catalysts (things that make reactions faster) became the main source.
+
+Ammonia is toxic. If a goldfish tank is dirty from their waste, the fish can suffer from ammonia burns which cause black spots or patches on their body. The tank must be large enough and have a filter.
+
+Because of its many uses, ammonia is one of the most highly produced inorganic chemicals. Dozens of chemical plants worldwide produce ammonia. The worldwide ammonia production in 2004 was 109 million metric tonnes. China produced 28.4% of the worldwide production (increasingly from coal as part of urea synthesis) followed by India with 8.6%, Russia with 8.4%, and the United States with 8.2%. About 80% or more of the ammonia produced is used for fertilizing agricultural crops.
+
+Before the start of World War I, most ammonia was obtained by the dry distillation of nitrogenous vegetable and animal waste products, including camel dung, where it was distilled by the reduction of nitrous acid and nitrites with hydrogen; in addition, it was produced by the distillation of coal, and also by the decomposition of ammonium salts by alkaline hydroxides such as quicklime, the salt most generally used being the chloride (sal-ammoniac) thus:
+
+Today, the typical modern ammonia-producing plant first converts natural gas (i.e., methane) or liquefied petroleum gas (such gases are propane and butane) or petroleum naphtha into gaseous hydrogen. The process used in producing the hydrogen begins with removal of sulfur compounds from the natural gas (because sulfur deactivates the catalysts used in subsequent steps). Catalytic hydrogenation converts organosulfur compounds into gaseous hydrogen sulfide:
+
+The hydrogen sulfide is then removed by passing the gas through beds of zinc oxide where it is adsorbed and converted to solid zinc sulfide:
+
+Catalytic steam reforming of the sulfur-free feedstock is then used to form hydrogen plus carbon monoxide:
+
+In the next step, the water gas shift reaction is used to convert the carbon monoxide into carbon dioxide and more hydrogen:
+
+The carbon dioxide is then removed either by absorption in aqueous ethanolamine solutions or by adsorption in pressure swing adsorbers (PSA) using proprietary solid adsorption media.
+
+The final step in producing the hydrogen is to use catalytic methanation to remove any small residual amounts of carbon monoxide or carbon dioxide from the hydrogen:
+
+To produce ammonia, the hydrogen then reacts with nitrogen (derived from process air) using a magnetite catalyst under high pressure to form anhydrous liquid ammonia. This step is known as the ammonia synthesis loop (also referred to as the Haber-Bosch process):
+
+Hydrogen required for ammonia synthesis could also be produced economically using other sources like coal or coke gasification, less economically from the electrolysis of water into oxygen + hydrogen and other alternatives that are presently impractical for large scale production.
+At one time, most of Europe's ammonia was produced from the Hydro plant at Vemork, using electrolysis.

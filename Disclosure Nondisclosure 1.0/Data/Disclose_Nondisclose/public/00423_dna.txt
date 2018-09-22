@@ -1,0 +1,55 @@
+DNA
+
+DNA, short for deoxyribonucleic acid, is the molecule that contains the genetic code of organisms. This includes animals, plants, protists, archaea and bacteria. 
+
+DNA is in each cell in the organism and tells cells what proteins to make. Mostly, these proteins are enzymes. DNA is inherited by children from their parents. This is why children share traits with their parents, such as skin, hair and eye color. The DNA in a person is a combination of the DNA from each of their parents.
+
+Part of an organism's DNA is "non-coding DNA" sequences. They do not code for protein sequences. Some noncoding DNA is transcribed into non-coding RNA molecules, such as transfer RNA, ribosomal RNA, and regulatory RNAs. Other sequences are not transcribed at all, or give rise to RNA of unknown function. The amount of non-coding DNA varies greatly among species. For example, over 98% of the human genome is non-coding DNA, while only about 2% of a typical bacterial genome is non-coding DNA.
+
+Viruses use either DNA or RNA to infect organisms. The genome replication of most DNA viruses takes place in the cell's nucleus, whereas RNA viruses usually replicate in the cytoplasm.
+
+DNA has a double helix shape, which is like a ladder twisted into a spiral. Each step of the ladder is a pair of nucleotides.
+
+A nucleotide is a molecule made up of:
+
+DNA is made of four types of nucleotide:
+
+The 'rungs' of the DNA ladder are each made of two bases, one base coming from each leg. The bases connect in the middle: 'A' "only" pairs with 'T', and 'C' "only" pairs with 'G'. The bases are held together by hydrogen bonds. 
+
+Adenine (A) and thymine (T) can pair up because they make two hydrogen bonds, and cytosine (C) and guanine (G) pair up to make three hydrogen bonds. Although the bases are always in fixed pairs, the pairs can come in any order (A-T or T-A; similarly, C-G or G-C). This way, DNA can write 'codes' out of the 'letters' that are the bases. These codes contain the message that tells the cell what to do.
+
+On chromosomes, the DNA is bound up with proteins called histones to form chromatin. This association takes part in epigenetics and gene regulation. Genes are switched on and off during development and cell activity, and this regulation is the basis of most of the activity which takes place in cells.
+
+When DNA is copied this is called DNA replication. Briefly, the hydrogen bonds holding together paired bases are broken and the molecule is split in half: the legs of the ladder are separated. This gives two single strands. New strands are formed by matching the bases (A with T and G with C) to make the missing strands. 
+
+First, an enzyme called DNA helicase splits the DNA down the middle by breaking the hydrogen bonds. Then after the DNA molecule is in two separate pieces, another molecule called DNA polymerase makes a new strand that matches each of the strands of the split DNA molecule. Each copy of a DNA molecule is made of half of the original (starting) molecule and half of new bases.
+
+When DNA is copied, mistakes are sometimes made – these are called mutations. There are three main types of mutations:
+
+Mutations may also be classified by their effect on the structure and function of proteins, or their effect on fitness. Mutations may be bad for the organism, or neutral, or of benefit. Sometimes mutations are fatal for the organism – the protein made by the new DNA does not work at all, and this causes the embryo to die. On the other hand, evolution is moved forward by mutations, when the new version of the protein works better for the organism.
+
+A section of DNA that contains instructions to make a protein is called a gene. Each gene has the sequence for at least one polypeptide. Proteins form structures, and also form enzymes. The enzymes do most of the work in cells. Proteins are made out of smaller polypeptides, which are formed of amino acids. To make a protein to do a particular job, the correct amino acids have to be joined up in the correct order. 
+
+Proteins are made by tiny machines in the cell called ribosomes. Ribosomes are in the main body of the cell, but DNA is only in the nucleus of the cell. The codon is part of the DNA, but DNA never leaves the nucleus. Because DNA cannot leave the nucleus, the cell makes a copy of the DNA sequence in RNA. This is smaller and can get through the holes – pores – in the membrane of the nucleus and out into the cell. 
+
+Genes encoded in DNA are transcribed into messenger RNA (mRNA) by proteins such as RNA polymerase. Mature mRNA is then used as a template for protein synthesis by the ribosome. Ribosomes read codons, 'words' made of three base pairs that tell the ribosome which amino acid to add. The ribosome scans along an mRNA, reading the code while it makes protein. Another RNA called tRNA helps match the right amino acid to each codon.
+
+DNA was first isolated (extracted from cells) by Swiss physician Friedrich Miescher in 1869, when he was working on bacteria from the pus in surgical bandages. The molecule was found in the nucleus of the cells and so he called it "nuclein". 
+
+In 1928, Frederick Griffith discovered that traits of the "smooth" form of "Pneumococcus" could be transferred to the "rough" form of the same bacteria by mixing killed "smooth" bacteria with the live "rough" form. This system provided the first clear suggestion that DNA carries genetic information.
+
+The Avery–MacLeod–McCarty experiment identified DNA as the transforming principle in 1943.
+
+DNA's role in heredity was confirmed in 1952, when Alfred Hershey and Martha Chase in the Hershey–Chase experiment showed that DNA is the genetic material of the T2 bacteriophage.
+
+In the 1950s, Erwin Chargaff found that the amount of thymine (T) present in a molecule of DNA was about equal to the amount of adenine (A) present. He found that the same applies to guanine (G) and cytosine (C). Chargaff's rules summarises this finding.
+
+In 1953, James D. Watson and Francis Crick suggested what is now accepted as the first correct double-helix model of DNA structure in the journal "Nature". Their double-helix, molecular model of DNA was then based on a single X-ray diffraction image "Photo 51", taken by Rosalind Franklin and Raymond Gosling in May 1952. 
+
+Experimental evidence supporting the Watson and Crick model was published in a series of five articles in the same issue of "Nature". Of these, Franklin and Gosling's paper was the first publication of their own X-ray diffraction data and original analysis method that partly supported the Watson and Crick model; this issue also contained an article on DNA structure by Maurice Wilkins and two of his colleagues, whose analysis and "in vivo" B-DNA X-ray patterns also supported the presence "in vivo" of the double-helical DNA configurations as proposed by Crick and Watson for their double-helix molecular model of DNA in the previous two pages of "Nature". In 1962, after Franklin's death, Watson, Crick, and Wilkins jointly received the Nobel Prize in Physiology or Medicine. Nobel Prizes were awarded only to living recipients at the time. A debate continues about who should receive credit for the discovery.
+
+In 1957, Crick explained the relationship between DNA, RNA, and proteins, in the central dogma of molecular biology. 
+
+How DNA was copied (the replication mechanism) came in 1958 through the Meselson–Stahl experiment. More work by Crick and coworkers showed that the genetic code was based on non-overlapping triplets of bases, called codons. These findings represent the birth of molecular biology.
+
+How Watson and Crick got Franklin's results has been much debated. Crick, Watson and Maurice Wilkins were awarded the Nobel Prize in 1962 for their work on DNA – Rosalind Franklin had died in 1958.

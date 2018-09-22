@@ -1,0 +1,44 @@
+Orthography
+
+Orthography is an official or correct way to write a particular language. It includes rules of spelling. Orthography may also include rules about punctuation, capitalization, and diacritics (e.g. accents). In English, spelling is a problem for all learners, and is the main issue in orthography.
+
+Some languages have someone to decide the correct spelling, such as the Académie française. English does not. English orthography was the work of the early printers. They had to decide how particular words would be spelled in their books. Gradually the number of alternative spellings began to drop. The word which is "merry" today was spelled in about 30 ways in written sources from the 9th to the 16th century.
+
+English orthography, or English spelling, is the way the 26 letters of the alphabet are used to write down the 36 (IPA) sounds of English. The first manuscripts in Old English were written using the Latin alphabet. It had 24 letters. 
+
+No alphabet fits its language exactly. One reason for this is that there are always more sounds than letters. In English there are far more vowel sounds than vowels. The ancient Greeks, who were the first to use letters for vowels, decided to use only a few letters for their vowel sounds. This choice influenced all later alphabets:
+
+English would need about 20 vowels to represent the vowel phonemes (~sounds) in common use, and some languages do have more letters for vowels. The Georgian language has a total of 41 letters. A shorter alphabet works by using two or three letters for a single sound, or one letter for several sounds.
+
+The English alphabet has only three consonants which have one sound, cannot be produced by other combinations and are never silent: n, r and v. The English language uses 22 to 26 consonant phonemes.
+
+The other reason that alphabets never exactly fit languages is dialect. A spoken language varies from place to place and from time to time. This is very obvious with English, as the pronunciation is so different in different parts of the world. A written language will always be less flexible than its spoken parent. It has a different function, and is produced mechanically. It must serve everyone who speaks the language, and it does this by keeping the spelling similar from one time to another.
+
+Therefore, all alphabets have sounds which are difficult to represent with the letters in use. And English also has other problems: sounds that can be written in different ways, and spelling which can be pronounced in different ways. This all gives rise to problems of spelling.
+
+Differences between American English and British English spelling came about mainly as the result of one man. Noah Webster (1758–1843) wrote a "Grammar", a "Spelling" book, and finally an "American dictionary of the English language". In the course of this, he proposed a number of simplifications in spelling. In his dictionary, he chose "s" over "c" in words like "defense", he changed the "re" to "er" in words like "center", he dropped one of the Ls in "traveler". At first he kept the u in words like colour or favour but dropped it in later editions. He also changed "tongue" to "tung": that did not stick. His main reason was to help children learn to read and write. Webster's dictionary contained seventy thousand words, of which twelve thousand had never appeared in a published dictionary before. 
+
+Webster did create a slightly different identity for American English. But, because his efforts left the most glaring problems untackled, his variations make little difference to the way the language is used. An example of the real problems in English orthography is the word ending "-ough", which is pronounced several different ways: tough, bough, cough... The root causes of spelling variation are historical, and loan words come with their own (foreign) spelling. Either all French loan words should be left as they were, or they all should be changed. Either we should move wholesale to a more phonetic spelling, or not. This was proposed by many people since Webster, such as George Bernard Shaw, who proposed a new phonetic alphabet for English. In some cases Webster's changes have been widely adopted in Britain: the spelling "programme" came from the French; US "program" is clearly simpler, and more consistent with word endings in English. In our modern world, English orthography is still a problem. In some countries (notably, France) a national committee can give advice and direction as to spelling. English has long escaped from national custody. 
+
+
+
+Modern British spelling and use was greatly influenced by the two great English dictionaries, Samuel Johnson's "A dictionary of the English language" (1755), and James Murray's "Oxford English Dictionary". Johnson's dictionary was hugely influential, abroad as well as at home. The dictionary was exported to America. 
+
+For American lexicographers, the dictionary was impossible to ignore: 
+
+Some people argue which language is the easiest to spell. People who learn a second language tend to think that their first (native) language is the easiest. However, for the learner, programmatic languages, with well-defined rules, are easier to start with than English. The spelling of the English language is by far the most irregular of all alphabetic spellings and thus the most difficult to learn. English is, in its origin, a Germanic language. From its early roots as Anglo-Saxon, it has borrowed words from many other languages: French (a Romance language) and Latin are the most frequent donors to English.
+
+Languages that use phonetic spelling are easier to learn to spell than others. With phonetic spelling the words are spelled as they are pronounced. The Italian word "orologio" for instance is pronounced oh-ro-LO-jo ("gi" always making a "j" sound.) In English, one comes across the word "knife". In "knife", the "k" is not spoken, even though in English it's more common to pronounce "K"s when they are in words.
+
+One of the problems we have is that similar sounding words may be spelt quite differently. Rough and ruff; meet and meat; great and grate. Words with complicated spelling may be pronounced simply: Leicester is pronounced 'Lester'. Even what rules we do have are frequently broken. ""i" before "e" except after "c"" has over 100 exceptions. Almost all these problems have come about for historical reasons. English has been changing for the last thousand years, and as the language changes, so parts of it get stuck with different spellings. 
+
+Here are some of the causes of English orthography:
+
+
+English has a huge number of words, but its spelling comes from many different sources. "The large and varied lexicon of English has been bought at the expense of an increasingly deversified graphology".
+
+Some languages have a high correspondence between phonemes and letters. That means they get close to one letter for each sound. If there was a perfect correspondence, that language would have "phonemic orthography". English is highly non-phonemic. It has almost every kind of deviation known:
+
+This field of study is called "orthographic depth". The orthographic depth of an alphabetic script is the degree to which a written language deviates from simple one-to-one letter–phoneme correspondence. It shows how easy it is to predict the pronunciation of a word from its spelling. Shallow orthographies are easy to pronounce based on the written word, and deep orthographies are difficult to pronounce based on how they are written. In shallow orthographies, the spelling-sound correspondence is direct: given the rules of pronunciation, one is able to "say" the word correctly.
+
+Most other international languages have similar problems: in French, Arabic or Hebrew, new readers have difficulty learning to decode words. As a result, children learn to read more slowly. In both Spanish and Italian there is a more direct connection between spelling and pronunciation. Those are languages with low orthographic depth.

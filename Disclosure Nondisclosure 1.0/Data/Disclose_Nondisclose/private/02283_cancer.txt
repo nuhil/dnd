@@ -1,0 +1,20 @@
+Hello,
+ I was recently tested for myeloma due to a year of intermittent bone pain. I had a bone scan which was normal and all the blood work has now come back, and I'm relieved to see that it's all in normal range. I do have a very slight Vitamin D insufficiency, so that may explain it.
+ I have a lifelong history of Hepatitis C virus and chronic liver disease (acquired at birth through blood transfusion 32 years ago), and I know that Hep C has been found to increase one's risk of blood cancers like myeloma and non-hodgkins lymphoma. In light of that, I just wondered if there's anything in my results that could be a predictor of whether or not I am at risk of developing MGUS or myeloma in the future? My IgG is right up on the highest end of normal, and my kappa light chain is also on the high end of normal, but I don't know if this has any bearing whatsoever. I just thought I'd ask.
+ On another note, the one flagged value below is abnormal (low) beta globulin. Does anyone know what this means or why it might be low? 
+ Serum Immunofixation - no myeloma band detected
+SPEP says myeloma band not detected:
+ Total Protein  7.2 (range 6.4 - 8.2 g/dL)
+Albumin         4.41 (range 3.2 - 4.6 g/dL)
+Alpha 1          0.17 (range 0.15 - 0.33 g/dL)
+Alpha 2          0.75 (range 0.72 - 1.06 g/dL)
+Beta      low    0.54 (range 0.74 - 1.06 g/dL)
+Gamma          1.32 (range 0.91 - 1.71 g/dL)
+ Free Light Chain Assay says "currently no indication of the formation of monoclonal Bence Jones Proteinaemia or the increase of polyclonal free light cans"
+ Free light chains type kappa        18.9 mg/l  (range 3.3 - 19.4)
+Free light chains type lambda      16.5 mg/l (range 5.7 - 26.3)
+kappa/lambda (ratio)                    1.15 (range 0.26 - 1.65)
+ Immunoglobulins (IGA,IGG, IGM)
+ IgA     1.25 (0.70 - 4 g/L)
+IgG    15.9 (7 - 16 g/L)
+IgM    1.35 (0.40 - 2.30 g/L)

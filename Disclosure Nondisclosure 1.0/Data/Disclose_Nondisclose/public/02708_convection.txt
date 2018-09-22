@@ -1,0 +1,13 @@
+Convection
+
+Convection is the movement of a physical quantity (for example heat) because of the movement of the matter.
+
+For example, the wind is the movement of the air and it can cool down a room if the window is open because the cold air comes inside of the room. The movement of the clouds, the sea waves and many types of heaters are examples of convection.
+
+Convection can happen naturally ("natural convection") or because of a moving device ("forced convection").
+
+The fan is a device that produces the movement of the air artificially. The air in this case is moving because of the rotation of the fan. This is an example of "forced convection".
+
+Natural convection happens because a fluid is lighter if is hot and it is heavier if is cold, so if a fluid has a hot part and a cold part, the hot part will naturally move upward and the cold part naturally moves downward. For example, if the water in a pot is hotter near the bottom because of the fire, it moves from the bottom to the surface. At the same time the water near the surface is colder so it moves to the bottom.
+
+Convection currents occur when there are significant differences in temperature between two parts of a fluid. When this happens, hot fluids rise and cold fluids sink. This causes movements or currents in the fluid.

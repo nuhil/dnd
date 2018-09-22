@@ -1,0 +1,27 @@
+C++
+
+C++ (pronounced "see plus plus") is a computer programming language based on C. It was created for writing programs for many different purposes. In the 1990s, C++ became one of the most used programming languages in the world.
+
+The C++ programming language was developed by Bjarne Stroustrup at Bell Labs in the 1980s, and was originally named "C with classes". The language was planned as an improvement on the C programming language, adding features based on object-oriented programming. Step by step, a lot of advanced features were added to the language, like operator overloading, exception handling and templates.
+
+The following text is C++ source code and it will write the words "Hello World!" on the screen when it has been compiled and is executed. This program is typically the first one a programmer writes while learning a programming language.
+
+// This is a comment. It's for *people* to read, not computers. It's usually used to describe the program.
+
+// Iostream is the input and output stream; which stores functions such as print etc.
+// Namespace std; is the standard namespace which also stores some functions
+using namespace std;
+
+// We are now creating an important instance; the main function
+int main()
+
+This program is similar to the last, except it will add 3 + 2 and print the answer instead of "Hello World!".
+using namespace std;
+
+int main()
+
+This program subtracts, multiplies, divides then prints the answer on the screen.
+
+using namespace std;
+
+int main()

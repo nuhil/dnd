@@ -1,0 +1,39 @@
+Robot
+
+A robot is an artificial agent, meaning it acts instead of a person, doing things it is designed for.
+
+Robots are usually machines controlled by a computer program or electronic circuitry. They may be directly controlled by humans. They may be designed to look like humans, in which case their behaviour may suggest intelligence or thought. Most robots do a specific job, and they do not always look like humans. They can come in many forms.
+
+In fiction, however, robots usually look like people, and seem to have a life of their own. There are many books, movies, and video games with robots in them. Isaac Asimov's "I, Robot" is perhaps the most famous.
+
+People have been interested in building machines to do work for us for a long time. But it takes time and money to build just one machine, so early ideas stayed ideas, or were built to make rich people laugh.
+Leonardo da Vinci designed a man-shaped machine to look like a knight in 1464. It would be controlled with ropes and wheels.
+Other engineers and dreamers drew mechanical men. In1920, Karel Čapek wrote a story about them, and he used a word from Czech that is connected with 'work': robot.
+
+The most successful robot designs in the 20th century were not made to look like people. They were designed for use. George Devol made the first of these, the Unimate, in 1954, with one arm and one hand. General Motors bought it in 1960. The next year, it started work in a factory in New Jersey, lifting and stacking pieces of metal that were too hot for people to touch. The engineers could program it, and reprogram it if they had to.
+
+Robots have many uses. Many factories use robots to do hard work quickly and without many mistakes. They do not look like people, because they are made to do things. These are 'industrial' robots. Some robots find and get rid of bombs. If someone makes a mistake, the robot is damaged or destroyed, which is better than a person being killed. There are also robots that help at home, to vacuum or run a lawn mower, for example. Such robots must learn about the area of work.
+
+A few robots do surgery in places inside the body where a human hand is too big. 
+
+Planet rovers are robots for exploring distant planets. Because it takes a long time to send a radio signal from Earth to another planet, the robots do much of their work alone, without commands from Earth. 
+
+People still think of robots as having a shape like a person—two legs, two arms, and a head. ASIMO is one robot that is helping scientists learn how to design and program robots. It can walk, which is not easy to program. 
+
+Roughly half of all the robots in the world are in Asia, 32% in Europe, and 16% in North America, 1% in Australasia and 1% in Africa. 30% of all the robots in the world are in Japan. Japan has the most robots of any country in the world, and is the leader in the world robotics industry. Japan is actually said to be the robotic capital of the world.
+
+In Japan and South Korea, ideas of future robots have been mainly positive. The positive reception of robots there may be partly because of the famous cartoon robot, 'Astroboy'. China expressed views on robotics that are similar to those of Japan and South Korea, but China is behind both America and Europe in robotic development. The East Asian view is that robots should be roughly equal to humans. They feel robots could care for old people, teach children, or serve as assistants. The popular opinion of East Asia is that it would be good for robots to become more popular and more advanced. This view is opposite to the popular Western view.
+
+"This is the opening of an era in which human beings and robots can co-exist," says Japanese firm Mitsubishi about one of the many human-like robots in Japan. The South Korean Ministry of Information and Communication has predicted that every South Korean household will have a robot by between 2015 and 2020.
+
+Western societies are more likely to be against, or even fear the development of robots. Science fiction movies and other stories often show them as dangerous rebels against humanity.
+
+The West regards robots as a 'threat' to the future of humans, which is much due to religious influence of the Abrahamic religions, in which creating machines that can think for themselves would almost be playing God. Obviously, these boundaries are not clear, but there is a significant difference between the two ideologies.
+
+The writer Isaac Asimov told many stories about robots who had the three laws of robotics to keep humans safe from them.
+
+These were not used in real life when he invented them. However, in today's world robots are more complicated, and one day real laws may be needed, much like Isaac Asimov's original three laws.
+
+These laws are talked about in the Megaman video games.
+
+South Korea was the first country in the world to have laws about robots.

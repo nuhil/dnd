@@ -1,0 +1,16 @@
+Spore
+
+Spores are the way fungi and some non-seed plants (ferns and mosses) reproduce. They are also made by bacteria for long-term survival. Some protozoa also make long-term survival spores.
+
+The spores of seed plants are single cells that grow into a pollen grain or the gametophyte inside the ovule. The structure of seeds in higher plants is more complicated than spores. The main 'innovation' of seeds is their nutrition for the developing embryo, which spores do not have.
+
+Fungi (for example, mushrooms) produce spores, which may be asexual or sexual. The asexual spores have inside them the genetic material to make a whole new organism identical to its parent. 
+
+Conidia are asexual, non-motile spores of a fungus; they are also called mitospores due to the way they are generated through the cellular process of mitosis. They are haploid cells genetically identical to the haploid parent, can develop into a new organism if conditions are favorable, and serve in dispersal.
+
+Asexual reproduction in Ascomycetes (the Phylum Ascomycota) is by the formation of conidia, which are borne on specialized stalks called conidiophores. The morphology of these specialized conidiophores is often distinctive of a specific species and can therefore be used in identification of the species.
+
+
+Bacterial spores are extremely resistant. Spores of tetanus and anthrax, for example, can survive in the soil for many years. The origin of these spores was discovered in the 19th century, when a biologist noticed, under the microscope, a small, round, bright body inside bacterial cells. This survived even when the bacteria were boiled for five minutes. This killed the bacteria, but not the spores. They germinated when conditions were right.
+
+Plants have alternation of generations. One of the generations is the sporophyte, which produces spores by meiosis, and the other is the gametophyte with produces gametes.

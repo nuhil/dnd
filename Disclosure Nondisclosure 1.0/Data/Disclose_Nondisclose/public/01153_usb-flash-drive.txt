@@ -1,0 +1,77 @@
+USB flash drive
+
+A USB flash drive (USB stands for "Universal Serial Bus") is a popular way to store digital information. Flash drives are an easy way to share data (information). A USB flash drive can be attached to a USB port, and provides a certain amount of storage space, which can be used to store data. USB flash drives are used with devices found in homes, workplaces and schools. Below are some examples of these devices: 
+
+They are called "Flash drive" because they use flash memory to store files. Flash memory is a type of computer chip. The first flash drives had 8 megabytes of storage. Each year larger flash drives become available. In April 2012, 256 gigabyte flash drives were introduced to the market. 
+
+Other common names for a flash drive include: memory stick, memory card, flash stick, keydrive, pendrive, thumbdrive and jumpdrive or simply USB.
+
+USB flash drives have some advantages over other portable storage devices. They are physically much smaller and more rugged than floppy disks. They store and read much more data, much faster than floppy disks. Floppy disks have become obsolete because of this.
+
+Flash drives are used to store any type of data file, or to move data from one computer to another. USB flash drives have a lot of storage space. It is often easier to use a flash drive than to carry many CD-ROMs. Some computer programs can be run from a USB flash drive. These special versions of programs are called "portable" versions.
+Computer administrators, or people who manage the computer systems, sometimes use flash drives. Sometimes flash drives are also used to run a computer virus scanner. They are often used to repair a computer system that was damaged or faulty.
+
+Police in the cyber division can use flash drives to take evidence or proof.
+
+Most computers today can boot from a USB drive. Special operating systems can run from a bootable flash drive. They are called Live USB versions.
+
+Many companies make small digital audio players (usually called an mp3 player). These are actually flash drives that can make sound. Examples include the Creative MuVo and the iPod shuffle. Some of these players are real USB flash drives as well as music players; others just play music.
+
+Many of the smallest players are powered by a permanently fitted rechargeable battery. The battery power can be charged from the USB port.
+
+Digital audio files can be moved from one computer to another. The files can be played on a software media player. Many home and car music systems have a USB port. A USB flash drive can be connected to play music files.
+
+Music artists have sold or given away USB flash drives. The first time this happened was in 2004—the German band WIZO released the "Stick EP", only as a USB drive. It contained five high quality MP3s; it also included a video, pictures, lyrics, and guitar tablature. 
+
+Since then, artists including Kanye West, Nine Inch Nails and Ayumi Hamasaki have released music and promotional material on USB flash drives.
+
+In the arcade game "In the Groove" and "In The Groove 2", flash drives are used to transfer high scores, screenshots, dance edits, and combos throughout sessions. In later versions, players can also store custom songs and play them on any machine on which this feature is enabled. While use of flash drives is common, the drive must be Linux compatible, causing problems for some players.
+
+In the arcade games "Pump it Up NX2" and "Pump it Up NX Absolute", a specially produced flash drive is used as a "save file" for unlocked songs, as well as progressing in the WorldMax and Brain Shower sections of the game.
+
+In the arcade game "Dance Dance Revolution X", a special USB flash drive was made by Konami, letting players link the Sony PlayStation 2 version.
+
+Flash drives are very cheap to produce. So, they are sometimes used to promote a product. At most technical trade fairs, many exhibitors will promote their products by giving away free drives. 
+
+In other situations, they may be sold at less than wholesale price, or included as a bonus with another product.
+
+Usually, such drives will be stamped with a company's logo, as a form of advertising .
+
+The drive may be blank drive, or already have documents or software loaded on to it. These are called preloaded drives. 
+
+Some preloaded drives are read-only, but most can be used as a normal flash drive.
+
+The large memory size of newer flash drives means that they are increasingly being used for short term backup of data. 
+For example, one retail till system uses a Flash drive to record details of all of the sales for that day. The drive is used as a backup medium. At the close of business each night, the drive is inserted, and a database backup is saved to the drive. The drive is removed at night and taken offsite.
+
+
+USB flash drives have replaced a number of other storage technologies, because they are easier to use. The replaced media include:
+This photograph shows both sides of the printed circuit board (PCB) inside a typical flash drive (circa 2004). The flash drive in this photograph is a 64 MB USB 2.0 device with its plastic case removed. 
+
+One end of the device is fitted with a single type-A USB connector. Inside the plastic casing is a small, highly cost-engineered, printed circuit board. Mounted on this board is some simple power circuitry and a small number of surface-mounted integrated circuits (ICs). Typically, one of these ICs provides an interface to the USB port, another drives the onboard memory, and the other is the flash memory.
+
+Most computers support USB.
+
+Flash drives are quite . They are not damaged by scratches and dust. This makes them a good choice to move data from one place to another. 
+
+Some flash drives can keep the data, even if they are put in water. Some data may even survive the washing machine, but this is not a designed feature, and people should not rely on it. Leaving the flash drive out to dry completely before allowing current to run through it has been known to result in a working drive with no future problems.
+
+Channel Five's "Gadget Show" cooked a flash drive with propane; froze it with dry ice; submerged it in various acidic liquids; ran over it with a jeep and fired it against a wall with a mortar. A company specializing in recovering lost data from computer drives then managed to recover all the data on the drive. All data on the other removable storage devices tested, using optical or magnetic technologies, were destroyed.
+
+Flash drives are available in large sizes. Currently at the start of 2010, the largest size publicly available is 256 gigabytes. This will increase as the technology gets better.
+
+Flash drives use little power, compared to hard drives and have no moving parts. They are small and easy to carry.
+
+Most modern operating systems can use a flash drive, without the need to install special software. To most operating systems, the flash drive looks like a hard drive. The operating system can use any file system. Some computers can start from a flash drive.
+
+Flash memory has a limited life. Data can only be written to and read from a device a few thousand times. People should keep this in mind when they use a flash drive to run application software or an operating system. To address this, as well as space limitations, some developers have produced special versions of operating systems (such as Linux in Live USB) or commonplace applications (such as Mozilla Firefox) designed to run from flash drives.
+
+Flash drives are small and are easily lost or left behind. This can cause problems of data security.
+
+Flash drives can hold a large amount of information and they are used worldwide. Many users store information on them that is personal, or that should be protected. For this reason, more and more flash drives offer biometrics or encryption to control the access to this data. Users can install passwords on to their flash drives so that when a user tries to open it, the computer prompts the user, to enter a password before they can begin using the device. There are a number of free and open source programs which can be used to encrypt data including TrueCrypt, pgpdisk and FreeOTFE. These programs have proved useful in securing data on flash drives.
+
+Most USB flash drives are dumb devices that hold data. However, like other storage devices, they can carry computer viruses. Bootable flash drives, like other boot devices, can easily spread them. Some such devices also have a controller chip comparable to an embedded system. In other words the drive is a fully functional computer, which can transmit data as it wants. There have been cases where controller chips were manipulated, and spread malware. 
+
+Some drives with a controller chip encrypt the data, with a secure algorithm, such as AES. In many cases, it was easy to decrypt the data, even without knowning the decryption key, because the implementation was not done properly. 
+
+Because of the issues above, and because the use of USB devices is difficult to monitor, many companies no longer allow USB devices.

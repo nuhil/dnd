@@ -1,0 +1,15 @@
+Gregor Mendel
+
+Gregor Johann Mendel (Heinzendorf, Austria, 20 July 1822 – Brünn, Austro-Hungary, 6 January 1884) was an Austrian monk and botanist. 
+
+He founded genetics by his work cross-breeding pea plants. He discovered dominant and recessive characters (genes) from the crosses he performed on the plants in his greenhouse. What he learnt is known today as Mendelian inheritance.
+
+His work was not appreciated at first, but was 'rediscovered' in 1900 by Carl Correns and Hugo de Vries. Erich von Tschermak's status as a third rediscoverer is now less convincing.
+
+Mendel used the edible peas ("Pisum sativum") for his crosses. He selected seven characters which were distinctive, and never blended; they occurred as either-or alternatives. Examples: plant height (short or tall); colour of peas (green or yellow); position of flowers (restricted to the top or distributed along the stem). 
+
+When he crossed varieties which differed in a trait (e.g. tall crossed with short), the first generation of hybrids (F1) showed only one of the two alternatives. One character was "dominant", and the other "recessive". But when he crossed these hybrids with each other, the recessive character reappeared in the second (F2) generation. The proportion of plants showing the dominant as opposed to the recessive character was close to 3 to 1. Further analysis of the descendants (F3) of the dominant group showed that one-third of them were true-breeding and two-thirds were of hybrid constitution. The 3:1 ratio could therefore be rewritten as 1:2:1, meaning that 50 percent of the F2 generation were true-breeding and 50 percent were still hybrid. This was Mendel’s major discovery. 
+
+It could all be summed up by saying that inheritance was not blending, as Darwin had thought, it was particulate. The factors (genes) were not merged or mixed, they stayed separate and were passed on to the next generation unchanged.
+
+He published his work in 1866, but at the time no-one saw how significant it was. 35 years later, the papers were rediscovered and, immediately, modern genetics began.

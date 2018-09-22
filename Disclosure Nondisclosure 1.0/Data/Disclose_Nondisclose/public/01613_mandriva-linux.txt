@@ -1,0 +1,24 @@
+Mandriva Linux
+
+"For the type of plant, see Mandrake"
+Mandriva (formerly Mandrake Linux) is a Linux distribution.
+
+The last release was the 2011 version released in August that year. Most Mandriva Linux developers who were laid off went to Mageia.
+
+In May 2015, Mandriva went into administration, as of the 27th of May the organizations website was offline.
+
+Mandriva was first made public by a French software company MandrakeSoft. Its first release was based on Red Hat Linux 5.1 and was released in July 1998. Mandriva Linux was originated by Gaël Duval, and intended to focus on ease of use for new users.
+
+From its first release to version 8.0, Mandrake named its flagship distribution "Linux-Mandrake". From version 8.1 to 9.2 it was called "Mandrake Linux".
+
+In February 2004, MandrakeSoft lost a court case for infringement. And it renamed its products. Starting from version 10.0, Mandrake Linux became known as "Mandrakelinux", and its logo changed accordingly. Similarly, MandrakeMove became Mandrakemove.
+
+In April 2005, Mandrakesoft announced the corporate acquisition of Conectiva. As a result of this acquisition and the legal dispute with Hearst Corporation, Mandrakesoft announced that the company was changing its name to Mandriva, and that their Linux distribution "Mandrake Linux" would henceforward be known as Mandriva Linux.
+
+Since 2007, Mandriva is released on a 6-month fixed-release cycle, similar to Ubuntu and Fedora. However, while newer features are added during each release, the timing of the Spring release stays the same as the first release, so as to ensure the stability each year.
+
+The latest stable version is Mandriva Linux 2009 (2009.0), released on 2008-10-09.
+
+The development tree of Mandriva Linux has always been known as "Cooker". This tree is directly released as a new stable version.
+
+The current release is named 2009.1 and was released in April 2009.

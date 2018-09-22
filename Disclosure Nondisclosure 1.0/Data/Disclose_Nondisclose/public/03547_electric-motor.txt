@@ -1,0 +1,28 @@
+Electric motor
+
+An electric motor changes electrical energy into mechanical movement. A dynamo or an electric generator does the reverse: it changes mechanical movement into electric energy. Most of the electric motors work by using the force of magnetism. But, an electric motor may work using different types of forces.
+
+Let's start by looking at the overall plan of a simple two-pole DC electric motor. A simple motor has six parts: 
+• Armature or rotor 
+• Commutator 
+• Brushes 
+• Axle 
+• Field magnet 
+• DC power supply of some sort 
+An electric motor is all about magnets and magnetism: A motor uses magnets to create motion. If you have ever played with magnets you know about the fundamental law of all magnets: Opposites attract and likes repel. So if you have two bar magnets with their ends marked "north" and "south," then the north end of one magnet will attract the south end of the other. On the other hand, the north end of one magnet will repel the north end of the other (and similarly, south will repel south). Inside an electric motor, these attracting and repelling forces create rotational motion.
+To understand how electric motors work, the key is to understand how electromagnets work. An electromagnet is the basis of an electric motor.
+
+Electric motors are boardly classified in to two different categories i.e. DC (direct current) and AC (Alternating current). With in these categories there are numerous types, each offering unique abilities that suit them well for best applications.
+
+In 1821, Michael Faraday made the first electric motor. It worked using the force of magnetism.
+
+He created a simple electromagnet by taking a nail and a wire, wrapping about 100 loops of wire around the nail and connected it to a battery. With this he had a simple electromagnet with north and south pole. In the middle of the nail he had made a hole and put a spindle into the hole so that the nail could rotate. He then took a horseshoe-shaped magnet and placed the wire wrapped nail in the middle.
+
+He connected the wire of the north pole to the negative pole of the battery and the wire of the south pole to the positive pole. The basic law of magnetism told him what would happen: the north end of the electromagnet would repel the north end of the horseshoe-shaped magnet and would attract the south pole. The same happened on the other side of the nail, with the result that the nail turned. 
+
+Faraday was not happy with the result of the electromotor, because the motor turned only once. He changed the polarity of the battery and the wire wrapped nail again turned just once. If he changed the polarity every time, when the north pole of the wire wrapped nail is opposite to the south pole of the horseshoe-shaped magnet, then he would have the result he was looking for. The wire wrapped nail would turn and turn around the spindle (as long as the battery is not empty).
+
+Examples of electric motors include:
+fans, washing machines, fridges, pool pumps, vacuum cleaners and fan ovens.
+
+Stepper motor

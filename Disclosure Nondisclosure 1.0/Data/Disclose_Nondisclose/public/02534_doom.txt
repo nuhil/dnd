@@ -1,0 +1,9 @@
+Doom
+
+Doom is a first-person shooter video game made by id Software in 1993. It is one of the first games to use three-dimensional levels. The game is about killing demons and zombies. "Doom" has traps, including crushing ceilings, radiation pools, and exploding barrels, that can kill the player. "Doom" was also the first game with multiplayer deathmatch. This means you can fight with other players instead of the demons and zombies. The game was made with a computer language called C using some new techniques John Carmack created.
+
+It has three sequels: "Doom 2" that came out in 1994, "Final Doom" that came out in 1996, and "Doom 3" that came out in 2004.
+
+"Doom" is split into three basic components, the engine, the Iwad file, and the optional Pwad file. The engine contains the code needed to run the game on a computer. The Iwad file contains the default levels, sounds, pictures, and other components. Pwad files contain custom levels. The source code to the "Doom" engine was released in 1997 and can be downloaded for free. The full 3-episode and 4-episode Iwad files have not been released for free and must still be purchased.
+
+"Doom" is a shareware game of three episodes, each having eight standard levels and one secret level. The secret level in each episode is accessed by finding a secret exit in one of the normal levels. The episodes are "Knee-Deep In The Dead", "The Shores Of Hell" and "Inferno". In the shareware version the only episode that can be played is "Knee-Deep In The Dead". The expansion pack of "Doom" is "Ultimate Doom", which has the fourth episode, "Thy Flesh Consumed".

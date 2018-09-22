@@ -1,0 +1,15 @@
+Liquid
+
+A liquid is a form of matter. It is settled between solid and gas. Liquid has an almost-fixed volume, but no set shape.
+
+Every small force makes a liquid change its shape by flowing. Because of that, gravity makes liquids always take the shape of the container. The molecules that make up the liquid can freely move among themselves.
+
+Fluids that flow slowly have a high viscosity. Some fluids like tar have such a high viscosity that they may seem solid.
+
+It is difficult to compress a liquid. If a liquid is cooled down until it is colder than a certain temperature, it will become a solid. This temperature is called the melting point and is different for every different type of liquid. The freezing point of water is around 0°C, and it becomes ice. If a liquid is heated up it becomes a gas. The temperature this happens at is called the boiling point. The boiling point of water is 100°C, at this temperature it becomes steam.
+
+Examples of liquid are water, oils and blood.
+
+In a liquid, the liquid on the top presses down on the liquid underneath, so at the bottom the pressure, "p", is bigger than at the top. The equation for working this out is:
+
+where "z" is the depth of the point below the surface and "g" is how strong gravity is pulling on the liquid. "ρ" is a number that tells us how heavy a set amount of the liquid is. We call this the density and it is different for all liquids.

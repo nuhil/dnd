@@ -1,0 +1,25 @@
+Contract bridge
+
+Contract bridge, or simply bridge, is a trick-taking card game which is played by two pairs of players, one pair against the other pair. Partners sit opposite each other at a table.
+
+Millions of people play bridge worldwide in clubs, tournaments, online and with friends at home. It is one of the world's most popular card games. The World Bridge Federation is the governing body for international competitive bridge.
+
+The game consists of a number of "deals". Each deal goes through four phases: dealing the cards, the auction (also referred to as bidding), playing the cards, and scoring the results. Most club and tournament play uses duplicate bridge, where the cards are not re-dealt during a session. The same deals are played by most or all players, to allow comparative scoring.
+
+It is played with the standard 52 cards in four suits. The game developed out of whist, which is a relatively old card game. Whist is played with the trump suit chosen by chance, whereas in bridge it is chosen by a process called "bidding". A trump is a card which can beat any card from the other three suits.
+
+In whist, the winners had to get most of the tricks (a trick is a round of four cards), that is, seven or more tricks. However, in bridge the players bid in sequence to decide what the "contract" shall be. The contract is decided by the last bid, and will be in one of the four suits, or in "no trumps", without a trump suit.
+
+The set-up for playing the cards is also different from whist. The side which wins the bidding sequence plays with only one partner ("declarer") controlling both hands. His or her partner is called "dummy", and that hand is played face up on the table so all players can see it.
+
+The scoring system for bridge is very much more complicated than it is for whist. Fundamentally, it depends on whether or not declarer makes his contract or not. If he does not, the defending side collect penalty points. If he does make the contract his side wins points. How many points are won or lost depends on the scoring table (not shown here).
+
+The other factor which was not present in whist is the bidding process. Bids at the one level are offers to make at least seven tricks. Bids at the seven level are offers to make all thirteen tricks. The lowest bid one can make is "one club" and the highest bid is "seven no trumps".
+
+Like much else in the game, the idea of duplicate play was invented for whist. At "whist drives" North/South pairs sat in the same positions throughout, East/West pairs moved up the series of tables and boards moved down. This simple movement was invented in the 19th century. The first game of duplicate whist was organised by "Cavendish" in London 1857, but it was not followed up. It was played in Chicago in 1880, and the first book about it was written in 1891 by John T. Mitchell. His simple method is known as the Mitchell movement. 
+
+In the example on the right, West was the dealer and first to bid. The bidding goes as shown with South becoming the declarer in a 4 spades contract, he being the first to bid spades. East-West become the defenders and West becomes the opening leader, North becomes the dummy and spades the trump suit.
+
+Ten tricks are required by North-South, six tricks plus the 4-level bid.
+
+In competitions, and in some clubs, boards are pre-dealt by electro-mechanical dealing machines. The instructions to the machine are input by computer software. This is used to generate the random distributions of cards in the four hands. The cards are delivered straight into the boards used by the players. This has many advantages over hand-dealing. First, there is on the computer a record of all the hands, which can be made available to players after the competition. Second, the deals are a better fit to ideal random hands than is possible with dealing by hand. Thirdly, the system makes it easy to run multi-venue competitions, which previously required a great deal of work.

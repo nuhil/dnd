@@ -1,0 +1,19 @@
+Chromosome
+
+The chromosomes of a cell are in the cell nucleus. They carry the genetic information. Chromosomes are made up of DNA and protein combined as chromatin. Each chromosome contains many genes. Chromosomes come in pairs: one set from the mother; the other set from the father. Cytologists label chromosomes with numbers.
+
+Chromosomes are present in every cell nucleus with very few and special exceptions. This means they are found in all eukaryotes, since only eukaryotes have cell nuclei. When eukaryote cells divide, the chromosomes also divide. 
+
+When a somatic (body) cell (such as a muscle cell) divides, the process is called mitosis. Before mitosis, the cell copies all the chromosomes and then it can divide. When they duplicate, chromosomes look like the letter "X". When they are doubled, the two halves are called chromatids (see diagram). The chromatids are joined at the centromere.
+
+There are 46 chromosomes in a human, 23 pairs. Everyone has a set of chromosomes from their father and a matching set from their mother. They include a pair of sex chromosomes. The mother's eggs always contain an X chromosome, while the father's sperm contains either a Y chromosome or an X chromosome. That determines the sex of the child. To produce sex cells (gametes), the stem cells go through a different division process called meiosis. This reduces the 23 pairs (diploid) to 23 singles (haploid). These, when combined by fertilisation, produce the new set of 23 pairs.
+
+Different animals have different numbers of chromosomes. If a person does not have the usual number of chromosomes, they may die or have one or more peculiarities. For example, they might get a genetic disorder like Down syndrome (extra chromosome 21) and Klinefelter syndrome (a male with two X chromosomes). Some genetic disorders are more common than others.
+
+Polytene chromosomes are over-sized chromosomes which have developed from standard chromosomes. Specialized cells undergo repeated rounds of DNA replication without cell division (endomitosis). This increases cell volume, forming a giant polytene chromosome. Polytene chromosomes form when multiple rounds of replication produce many sister chromatids that remain stuck together in parallel.
+
+Polytene chromosomes are found in "Drosophila" species and in nonbiting midges of the Chironomidae family.
+
+Polytene cells have a metabolic function. Multiple copies of genes allows a high level of gene expression. In "Drosophila melanogaster", for example, the chromosomes of the larval salivary glands undergo many rounds of endoreduplication. This produces large amounts of glue before pupation.
+
+Chromosome puffs (seen in diagram) are diffused uncoiled regions of the polytene chromosome. They are sites of active transcription.

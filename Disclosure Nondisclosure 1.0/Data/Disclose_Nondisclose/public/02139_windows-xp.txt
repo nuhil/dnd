@@ -1,0 +1,20 @@
+Windows XP
+
+Windows XP is a version of the Microsoft Windows operating system for personal computers. Microsoft released Windows XP on October 25, 2001. Windows XP replaced Windows 2000 and Windows Me, which helped complete the unification of the NT and 9x branches of Windows. It was replaced by Windows Vista. The letters "XP" stand for "eXPerience".
+Windows XP was the second most used computer operating system in the world as of April 2012. Microsoft stopped supporting Windows XP on April 8, 2014.
+
+Windows XP Home Edition is an edition that was made for home users.
+
+Windows XP Professional was made for business users, as well as power users. It had advanced management features.
+
+Windows XP Media Center Edition was for people who liked to use their computer as a television box.
+
+Windows XP Tablet PC Edition was for users with pen-based laptops and early tablet PCs.
+
+Windows XP 64-bit Edition was for computers that ran on Intel's 64-bit Itanium platform. This should not be confused with "Windows XP x64 Edition", as x64 and Itanium are completely different architectures. Unlike Windows XP x64 Edition, 64-bit Edition has fewer features than Windows XP Professional. Some of these features included NTVDM and Windows on Windows, which means that 16-bit MS-DOS applications will not be able to run. It also was missing Windows Media Player features, but Windows XP 64-bit Edition Version 2003, released on March 2003, added back these media features. 
+
+Windows XP x64 Edition is for users with 64-bit x86-based computers. It has the same features as Windows XP Professional except for NTVDM, and introduced Windows on Windows 64, which lets 32-bit applications run on a 64-bit operating system and processor. 
+
+Windows XP Starter Edition was sold mostly in developing countries. The price was low because Microsoft wanted to fight the high software piracy rate in those countries. It could only be bought with a new computer.
+
+The system requirements for Windows XP Home and Professional editions are:

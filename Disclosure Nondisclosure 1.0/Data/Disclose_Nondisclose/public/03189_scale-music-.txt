@@ -1,0 +1,23 @@
+Scale (music)
+
+In music, a scale is a set of notes in order of their pitch. If the pitch is becoming higher, it is called an ascending scale. If the pitch is becoming lower, it is called a descending scale. In some scales, for example a melodic minor scale, the pitches in the ascending scale are different to the pitches in the descending scale. The steps between the pitches, measured in tones (also called a "whole step") and semitones (also called a "half step"), are different in different types of scales. 
+
+On a piano, there are white keys and black keys. If we start on the note "C" and play each white key going up until we come to the next "C", we have played the "C Major" scale. There were eight notes. In order going up, they are "C" (middle), "D", "E", "F", "G", "A", "B" and "C" (high), or can be octaves higher or lower. Scales can also go up, then down, like "C" (middle), "D", "E", "F", "G", "A", "B", "C" (high), "B", "A", "G", "F", "E", "D", "C" (middle).
+
+Click below to listen to a "C major" scale.
+
+Sometimes the major scale is sung to the words "doh, reh, mih, fah, soh, lah, tih, doh". In the film The Sound of Music, Maria teaches the children to sing by teaching them a song called "Doe, a deer, a female deer". Each line starts on the next note of the scale.
+
+One can start a major scale on any note. There are twelve possible starting notes:
+
+However, the distances between the notes must be the same as they were for the scale on C. For example: from C to D was a tone (or "whole step") because there was a note between (C#). From E to F is a half-tone (or "half-step"; semitone in British English), as there was no note in between. The pattern for a major scale has this set of steps:
+
+Note 1-2: tone, Note 2-3: tone, Note 3-4: semitone, Note 4-5: tone, Note 5-6: tone, Note 6-7: tone, Note 7-8: semitone.
+
+For example: a major scale starting on D would go: D (T) E(T) F♯ (ST) G (T) A(T) B(T) C♯(ST) D and a major scale starting on E♭: E♭ (T) F (T) G (ST) A♭ (T) B♭ (T) C (T) D (ST) E♭.
+
+A minor scale sounds rather sad. The pattern of tones and semitones is different. There are two main sorts of minor scales, harmonic and melodic.
+
+There are also chromatic scales (all semitone steps) and whole-tone scales (all tone steps).
+
+Practising scales is important for people who play instruments or sing. It helps fingers to be strong and energetic (or warms up the singer's voice). It also helps get used to lots of fingering patterns which will help to play pieces.

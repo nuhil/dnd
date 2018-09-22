@@ -1,0 +1,26 @@
+Immunity
+
+Immunity is the ability of the body to defend itself from 'foreign bodies'. This means rejecting infections, clearing up dust which gets in the lungs, and killing cancer cells. Vaccination builds on the natural immune system to make a person resist certain diseases.
+
+Immunity is of two types. Innate immunity protects the host against infection, but has no 'memory', and so gives no long-term immunity. 
+
+The second type is adaptive immunity, which does have a kind of 'memory'. It does give long-term protection against specific pathogens.
+
+All animals, plants and fungi have some innate immunity. Vertebrates also have adaptive immunity. 
+
+People can be immunised from some diseases by having a vaccination 
+(injection of some dead or weakened virus, or bacteria that causes the disease). By doing so, the body learns how the virus/bacteria harms the body, and will react more quickly to fight the virus/bacteria when it comes in contact with the virus/bacteria again. When your body has defended itself against the virus/bacteria it will trap the certain virus/bacteria in a "net" so when the virus/bacteria comes back it will be easier to trap those viruses/bacteria as well.
+
+Immunology is a science that examines the structure and function of the immune system. It originates from medicine and early studies on the causes of immunity to disease. 
+
+The earliest known mention of immunity was during the plague of Athens in 430 BC. Thucydides noted that people who had recovered from a previous bout of the disease could nurse the sick without contracting the illness a second time. 
+
+In the 18th century, Pierre-Louis de Maupertuis made experiments with scorpion venom and observed that certain dogs and mice were immune to this venom. 
+
+This and other observations of acquired immunity was later exploited by Louis Pasteur in his development of vaccination and his proposed germ theory of disease. Pasteur's theory was in direct opposition to contemporary theories of disease, such as the miasma theory. 
+
+It was not until Robert Koch's 1891 proofs, for which he was awarded a Nobel Prize in 1905, that microorganisms were confirmed as the cause of infectious disease. Viruses were confirmed as human pathogens in 1901, with the discovery of the yellow fever virus by Walter Reed.
+
+Immunology made a great advance towards the end of the 19th century, through rapid developments, in the study of humoral immunity (antibodies) and cellular immunity (T cells and dendritic cells). 
+
+Particularly important was the work of Paul Ehrlich, who proposed the side-chain theory to explain the specificity of the antigen-antibody reaction; his contributions to the understanding of humoral immunity were recognized by the award of a Nobel Prize in 1908, which was jointly awarded to the founder of cellular immunology, Elie Mechnikov.

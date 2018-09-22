@@ -1,0 +1,9 @@
+Antenna
+
+An antenna or aerial is a metal device made to send or receive radio waves. Many electronic devices like radio, television, radar, wireless LAN, cell phone, and GPS need antennas to do their job. Antennas work both in air and outer space. 
+
+The word 'antenna' is from Guglielmo Marconi's test with wireless equipment in 1895. For the test, He used a 2.5 meter long pole antenna with a tent pole called ' "l'antenna centrale" ' in Italian. So his antenna was simply called ' "l'antenna" '. After that, the word 'antenna' became popular among people and had the meaning it has today. The plural of antenna is either "antennas" or "antennae" (U.S. and Canada tends to use "antennas" more than other places). 
+
+Each one is made to work for a specific frequency range. The antenna's length or size usually depends on the wavelength (1/frequency) it uses.
+
+Different kinds of antenna have different purposes. For example, the isotropic radiator is an imaginary antenna that sends signals equally in all directions. The dipole antenna is simply two wires with one end of each wire connected to the radio and the other end standing free in space. It sends or receives signals in all directions except where the wires are pointing. Some antennas are more directional. Horn is used where high gain is needed, the wavelength is short. Satellite television and radio telescopes mostly use dish antennas.

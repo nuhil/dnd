@@ -1,0 +1,13 @@
+Product (mathematics)
+
+In mathematics, a product is a number or a quantity obtained by multiplying two or more numbers together. For example: 4 × 7 = 28 Here, the number 28 is called the product of 4 and 7. The product of 6 and 4 will be 24, because 6 × 4 = 24.
+
+A short way to write the product of many numbers uses the capital Greek letter pi: formula_1. This notation (or way of writing) is in some ways similar to the Sigma notation.
+Informally, given a sequence of numbers (or elements of a multiplicative structure with unit) say formula_2 we define formula_3. A rigorous definition is usually given recursively as follows
+An alternative notation for formula_5 is formula_6.
+From the above equation we can see that "any" number with an exponent can be represented by a product, though it normally is not desirable.
+
+Unlike summation, the sums of two terms cannot be separated into different sums. That is,
+This can be thought of in terms of polynomials: one generally cannot separate terms inside them before they are raised to an exponent. But the product does,
+
+The product of powers with the same base can be written as an exponential of the sum of the powers' exponents:

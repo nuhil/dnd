@@ -1,0 +1,67 @@
+Vaccine
+
+A vaccine is given by a doctor or nurse and makes a person less likely to get a disease. It gives immunity to an infectious disease caused by a particular germ (bacteria or virus). For example, the flu vaccine makes it less likely that a person will get the flu.
+
+Vaccines are usually made from something that is alive, or was alive.
+
+The word "vaccine" comes from the Latin words "vaccīn-us" (from the word "vacca", meaning "cow"). In 1796, Edward Jenner used cows infected with cowpox ("variolae vaccinae") to protect people against smallpox. The use of vaccines is called vaccination.
+
+Edward Jenner created the first vaccine in the 1770s. At this time, smallpox was a deadly disease. Jenner noticed that people who had already had cowpox (a disease that is related to smallpox) usually did not get smallpox. He thought that getting cowpox protected people against smallpox. 
+
+To test this idea, Jenner gave a boy cowpox. Then he infected the boy with smallpox. The boy did not get sick because he had already had cowpox. Jenner was right: having cowpox protected people against smallpox. 
+
+Because cowpox inoculation made fewer people sick than smallpox inoculation, England made smallpox inoculation illegal in 1840. In 1853, they made another law that said every child had to be vaccinated against smallpox using Jenifer vaccine. 
+
+In the 19th century, Louis Pasteur made a rabies vaccine.
+
+In the 20th century, scientists created vaccines to protect people against diphtheria, measles, mumps, and rubella. In the 1950s, Jonas Salk created the polio vaccine. 
+
+However, vaccines still do not exist for many important diseases, like malaria and HIV. 
+
+Many countries have passed "compulsory vaccination laws" - laws that require certain people to get vaccinated. For example, in many countries, children have to be vaccinated against certain diseases in order to go to public school.
+
+There are many different types of vaccines.
+
+One common type of vaccine is a "live vaccine." This type of vaccine contains a small amount of a live virus or bacteria. Before the vaccine is given, scientists weaken the virus or bacteria so it cannot make a person sick. When a person gets a live vaccine, their immune system learns to recognize and fight off that virus or bacteria. Then, if the person is exposed to the virus or bacteria in the future, their immune system will already "know" how to fight it off. Examples of live vaccines include vaccines for measles, mumps, and chickenpox.
+
+Another common type of vaccine is an "inactivated vaccine." These vaccines contain dead viruses or bacteria. These do not cause the immune system to react as strongly as live vaccines. Because of this, people may need "booster shots" - extra doses of the vaccine, given at certain times, so their immune system can "learn" how to fight off the infection. Examples of inactivated vaccines include vaccines for pertussis (whooping cough), rabies, and hepatitis B.
+
+Scientists can make some types of vaccines in a laboratory.
+
+Vaccines do not guarantee complete protection from a disease. In other words, a person can get a disease that they were vaccinated against.
+
+Sometimes, this happens because the person's immune system did not respond to the vaccine (it did not "learn" how to fight off the disease after the person got the vaccine). This may happen because the person's immune system is already weak (for example, because of diabetes, HIV infection, old age, or steroid use). It may also happen because the person's immune system cannot make the particular B cells which make the antibodies that stick to the pathogen.
+
+Some vaccines work better than others at protecting people from diseases. There are many reasons for this:
+
+Since vaccines first existed, there have been people who did not agree with the idea of using vaccines. Around the world, most scientists and doctors agree that the benefits of using vaccines are much greater than the risks. The adverse effects from vaccines are rare. Not vaccinating people is a much greater risk, because vaccines prevent suffering and death from infectious diseases. 
+
+There have been controversies over using vaccines such as whether vaccines are safe, the amount of research and whether it is morally right to force people to get vaccinated.
+
+Some religious groups do not allow uses of vaccines. 
+
+Some political groups argue that people should be able to choose whether or not to get vaccinated. They argue that laws requiring people to get vaccinated violate individual rights. In response, one study says: "Vaccine refusal not only increases the individual risk of disease but also increases the risk for the whole community". 
+
+Some parents choose not to follow the regular vaccine schedule for their children. One study looked at parents of children ages six months to six years old. It found that 13% of these parents reported following an alternative vaccination schedule. However, of these parents, less than 1 out of every 5 reported refusing all vaccines. Most refused only certain vaccines, and/or delayed some vaccines until the child was older. 
+
+Parents who delay vaccines until their children are older are often concerned about their child's immune system being too young and weak to handle getting many vaccines at once.
+
+One challenge in developing vaccines is economic. The diseases that most need vaccines today - HIV, malaria, and tuberculosis - exist mostly in poor countries. Companies that make vaccines would not profit much from developing vaccines for these diseases, because many of the people who need them are too poor to pay for them. There would also be financial and other risks to these companies if they tried making new vaccines for these diseases.
+
+Throughout history, most vaccines have been developed by governments, universities, and non-profit organizations. Many vaccines have been highly cost-effective and good for public health. In recent decades, the number of vaccines given throughout the world has increased dramatically. This increase, particularly in the number of different vaccines given to children before they start school, may be due to laws and support from governments.
+Another obstacle to making new vaccines is that when a new vaccine is made, the maker often files a patent on their vaccine. These patents can keep the process used to make the vaccine secret. That can make it harder to make other vaccines using the same process.
+
+Vaccines often contain other things besides the active vaccine (the weakened or dead virus or bacteria). For example, vaccines may contain:
+
+
+Preservatives in vaccines, such as thiomersal, phenoxyethanol, and formaldehyde, prevent serious adverse effects. Thiomersal is more effective against bacteria, lasts longer in storage, and makes the vaccine stronger, safer, and more stable (less likely to be changed by things like heat). However, in the United States, the European Union, and a few other developed countries, it is no longer used as a preservative in childhood vaccines because it contains mercury. Some people have argued that thimerosal contributes to autism. However, no convincing scientific evidence says this is true.
+
+If no preservative is added to a vaccine, harmful bacteria may grow in the vaccine. For example, in 1928, "Staphylococcus" bacteria grew in a diphtheria vaccine that had no preservative in it. Of 21 children who got that vaccine, 12 died.
+
+Animals are vaccinated to keep them from getting diseases, and to keep them from infecting humans with diseases. Pets as well as livestock are routinely vaccinated. 
+
+In some instances, populations of wild animals may be vaccinated. Sometimes, wild animals are vaccinated by spreading vaccine-laced food in a disease-prone area. This method has been used to try to control rabies in raccoons. Where rabies occurs, laws may require dogs to get rabies vaccinations. 
+
+Dogs can also be vaccinated against many other diseases, including canine distemper, canine parvovirus, infectious canine hepatitis, adenovirus-2, leptospirosis, bordatella, canine parainfluenza virus, and Lyme disease.
+
+Scientists are also working on vaccines against many noninfectious human diseases, such as cancers and autoimmune disorders. For example, the experimental vaccine CYT006-AngQb has been investigated as a possible treatment for high blood pressure.

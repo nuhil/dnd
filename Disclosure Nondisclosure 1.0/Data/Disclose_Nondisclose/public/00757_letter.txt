@@ -1,0 +1,9 @@
+Letter
+
+In languages that use an alphabet, for example English, each symbol in the alphabet is a letter. Letters represent sounds when the language is spoken.
+
+Some languages do not use letters for writing: Chinese, for example, uses "ideograms". 
+
+In English and many other languages, the smallest part of writing is the letter. We use letters to make words. In some languages, for example Spanish, there is usually one letter for one sound (or better: for one "phoneme", the smallest part of speech). This is easy to read. In other languages, for example English, we can use several different letters for the same sound in different words, or one letter for different sounds in different words. This is difficult for learners to read. Here are some examples:
+
+English, French, Spanish and many other languages use the Latin alphabet for writing. In this alphabet there are often two different letters for a sound. For example, "A" and "a". In other alphabets, for example the Cyrillic alphabet, there is only one letter for a sound (except for handwritten Cyrillic, in which the shape of the capital letter is much different - and usually unrecognisable - from its lowercase counterpart). The letters are: ABCDEFGHIJKLMNOPQRSTUVWXYZ

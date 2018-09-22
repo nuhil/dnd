@@ -1,0 +1,146 @@
+Asthma
+
+Asthma (or Asthma bronchiale) is a disease that hurts the airways inside the lungs. It causes the tissue inside the airways to swell. Asthma also causes the bands of muscle around the airways to become narrow. This makes it hard for enough air to pass through and for the person to breathe normally. Asthma also causes mucus-making cells inside the airways to make more mucus than normal. This blocks the airways, which are already very narrow during an asthma attack, and makes it even more difficult to breathe.
+
+A person having an asthma attack often makes wheezing sounds when trying to breathe. This is the sound of air trying to pass through the very narrow airway. They also have shortness of breath, which means they cannot take a full deep breath. Chest tightness may happen which feels like their chest is being squeezed. They may also cough a lot.
+
+Asthma attacks can be a medical emergency because they can be "fatal" (cause a person to die). There is no cure for asthma. There are treatments such as different kinds of medicines to help people with asthma. There are also things that people with asthma can do to help themselves to keep their asthma from getting worse.
+
+There are a lot of risk factors for getting asthma. The exact reasons for each is not yet clearly understood. Some of the factors are believed to come from genetics. A person inherits genetic mutations from one or both of their parents that may increase the chances of developing asthma. "Epigenetics", which are changes in the way a gene acts, may also increase their chances of getting asthma. These epigenetic changes may also be inherited. They may happen when a baby is still growing inside its mother, or during childhood.
+
+"Socioeconomic status" (SES) is also believed to play a part in developing asthma. A person's socioeconomic status is based on such things as how much money their family makes, where they live, and their education level. Race and ethnicity also may play a part. It also is related to access to medical care, personal beliefs, and dietary habits. People of lower socioeconomic status suffer higher rates of asthma, have worse outcomes, and also have higher asthma-related death rates than people of higher economic status.
+
+The exact cause of asthma is not yet known. It is believed that it may be because of a of many different reasons:
+
+"Genetics": When changes happen in a person's genes (called "mutations") these changes are passed on to their children. One or both parents may have these changes or "mutations" in their genes, and some or all of their children may be born with them, which means they "inherited" them. These mutations, once they happen, run in families from one generation to the next and are permanent mutations, they change the gene in the "DNA". These changes can make a person more likely to get certain diseases like asthma. In some diseases it may be only one change in one gene that may make a person get that disease, in asthma it may be changes in many different genes that may make a person more likely to get asthma.
+
+"Epigenetics changes" or "modifications" cause different kind of changes that affect how a person's genes work or 'express themselves' in three different ways (called "epigenetic mechanisms"), but do not change the gene in the DNA. These epigenetic changes may be inherited, or they may happen "in utero" which is when a baby is still inside its mother. They may also happen in childhood, because of different reasons, like a respiratory infection, being exposed to chemicals or drugs, diet etc. These changes can be passed from one generation to the next but are not permanent and might only be passed down one or two generations. Even though epigenetic changes affect how a person's genes work they do not permanently change a person's genes. It is believed epigenetic changes may also make a person more likely to get certain diseases like asthma.
+
+"Environmental factors" are things that affect a person; which can be either healthy or unhealthy. Unhealthy environmental factors are things like living in an area where there is a lot of air pollution, or living somewhere where there are lots of bugs in the house, or being around cigarette smoke.
+
+If a person who has genetic or epigentic changes in their genes that makes them have a bigger chance of getting asthma ("genetic predisposition"), also has unhealthy environmental factors in their life, like living in a home that has a lot of "dust mites", then it is more likely that they will get asthma.
+
+Atopy
+"Atopy" is when there are changes in some of the genes a person is born with ("genetic inheritance"). These genetic changes make their body produce more Immunoglobulin E (IgE), a type of "antibody". They are also more sensitive to things things like chemicals, smoke and dust ("environmental antigens"). This "hypersensitivity" means they are more sensitive or "allergic" to things in the environment than people who do not have these changes in their genes and are not hypersensitive or "allergic".
+
+This "hypersensitivity" causes their body to react in certain ways. Usually a person who is atopic develops "allergic rhinitis" which affects the "nasal passages" which are behind the nose and they are also more likely to get "atopic dermatitis" which causes skin rashes and "atopic asthma". Up to 40% of people with allergic rhinitis also have asthma. These three medical problems, "allergic rhinitis", "atopic dermatitis" and "atopic asthma" are called the "Atopic Triad" (a "triad" is when there is three of something). People who are atopic may also have other medical problems including food and drug allergies, stinging-insect hypersensitivity, hives ("urticaria"), Quincke's edema ("angioedema"), and contact dermatitis.
+
+If a person has one parent who is atopic they have a chance of being atopic too. If they have two parents who are atopic they have an even bigger chance of being atopic.
+
+There have been studies that show a link between acetaminophen (Tylenol) and asthma. For instance a 2008 analysis of information collected from a very large study called the International Study of Asthma and Allergies in Childhood, or the "Isaac study" for short, showed that children who had taken acetaminophen for a fever during the first year of their life had a 50% higher risk of getting asthma later on. The more acetaminophen children took the higher their risk of getting asthma. Children who took it once a month had threefold increase in their risk of getting asthma. An increase in asthma rates in multiple countries corresponded with increased sales of drugs which contained acetaminophen. Previously the American College of Physicians reported a link between non-atopic asthma and acetaminophen use based on results of The Third National Health and Nutrition Examination Survey. Not all doctors are convinced of the link between acetaminophen and asthma.
+
+"Children with asthma or at risk for asthma should avoid the use of acetaminophen." (McBride JT, 2011).
+
+Atopic asthma
+
+"Atopic" asthma is the most common form of asthma.
+
+Cough-variant asthma
+
+Cough-variant asthma is a type of asthma in which a cough is the main, and sometimes only sign. Cough-variant asthma usually does not cause wheezing or breathlessness and causes a dry, scratchy, mostly nonproductive cough (this means little or no phlegm is coughed up). About 30% of people who have cough-variant asthma will develop typical asthma.
+
+Work-related asthma
+Work related asthma are types of asthma that are caused or made worse by irritants in the environment at a person's place of work. The kind of jobs that may cause work related asthma are usually those in which there is a lot of smoke or chemicals are used. There are different types of work-related asthma (WRA):
+
+1. Occupational asthma with latency: this asthma type is when the signs and symptoms of asthma occur after a period of time ("latency") after being exposed to the environmental irritants. e.g.: John starts working at a factory where chemicals are used the first week of January. At the end of March he starts developing the signs and symptoms of asthma. The period of time from when he started the job in January to when the signs and symptoms of asthma started in March is the "latency period".
+
+2. Irritant-Induced Asthma (IIA) is occupational asthma without latency: this is an asthma type is when the signs and symptoms of asthma can occur immediately ("without latency") after being exposed to the environmental irritants. e.g. Frank starts a new job working as a janitor where he uses ammonia to clean. After opening the bottle of ammonia and breathing the fumes Frank starts finding it difficult to breath, his chest tightens up and he develops other signs and symptoms of asthma.
+
+4. Work-aggravated asthma: this is when a person already has asthma and environmental triggers at their place of work makes it worse.
+
+Exercise induced asthma
+
+Exercise induced asthma (EIA) - also called exercise induced bronchospasm - is the term used to describe asthma cases in which exercise is the main, and many times the only trigger for an asthma attack. If a person already has a form of asthma or they are "atopic" there is more of a chance of getting EIA.
+
+Nocturnal asthma
+
+Nocturnal asthma: is the term used to describe asthma cases that get worse at night ("nocturnal").
+
+Premenstrual asthma (PMA): is when asthma symptoms get worse during the premenstrual period. This condition may affect up to 40% of female asthma sufferers. For a diagnosis of PMA to be made it is necessary to have a detailed history of the timing of menstrual cycles along with asthma symptoms experienced, and the peak expiratory flow rate (PMA may cause the PEF to be lowered in the premenstrual period). It is helpful in making a diagnosis to keep a diary of symptoms and peak expiratory flow (PEF) rates.
+
+Status asthmaticus
+
+Status asthmaticus is a severe form of asthma in which an asthma attack gets worse as it goes along and the medicines that are usually used to treat asthma do not work. Status asthmaticus can be fatal.
+
+Signs and symptoms in medicine are the way a medical condition affects a person's body. Sometimes the signs and symptoms of asthma may be "mild" which does not bother the person too much. At other times they may be "severe" which may make the person feel very sick.
+
+Not every person with asthma has all the signs and symptoms of asthma all the time. A person may have some signs and symptoms during one asthma attack and have different symptoms during another asthma attack. Some people with asthma may have long periods of time between asthma attacks where they show no signs and experience no symptoms of asthma, while others may have some or all of the signs and symptoms everyday which become more severe during an attack. It also depends on what type of asthma a person has and whether they have a mild, moderate or severe case.
+
+There are also some people with asthma who might only have signs and symptoms during certain times, such as those with exercise induced asthma, where the exercise triggers the symptoms. For some the signs and symptoms of asthma may be triggered or made worse ("exacerbated") when they have viral respiratory tract infections, often the type casued by human "rhinoviruses".
+
+Early warning signs of an asthma attack are physical changes in health that a person with asthma has before they have the attack. By knowing the early warning signs a person may be able to take steps to keep from having an asthma attack or if they do have one, to keep it from getting worse.
+
+Early warning signs
+
+The early warning signs of asthma may include:
+
+
+A "trigger factor" or "trigger" for short, is something that causes the signs and symptoms of a medical condition to begin in a person who already has that medical condition. Common triggers for asthma are: 
+
+The best way to deal with asthma triggers is to learn what they are and avoid them if possible, and if not totally avoidable then adjust one's behavior to deal with them. Example: running on a cold winter day right up to the doorstep of a warm house and going immediately inside; the sudden temperature change can cause an attack and could have been avoided. In general but especially with a medical condition such as asthma it is necessary to be aware of one's environment and what's in it, both indoors and outdoors.
+
+An asthma attack is when, after a period of time when aperson has had only a few or no symptoms of asthma, the asthma gets worse all of a sudden, usually because of being exposed to one or more triggers. When the asthma attack happens, the tissue inside the airways swell because of "inflammation" - which is how the body tries to protect itself from harmful things, like germs and irritants. When the tissues swell the opening (called the "lumen") in the airway gets very narrow.
+
+The "smooth muscles" (which are the kind of muscles in the body that do not "contract" voluntarily, like the ones in the arm) around the bronchi and bronchioles begin to "spasm" or contract which makes the opening in the airway even narrower. This is called a "bronchospasm".
+
+Inside the lining of the airways are glands called, "submucosal glands", and above them, closer to the opening in the airway are cells called "goblet cells" - because they are shaped kind of like a goblet, which is a type of cup. The submucosal glands and the goblet cells make mucous which helps protect the inside of the airways. The mucous in the airways of healthy lungs is a thin film which traps irritants such as dust particles and pollen so they do not damage the airways and keep them from entering the air sacs (alveoli).
+
+There are tiny hairs lining the airway called "cilia". The cilia wave back and forth like a liitle whips, and help push the mucous and the trapped particles up the airways to the "pharynx". From there the mucous, the trapped particles from the lower airways can be coughed up (this is called "sputum").
+
+During an asthma attack the submucosal glands and the goblet cells start making much more mucous than normal, and the mucous is also thicker than normal. This makes it very hard for the cilia to do their job, and bring the mucous up out of the airways. So now there is too much mucous being made, and not enough being brought up by the cilia. The airways are already to narrow to breathe properly because of the tissue swelling caused by inflammation and the constriction caused by the bronchospasms, so the extra mucous blocks the airway even more. This makes breathing very difficult. In fatal asthma attacks the airways can become so constricted and/or plugged with mucous that no air can get through at all.
+There are other signs of breathing difficulty as in an asthma attack, which are important to learn, and knowing them can help tell if someone who cannot talk is having breathing problems. People who may not be able to let somebody know they are having breathing problems include babies and young children. 
+
+Some of the other signs of asthma include:
+
+A diagnosis of asthma is based on a person's:
+Diagnostic Tests
+
+There is no specific test that can tell if a person has asthma, however there are tests that can help in the diagnosis when the results are considered along with the medical and family history and physical exam
+
+
+"Differential diagnoses" are different medical disorders which may cause the same symptoms. Before a doctor makes a "final diagnosis", which means they are sure of what medical disorder is causing the problem, they think of what other medical conditions have the same or almost the same symptoms, and make sure it's not one of them.
+
+The differential diagnoses of asthma include:
+
+Airway remodeling is when there are permanent physical changes to the airways that also affects how they work. This may happen after chronic long-term asthma. After cycles of inflammation, damage and repair to the airways. permanent remodeling of the airways may occur. This is when the physical structure of the airway changes. This will cause permanent airway narrowing (they are always more narrow than normal and get narrower during an asthma attack), bronchospasms are more easily triggered (bronchial hyperresponsivenes), airway edema (fluid in the airway), and mucus hypersecretion (too much mucous is made) as well as the build-up of collagen around the airway which is called fibrosis. Airway remodeling has been observed in chldren as young as six.
+
+Not managing asthma properly can lead to airway remodeling and this can increase the risk of dying from an asthma attack. One of the main problems which cause poor asthma management is not using the asthma inhaler correctly. One of the main reasons for improper inhaler use is the asthma patient not having the proper knowledge in using the inhaler due to not receiving proper instruction.
+
+Goblet cell and submucosal gland hyperplasia: Among the physical changes that may happen in airway remodeling is "goblet cell hyperplasia" and "submucosla gland hyperplasia". Submucosal glands and goblet cells make mucous which helps to protect the airways by trapping harmful particles like dust and pollen. The mucous is normally a thin film which lines the airways. The mucous and whatever particles they trap are brought up to the "pharynx" by tiny (microscopic) hairs on the inside of the airway that move back and forth called "cilia".
+
+During an asthma attack the submucosal glands and goblet cells make too much mucous, and it is thicker than normal which makes it harder for the cilia to bring the mucous up. When airway remodeling happens the body may make many more submucosal glands and goblet cells than normal, which means even more mucous is made. There may be too much mucous for the cilia to bring up and the airway may become blocked. This is one of the reasons that people with airway remodeling often have more severe asthma. In fatal cases the airway may have become totally plugged causing "asphyxia".
+
+Asthma can be controlled most often by avoiding contact with triggers and by using certain drugs. Most asthma sufferers carry special medicines around with them. These are called inhalers. The medicine inside the inhaler opens the tubes that go to the lungs. The inhaler is usually used to prevent an asthma attack, or to stop an attack that is already happening.
+Rescue medicine — A rescue medicine is an inhaler ("puffer") that is used if a person thinks they are having an asthma attack.
+
+Controller medicine — A controller medicine is a medicine in either a pill or an inhaler taken every day to prevent asthma attacks.
+
+Common treatment in a hospital
+
+Hospitals have other options they can use in an emergency when the regular treatments don't work:
+Drugs that may worsen an asthma attack
+
+There are certain types of drugs that make asthma worse or that can trigger such an attack. Certain types of drugs should only be used in very specific situations. Some of these drugs are: 
+Managing comorbid asthma, depression and/or anxiety
+
+Depression and anxiety have a negative impact on asthma . Comorbid anxiety with asthma is particularly confusing because of the similarity of symptoms and interference in perception and treatment of asthma. The National Asthma Council Australia recommends treatment for comorbid psychological symptoms. Cognitive Behaviour Therapy (CBT) is one recommended treatment for anxiety and depression . There is tentative research evidence suggesting that a program of CBT amended for asthma, delivered in conjunction with medical treatment and in close liaison with your medical team, can improve anxiety, asthma and quality of life . Clinicians intending to deliver CBT for comorbid asthma, anxiety or depression should refer to and the research reviewed by for guidance on safe and effective intervention.
+Often, having one medical problem makes it more likely a person will also have one or more other medical or psychiatric problems. These other disorders are the "comorbid problems" or "comorbidities". There are various comorbid medical and psychiatric conditions associated with asthma.
+
+Respiratory disorders
+
+Gastrointestinal disorders
+
+Psychiatric disorders
+Sleep disorders
+
+Skin disorders
+
+In medicine "epidemiology" is the study of what causes diseases and medical conditions, how often they happen, where they happen and who they happen to.
+
+It is more common in developed countries than developing countries. The United States and Canada have some of the highest asthma rates in the world even though they are not poor countries. In Africa the country of South Africa has the highest asthma rate on the whole continent even though it is one of the richest countries.
+
+More than 80% of the people who die from asthma are usually from low and middle income countries, but not always, as South Africa has the fourth highest death rate in the world even though it is one of the richer countries in the world. In the United States the death rates are higher for females, adults and people of African descent.
+
+As of 2011, 235–300 million people worldwide are affected by asthma, and approximately 250,000 people die per year from the disease. Rates vary between countries with prevalences between 1 and 18%.
+
+The amount of asthma cases reported each year has gotten much higher between the 1960s and 2008 Rates of asthma have plateaued in the developed world since the mid-1990s with recent increases primarily in the developing world. Asthma affects approximately 7% of the population of the United States and 5% of people in the United Kingdom. Canada, Australia and New Zealand have rates of about 14–15%.

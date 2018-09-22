@@ -1,0 +1,25 @@
+Free software
+
+Free software is software that anyone may run, share, and change, at any time, for any reason. In this case, "free" means "freedom-respecting". The opposite of free software is proprietary software.
+
+In 1984, Richard Stallman started the free software movement when he began the GNU project.
+
+Free software is very similar, but different from open source software.
+
+People who use the name “free software” more, say that they use it because they think every human must have the right to
+
+People who use the name “open source” more, say that they use it because the authors of such software allow others to look at the software and change it, so the others will then help the authors make the software better.
+
+An author who wants to make his computer program free, must allow the people to whom he gives the program as a free program to use it for any reason and purpose, on any computer, in any place at any time, without limits.
+
+That does not mean that the author must say "I allow you to delete files from the computers of other people without telling them", but he must not say "I prohibit you from deleting files from the computers of other people without telling them". If deleting files from somebodies' computer is illegal, it will be illegal even if it is prohibited only by law and not by the author of the program.
+
+If it is legal (for example, if a user wants the program to delete his files without telling him about that), but the author has prohibited it, nobody can change the program to make a useful program which does that, and give it to others.
+
+The author must not prohibit even things which are dangerous, because if the prohibition is not very very very complex and long, it may be used incorrectly. For example, explosive materials can be used for war, but they can also be used to remove a big stone which has fallen on a road. Some authors would want to prohibit eating meat, or saying bad words (or good words which are not allowed to be said in their culture), or something else. If many authors prohibit many different things, then a program which is made of the programs of those authors will not be usable.
+
+There are also other things which must be allowed.
+
+The word “free” in “free software” is about "freedom," not "price". People are allowed to sell free software, but the person who buys the software may change it or give it away.
+
+The name “free software” in English language is also often used for software, a copy of which people can download without paying money, and sometimes can give copies to others, but not do all the things with it that they can do with the other Free software. In this case “free” means “free of charge”, “freedom from paying money”. This software is called freeware; it is almost always proprietary software.

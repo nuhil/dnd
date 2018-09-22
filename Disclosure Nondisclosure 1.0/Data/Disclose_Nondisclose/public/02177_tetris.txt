@@ -1,0 +1,11 @@
+Tetris
+
+Tetris is a video game developed in the Soviet Union in 1984. The goal is to drop blocks, called tetrominoes, down into a playing field to make lines. Tetriminoes are made of four connected squares each, and there are seven different shapes of tetrominoes. A player uses the tetrominoes to make unbroken lines of squares across the bin from left to right by stacking them in the playing field. When a player makes a line, it clears. After a clear, squares over that line fall. As play goes on, the tetrominoes fall faster.
+
+"Tetris" has appeared in many video game systems. It has become very common from back when Alexey Pajitnov first made it in 1984. With a gross of $495,000,000, it is the best-selling video game of all time.
+
+The goal is to drop blocks, called tetrominoes, down into a playing field to make lines. Tetriminoes are made of four connected squares each There are seven different types of tetrominoes. Levels have a set goal, or number of lines to clear. When the goal number reaches zero, the player moves to the next level. As the levels go up, the tetrominoes fall faster. A player receives bonus points if he can clear more than one line with a single tetromino. Clearing four lines is called a "tetris", three lines a "triple" and two lines a "double". Clearing two tetrises in a row is called a back-to-back tetris. The player can also turn a T-shaped tetromino into a hole, called a T-slot, to get more points. This move is called a "T-spin". A player loses when the tetrominoes make it to the top of the playing field. See "Issues" for information on the Level 29 Problem.
+
+On the "Game Boy", there are several musical themes played. The theme for level 1 is often called the "Tetris Theme". It is actually a Russian dance called "Korobeiniki", or "the Peddlers." Other themes include music by Johann Sebastian Bach and the Dance of the Sugar Plum Fairy.
+
+When one reaches Level 29 on the GBA or DS, the level starts to offer pieces that seem to fall indefinitely fast, hence disallowing the player to move in a lock, or quite possibly, move the tetrominoes at all. This means that all the uncontrolled pieces will pile up on the playfield and cause the player to top out.

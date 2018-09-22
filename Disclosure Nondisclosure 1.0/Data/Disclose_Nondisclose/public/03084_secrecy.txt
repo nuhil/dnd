@@ -1,0 +1,11 @@
+Secrecy
+
+A secret is information or facts that only one person or group knows about. There are many reasons for not telling or sharing the truth with others. 
+
+Some secrets are good. These are ones that should be kept secret. An example of a good secret is respect for a citizen's privacy. But some secrets are bad, if keeping facts hidden causes harm. An example of a bad secret is child abuse. Some things might be kept secret only for a short time, such as a surprise party. Other things may need to be kept secret forever. Sometimes things might be kept secret from someone because it is believed that it would upset them to know. 
+
+Some things need to be kept secret for security reasons. If a person has a bank account they must keep their password secret. No one else should know it. Espionage is snooping for someone else's secrets. Criminals like to keep their crimes secret. 
+
+In a business, some information is kept secret. This is also called "confidential". Conversations at meetings are sometimes confidential. People who were at the meeting cannot go telling everyone else what was discussed. Usually, managers will make this a rule for an employee. Trade secrets are protected by law.
+
+Another type of secret is Cryptography. These are codes that unlock other secrets. So, secrets are being used to protect secrets.

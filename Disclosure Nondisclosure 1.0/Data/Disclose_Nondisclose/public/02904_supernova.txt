@@ -1,0 +1,29 @@
+Supernova
+
+A supernova is when a huge star explodes. It usually happens when its nuclear fusion cannot hold the core against its own gravity. The core collapses, and explodes. 
+
+The biggest supernovae are called hypergiants and smaller ones are called supergiants. They are massive: because of gravity they use up their energy very quickly. Normally they only live for a few million years. 
+
+During the explosion, the total energy radiated by supernovae may briefly outshine the entire output of a galaxy. They emit energy equal to that of the whole lifetime of a solar-like star. The explosion blows off its stellar material away from the star, at velocities up to 30,000 km/s or 10% of the speed of light. This drives a shock wave into the surrounding interstellar medium. This sweeps up an expanding shell of gas and dust, which we see as a supernova remnant. After exploding, what is left becomes a black hole or a neutron star. 
+
+Most stars are small and do not explode. They become colder and smaller, and they become white dwarf stars.
+
+Supernova explosions happen rarely. In our own galaxy, the Milky Way, the last supernova happened in the year 1604. We can see supernovas in other galaxies too. Every year we see 300 supernovas in other galaxies, because there are so many galaxies. Sometimes they are brighter than the whole rest of the galaxy. </onlyinclude>
+
+Supernovas are usually sorted into Type I and Type II supernovas.
+
+Type I supernovas have absorption lines that show they do not have hydrogen in them. Type Ia supernovas are very bright for a short amount of time. Then they get less bright very quickly. Type Ia supernovas happen when a white dwarf star is orbiting a big star. Sometimes, the white dwarf star sucks matter off of the big star. When the white dwarf gets to be about 1.4 times the mass of the sun, it collapses. This makes lots of energy and light, which is why supernovas are very bright. Type 1a have mostly the same brightness. This allows them to be used as a secondary standard candle to measure the distance to their host galaxies.
+
+Type II supernovas have absorption lines that show they do have hydrogen in them. A star must have at least 8 times, and no more than 40–50 times, the mass of the Sun to undergo this type of explosion.
+
+In a star like the Sun, nuclear fusion turns hydrogen into helium. In very large stars, helium gets turned into oxygen, and so on. The star fuses increasingly higher mass elements, up through the periodic table until a core of iron and nickel is produced. Fusion of iron or nickel produces no net energy output, so no more fusion can take place. But, the collapse of the core is so rapid (about 23% of the speed of light) that a huge shock wave is produced. The extremely high temperature and pressure lasts long enough for a brief moment when the elements heavier than iron are produced. Depending on initial size of the star, the remnants of the core form a neutron star or a black hole.
+
+Without supernovas there would be no life on Earth. This is because many of the chemical elements were made in supernova explosions. These are called "heavy elements". Heavy elements are needed to make living things. The supernova is the only way heavy elements can be made. Other elements were made by fusion in stars. Heavy elements need very high temperature and pressure to form. In a macho supernova explosion the temperature and pressure are so high that heavy elements can be made. Scientists call this "supernova nucleosynthesis".
+
+It could be dangerous if a supernova explosion happened very close to the Earth. The explosion is very big and many kinds of dangerous radiation are formed. But we do not have to be afraid. Only very big stars can explode as supernovas. There are no stars big enough near the Earth and if there was it would take millions of years for it to happen.
+
+SN 1572 was seen by Tycho Brahe. This supernova helped astronomers learn that things in space could change. SN 1604 was seen by Johannes Kepler. It was the last supernova close enough to be seen from Earth's northern hemisphere without a telescope. SN 1987A is the only supernova so close that scientists could find neutrinos from it. SN 1987A was also bright enough to see without a telescope. People in the southern hemisphere saw it.
+
+The Earth does have traces of past supernovae. Traces of radioactive iron-60, a strong indicator of supernova debris, is buried in the sea floor right across the globe. 
+
+The "local bubble" is a ballooning region of hot gas, 600 light-years across. It surrounds the Solar System and dominates our stellar neighbourhood. It was formed by over a dozen supernovae blowing up in a nearby moving clump of stars. This happened between 2.3 million and 1.5 million years ago. This roughly corresponds with the start of the Pleistocene ice ages. The connection may be accidental.

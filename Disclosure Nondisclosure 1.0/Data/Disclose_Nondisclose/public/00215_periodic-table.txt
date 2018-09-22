@@ -1,0 +1,18 @@
+Periodic table
+
+The periodic table of the chemical elements is a list of known Elements. In the table, the elements are placed in the order of their atomic numbers starting with the lowest number. The atomic number of an element is the same as the number of protons in that particular atom.
+
+In the periodic table the elements are arranged into "periods" and "groups". 
+
+A row of elements across the table is called a "period". Each period has a number: from 1 to 8.. Period 1 has only 2 elements in it: hydrogen and helium. Period 2 and Period 3 both have 8 elements. Other periods are longer. Elements in a period have consecutive atomic numbers. 
+
+A column of elements down the table is called a "group". There are 18 groups in the standard periodic table. Each group has a number: from 1 to 18. Elements in a group have electrons arranged in similar ways, which gives them similar chemical properties (they behave in similar ways). For example, group 18 is known as the noble gases because they are all gases and they do not combine with other atoms.
+
+The periodic table can be used by chemists to observe patterns, and relationships between the elements. There are 3 main groups in in the Periodic Table; metals, metalloids, and gases. For example, elements to the bottom and far left of the table are the most metallic, and elements on the top right are the least metallic. (e.g. cesium is much more metallic than helium). There are also many other patterns and relationships.
+
+There are two systems of group numbers; one using Arabic numerals (1,2,3) and the other two using Roman numerals (I, II, III). The Roman numeral names were used at first and are the traditional names; the Arabic numeral names are newer names that the International Union of Pure and Applied Chemistry (IUPAC) decided to use as well. The IUPAC names were meant to replace the older Roman numeral systems. 
+
+The Periodic Table was invented and arranged by the Russian chemist Dmitry Ivanovich Mendeleyev (1834-1907). In his honour, element 101 was named after him, mendelevium.
+
+
+The version of the periodic table shown above is the one most used. Other widespread versions are shown below:

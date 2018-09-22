@@ -1,0 +1,23 @@
+Binary number
+
+The binary numeral system is a way to write numbers using only two digits: 0 and 1. These are used in computers as a series of "off" and "on" switches. In binary, each digit's place value is twice as much as that of the next digit to the right (since each digit holds two values). In decimal - the system that humans normally use - each digit holds ten values, and the place value increases by a power of ten (ones, tens, hundreds, etc.). The place value of the rightmost digit in either case is 1.
+Example: 10110011
+
+
+Adding together all the place values that have 1s, it would be 1+2+16+32+128 = 179. For convenience, binary digits (bits, for short) are usually grouped together in two groups of 4 bits. This is 8 bits, or a byte, and is written using the hexadecimal numeral system. This would be shown as 1011 0011 = B3.
+
+Arithmetic is a way of adding together two or more binary numbers. There are four rules in binary arithmetic. They are:
+
+"0" + "0" = "0"
+<br>"1" + "0" = "1"
+<br>"1" + "1" = "10" (2)
+<br>"1" + "1" + "1" = "11" (3)
+
+This is because in binary there are only two digit; 0 and 1. Because of this, the number two and three have to be represented in some other way. This is how the binary value for three is calculated:
+This shows that the binary value would be "11".
+
+Binary is a numbering system that is a series of 1s and 0s meaning (to the computers) on and off. It is base 2 and our number system (decimal) is base 10, where 10 numerals are used rather than 2.
+
+In 1817 John Leslie (a Scottish mathematician) suggested that primitive societies may have evolved counting with objects (like pebbles) before they had even words to describe the total number of objects involved. The next step in the evolution of counting would have been the discovery that this pile of objects could be reduced into two piles of equal measures (leaving either 0 objects left over or just a remainder of 1). This remainder (odd = 1 or even = 0) would then be recorded and one of the piles removed whilst the second pile was then further divided into two sub piles. If you record the remainder left over after the original pile has been divided in two and continue repeating this process; of sub dividing one of the remaining piles into half and then removing one of those piles and continue by subdividing the remaining pile into two piles you will ultimately be left with just either 2 or 3 objects. If you record the remainder left over (odd = 1 or even = 0) at the end of each reduction you will eventually be left with a tally record of 1's and 0's which will be the binary representation of your original pile of objects. So instead of representing your original pile of objects with a repeating number or marks or tokens (which for large numbers could be quite long) you have reduced your pile of objects into more compact binary number. If you need to recover the original number of objects from this summarised binary number it is easy enough to do; by simply starting with the first tally mark and then doubling it and adding one if the next binary number contains a 1 and then continuing the process until the end of the binary number is reached.| see this article for an illustration . So binary counting may be both the oldest and the most modern method of counting.
+
+Binary was invented by many people but the modern binary number system is credited to Gottfried Leibniz in 1679, a German mathematician. Binary has been used in nearly everything electronic; from calculators to supercomputers. Machine code is binary digits.

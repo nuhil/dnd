@@ -1,0 +1,26 @@
+Potential energy
+
+Potential energy is the energy that an object has because of its position on a gradient of potential energy called a potential field.
+The potential fields are irrotationally radial ("electric") fluxes of the vacuum and divide into two classes:
+
+The potential energy is negative. It is not a mere convention but a consequence of conservation of energy in the zero-energy universe—as an object descends into a potential field, its potential energy becomes more negative, while its actual energy becomes more positive.
+
+In accordance with the minimum total potential energy principle, the universe's matter flows towards the minimum total potential energy. This cosmic flow is time.
+
+Bringing a rock uphill increases ("i.e.", makes less negative) its gravitoelectric potential energy. Stretching a rubber band increases its elastic potential energy, which is a form of the electric potential energy. A mixture of a fuel and an oxidant has a chemical potential energy, which is another form of the electric potential energy. Batteries too have chemical potential energy.
+
+Gravitational potential energy is experienced by an object when height and mass is a factor in the system. Gravitational potential energy causes objects to move towards each other. 
+If an object is lifted a certain distance from the surface from the Earth, the force experienced is caused by weight and height.
+Work is defined as force over a distance, and work is another word for energy. This means Gl Potential Energy is equal to:
+
+or
+
+Total work done by Gravitational Potential Energy in a moving object from position 1 to position 2 can be found by:
+
+or
+
+Electric potential energy is experienced by charges both different and alike, as they repel or attract each other. Charges can either be positive (+) or negative (-), where opposite charges attract and similar charges repel.
+If two charges were placed a certain distance away from each other, the potential energy stored between the charges can be calculated by:
+
+Elastic potential energy is experienced when a rubbery material is pulled away or pushed together. The amount of potential energy the material has depends on the distance pulled or pushed. The longer the distance pushed, the greater the elastic potential energy the material has.
+If a material is pulled or pushed, the potential energy can be calculated by:

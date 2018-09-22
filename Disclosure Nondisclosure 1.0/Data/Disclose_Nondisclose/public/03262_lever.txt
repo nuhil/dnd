@@ -1,0 +1,13 @@
+Lever
+
+A lever is a simple machine. It is something that can be used in a lot of ways. One way is by measuring things, or by seeing which weighs more. A lever is supported by a fulcrum which it uses to lifts weights. It is one of six simple machines. There are three types of levers: first-class, second-class and third-class.
+
+The earliest remaining writings about levers are from the 3rd century BC. They were written by Archimedes. ""Give me a place to stand, and I shall move the earth."" is a famous quote from Archimedes who stated the correct mathematical principle of levers (quoted by Pappus of Alexandria).
+
+There are three kinds of levers. The difference between them is where the is and where the forces are.
+
+A first-class lever is a lever where the fulcrum is in between the effort and resistance (the load). Seesaws and crowbars are examples of first class levers.
+
+A second-class lever is where the resistance is between the effort and the fulcrum. Wheel barrows and wrenches are examples of second class levers.
+
+A third class lever is where the effort is between the resistance and the fulcrum. Staplers and your forearm are examples of third class levers.

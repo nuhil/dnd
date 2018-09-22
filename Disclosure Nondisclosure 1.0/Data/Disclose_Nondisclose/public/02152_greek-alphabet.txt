@@ -1,0 +1,15 @@
+Greek alphabet
+
+The modern Greek alphabet has 24 letters. It is used to write the Greek language.
+
+The Greek alphabet is thought to be where all important European alphabets came from. Although the alphabet was borrowed from the Phoenician alphabet around the 10th century BC, there were many changes made to make it fit the Greek language. The main change was that some of the Phoenician letters that were for sounds not used in Greek were turned into vowels. The Phoenicians had written their alphabet without any vowels, so this change made writing a lot easier to read. This change was also better fit for Indo-European languages, which did not use consonant-based roots (meaning the word's central meaning is based on the consonant string) like those in Semitic languages such as Phoenician, Arabic, Hebrew, and Aramaic. Another change is that some new letters were invented for sounds that were in Greek but not in the Phoenician language. At first, Greek was written from right to left, the same as Phoenician, but after the 6th century BC, it was written from left to right. 
+
+There were some differences in the early Greek alphabet depending on what part of the Greek world it was used in. The two main kinds were the eastern and western ones. But over time all Greeks started to use the same alphabet, especially after the Ionic alphabet of Miletus was officially adopted in Athens in 403 BC. A little later, the rest of Greece did the same, and by 350 BC, during the rule of Alexander the Great, almost all Greeks were using the same twenty-four letter Greek alphabet. 
+
+Later, Aristophanes of Byzantium (c. 257185 BC), a Greek scholar and grammarian, invented the three diacritics (accent marks): acute, grave, and circumflex, to mark the tone or pitch of Greek words.
+
+Although the Greek letters accurately represented all the main sounds of the Greek language early on, the sounds of the Greek language changed over time. Some of the vowel sounds began to sound similar to one another, aspirated voiceless stops became voiceless fricatives, and voiced stops became voiced fricatives. One can get an idea of how older Greek pronunciations sounded by looking at the Latin and English spellings of Greek loanwords like "philosopher", "Chimera", "Cyprus", and "Thessalonica" .
+
+Another diacritic is a comma, usually above initial vowels. This signaled whether or not the sound of the letter 'H' was present. It is not available in our standard character-set. The diacritic is a comma placed above the vowel. If reversed it indicates the presence of an /h/ sound before a vowel, diphthong, or rho. Thus the Greek name "Ἕκτωρ" is pronounced Hektōr, not Ektor. Another example is ἥρως, pronounced hḗrōs ("hero").
+
+In 1982, a new, simplified orthography, known as "monotonic", was adopted for official use in Modern Greek by the Greek state. It uses only a single accent mark, the acute accent. This marks the stressed syllable of polysyllabic words, that is, words with more than one syllable.

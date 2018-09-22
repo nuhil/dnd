@@ -1,0 +1,19 @@
+Space station crew perform successful spacewalk
+
+__NOEDITSECTION__
+
+Commander Leroy Chiao (U.S.A.) and Flight Engineer Salizhan Sharipov (Russia), suited in Russian Orlan spacesuits, left the International Space Station on a 4.5 hour long spacewalk to install antennas for the European Automated Transfer Vehicle (ATV), inspect and photograph other exterior equipment and launched the Nanosatellite mini-satellite. This is the last scheduled walk for the Expedition 10 crew.
+
+At 06:25 UTC, the two astronauts left the station from the Pirs DC1 docking compartment/airlock and proceeded to install the last three of six space-to-space communication antennas for the ATV's rendezvous and docking with the ISS next year.
+
+Sharipov next deployed the foot long, 11 pound Russian Nanosatellite, tossing it into space by hand. The object of the experiment is to develop small satellite control techniques, monitor satellite 
+operations and develop new attitude system sensors. Russian ground crews reported good signal reception from the satellite two hours after its release. 
+
+The two astronauts next proceeded to the aft end of the Zvezda service module. A Global Positioning System (GPS) antenna and necessary cabling for the ATV was installed and the men worked their way back to the airlock.
+
+The station maintained its attitude, despite the loss of a gyroscope earlier in the space station mission, until the end of the spacewalk. Chiao and Sharipov reported being a safe distance from the attitude adjustment thrusters. Russian ground control activated the jets and normal attitude of
+the station was regained.
+
+They returned to the airlock at 1055 UTC, completing the mission an hour earlier than scheduled.
+
+Chiao and Sharipov arrived on the station October 16, 2004. They are scheduled to return to Earth on April 25, 2005. This marks Sharipov's second walk in space and Chiao's sixth.

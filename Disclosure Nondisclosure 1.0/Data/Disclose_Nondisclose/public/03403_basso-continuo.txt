@@ -1,0 +1,9 @@
+Basso continuo
+
+Basso continuo is a form of musical accompaniment used in the Baroque period. It means "continuous bass".
+
+Basso continuo, sometimes just called "continuo", was played by a keyboard instrument and another bass instrument such as cello, violone (an old form of double bass) or bassoon. The keyboard instrument was normally a harpsichord, or, if it was being played in a church, an organ.
+
+It was not usual to write out all the notes for the keyboard player. The composer normally just wrote the bottom line which would be played by the left hand (usually with a lower 8th doubling), and by the cello or whatever the instrument being used. The composer would indicate what the harmony should be (which chords should be played) by writing figures underneath the music. This is why it is called figured bass or sometimes thoroughbass. The continuo player will "realize" the figured bass, i.e. he will improvise the chords which are shown. In 19th and early 20th century editions of old music the figured bass part was normally realized (written out) by the editor, while starting from the mid 20th century editions of ancient music print the figured bass.
+
+Basso continuo would accompany solo instruments and singers as well as instrumental groups.

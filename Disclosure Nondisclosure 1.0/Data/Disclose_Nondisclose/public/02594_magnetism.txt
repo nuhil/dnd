@@ -1,0 +1,33 @@
+Magnetism
+
+In physics, magnetism is a force that can attract (pull closer) or repel (push away) objects that have a magnetic material like iron inside them ("magnetic objects"). In simpler words, it is a property of certain substances which pull closer or repel other objects.
+
+Magnetism can be made by a permanent "magnet", or by electricity in a wire. This is called an electromagnet. When magnets are put near magnetic objects, the magnet and the object are pulled toward each other. This is called magnetic attraction. Magnets can also repel (push away) other magnets. Most objects that are attracted to magnets have iron in them. Most other metals, such as aluminium, are not attracted to magnets. 
+
+Magnets have an unseen area around them called a "magnetic field". Magnetic objects inside this unseen field are attracted to the magnet. Magnetic things outside the magnetic field are not attracted to the magnet. This is why a magnet must be close to an object to attract it.
+
+The poles of two magnets repel or attract each other. Different poles attract each other. For example, if the south pole of one magnet is put near the south pole of another magnet, the magnets will repel each other. This will also happen with two north poles that are put near each other. If a north pole is put near a south pole, the magnets will attract each other until they stick to each other and can be hard to pull apart.
+
+Magnetism is caused by electrons (the negative particles in atoms that are also electric charges) spinning. The more a group of electrons spin in the same direction, the stronger the magnetic force. In a magnet, many electrons are spinning in the same direction.
+
+We can magnetize a small piece of iron by 'rubbing' it with a magnet. The electrons in the iron get 'spun' by the passing magnet just like a basketball player spinning a basketball.
+
+Magnets have many uses. One of them was found long ago when explorers found that a magnet could be used as a compass to show the direction of north & south.
+
+Electromagnets are another kind of magnet. They only work when electricity is running through them. An electric current makes a magnetic field. If you wrap the wire into a coil, the electrons spin around the coil and make a stronger magnetic domain.
+
+Often, these magnets work by using a coil of wire that makes a magnetic field when there is a current in it. In addition to this coil of wire, a large piece of metal, usually iron, is placed inside the coil to increase the magnetic field made. Though most large electromagnets employ many solenoids to lift heavy objects, smaller solenoids are used in everyday electronics. For example, they are used to change voltage in a transformer. 
+
+Electromagnets are used to make many things work like computers, televisions and radios and also doorbells.
+
+Electromagnetic radiation including radio waves and light waves are used for communication including broadcasting and optical fiber, and for many other purposes.
+
+The North Magnetic Pole is the point on the surface of Earth's northern hemisphere where the planet's magnetic field points vertically downwards. There is only one place where this occurs, near to (but distinct from) the Geographic North Pole.
+
+Its southern hemisphere counterpart is the South Magnetic Pole. Since the Earth's magnetic field is not exactly symmetrical, a line drawn from one to the other does not pass through the geometric centre of the Earth.
+
+The North Magnetic Pole moves over time due to magnetic changes in the Earth's core. In 2001, it was near Ellesmere Island in northern Canada at . As of 2015, the pole is thought to have moved east beyond the Canadian Arctic territorial claim to .
+
+Earth does change its magnetic poles every million years (plus or minus 200,000 years). Before a change of magnetic field, the Earth's magnetic field becomes weaker and moves around, like a spinning top would before it falls. The Earth has already had hundreds of changes ("flip flops"). Scientists know this as a result of studies of magnetism on the sea floor, near the mid-Atlantic ridge. The lava slowly moves out of this crevasse (gap in the sea floor) and then it cools with its iron oxide molecules all pointing in the new direction of the Earth's magnetic field. We can look at the history of this magnetic field today to look back at the many flips in the past. 
+
+Reversals occur at intervals from less than 0.1 million years to as much as 50 million years. The most recent geomagnetic reversal, called the Brunhes–Matuyama reversal, occurred about 780,000 years ago. Another global reversal of the Earth's field, called the Laschamp event, occurred during the last ice age (41,000 years ago). However, because of its brief duration it is called an "excursion".

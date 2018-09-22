@@ -1,0 +1,13 @@
+E-mail
+
+Electronic mail (or e-mail or email) is an Internet service that allows people who have an e-mail address (accounts) to send and receive electronic letters. Those are much like postal letters, except that they are delivered much faster than snail mail when sending over long distances, and are usually free.
+
+Like with regular mail, users may get a lot of unwanted mail. With e-mail, this is called spam. Some programs used for sending and receiving mail can detect spam and filter it out nearly completely.
+
+To send or receive an email in the traditional way, one needs a device (computer, phone etc.) connected to the Internet and an e-mail program (simply called mailer). Several formats exist for email addresses. The most common, called RFC 2822, looks like user@domain.com. E-mail messages are sent mostly by text, and sometimes by HTML style.
+
+Some companies let people send and receive emails for free from a remote website. Gmail, Hotmail and Yahoo! are among the many that do this kind of "web mail". Webmail does not follow the pattern below exactly because the webpage is a web application and takes care of many details by itself. The traditional way uses a mailer, as is usual with smartphones. 
+
+Microsoft invented its own "communication protocol" (or set of rules) for sending and receiving mail, called "Exchange". Exchange protocol works entirely differently from the traditional method and is not explained here.
+
+This diagram gives an example of what happens when email is sent from one person to another using the traditional method. In this example, Alice is sending email to Bob.

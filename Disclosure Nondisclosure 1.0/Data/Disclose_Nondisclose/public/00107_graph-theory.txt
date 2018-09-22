@@ -1,0 +1,29 @@
+Graph theory
+
+Graph theory is a field of mathematics about graphs. A graph is an abstract representation of: a number of points that are connected by lines. Each point is usually called a "vertex" (more than one are called "vertices"), and the lines are called "edges". Graphs are a tool for modelling relationships. They are used to find answers to a number of problems.
+
+Some of these questions are:
+
+
+
+
+
+Leonhard Euler used to live in a town called "Königsberg." (Its name changed to Kaliningrad in 1946). The town is on the river Pregel. There is an island in the river. There are some bridges across the river. Euler wanted to walk around and use each of the bridges once. He asked if he could do this. In 1736, he published a scientific article where he showed that this was not possible. Today, this problem is known as the Seven Bridges of Königsberg. The article is seen as the first paper in the history of graph theory. 
+
+This article, as well as the one written by Vandermonde on the "knight problem," carried on with the "analysis situs" initiated by Leibniz. Euler's formula was about the number of edges, vertices, and faces of a convex polyhedron was studied and generalized by Cauchy and L'Huillier, and is at the origin of topology.
+
+Over a century after Euler, Cayley studied a special class of graphs, called the "trees. A tree is a graph where there is only one path between two vertices. Cayley tried to solve a problem from differential calculus. His solution influenced the development of theoretical chemistry. The technique he used mainly focused on listing all graphs which had certain properties. Today, this is called "Enumerative graph theory". It developed from Cayleys results, a scientific publication done by Pólya between 1935 and 1937 and the generalization of these by De Bruijn in 1959. Cayley linked his results on trees with the contemporary studies of chemical composition.
+
+The fusion of the ideas coming from mathematics with those coming from chemistry is at the origin of a part of the standard terminology of graph theory. In particular, the term "graph" was introduced by Sylvester in an article published in 1878 in "Nature".
+
+One of the most famous and productive problems of graph theory is the four color problem: "Is it true that any map drawn in the plane may have its regions colored with four colors, in such a way that any two regions having a common border have different colors?" This problem was first posed by Francis Guthrie in 1852 and its first written record is in a letter of De Morgan addressed to Hamilton the same year. Many incorrect proofs have been proposed, including those by Cayley, Kempe, and others. The study and the generalization of this problem by Tait, Heawood, Ramsey and Hadwiger led to the study of the colorings of the graphs embedded on surfaces with arbitrary genus. Tait's reformulation generated a new class of problems, the "factorization problems", particularly studied by Petersen and Kőnig. The works of Ramsey on colorations and more specially the results obtained by Turán in 1941 was at the origin of another branch of graph theory, "extremal graph theory".
+
+The four color problem remained unsolved for more than a century. A proof produced in 1976 by Kenneth Appel and Wolfgang Haken, which involved checking the properties of 1,936 configurations by computer, was not fully accepted at the time due to its complexity. A simpler proof considering only 633 configurations was given twenty years later by Robertson, Seymour, Sanders and Thomas.
+
+The autonomous development of topology from 1860 and 1930 fertilized graph theory back through the works of Jordan, Kuratowski and Whitney. Another important factor of common development of graph theory and topology came from the use of the techniques of modern algebra. The first example of such a use comes from the work of the physicist Gustav Kirchhoff, who published in 1845 his Kirchhoff's circuit laws for calculating the voltage and current in electric circuits.
+
+Graph theory is an important part of mathematics and computer science. To many such problems, exact solutions do exist. Many times however, they are very hard to calculate. Therefore, very often, approximations are used. There are two kinds of such approximations, Monte-Carlo algorithms and Las-Vegas algorithms.
+
+Graphs are normally represented by two different sets, typically set a graph G would be represented as the collection of the sets V and E. The set V is a discrete set containing all vertices of the graph. The set E is a binary set, whose pairwise elements are elements of set V. Each pair in set E represents an edge connecting two vertices.
+
+If every two nodes have an edge between them, then the graph is called the "complete graph".

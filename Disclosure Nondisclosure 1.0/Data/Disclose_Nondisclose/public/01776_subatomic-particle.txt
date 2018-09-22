@@ -1,0 +1,15 @@
+Subatomic particle
+
+A subatomic particle is a particle smaller than an atom. This means it is very, very small. Like atoms and molecules, a subatomic particle is far too small to be seen with the naked eye. It is also very interesting to scientists who try to understand atoms better. The commonly studied subatomic particles are the main ones that make atoms: protons, neutrons, and electrons. The study of subatomic particles is called particle physics. 
+
+These particles are often held together within an atom by one of the four fundamental forces (gravity, electromagnetic force, strong force, or weak force). Outside of the atom the particles often move very, very quickly- near the speed of light which is very, very fast (around 300,000 kilometres per second).
+
+Subatomic particles are divided into two groups, Baryons and Leptons.
+
+Baryons are made of quarks while Leptons are thought to be among the smallest particles, called elementary particles. Baryons have a given Baryon number. In reactions, the Baryon number must be conserved, meaning that both the starting and ending sides of a reaction must have the same number of Baryons. Baryonic particles are made up of a combination of 3 of the six quarks, which are among the smallest particles. The six quark types are up, down (making up protons and neutrons), strange, charm, top, and bottom.
+
+Leptons are generally much smaller than Baryons. This category includes electrons, Muons, Taus and neutrinos. Leptons are not made up of quarks and are not divisible. 
+
+For every one of these types, there is also an antiparticle. Antiparticles have the same mass as their normal counterparts, except they have the opposite electric charge. Anti-matter and matter cannot exist near each other. Whenever matter and antimatter collide, they destroy each other with a huge release of energy equivalent to E=mc, where m is the combined mass of the particles, c is the speed of light, and E is the energy produced. These collisions often take place in large particle accelerators, where the energy can be converted the other way, into matter by the same equation. This can produce many odd, often heavy (large mass) particles that exist only for a short time.
+
+Most of the particles discovered are created by accelerating particles and colliding them against others, creating huge showers of new subatomic particles which decay extremely quickly. However, because the particles are moving close to the speed of light, the laws of special relativity become important and time dilation occurs. This means that time passes slower for the particle, and they can travel (and be measured) over a longer distance than non-relativity science would predict.

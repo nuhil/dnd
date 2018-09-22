@@ -1,0 +1,73 @@
+Atom
+
+An atom is the basic unit that makes up all matter. There are many different types of atoms, each with its own name, mass and size. These different atoms are called chemical elements. The chemical elements are organized on the periodic table. Examples of elements are hydrogen and gold. 
+
+Atoms are very small, but the exact size changes depending on the element. Atoms range from 0.1 to 0.5 nanometers in width. One nanometer is about 100,000 times smaller than the width of a human hair. This makes atoms impossible to see without special tools. Equations must be used to see the way they work and how they interact with other atoms.
+
+Atoms join together to make molecules: for example, two hydrogen atoms and one oxygen atom combine to make a water molecule. When atoms join together it is called a chemical reaction.
+
+Every atom is made up of three kinds of smaller particles, called protons (which are positively charged), neutrons (which have no charge) and electrons (which are negatively charged). The protons and neutrons are heavier, and stay in the middle of the atom. They are called the nucleus. They are surrounded by a cloud of electrons which are very light in weight and are attracted to the positive charge of the nucleus. This attraction is called electromagnetic force.
+
+The number of protons, neutrons and electrons an atom has tells us what element it is. Hydrogen, for example, has one proton, no neutrons and one electron; the element sulfur has 16 protons, 16 neutrons and 16 electrons. The number of protons is the atomic number. The number of protons and neutrons together is the atomic weight.
+
+Atoms move faster when they are in gas form (because they are free to move) than they do in liquid form and solid matter. In solid materials, the atoms are tightly packed next to each other so they vibrate, but are not able to move (there is no room) as atoms in liquids do.
+
+The word "atom" comes from the Greek (ἀτόμος) "atomos", "indivisible", from (ἀ)-, "not," and τόμος, "a cut." The first historical mention of the word atom came from works by the Greek philosopher Democritus, around 400 BC. Atomic theory stayed as a mostly philosophical subject, with not much actual scientific investigation or study, until the development of chemistry in the 1650s.
+
+In 1777 French chemist Antoine Lavoisier defined the term "element" for the first time. He said that an element was any basic substance that could not be broken down into other substances by the methods of chemistry. Any substance that could be broken down was a "compound".
+
+In 1803, English philosopher John Dalton suggested that elements were tiny, solid balls made of atoms. Dalton believed that all atoms of the same element have the same mass. He said that compounds are formed when atoms of more than one element combine. According to Dalton, in a certain compound, the atoms of the compound's elements always combine the same way.
+
+In 1827, British scientist Robert Brown looked at pollen grains in water under his microscope. The pollen grains appeared to be jiggling. Brown used Dalton's atomic theory to describe patterns in the way they moved. This was called "brownian motion". In 1905 Albert Einstein used mathematics to prove that the seemingly random movements were caused by the reactions of atoms, and by doing this he conclusively proved the existence of the atom.
+In 1869 scientist Dmitri Mendeleev published the first version of the periodic table. The periodic table groups elements by their atomic number (how many protons they have. This is usually the same as the number of electrons). 
+Elements in the same column, or period, usually have similar properties. For example, helium, neon, argon, krypton and xenon are all in the same column and have very similar properties. All these elements are gases that have no colour and no smell. Also, they are unable to combine with other atoms to form compounds. Together they are known as the noble gases.
+
+The physicist J.J. Thomson was the first person to discover electrons. This happened while he was working with cathode rays in 1897. He realized they had a negative charge, unlike protons (positive) and neutrons (no charge). Thomson created the plum pudding model, which stated that an atom was like plum pudding: the dried fruit (electrons) were stuck in a mass of pudding (protons). In 1909, a scientist named Ernest Rutherford used the Geiger–Marsden experiment to prove that most of an atom is in a very small space called the atomic nucleus. Rutherford took a photo plate and covered it with gold foil, and then shot alpha particles (made of two protons and two neutrons stuck together) at it. Many of the particles went through the gold foil, which proved that atoms are mostly empty space. Electrons are so small they make up only 1% of an atom's mass.
+
+In 1913, Niels Bohr introduced the Bohr model. This model showed that electrons travel around the nucleus in fixed circular orbits. This was more accurate than the Rutherford model. However, it was still not completely right. Improvements to the Bohr model have been made since it was first introduced.
+
+In 1925, chemist Frederick Soddy found that some elements in the periodic table had more than one kind of atom. 
+For example, any atom with 2 protons should be a helium atom. Usually, a helium nucleus also contains two neutrons. However, some helium atoms have only one neutron. This means they truly are helium, because an element is defined by the number of protons, but they are not normal helium, either. Soddy called an atom like this, with a different number of neutrons, an "isotope". To get the name of the isotope we look at how many protons and neutrons it has in its nucleus and add this to the name of the element. So a helium atom with two protons and one neutron is called helium-3, and a carbon atom with six protons and six neutrons is called carbon-12. However, when he developed his theory Soddy could not be certain neutrons actually existed. To prove they were real, physicist James Chadwick and a team of others created the mass spectrometer. The mass spectrometer actually measures the mass and weight of individual atoms. By doing this Chadwick proved that to account for all the weight of the atom, neutrons must exist.
+
+In 1937, German chemist Otto Hahn became the first person to create nuclear fission in a laboratory. He discovered this by chance when he was shooting neutrons at a uranium atom, hoping to create a new isotope. However, he noticed that instead of a new isotope the uranium simply changed into a barium atom, a smaller atom than uranium. Apparently, Hahn had "broken" the uranium atom. This was the world's first recorded nuclear fission reaction. This discovery eventually led to the creation of the atomic bomb.
+
+Further into the 20th century, physicists went deeper into the mysteries of the atom. Using particle accelerators they discovered that protons and neutrons were actually made of other particles, called quarks.
+
+The most accurate model so far comes from the Schrödinger equation. Schrödinger realized that the electrons exist in a cloud around the nucleus, called the electron cloud. In the electron cloud, it is impossible to know exactly where electrons are. The Schrödinger equation is used to find out where an electron is likely to be. This area is called the electron's orbital.
+
+The complex atom is made up of three main particles; the proton, the neutron and the electron. The isotope of Hydrogen Hydrogen-1 has no neutrons, just the one proton and one electron. A positive hydrogen ion has no electrons, just the one proton and one neutron. These two examples are the only known exceptions to the rule that all other atoms have at least one proton, one neutron and one electron each.
+
+Electrons are by far the smallest of the three atomic particles, their mass and size is too small to be measured using current technology. They have a negative charge. Protons and neutrons are of similar size and weight to each other, protons are positively charged and neutrons have no charge. 
+Most atoms have a neutral charge; because the number of protons (positive) and electrons (negative) are the same, the charges balance out to zero. However, in ions (different number of electrons) this is not always the case, and they can have a positive or a negative charge. Protons and neutrons are made out of quarks, of two types; up quarks and down quarks. A proton is made of two up quarks and one down quark and a neutron is made of two down quarks and one up quark.
+
+The nucleus is in the middle of an atom. It is made up of protons and neutrons. Usually in nature, two things with the same charge repel or shoot away from each other. So for a long time it was a mystery to scientists how the positively charged protons in the nucleus stayed together. They solved this by finding a particle called a "gluon". Its name comes from the word "glue" as gluons act like atomic glue, sticking the protons together using the "strong nuclear force". It is this force which also holds the quarks together that make up the protons and neutrons.
+
+The number of neutrons in relation to protons defines whether the nucleus is stable or goes through radioactive decay. When there are too many neutrons or protons, the atom tries to make the numbers the same by getting rid of the extra particles. It does this by emitting radiation in the form of alpha, beta or gamma decay. Nuclei can change through other means too. Nuclear fission is when the nucleus splits into two smaller nuclei, releasing a lot of stored energy. This release of energy is what makes nuclear fission useful for making bombs and electricity, in the form of nuclear power. 
+The other way nuclei can change is through nuclear fusion, when two nuclei join together, or fuse, to make a heavier nucleus. This process requires extreme amounts of energy in order to overcome the electrostatic repulsion between the protons, as they have the same charge. Such high energies are most common in stars like our Sun, which fuses hydrogen for fuel.
+
+Electrons orbit, or travel around, the nucleus. They are called the atom's "electron cloud". They are attracted towards the nucleus because of the electromagnetic force. Electrons have a negative charge and the nucleus always has a positive charge, so they attract each other. 
+Around the nucleus, some electrons are further out than others, in different layers. These are called "electron shells". In most atoms the first shell has two electrons, and all after that have eight. Exceptions are rare, but they do happen and are difficult to predict. The further away the electron is from the nucleus, the weaker the pull of the nucleus on it. This is why bigger atoms, with more electrons, react more easily with other atoms.
+The electromagnetism of the nucleus is not strong enough to hold onto their electrons and atoms lose electrons to the strong attraction of smaller atoms.
+
+Some elements, and many isotopes, have what is called an "unstable nucleus". This means the nucleus is either too big to hold itself together or has too many protons or neutrons. When this happens the nucleus has to get rid of the excess mass or particles. It does this through radiation. An atom that does this can be called "radioactive". Unstable atoms continue to be radioactive until they lose enough mass/particles that they become stable. All atoms above atomic number 82 (82 protons, lead) are radioactive.
+
+There are three main types of radioactive decay; alpha, beta and gamma.
+
+
+Every radioactive element or isotope has what is named a "half-life". This is how long it takes half of any sample of atoms of that type to decay until they become a different stable isotope or element. Large atoms, or isotopes with a big difference between the number of protons and neutrons will therefore have a long half life, because they must lose more neutrons to become stable.
+
+Marie Curie discovered the first form of radiation. She found the element and named it radium. She was also the first female recipient of the Nobel Prize.
+
+Frederick Soddy conducted an experiment to observe what happens as radium decays. He placed a sample in a light bulb and waited for it to decay. Suddenly, helium (containing 2 protons and 2 neutrons) appeared in the bulb, and from this experiment he discovered this type of radiation has a positive charge.
+
+James Chadwick discovered the neutron, by observing decay products of different types of radioactive isotopes. Chadwick noticed that the atomic number of the elements was lower than the total atomic mass of the atom. He concluded that electrons could not be the cause of the extra mass because they barely have mass.
+
+Enrico Fermi, used the neutrons to shoot them at uranium. He discovered that uranium decayed a lot faster than usual and produced a lot of alpha and beta particles. He also believed that uranium got changed into a new element he named hesperium.
+
+Otto Hanh and Fritz Strassmann repeated Fermi's experiment to see if the new element hesperium was actually created. They discovered two new things Fermi did not observe. By using a lot of neutrons the nucleus of the atom would split, producing a lot of heat energy. Also the fission products of uranium were already discovered: thorium, palladium, radium, radon and lead.
+
+Fermi then noticed that the fission of one uranium atom shot off more neutrons, which then split other atoms, creating chain reactions. He realised that this process is called nuclear fission and could create huge amounts of heat energy.
+
+That very discovery of Fermi's led to the development of the first nuclear bomb code-named 'Trinity'.
+
+rekt xd

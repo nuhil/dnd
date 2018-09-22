@@ -1,0 +1,23 @@
+Isotope
+
+The atoms of a chemical element can exist in different types. These are called isotopes. They have the same number of protons (and electrons), but different numbers of neutrons. Different isotopes of the same element have different masses. Mass is the word for how much substance (or matter) something has. Things with different masses have different weights. Because different isotopes have different numbers of neutrons, they do not all weigh the same or have the same mass.
+
+Different isotopes of the same element have the same atomic number. They have the same number of protons. The atomic number is decided by the number of protons. Isotopes have different mass numbers, though, because they have different numbers of neutrons.
+
+The word isotope, meaning at the same place, comes from the fact that isotopes are at the same place on the periodic table.
+
+In a neutral atom, the number of electrons equals the number of protons. Isotopes of the same element also have the same number of electrons and the electronic structure. Because how an atom acts is decided by its electronic structure, isotopes are almost the same chemically, but different physically to their original atoms.
+
+Heavier isotopes react chemically slower than lighter isotopes of the same element. This "mass effect" is larger for protium (H) and deuterium (H), because deuterium has twice the mass of protium. For heavier elements, the relative atomic weight ratio between isotopes is much less, and the mass effect is usually small.
+
+Atomic nuclei are protons and neutrons held together by the nuclear force. 
+
+Because protons are positively charged, they repel each other. Neutrons, which are neutral, stabilize the nucleus. Because they are in the nucleus, the protons are pushed slightly apart. This reduces the electrostatic repulsion between the protons. They still exert the attractive nuclear force on each other and on protons. One or more neutrons are necessary for two or more protons to bind into a nucleus. As the number of protons increases, so does the number of neutrons needed to have a stable nucleus.
+
+In nature some elements only have a single isotope. For example, fluorine F is the only isotope of fluorine. Other elements have many isotopes. For example, xenon has 9 isotopes. Of the 81 elements with a stable isotope, the largest number of stable isotopes for any element is ten (for the element tin). 
+
+Some isotopes are radioactive. These are called radioactive isotopes. Others are not radioactive. These are called stable isotopes.
+
+Hydrogen has three common isotopes. The most common isotope of hydrogen is called protium (H). A hydrogen atom with an extra neutron (atomic mass of 2) is called deuterium(H). Hydrogen with one proton and two neutrons (atomic mass of 3) is called tritium(H). Protium and deuterium are stable isotopes, while tritium is a radioactive isotope.
+
+The heaviest elements in the periodic table are all radioactive. All of the isotopes of radon, thorium, and uranium are radioactive, since they are very heavy. This is because the nuclear forces inside the nucleus of the atom have a tough time holding together all the particles with so many protons and neutrons inside.

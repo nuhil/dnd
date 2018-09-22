@@ -1,0 +1,15 @@
+Biometrics
+
+Biometrics is a field of study which aims to identify or recognise people based on traits they have. Given these traits, a system can be trained to recognise certain people, with a certain probability. Better training usually lowers the probability of falsely identifying someone. 
+
+The traits used are of two types:
+
+Most often, the two types are combined, as in voice or signature recognition. Most of these biometrics are seen as "behavioral", but some are linked to the physiology, e.g. of the vocal tract, or of the hand. 
+
+A person may be identified by a fingerprint, or by letting the person sign a document. The data could then be kept. Someone who is checking can again take the fingerprint or the signature, and compare it to the old version.
+
+When selecting features, those choosing must also look at social acceptance. Taking a fingerprint may be ok, taking a blood test may not be. Some biometric data is also easier to fake, e.g. signatures.
+
+Also, when voice samples are taken, these may be distorted (worsened), because only a telephone line is available. Telephone lines cut off some bandwidth from the signal.
+
+Other than for passports, biometric methods are also used in some banks.

@@ -1,0 +1,44 @@
+Cylinder
+
+A cylinder is one of the most basic curved geometric shapes, with the surface formed by the points at a fixed distance from a given line segment, known as the axis of the cylinder. The shape can be thought of as a circular prism. Both the surface and the solid shape created inside can be called a "cylinder". The surface area and the volume of a cylinder have been known since ancient times.
+
+In differential geometry, a cylinder is defined more broadly as any ruled surface which is spanned by a one-parameter family of parallel lines. A cylinder whose cross section is an ellipse, parabola, or hyperbola is called an elliptic cylinder, parabolic cylinder, or hyperbolic cylinder respectively.
+
+In common use a "cylinder" is taken to mean a finite section of a right circular cylinder, i.e., the cylinder with the generating lines perpendicular to the bases, with its ends closed to form two circular surfaces, as in the figure (right). If the cylinder has a radius and length (height) "h", then its volume is given by:
+
+and its surface area is:
+
+
+Therefore without the top or bottom (lateral area), the surface area is:
+
+With the top and bottom, the surface area is:
+
+For a given volume, the cylinder with the smallest surface area has . For a given surface area, the cylinder with the largest volume has , i.e. the cylinder fits in a cube (height = diameter).
+
+Having a right circular cylinder with a height units and a base of radius units with the coordinate axes chosen so that the origin is at the center of one base and the height is measured along the positive x-axis. A plane section at a distance of units from the origin has an area of square units where
+
+or
+
+An element of volume, is a right cylinder of base area square units and a thickness of units. Thus if "V" cubic units is the volume of the right circular cylinder, by Riemann sums,
+
+Using cylindrical coordinates, the volume can be calculated by integration over
+
+Cylindric sections are the intersections of cylinders with planes. For a right circular cylinder, there are four possibilities. A plane tangent to the cylinder, meets the cylinder in a single straight line. Moved while parallel to itself, the plane either does not intersect the cylinder or intersects it in two parallel lines. All other planes intersect the cylinder in an ellipse or, when they are perpendicular to the axis of the cylinder, in a circle.
+
+An elliptic cylinder, or cylindroid, is a quadric surface, with the following equation in Cartesian coordinates:
+
+This equation is for an elliptic cylinder, a generalization of the ordinary, circular cylinder (). Even more general is the generalized cylinder: the cross-section can be any curve.
+
+The cylinder is a "degenerate quadric" because at least one of the coordinates (in this case ) does not appear in the equation.
+
+An oblique cylinder has the top and bottom surfaces displaced from one another.
+
+There are other more unusual types of cylinders. These are the "imaginary elliptic cylinders":
+
+the "hyperbolic cylinder":
+
+and the "parabolic cylinder":
+
+In projective geometry, a cylinder is simply a cone whose apex is at infinity.
+
+This is useful in the definition of degenerate conics, which require considering the cylindrical conics.

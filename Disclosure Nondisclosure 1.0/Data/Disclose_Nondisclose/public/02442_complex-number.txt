@@ -1,0 +1,34 @@
+Complex number
+
+A complex number is a number, but is different from common numbers in many ways. A complex number is made up using two numbers combined together. The first part is a real number. The second part of a complex number is an imaginary number. The most important imaginary number is called formula_1, defined as a number that will be -1 when squared ("squared" means "multiplied by itself"): formula_2. All the other imaginary numbers are formula_1 multiplied by a real number, in the same way that all real numbers can be thought of as 1 multiplied by another number. Arithmetic functions such as, addition, subtraction, multiplication, and division can be used with complex numbers. They also follow commutative, associative and distributive properties, just like real numbers. 
+
+Complex numbers were discovered while attempting to solve special equations that have exponents in them. These began to pose real problems for mathematicians. As a comparison, using negative numbers, it is possible to find the "x" in the equation formula_4 for all real values of "a" and "b", but if only positive numbers are allowed for "x" it is sometimes impossible to find a positive "x", as in the equation . 
+
+With exponentiation, there is a difficulty to be overcome. There is no real number that gives −1 when it is squared. In other words, −1 (or any other negative number) has no real square root. To solve this problem, mathematicians introduced a symbol "i" and called it an "imaginary number". This is the imaginary number that will give −1 when it is squared. 
+
+The first mathematicians to have thought of this were probably Gerolamo Cardano and Raffaele Bombelli. They lived in the 16th century. It was probably Leonhard Euler who introduced writing formula_5 for that number.
+
+All complex numbers can be written as formula_6 (or formula_7 ), where "a" is called the "real part" of the number, and "b" is called the "imaginary part". We write formula_8 or formula_9 for the real part of a complex number formula_10. So, if formula_11, we write formula_12. Similarly, we write formula_13 or formula_14 for the imaginary part of a complex number formula_10; formula_16, for the same . Every real number is also a complex number; it is a complex number with formula_17.
+
+The complex number can also be written as an ordered pair, . Both "a" and "b" are real numbers. Any real number can simply be written as formula_18 or as the pair .
+
+The set of all complex numbers is usually written as formula_19.
+
+Addition, subtraction, multiplication, division as long as the divisor is not zero, and exponentiation (raising numbers to exponents) are all possible with complex numbers. Some other calculations are also possible with complex numbers.
+
+The rule for addition of complex numbers is pretty simple: let formula_20, then formula_21. Multiplication is a bit different: formula_22
+
+Another notable operation for complex numbers is "conjugation". A complex conjugate formula_23 to formula_11 is formula_25.
+It is pretty simple, but is important for calculations, because formula_26 belongs to the real numbers for "all" complex formula_10.
+
+Complex numbers can be shown on a so-called complex plane. If you have a number formula_11, you can go to "a" point on the real axis and to "b" on the imaginary axis and draw a vector from formula_29 to formula_30. You can calculate the length of this vector using the Pythagorean theorem and angle between the positive real axis and this vector, going counterclockwise. The length of a vector for a number formula_10 is called its modulus (written as formula_32), and the angle is called its argument (formula_33).
+
+This leads to the trigonometrical form of describing complex numbers: by the definitions of sine and cosine, for all formula_10 stands that
+
+formula_35
+
+This is closely connected to De Moivre's formula.
+
+There exists even another form, called exponential form.
+
+With the addition of complex numbers to math, every polynomial with complex coefficients has roots that are complex numbers. The successful addition of the complex numbers to math also helped to open a path to the creation of another sorts of numbers that could resolve and help to explain many different problems, for example the: , , , and many others. See .

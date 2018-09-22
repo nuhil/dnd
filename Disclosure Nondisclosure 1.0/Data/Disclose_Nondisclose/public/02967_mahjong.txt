@@ -1,0 +1,7 @@
+Mahjong
+
+Mahjong is a game for four players that was created in China. It is a game of skill, intelligence, calculation and luck.
+
+A Mahjong game is played at a square table (four sides all the same length). The dealer is called the "east" player and everyone else is called a different direction because of where they are sitting - so the person to East's left is South, the person across from East is West, and the person to East's right is North. If East wins, he is the dealer again for the next round; if he does not, the dealer is the person to his right (North). That person then becomes East. A game of Mahjong ends when every player has been the dealer four times, or when they have played the number of rounds they said they would play before they started.
+
+A single-player version of this game exists, called Mahjong Solitaire. It is based on the four-player game, but can be played by one person, so it is one of the games that are played often on computers (such as Solitaire, Spider Solitaire, or Minesweeper). Mahjong Solitaire is much simpler than four-player Mahjong: it is played without dice or chips, by removing tiles (set up in the shape of a pyramid) from the board in sets of two. Each set of two has to match - they are either exactly the same, or go together (two "flowers" tiles, for example). A Mahjong Solitaire player wins when he picks up all the tiles, or he loses when he runs out of sets of two that he can pick up.

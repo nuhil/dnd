@@ -1,0 +1,4 @@
+You have to download the below enwikinews dump as .xml.bz2 which is needed by the wikiextractor
+
+https://dumps.wikimedia.org/enwikinews/20171201/enwikinews-20171201-pages-articles-multistream.xml.bz2
+

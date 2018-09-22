@@ -1,0 +1,50 @@
+Antidote
+
+An antidote is a chemical or medicine that will reverse the effects of some poisons. An antidote will make some or all of the effects of the poison go away.
+
+Each antidote only works for certain poisons.
+
+Not every poison has an antidote. For example, the poison aconitine has no known antidote. Aconitine is a very poisonous toxin that comes from the "Aconitum" plant. If enough of the poison enters a person's body, the person often dies.
+
+Activated charcoal can be used as an antidote for many poisons, but only poisons that were swallowed. For example, activated charcoal can be used for some drug overdoses, and for some poisonings. The charcoal attaches to the poison and keeps it from being taken into the bloodstream through the stomach.
+
+Activated charcoal will not work for every kind of poison. For example, it will not work for alcohol, strong acids, and products made of petroleum (like paint thinner and fuel oil).
+
+Antivenoms will fight the poisonous effects of bites from venomous animals (animals that make venom), like some snakes and spiders.
+To create some antivenoms, a little bit of venom is injected into an animal, like a horse. That animal's immune system will create antibodies which signal other cells in the immune system to destroy the venom. Then, those antibodies can be taken out of the animal's blood to make an antivenom. Then, when that antivenom is given to a person who has been poisoned by that venom, the person's immune system will already "know" to kill the venom.
+
+Sometimes, antidotes are poisons themselves. For example, atropine, which is found in deadly nightshade, is very poisonous. However, because of the way it reacts with the body, atropine is used as an antidote against some insecticides and certain kinds of nerve gas. Atropine is carried on many ambulances because it has other uses. For example, it can help restart a heart that is not beating.
+
+There is a product called DuoDote that combines atropine with a medicine called pralidoxime chloride (also called 2-PAM). Both medicines are antidotes against some insecticides and nerve gases. DuoDote is given by injection (through a needle into the thigh muscle). It comes in an auto-injector, which looks like a large pen. When its safety cap is taken off and the auto-injector is pushed against the thigh, it will automatically send the needle into the thigh and deliver the medicines. DuoDote is not carried on many ambulances, but some special teams that specialize in treating poisons carry them.
+
+There are a few different antidotes to cyanide. Some of them need to be given together in order to work.
+
+Often, the first thing that medical professionals will do for cyanide poisoning is to give amyl nitrate or sodium nitrate. These work by making the cyanide attach (stick) to a chemical called methemoglobulin. When it is stuck to methemoglobulin, cyanide is not as dangerous. However, methemoglobulin will only stick to cyanide for a while. Eventually, it will not stick any more. This is why another medicine is needed.
+
+That medicine is called sodium thiosulfate. This medicine sticks to cyanide, and never un-sticks. It helps make cyanide into another chemical that is not poisonous. This new chemical can easily be removed from the body by the kidneys, through urination.
+
+Some ambulances carry cyanide antidote kits for firefighters who have breathed in too much smoke. (Smoke from a fire has cyanide in it.) These antidote kits are auto-injectors like the DuoDote.
+
+Ethanol - drinking alcohol - can actually be used as an antidote. It works for people who have been poisoned by drinking ethylene glycol. Ethylene glycol is used in antifreeze. Because ethylene glycol tastes very sweet, children and animals sometimes drink a lot of it without realizing that it is poison.
+
+Ethanol also works as an antidote for methanol poisoning. Methanol is sometimes called "wood alcohol." It is also used in antifreeze, fuel, and solvents. People can get methanol poisoning accidentally by getting methanol on their skin or breathing it in. Methanol is also poisonous if it is drunk.
+
+Ethanol works as an antidote for ethylene glycol and methanol by sticking to those poisons. Once the ethanol is stuck onto the poisons, the kidneys urinate out the poisons.
+
+A medicine called fomepizole is also an antidote for ethylene glycol and methanol poisoning. It works the same way as ethanol.
+
+Naloxone is an antidote for overdoses on opiates, like heroin, oxycodone (OxyContin), and other prescribed painkillers. The most common brand name for the naloxone antidote is Narcan.
+
+Opiates cause changes in the body by sticking to special opiate receptors (like landing spots) in the brain. If they are not attached to these receptors, they cannot cause any changes in the body. Naloxone works by pushing the opiates off their landing spots. Narcan sticks to those landing spots instead and keeps opiates from attaching to them.
+
+Naloxone should not be confused with naltrexone, which is a different medicine.
+
+100% (pure) oxygen is an antidote for carbon monoxide poisoning. When pure oxygen is not enough, hyperbaric oxygen therapy (HBOT) can also be used.
+
+HBOT is done in a special tube or room that can handle high pressures (called a hyperbaric chamber). 100% pure oxygen is sent into the room for the patient to breathe. However, the air pressure is increased to three times more than the normal air pressure. This helps the lungs get more oxygen than they could if the patient were breathing at normal air pressure. It also makes it easier for the blood to carry more oxygen to the entire body.
+
+Vitamin K is an antidote for warfarin (Coumadin) poisoning. Warfarin is a medicine which makes the blood thinner. It is used to prevent blood clots. However, if a person is given too much warfarin, their blood can get too thin. When the blood is too thin, it cannot clot. This can cause serious bleeding problems. 
+
+The blood needs vitamin K to be able to clot. When a person has warfarin poisoning, giving them vitamin K can make their blood able to clot again.
+
+It takes vitamin K four to six hours to reverse warfarin poisoning. Because of this, if a person with warfarin poisoning is bleeding, doctors may also give fresh frozen plasma. This will work more quickly to make the blood less thin.

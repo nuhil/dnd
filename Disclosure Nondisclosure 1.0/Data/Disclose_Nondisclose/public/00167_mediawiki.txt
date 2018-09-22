@@ -1,0 +1,37 @@
+MediaWiki
+
+MediaWiki is the name of the software that runs all of the Wikimedia projects. MediaWiki was released in 2003. It is free server-based software which is licensed under the GNU General Public License (GPL). The software is licensed under the GPL. This means it is free content, or open source.
+
+MediaWiki is designed to be run on a large web server farm for a website that gets millions of hits per day. MediaWiki is a very powerful, scalable software and a feature-rich wiki implementation, that uses PHP to process and display data stored in its MySQL database. Pages use MediaWiki's Wikitext format, so that users without knowledge of XHTML or CSS can edit them easily.
+
+When a user submits an edit to a page, MediaWiki writes it to the database, but without deleting the previous versions of the page, thus allowing easy reverts in case of vandalism or spamming. MediaWiki can manage image and multimedia files, too, which are stored in the filesystem. For large wikis with lots of users, MediaWiki supports caching and can be easily coupled with Squid proxy server software.
+
+All Wikimedia projects run on MediaWiki version .
+
+As MediaWiki is more flexible, therefore many websites use MediaWiki rather than other types of wiki software. Besides Wikimedia, Wikia is also another company that uses MediaWiki greatly for people to contribute information.
+
+There are also some websites that uses MediaWiki as a content management system.
+
+In MediaWiki, a system administrator can choose to install extensions which are provided on the main MediaWiki website. Some are from the MediaWiki developers, while others are from programmers from all around the world.
+
+Most extensions can be download from Wikimedia's Subversion repository. However, there are some other extensions that other people host themselves.
+
+Some extensions had been added to the main software along the development of MediaWiki. For example, the extension is an extension to promote a user into an administrator or a bureaucrat.
+
+There were a total of 2124 extensions as of October 4, 2013.
+
+In the default installation of MediaWiki, the software has 17 namespaces(18 actually, but one does not have a namespace), namely:
+
+Additional namespaces can be added using the from the installation of MediaWiki.
+
+As MediaWiki is a complex software, there would always be bugs in the software, especially for new extensions. Therefore, Wikimedia has created a bugzilla website for people who see a bug to tell the developers of MediaWiki.
+
+Some extensions of MediaWiki use the , while some just use the talk pages of the extension page.
+
+During the development of MediaWiki, different skins have come into the main software. For example, Wikipedia used to be using Nostalgia. But it changed to Monobook before the new Vector skin came up in 1.16.
+
+A survey done by Wikimedia showed that more people prefer the Vector skin.
+
+It is possible to change the skin that a user wants to see a wiki as by going to their .
+
+"More information about the software:"

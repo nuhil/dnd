@@ -1,0 +1,38 @@
+Trigonometry
+
+Trigonometry (from the Greek "trigonon" = three angles and "metron" = measure) is a part of elementary mathematics dealing with angles, triangles and trigonometric functions such as sine (abbreviated sin), cosine (abbreviated cos) and tangent (abbreviated tan). It has some connection to geometry, although there is disagreement on exactly what that connection is; for some, trigonometry is just a section of geometry.
+
+Trigonometry uses a large number of specific words to describe parts of a triangle. Some of the definitions in trigonometry are:
+
+There are three main trigonometric ratios for right triangles, and three reciprocals of those ratios. There are 6 total ratios. They are:
+
+
+
+
+The reciprocals of these ratios are:
+
+Cosecant (csc) - The cosecant of an angle is equal to the formula_4 or formula_5
+
+Secant (sec) - The secant of an angle is equal to the formula_6 or formula_7
+
+Cotangent (cot) - The cotangent of an angle is equal to the formula_8 or formula_9
+
+Students often use a mnemonic to remember this relationship. The "sine", "cosine", and "tangent" ratios in a right triangle can be remembered by representing them as strings of letters, such as SOH-CAH-TOA:
+
+or:
+
+Some Old Horse Caught Another Horse Taking Oats Away
+
+or:
+
+or:
+
+Sitting On Hard Concrete Always Hurts Try Other Alternatives
+
+With the sines and cosines one can answer virtually all questions about triangles. This is called "solving" the triangle. One can work out the remaining angles and sides of any triangle as soon as two sides and their included angle or two angles and a side or three sides are known. These laws are useful in all branches of geometry, since "every polygon may be described as a combination of triangles".
+
+Trigonometry is also vital in surveying, in vector analysis, and in the study of periodic functions.
+
+There is also such a thing as spherical trigonometry, which deals with spherical geometry. This is used for calculations in astronomy, geodesy and navigation.
+
+Basic Trigonometry course in Khan Academy

@@ -1,0 +1,19 @@
+Antigen
+
+An antigen is a protein expressed by a bacteria or virus that is recognized by the adaptive immune system as foreign which can stimulate the production of antibodies and combine specifically with them. 
+
+Usually an antigen is a molecule, perhaps on the cell surface of a bacterium or virus.
+
+Antigens are always 'foreign' and trigger an attack. The system is normally tolerant of its own molecules, which don't start an attack. Autoimmune diseases are caused when this safeguard fails.
+
+When an antigen is introduced into the body it causes the production of antibodies. Antigens include bacteria, cells of transplanted organs, plant pollen and toxins. 
+
+Antigens "stimulate" the production of antibodies: they do not produce them directly.
+
+The first time that a new antigen comes into contact with the body the response of the immune system will be a complete immune response. During this first response, the antigen will cause antibodies to be made. 
+
+The next time the same antigen contacts the body, a full-scale immune response is not needed as the body already has a specific antibody available instantly for that antigen. 
+
+This means that the body can begin fighting an infection much sooner for illnesses it has encountered before, and takes more time to begin to fight an infection in new illnesses. 
+
+Vaccinations usually contain dead bacteria or antigen so the antibodies can familiarise themselves and kill it.

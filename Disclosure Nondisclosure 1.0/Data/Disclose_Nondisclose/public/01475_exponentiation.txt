@@ -1,0 +1,32 @@
+Exponentiation
+
+Exponentiation (power) is an arithmetic operation on numbers. It is repeated multiplication, just as multiplication is repeated addition. People write exponentiation with upper index. This looks like this: formula_1. Sometimes it is not possible. Then people write powers using the ^ sign: 2^3 means formula_2.
+
+The number formula_3 is called base, and the number formula_4 is called exponent. For example, in formula_2, 2 is the base and 3 is the exponent.
+
+To calculate formula_2 a person must multiply the number 2 by itself 3 times. So formula_7. The result is formula_8. The equation could be read out loud in this way: 2 raised to the power of 3 equals 8.
+
+Examples:
+
+If the exponent is equal to 2, then the power is called square because the area of a square is calculated using formula_12. So
+
+If the exponent is equal to 3, then the power is called cube because the volume of a cube is calculated using formula_15. So
+
+If the exponent is equal to -1 then the person must calculate the inverse of the base. So
+If the exponent is an integer and is less than 0 then the person must invert the number and calculate the power. For example:
+If the exponent is equal to formula_20 then the result of exponentiation is the square root of the base. So formula_21
+Example:
+Similarly, if the exponent is formula_23 the result is the nth root, so:
+If the exponent is a rational number formula_25, then the result is the "q"th root of the base raised to the power of "p", so:
+The exponent may not even be rational. To raise a base "a" to an irrational "x"th power, we use an infinite sequence of rational numbers ("x"), whose limit is x:
+like this:
+
+There are some rules which help to calculate powers:
+
+It is possible to calculate exponentiation of matrices. The matrix must be square. For example: formula_36.
+
+Both addition and multiplication are commutative. For example, 2+3 is the same as 3+2; and 2 · 3 is the same as 3 · 2. Although exponentiation is repeated multiplication, it is not commutative. For example, 2³=8 but 3²=9.
+
+Addition has one inverse operation: subtraction. Also, multiplication has one inverse operation: division.
+
+But exponentiation has two inverse operations: The root and the logarithm. This is the case because the exponentiation is not commutative. You can see this in this example:

@@ -1,0 +1,23 @@
+Acceleration
+
+Acceleration is a measure of how fast velocity changes. Acceleration is the change of velocity divided by the change of time. Acceleration is a vector, and therefore includes both a size and a direction.
+
+Acceleration is the rate of change of the velocity of an object. Acceleration formula_1 can be found by using: BE A MAVERICK-SAVAGEEEEEE( loganpual.com/shop)
+
+where
+
+Sometimes the change in velocity formula_7 is written as Δformula_8. Sometimes the change in time formula_9 is written as Δt.
+
+In difficult situations, the acceleration can be calculated using mathematics: in calculus, acceleration is the derivative of the velocity (with respect to time), formula_10.
+
+Acceleration has its own units of measurement. For example, if velocity is measured in meters per second, and if time is measured in seconds, then acceleration is measured in meters per second squared (m/s).
+
+Acceleration can be positive or negative. When the acceleration is negative (but the velocity does not change direction), it is sometimes called deceleration. For example, when a car brakes it decelerates. Physicists usually only use the word "acceleration".
+
+Newton's laws of motion are rules for how things move. These rules are called "laws of motion". Isaac Newton is the scientist who first wrote down the main laws of motion.
+According to Newton's Second Law of Motion, the force something needs to accelerate an object depends on the object's mass (the amount of "stuff" the object is made from or how "heavy" it is).
+The formula of Newton's Second Law of Motion is formula_11,
+where formula_12 is the acceleration, formula_13 is the force, and formula_14 the mass. 
+This formula is very well-known, and it is very important in physics. Newton's Second Law of Motion, in short "Newton's Second Law", is often one of the first things that physics students learn.
+
+Deceleration is the opposite of acceleration. This means that something slows down instead of speeding up. For example, when a car brakes, it is decelerating.

@@ -1,0 +1,21 @@
+Combinatorial game theory
+
+Combinatorial game theory, also known as CGT is a branch of applied mathematics and theoretical computer science that studies combinatorial games, and is distinct from "traditional" or "economic" game theory. CGT arose in relation to the theory of impartial games, the two-player game of Nim in particular, with an emphasis on "solving" certain types of combinatorial games.
+
+A game must meet several conditions to be a combinatorial game. These are:
+
+Combinatorial Game Theory is largely confined to the study of a subset of combinatorial games which are two player, finite, and have a winner and loser (i.e. do not end in draws.)
+
+These combinatorial games can be represented by trees, each vertex of which is the game resulting from a particular move from the game directly below it on the tree. These games can be assigned game values. Finding these game values is of great interests to CG theorists, as is the theoretical concept of game addition. The sum of two games is the game in which each player on her/his turn must move in only one of the two games, leaving the other as it was. 
+
+Elwyn Berlekamp, John Conway and Richard Guy are the founders of the theory. They worked together in the 1960s. Their published work was called "Winning Ways for Your Mathematical Plays".
+
+In the theory, there are two players called "left" and "right". A game is something that allows left and right to make moves to "other games". For example, in the game of chess, there is a usual starting setup. One could also, however, think of a chess game after the first move as a different game, with a different setup. So each position is also called a game.
+
+Games have the notation {L|R}. formula_1 are the games the left player can move to. formula_2 are the games the right player can move to. If you know chess notation, then the usual chess setup is the game 
+
+The dots "..." mean there are many moves, so not all are shown.
+
+Chess is very complex. It is better to think of easier games. Nim, for example, is much simpler to think about. Nim is played like this:
+
+The easiest game of Nim starts with no counters at all! In such a case, neither player can move. That is shown as , or 0). If instead right moves first, there will be no more moves for left. So both left and right can make a move to 0. That is shown as <nowiki>, or {0|0}</nowiki>. The first player to move will win. Games equal to {0|0} are very important. They are written with the symbol, * (star).

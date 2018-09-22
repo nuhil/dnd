@@ -1,0 +1,8 @@
+Computer engineering
+
+Computer engineering is the practice of making computers and their parts. Computer engineers are always trying to make new parts smaller and better. They can also work on software, especially software for embedded systems (specialized electronics like cell-phones and satellite receivers, not a general-purpose computer).
+Computers are electrical machines that run programs. So Computer engineering has parts of both electrical engineering and computer science/software engineering. In Computer engineering classes, students learn about the hardware and software of computers. This starts with learning how transistors and computer chips are made and how they work (which uses quantum mechanics). Then the student learns how the chips talk to each other and how to make a complete printed circuit board (PCB). This is the electrical part. They also learn how to program the ROM or Flash memory so the computer can do something useful.
+
+Because Computer engineering is closely related to electrical engineering and computer science, the fields are found in the same department at many universities. Students also need to learn fundamental science subjects and mathematics, such as calculus and differential equations.
+
+Computer engineering is difficult to learn, but computer engineers are needed. Software engineering companies, telecommunications firms, designers of digital hardware, and many other companies hire computer engineering majors upon graduation and pay them well.

@@ -1,0 +1,28 @@
+Time dilation
+
+Time dilation is a physics concept about changes in the passage of time, as related to relativity. It is a difference of elapsed time between two events "as measured by observers". In Albert Einstein's theories of relativity, there are two types of time dilation: 
+
+Case #1: In special relativity, clocks that are moving run slower according to a stationary observer's clock. "This effect does not come from workings of the clocks, but from the nature of spacetime".
+
+Case #2: the observers may be in positions with different gravitational masses. In general relativity, clocks that are near a strong gravitational field run slower than clocks in a weaker gravitational field.
+
+Experiments support both aspects of time dilation.
+
+The formula for determining time dilation in special relativity is:
+where
+It could also be written as:
+where
+A simple summary is that more time is measured on the clock at rest than the moving clock, therefore, the moving clock is "running slow".
+
+When both clocks are not moving, relative to each other, the two times measured are the same. This can be proven mathematically by
+
+For example:
+In a spaceship moving at 99% of the speed of light, a year passes. How much time will pass on earth?
+
+Substituting into :formula_1
+
+So approximately 7.09 years will pass on earth, for each year in the spaceship.
+
+In ordinary life today, time dilation had not been a factor, where people move at speeds much less than the speed of light, the speeds are not great enough to produce any detectable time dilation effects. Such vanishingly small effects can be safely ignored. It is only when an object approaches speeds on the order of (10% the speed of light) that time dilation becomes important.
+
+However, there are practical uses of time dilation. A big example is with keeping the clocks on GPS satellites accurate. Without accounting for time dilation, the GPS result would be useless, because time runs faster on satellites so far from Earth's gravity. GPS devices would calculate the wrong position due to the time difference if the space clocks were not set to run slower on Earth to offset the quicker time in high Earth orbit (geostationary orbit).

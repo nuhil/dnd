@@ -1,0 +1,27 @@
+Mitochondria
+
+Mitochondria are organelles, or parts of a eukaryote cell. They are in the cytoplasm, not the nucleus. 
+
+They make most of the cell's supply of adenosine triphosphate (ATP), a molecule that cells use as a source of energy. Their main job is this energy conversion. They oxidise glucose to provide energy for the cell. The process makes ATP, and is called cellular respiration.
+
+In addition to supplying cellular energy, mitochondria are involved in a range of other processes, such as signalling, cellular differentiation, cell death, as well as the control of the cell division cycle and cell growth. 
+
+A mitochondrion contains outer and inner membranes. These are made of phospholipid double layers and proteins. The two membranes have different properties. Because of this double-membraned organization, there are five distinct compartments within the mitochondrion. They are:
+
+Mitochondria's main role in the cell is to take glucose, and use the energy stored in its chemical bonds to make ATP in a process called cellular respiration. There are 3 main steps to this process: glycolysis, the citric acid cycle or Krebs cycle, and ATP Synthesis. This ATP is released from the mitochondria, and broken down by the other organelles of the cell to power their own functions.
+
+It is thought that mitochondria were once independent bacteria, and became part of the eukaryotic cells by being engulfed, a process called endosymbiosis.
+
+Most of a cell's DNA is in the cell nucleus, but the mitochondrion has its own independent genome. Further, its DNA shows substantial similarity to bacterial genomes.
+
+The shorthand for mitochondrial DNA is "either" mDNA or mtDNA. Both have been used by researchers.
+
+Mitochondria divide by binary fission similar to bacterial cell division. In single-celled eukaryotes, division of mitochondria is linked to cell division. This division must be controlled so that each daughter cell receives at least one mitochondrion. In other eukaryotes (in humans for example), mitochondria may replicate their DNA and divide in response to the energy needs of the cell, rather than in phase with the cell cycle. 
+
+An individual's mitochondrial genes are not inherited by the same mechanism as nuclear genes. The mitochondria, and therefore the mitochondrial DNA, usually comes from the egg only. The sperm's mitochondria enter the egg, but are marked for later destruction. The egg cell contains relatively few mitochondria, but it is these mitochondria that survive and divide to populate the cells of the adult organism. Mitochondria are, therefore, in most cases inherited down the female line, known as "maternal inheritance". This mode is true for all animals, and most other organisms. However, mitochondria is inherited "paternally" in some conifers, though not in pines or yews. 
+
+A single mitochondrion can contain 2–10 copies of its DNA. For this reason, mitochondrial DNA is thought to reproduce by binary fission, so producing exact copies. However, there is some evidence that animal mitochondria can undergo recombination. If recombination does not occur, the whole mitochondrial DNA sequence represents a single haploid genome, which makes it useful for studying the evolutionary history of populations.
+
+The near-absence of recombination in mitochondrial DNA makes it useful for population genetics and evolutionary biology. If all the mitochondrial DNA is inherited as a single haploid unit, the relationships between mitochondrial DNA from different individuals can be seen as a gene tree. Patterns in these gene trees can be used to infer the evolutionary history of populations. The classic example of this is where the molecular clock can be used to give a date for the so-called mitochondrial Eve. This is often interpreted as strong support for the spread of modern humans out of Africa. Another human example is the sequencing of mitochondrial DNA from Neanderthal bones. The relatively large evolutionary distance between the mitochondrial DNA sequences of Neanderthals and living humans is evidence for a general lack of interbreeding between Neanderthals and anatomically-modern humans.
+
+However, mitochondrial DNA only reflects the history of females in a population. It may not represent the history of the population as a whole. To some extent, paternal genetic sequences from the Y-chromosome can be used. In a broader sense, only studies that also include nuclear DNA can provide a comprehensive evolutionary history of a population.

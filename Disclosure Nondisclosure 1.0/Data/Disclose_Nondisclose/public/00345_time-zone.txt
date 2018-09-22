@@ -1,0 +1,7 @@
+Time zone
+
+Time zones give specific areas on the earth a time of day that is earlier or later than the neighboring time zones. This is because when it is daytime on one side of the earth, it is night-time on the other side. There are 24 time zones dividing the earth into different times, each with its own name, like the North American Eastern Time Zone. The North American Eastern Time Zone contains large cities in North America like New York City and Miami. 
+
+Greenwich Mean Time (GMT) began in 1675. This was when the Royal Observatory at Greenwich was built to help ships find their longitude at sea. GMT was a standard reference for time keeping when each city in England kept a different local time. By about 1900, almost all time on earth was in the form of standard time zones. Now, all places on earth are divided into time zones. 
+
+Greenwich Mean Time is now called UTC (Coordinated Universal Time). UTC is the time standard of the world. All other parts of the world are offset (plus or minus) according to their longitude. Most of the zones are offset by a full hour, but there are some offset by half an hour or 45 minutes.

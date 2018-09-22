@@ -1,0 +1,7 @@
+Containment building
+
+Containment building is a building with a nuclear reactor in it. It is built around the reactor to keep the radiation from getting out, if something happens to the reactor. The containment building is the last barrier to the radiation getting into the environment. Containment systems for nuclear power reactors are distinguished by size, shape, materials used, and suppression systems. The kind of containment used is determined by the type of reactor, generation of the reactor, and the specific plant needs.
+
+The Chernobyl accident was very bad partly because Soviet reactors had no containment buildings.
+
+The diagram shows the order of defense layers for a nuclear reactor. The first layer of defense is the inert, ceramic quality of the uranium oxide itself. The second layer is the air tight zirconium alloy of the fuel rod. The third layer is the reactor pressure vessel made of steel more than a dozen centimeters thick. The fourth layer is the pressure resistant, air tight "containment building". The fifth layer is the exclusion zone around the reactor.

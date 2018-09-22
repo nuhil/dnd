@@ -1,0 +1,17 @@
+Prime number
+
+A composite number is a natural number of a particular kind. Any natural number is equal to 1 times itself. If the number is equal to any other numbers multiplied, then the number is a composite number. The smallest composite number is 4, because 2 x 2 = 4. 1 is not a composite number. Every other number is a prime number. The prime numbers are the numbers other than 1 which are not equal to "m" x "n" (except 1 x itself). The smallest prime number is 2. There is no largest prime number. The next prime numbers are 3, 5, 7, 11, and 13.
+
+The way that the prime numbers occur is a difficult problem for mathematicians. When a number is larger, it is more difficult to know if it is a prime number. One of the answers is the Prime number theorem. One of the unsolved problems is Goldbach's conjecture.
+
+There is a simple method to find a list of prime numbers. Eratosthenes created it. It has the name Sieve of Eratosthenes. It catches numbers that are not prime (like a sieve) and lets the prime numbers pass through.
+
+
+The method is always the same:
+
+
+As an example, if this is done up to the number 10, the numbers 2, 3, 5 and 7 etc. are prime numbers, and 4, 6, 8, 9 and 10 etc. are composite numbers.
+
+This method or algorithm takes too long to find very large prime numbers. But it is less complicated than methods used for very large primes, like Fermat's primality test (a primality test is to test whether a number is prime or not) or the Miller-Rabin primality test.
+
+Prime numbers are very important in mathematics & computer science. Some real-world uses are given below. Very long prime numbers are hard to solve. It is difficult to find their prime factors, so most of the time, numbers that are probably prime are used for encryption and secret codes.

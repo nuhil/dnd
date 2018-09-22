@@ -1,0 +1,7 @@
+Hard disk
+
+A hard disk drive (HDD), hard disk or hard drive, is a data storage device for computers. The capacity of a hard drive is usually measured in gigabytes (GB), however hard disk capacity can also be measured in terabytes when the capacity is over 1000 gigabytes. A gigabyte is one thousand megabytes and a megabyte is one million bytes, which means that a gigabyte is one billion bytes. Some hard drives are so large that their capacity is measured in terabytes, (TB) where one terabyte is a thousand gigabytes (1 TB = 1000 GB).
+
+Over the years there have been many disk interface types, though all used the same rotating platter recording technology. Differences were in how the data was encoded to binary, data integrity, data transfer speeds, cabling requirements, and cost. As there are different kinds of hard disks, there are also different kinds of interfaces. In 2009, it was common to attach a hard disk using a Serial ATA connection. The connection that came before that was called "IDE" and is called Parallel ATA today. In large data centers, Fibre Channel is often used.
+
+For servers, the SCSI (pronounced 'scuzzy') interface is very popular. There are several types and versions of SCSI interface, like parallel and Serial Attached SCSI, each stepping-up in terms of speed and price. Within servers, several SCSI drives are often used in conjunction with each other, in order to safeguard against data loss or corruption (this is known as RAID - and there are many configurations to choose from).

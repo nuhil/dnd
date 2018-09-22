@@ -1,0 +1,12 @@
+Multicellular organism
+
+Multi-cellular organisms are organisms with more than one cell. This is the case for animals, plants and most fungi. In such organisms, cells are usually specialised. All the cells with the same function work together. Such a group of cells is then called a tissue. 
+
+Multi-cellular organisms have a set of cells that specialize in reproduction. Reproduction in such organisms is usually sexual. The sex cells are either sperm or ovum (also named "egg") cells. If they are sperm cells, the organism is male, if they are egg cells it is female. If both are present, the organism is a hermaphrodite.
+
+We know, from their cell structure, that multicellularity has evolved independently many times in Earth history, for example in plants and animals.
+The earliest forms of life in the fossil record are cyanobacteria from the Archaean era at 3.5 billion years ago. They grew as single cells but lived in colonies as stromatolites. 
+The first multicellular fossils have been found in 2.1 billion years old Palaeoproterozoic rocks from the Gabon in Africa. These are eukaryotic cells which live colonially. The fossils are visible to the naked eye, and hence much larger than bacteria. The authors comment that one advantage of multicellularity is larger size, and that an adequate level of oxygen is required to support this kind of life. 
+
+In order to reproduce, multicellular organisms must solve the problem of regenerating a whole organism from germ cells (i.e. sperm and egg cells), an issue that is studied in developmental biology. 
+Multicellular organisms, especially long-living animals, also face the challenge of cancer, which occurs when cells fail to regulate their growth within the normal program of development.

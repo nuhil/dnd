@@ -1,0 +1,26 @@
+Computer programming
+
+Programming is telling a computer how to do certain things by giving it instructions. These instructions are called programs. A person who writes instructions is a computer programmer. These instructions come in different languages; they are called programming languages. Sometimes programmers use special software, such as IDEs, which have many features to help them to make programs, and sometimes they use simpler software, called a text editor, which only gives them a place to type. There are many types of programming languages.
+
+Writing these instructions directly in "machine code" is tedious and difficult, so instructions are written in a language easier for people to use, which the computer converts into "computer form" instructions so the computer can follow them. The simplest of these are assembly languages. Programs written in a language more like English is converted by a compiler. Some languages, called interpreted languages, use interpreters instead of assemblers or compilers.
+
+Once a program has been compiled, the instructions in "machine form" are written into a file that contains a series of numbers that the computer can understand. These files are generally called "executables". These machine-instructions will be loaded into the computer's memory so that the CPU can run them when the executable is opened. In the event that data is not transferred correctly, it can result in data loss. 
+
+A variable is a piece of the program that can be changed. Variables can include information added by the user, or answers that are found as a result of a calculation.
+
+Conditionals are parts of the program that work if something the program can check to see whether it is true. If that part is not true, then the program won't make it happen. A conditional is often done with an "If Statement." 
+
+Here is an example of an if statement in the Perl programming language. What it does is it checks to see if the name variable is Bill. If the name variable is Bill, then it will print out the words "Hi Bill!".
+
+Sometimes, a programmer might want to have the "if statement" do something else if the first part of it is not true. This is known as an else block. Here is an example of an else block in the Perl programming language.
+
+And sometimes, the programmer might want to have multiple things for the if statement to do. For example, they may have the if block run if something is true, but will have parts of the if statement known as else if blocks that will run if the first part doesn't work, but if it works somewhere else. In the Perl programming language, else if is spelled like this, "elsif." Other languages might have it spelled like "else if" however. But for Perl, it is spelled like "elsif." Else If blocks will only run if their condition is true, just like the first if block. An if statement can have as many else if statements as the programmer needs. If the if block, and none of the else if blocks are true, then the plain "else" statement will be used by the program.
+
+In the program, a comment is information that is meant to be read by people who are reading the program. Comments have a special symbol in front of them that tells the computer that they are comments and should not be read as code. 
+
+Comments are used to explain how a certain part of a program works. This is helpful when multiple people are working on the same program, and if they need to work on a section where someone else was working on. If the programmer that was working on it first left behind comments for any other programmer that works on it later, it will help them know faster what is going on in the program.
+
+Here is an example of programming comments in the C (programming language). In C, the two slash symbols "//" known as a forward slashes, are used. With the comments, a person can read the code and know what is going on.
+Sometimes, a programmer may need to remove something from the code, but for many different reasons, they may not want to just simply delete it. An easy solution is to use the comment symbol. The computer will think that the code is just comments, rather than actual code, but the programmer will still be able to see it and read it.
+
+Here is an example of that in the Perl programming language. In Perl, the "#" symbol is used for comments, instead of forward slashes "//" like in the C (programming language).

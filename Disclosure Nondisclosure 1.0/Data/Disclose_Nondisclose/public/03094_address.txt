@@ -1,0 +1,13 @@
+Address
+
+An address (pronounced AD-dress or ad-DRESS) is a way to find or communicate with someone. It can be a postal address or an e-mail address. On forms, it is common to ask for someone's name, address and phone number, so that the person can be found easily.
+
+A postal address is usually the location of someone's house, but sometimes it is the person's Post Office Box. It is the information that is put on a letter to have the letter delivered to a person.
+
+Example (in England):
+
+Example (in the U.S.):
+
+An email address is used to send someone an e-mail. It has a username, and this is followed by the name of the person's email provider. The at sign (@) separates the two. For example:
+
+The "name" part can be made up of any letters or numbers, and a few special characters, but it cannot contain spaces. The "provider" part can be made up of any letters or numbers, but no special characters and no spaces. Some providers may restrict the "name" part in other ways. For example, Gmail does not allow underscores.

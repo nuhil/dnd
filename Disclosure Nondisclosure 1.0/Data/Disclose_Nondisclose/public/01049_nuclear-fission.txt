@@ -1,0 +1,11 @@
+Nuclear fission
+
+Nuclear fission is a process used to create energy. It is when an atom splits apart into smaller atoms. The process gives off a lot of energy, and is used in nuclear weapons and nuclear reactors. Nuclear fission was discovered in December 1938 by the German nuclear chemist Otto Hahn and his assistant Fritz Strassmann in Berlin.
+
+An atom is the smallest particle which makes up a chemical element (e.g. hydrogen, oxygen, magnesium). All atoms are very small. Atoms are made of three components or particles: Protons, neutrons and electrons. The protons and neutrons are clumped together in a ball called a nucleus, at the center of every atom. The electrons orbit around the nucleus in something called the 'electron cloud'. Elements which have large nuclei, such as uranium and plutonium, can be made to fission.
+
+If a (relatively) very large nucleus is hit by a slow-moving neutron, it will sometimes become unstable and break into two nuclei. When the nucleus breaks apart (or fissions) it releases a lot of energy and it also causes some neutrons to be released from the nucleus.
+
+For a few isotopes (an atom with the same amount of protons as its element, but with a different amount of neutrons) such fission can release many neutrons. If those neutrons then hit other atoms, they will make the other atoms split. This can happen again and again. This is called a nuclear chain-reaction, and it can release huge amounts of energy very quickly. The amount of energy released by a nuclear chain reaction is measured in kilotons. One kiloton is the same as the energy of one thousand tons of TNT (trinitrotoluene).
+
+In a nuclear bomb, this must happen very quickly to make a very big explosion. In a nuclear reactor this must happen slowly to make heat. The heat is used to boil water into steam, which turns a steam turbine to generate electricity.

@@ -1,0 +1,23 @@
+Bacteria
+
+Bacteria (sing. bacterium) are very small organisms. They are prokaryotic microorganisms. Bacterial cells do not have a nucleus, and most have no organelles with membranes around them. Most have a cell wall. They do have DNA, and their biochemistry is basically the same as other living things. 
+They are amongst the simplest and the oldest organisms. They function as independent organisms. 
+
+Almost all bacteria are so tiny they can only be seen through a microscope. Bacteria are made up of one cell, so they are a kind of "unicellular organism". They are among the simplest single-celled organisms on Earth, and were one of the earliest forms of life. They include a number of extremophiles which live in extreme habitats.
+
+There are probably more individual bacteria than any other sort of organism on the planet. Most bacteria live in the ground or in water, but many live inside or on the skin of other organisms, including humans. There are about ten times as many bacterial cells as human cells in each of our bodies. Some bacteria can cause diseases, but others help us in everyday activities like digesting food (gut flora). Some even work for us in factories, producing cheese and yogurt.
+
+The founder of bacteriology was a German biologist called Ferdinand Cohn (18281898). He published the first biological classification of bacteria, based on their appearance.
+
+A bacterium reproduces (creates more bacteria) by dividing in half and creating two "daughter" cells. Each daughter is identical in shape to the parent, but is smaller.
+
+Bacteria do not have sexes, but they do transmit DNA by several kinds of horizontal gene transfer. This is how they share resistance to antibiotics from one strain to another. The complete DNA sequence is known for many bacterial strains.
+
+Bacteria vary widely in size and shape, but in general they are at least ten times larger than viruses. A typical bacterium is about 1 µm (one micrometer) in diameter, so a thousand bacteria lined up would be one millimeter long. There are about five nonillion (5×10) bacteria on Earth.
+
+Bacteria are identified and grouped by their shapes. Bacilli are rod-shaped, cocci are ball-shaped, spirilla are spiral-shaped, and vibrio are shaped like a comma or a boomerang.
+Pathogenic bacteria, the harmful kind, enter the human body from the air, water or food. Once inside, these bacteria attach themselves to or invade specific cells in our respiratory system, digestive tract or in any open wound. There they begin to reproduce and spread while using your body's food and nutrients to give them energy to help them reproduce.
+
+Some bacteria are extremophiles. Some microbes thrive inside rocks up to 580 meters below the sea floor under 2.6 kilometers of ocean off the Pacific Northwest of the United States. According to one of the researchers, "You can find microbes everywhere — they're extremely adaptable to conditions, and survive wherever they are." 
+
+All modern ideas start with the sequence analysis of DNA and RNA. In 1987, Carl Woese, the forerunner of the molecular phylogeny revolution, divided bacteria into 11 divisions based on 16S ribosomal RNA (SSU) sequences:

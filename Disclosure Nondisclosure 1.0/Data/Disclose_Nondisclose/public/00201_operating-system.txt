@@ -1,0 +1,9 @@
+Operating system
+
+An operating system (or OS) is the name for a group of computer programs, device drivers, kernel, and other things that let a user work with a computer. It can be small (like MenuetOS), or big (like Microsoft Windows). Different operating systems can be used for different purposes. Some are used for every day things like on a personal computer. Others are used for specialized work.
+
+An operating system has many jobs. It is responsible for making sure that all the programs can use the CPU, system memory, displays, input devices, and other hardware. It also lets the user have a fast, clean, and safe interface so they can do work on the computer. It also talks to other computers or devices on a network. There are many operating systems such as macOS, Linux, and Microsoft Windows.
+
+The first operating system was used with the ENIAC (Electronic Numerical Integrator and Computer). It was very hard to make ENIAC do work. How the operating system worked was based on how the switches and cables were put together and depending on this factor punch cards would make a result. While this was an operating system of a kind, it is not what is thought of as one in modern times.
+
+The first operating system that looked and felt like operating systems in the modern age was UNIX, made in 1969 by Bell Labs. It had a small kernel and many tiny programs that could be put together to work with user input and data. Many of its features were taken from Multics, an older operating system made in 1964.

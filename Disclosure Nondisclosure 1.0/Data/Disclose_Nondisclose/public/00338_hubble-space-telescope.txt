@@ -1,0 +1,17 @@
+Hubble Space Telescope
+
+The Hubble Space Telescope (HST) is one of the most famous telescopes. It is the first optical space observatory telescope. Being above the atmosphere means it can see the sky more clearly than a telescope on the ground, because the atmosphere blurs starlight before it reaches Earth. Named after the astronomer Edwin Hubble, the Hubble Space Telescope can observe 24 hours a day. The main mirror is 94.5 inches (2.4 meters) across. The telescope can take pictures of things so far away it would be nearly impossible to see them from anywhere else.
+
+It actually observes less than 20% of the time. It was made by both NASA and the ESA working together. It is 600 km in space and was launched on April 24, 1990. It completes a full orbit of Earth every 97 minutes. That means it travels at 5 miles (10 km) per second. If you were going this speed on Earth, you would be able to get from New York to San Francisco in 10 minutes.
+
+The Hubble itself is the size of a large school bus, but still small enough to fit inside the cargo bay of a Space Shuttle. It was repaired in 1993 due to problems in the picture quality.
+
+The telescope was launched in 1990 by a space shuttle. When it entered orbit, everything seemed fine. But there was a problem with the telescope that was not discovered until it started taking pictures.
+When the HST took its first pictures, astronomers were happy to see the images, but they were not as sharp and as crisp as expected. Telescopes in space can take better pictures than telescopes on Earth, but for some reason, the pictures were not better than the pictures taken on Earth. They found a problem with the telescope's mirror. The mirror was not curved right. It was only wrong by 2.2 microns (1/50th as thick as a piece of paper). Still, this was enough to cause the images to be blurred. Some said that Hubble was nearsighted.
+
+Another space shuttle was soon sent up to repair the space telescope. The repair was not easy. The astronauts had to install some small mirrors to correct the light from the big mirror. The big mirror could still be used. It took five days of space walks. When astronaut Story Musgrave opened one of the doors on Hubble to install a new camera, the door would not close, so Musgrave and the other astronauts had to think of a creative way to get around the problem. Eventually, Hubble was fixed. 
+
+Repairs and servicing missions have been made to the Hubble Space Telescope five times to keep it in orbit and make it even better as technology improved. The space shuttle program was kept going longer than planned to send an extra trip up to the Hubble Space Telescope for a final fix.
+
+
+Hubble will be replaced by the James Webb Space Telescope which will be located even further from Earth. There are now other telescopes in orbit, like the Herschel Space Observatory and the Kepler Spacecraft, which was specially made for finding Earth-like planets around other stars.

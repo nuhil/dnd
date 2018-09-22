@@ -1,0 +1,25 @@
+Role-playing game
+
+A role-playing game (also called RPG) is a game in which one plays the role of one or several characters (people), either verbally (traditional RPGS), in a computer or video game, or alone (gamebooks). Often the characters gain experience (EXP) during the game, which makes them stronger.
+
+A traditional role-playing game, or tabletop role-playing game, is a form of role-playing game (RPG) in which each person playing the game will make-believe that he or she is a character in the game. A person playing the game will tell the action of his or her character, and a system of rules will tell whether the action can be done or not. The game will happen in a made-up world that is controlled by another person playing the game, called a gamemaster (GM). The gamemaster tells the game's story to the players, tells them where they are in the game world, and plays the part of all the Non-Player Characters (NPCs) and monsters that the players meet. 
+
+The gamemaster will also give quests or tasks for the characters to complete. Characters usually have things about them that limit their actions, such as strength or speed, and as the character completes the quests, he or she is awarded experience points which can be used to make the character better.
+
+Most tabletop RPGs use dice rolls when a player tries to do something hard in the game (Like attacking a monster, or jumping over a gap). This means that there is luck in the game, as well as skill. Most games have a system of bonuses so that they can succeed more often.
+
+A short example:
+GM: "You enter a small room. It is wet and smells bad. You hear water dripping from somewhere. You see a small, shaking pile of gray jelly in the middle of the room."
+Player: "I touch the pile with the tip of my sword."
+GM: "The jelly starts to move up your sword."
+Player: "I drop my sword."
+GM: "The jelly starts to eat your sword, but you are safe."
+Good GMs balance challenges and rewards, giving the players the chance to recover from mistakes, but at the same time providing consequences for the player's actions. One example of this type of RPG is Dungeons & Dragons
+
+There are also computer and videogame RPGs, where the player controls one or more characters. A good example is the Final Fantasy series of games. Just like the pre-computer RPGs, the characters in the games level up when they get EXP. They also usually contain a main quest which cannot be completed without completing smaller side quests. These computer RPGs are easier to play because they only need one person, but they also lack the freedom of the older games, where new quests can be made up whenever you want. MMORPGs (Massively-Multiplayer Online Role-Playing Game), are computer games where many players meet online in one large game world, and go on quests together. Some examples of these games are World of Warcraft, Everquest, or Runescape.
+
+Text Based RPGs are not too different from Traditional RPGs, generally based on the Dungeons and Dragons game. However some Text Based RPGs are not for combat, but are for socializing and meeting others.
+With many Text Based RPGs you need a client, a program to send what you say to the server, which can be located in another country. Many clients are basic and display text in one colour, but there are others that use colours, enhancing the readability of the content.
+See MU* for more details.
+
+In LARP, the people play their characters themselves, much like a play. They act out the things their character does, dress like their character, and often talk in the way their character would.

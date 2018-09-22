@@ -1,0 +1,23 @@
+PH
+
+pH (potential of hydrogen) is a scale of acidity from 0 to 14. It tells how acidic or alkaline a substance is. 
+More acidic solutions have lower pH. More alkaline solutions have higher pH. Substances that aren't acidic or alkaline (that is, neutral solutions) usually have a pH of 7.
+Acids have a pH that is less than 7. Alkalis have a pH that is greater than 7. 
+
+pH is a measure of the of protons (H) in a solution. introduced this concept in the year 1909. The p stands for the German "potenz", meaning power or concentration, and the H for the hydrogen ion (H).
+
+The formula for calculating pH is:
+
+[H] indicates the concentration of H ions (also written [HO], the equal concentration of ions), measured in moles per litre (also known as molarity).
+
+Most substances have a pH in the range of 0 to 14, although "extremely" acidic or alkaline substances may have pH < 0, or pH > 14.
+
+Alkaline substances have, instead of hydrogen ions, a concentration of hydroxide ions (OH).
+
+Certain dyes change colour depending on whether they are in an acid solution or an alkaline solution . pH indicator is a chemical compound added in small amounts to a solution so the pH (acidity or basicity) of the solution can be seen. The pH indicator is a chemical detector for hydronium ions (HO) or hydrogen ions (H). Normally, the indicator causes the colour of the solution to change depending on the pH. 
+
+Typical indicators are , , , , and . They each change colour at different points on the pH scale, and can be used together as a universal indicator.
+
+Another way is to use litmus paper, which is based on a natural pH indicators. The paper can tell you how strong the chemical is, whether it is a stronger acid or a stronger base.
+
+Neutralization can be summed up by the equation:

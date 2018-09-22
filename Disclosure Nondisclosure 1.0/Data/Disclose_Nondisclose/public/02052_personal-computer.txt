@@ -1,0 +1,19 @@
+Personal computer
+
+A personal computer (PC) is the common name for a type of computer that is most popular in offices and homes. The first PC called the "IBM PC" was made by the company called IBM in 1981, although many computers were made before like the Commodore PET. Smartphones and tablet computers are also computers for personal use, but they are not often called "personal computers".
+
+Today, most PCs usually have a basic set of software called an operating system. The operating system is responsible for several tasks including providing a user interface (UI). The most popular operating system on PCs is Windows, sold by Microsoft Corporation. PCs made by a company called Apple Inc. can use a different system of software called Mac OS that is sold by Apple Inc.
+
+Many free operating systems are available. They are called Linux operating systems. There are over 300 different Linux "distributions". Each one has a different purpose. Ubuntu-Linux is the most-used Linux because it is the easiest to use.
+
+A modern PC has a minimum set of parts to be useful. The "Base unit" or "Tower" is the main part of the computer. A mouse and keyboard are used for input. A monitor is needed to view output. In a laptop computer these parts are all together.
+
+Inside the base unit or tower there are many electronic parts. The main parts are the motherboard, CPU, the Hard disk and memory.
+
+The CPU (Central Processing unit) follows the instructions in the operating system and application programs. The memory, or RAM (random access memory), is for moving information (or data) quickly to and from the processor. The hard drive holds programs and data while the computer is powered off. Floppy drives, CD-ROM drives are used for storing information on removable disks.
+
+Computers often have a modem to send and receive data over a phone line, or more recently, over cable television lines. Computers can also be connected to a computer network.
+
+Modern PCs have various sockets called ports. The most common ports are known as USB ports.
+
+Computers may be used for work, including doing research using the internet, keeping records; or writing documents. Other uses include communicating, with people across the world using Instant messaging, e-mail or Skype or recreation activity such as playing computer games.

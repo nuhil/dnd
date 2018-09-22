@@ -1,0 +1,34 @@
+Atomic theory
+
+In chemistry and physics, the atomic theory explains how our understanding of the atom has changed over time. Atoms were once thought to be the smallest pieces of matter. However, it is now known that atoms are made up of protons, neutrons, and electrons. These subatomic particles are made up of quarks. The first idea of the atom came from the Greek philosopher Democritus. A lot of the ideas in the modern theory came from John Dalton, a British chemist and physicist.
+
+The theory applies to solids, liquids and gases, but it does not apply in quite the same way to plasmas or neutron stars.
+
+Democritus thought that if you cut something in half again and again, you would at last have to stop. He said that this last piece of matter could not be cut any smaller. Democritus called these small pieces of matter atoms, which means "indivisible". He thought that atoms would last forever, never change and could not be destroyed. Democritus thought that there was nothing between the atoms and that everything around us could be explained if we could understand how atoms worked. 
+
+Some other philosophers agreed, and others disagreed. They had no way to experiment to show whether his theory was true or not.
+
+In 1758, Roger Joseph Boscovich described a precursor of the atomic theory.
+
+In 1803, the English scientist John Dalton, born in Cumberland, reworked Democritus' theory, as follows:
+
+
+Dalton defined the atom as the "basic unit of an element that can take part in a chemical combination".
+
+In 1850, Sir William Crookes constructed a 'discharge tube', that is a glass tube with the air removed and metallic electrodes at its ends, connected to a high voltage source. When creating a vacuum in the tube, a light discharge can be seen that goes from the cathode (negatively-charged electrode) to the anode (positively-charged electrode). Crookes named the emission 'cathode rays'.
+
+After the cathode ray experiments, Sir Joseph John Thomson established that the emitted ray was formed by negative charges, because they were attracted by the positive pole. Thomson knew that the atoms were electrically neutral, but he established that, for this to occur, an atom should have the same quantity of negative and positive charges. The negative charges were named "electrons" ("e"-).
+
+According to the assumptions established about the atoms neutral charge, Thomson proposed the first atomic model, that was described as "a positively-charged sphere in which the electrons were inlaid (with negative charges)". It is known as the "plum pudding model".
+
+In 1906, Robert Millikan determined that the electrons had a Coulomb (C) charge of -1.6 * 10, something that allowed calculation of its mass as tiny, equal to 9.109 * 10 kg.
+
+In the same time, experiments by Eugene Goldstein in 1886 with cathode discharge tubes allowed him to establish that the positive charges had a mass of 1.6726 * 10 kg and an electrical charge of +1,6 * 10 C. Lord Ernest Rutherford later named these positively charged particles "protons"
+
+In 1910, the New Zealand physicist Ernest Rutherford suggested that the positive charges of the atom were found mostly in its center, in the nucleus, and the electrons ("e"-) around it.
+
+Rutherford showed this when he used an alpha radiation source (from helium) to hit the very thin gold sheets, surrounded by a Zinc sulphide lampshade that produced visible light when hit by alpha emissions. This experiment was called the Geiger–Marsden experiment or the Gold Foil Experiment
+
+By this stage the main elements of the atom were clear, plus the discovery that atoms of an element may occur in isotopes. Isotopes vary in the number of neutrons present in the nucleus. Although this model was well understood, modern physics has developed further, and present-day ideas cannot be made easy to understand. Some idea of present-day atomic physics can be found in the links in the table below.
+
+Atoms are "not</u/l>" elementary particles, because they are made of subatomic particles like protons and neutrons. Protons and neutrons are also not elementary particles because they are made up of even smaller particles called quarks joined together by other particles called gluons (because they "glue" the quarks together in the atom). Quarks "are" elementary because quarks cannot be broken down any further.

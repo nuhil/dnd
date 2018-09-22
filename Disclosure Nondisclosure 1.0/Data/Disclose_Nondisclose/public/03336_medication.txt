@@ -1,0 +1,84 @@
+Medication
+
+Medication (also called medicine or pharmaceutical drugs) is the use of legal drugs to treat or cure an illness. Some drugs are freely sold. They are called over-the-counter (OTC) drugs. Other drugs are so powerful or dangerous that a doctor must give permission to use the drug. The note from the doctor is called a "prescription." These drugs are called prescription drugs, prescription medicines, or prescription only medicines (POM).
+
+There are many different words used to describe important things about medications.
+
+Dosage is how much medication needs to be taken to make the medication do what it is supposed to.
+
+Dosage is very important because all medicines can be poisons if they are taken in large amounts. If a person takes too much of a medication, they can get very sick or even die. This is called an overdose. For example, if a person takes too much acetaminophen (also called paracetamol, Tylenol, or Panadol), they can badly hurt their liver.
+
+Some dosages are based on age. For example, children often need less medication than adults. Others are based on body weight. Sometimes, normal dosages have to be changed if a person has certain medical problems, like kidney failure.
+
+Action is what the medication is supposed to do: the helpful effects that the medicine is supposed to have on the body.
+
+Many drugs have more than one action. For example, acetaminophen is an analgesic (it kills pain) and an antipyretic (it makes fevers go away).
+
+An indication is a reason why a medication is given.
+
+Many drugs have more than one indication. For example, acetaminophen's indications include pain and fever.
+
+A contraindication is a reason why a medication should not be given. 
+
+Almost all medicines, even over-the-counter medications, have some contraindications. For example, acetaminophen should not be given to people who are allergic to acetaminophen. For these people, acetaminophen is "contraindicated," and another medicine should be used instead. Acetaminophen is also contraindicated in people who have liver disease.
+A person takes a medication because they want it to do certain things. When the medication also does other things that the person did not want, these are called side effects. For example, acetaminophen can cause nausea. This is a side effect of acetaminophen.
+
+Adverse effects are side effects that are dangerous or harm the body. For example, in some people, acetaminophen can hurt the liver. This is an adverse effect of acetaminophen.
+
+Most medicines have many possible side effects. This does not mean that anyone who takes the medicine will have those side effects. For example, not everyone who takes acetaminophen gets nausea. A side effect is just a possible effect that a medicine can have on the body.
+
+All medications have a few different names.
+
+When a medication is first discovered, it is given a chemical name. This name describes the atoms or molecules in the medication. Usually, only scientists use this name. 
+
+For example, the chemical names for acetaminophen are N-acetyl-para-aminophenol and para-acetyl-amino-phenol.
+
+Every country has one generic (official) name for every medicine.
+
+In the United States, a medicine is given an official generic name after the Food and Drug Administration (FDA) says a it is safe to be sold. For example, acetaminophen is the official generic name used in the United States. (Paracetamol is the generic name used in the United Kingdom and some other countries.) 
+
+Sometimes, generic names come from a medicine's chemical name. For example, acetaminophen is named after N-acetyl-para-amino-phenol, and paracetamol is named after para-acetyl-amino-phenol.
+
+Each company that makes a drug gives that drug a brand name. No other company is allowed to use this name.
+
+For example, in the United States, the most common brand name for acetaminophen is Tylenol. One of the companies that makes acetaminophen (Johnson & Johnson) chose the name "Tylenol" for its acetaminophen. Another company that makes acetaminophen (GlaxoSmithKline) chose "Panadol" as its brand name. Like with most medicines, there are many other brand names for acetaminophen.
+
+Some medicines have unofficial abbreviations. For example, acetaminophen is sometimes abbreviated APAP. This comes from the drug's chemical name: N-Acetyl-Para-Amino-Phenol.
+
+No matter which of these names is used, they all describe the same medicine. For example, there is no difference between N-acetyl-para-aminophenol, acetaminophen, paracetamol, Tylenol, Panadol, and APAP.
+
+"See also: Medical abbreviations for routes of administration"
+
+There are many ways that medications can be given. These are called "routes of administration."
+
+For most medications to work, they need to get into the bloodstream. The blood carries the medicine around the body and takes it where it is needed. The way a medication is given affects:
+
+The most common way of giving medicine is "by mouth". The medicine comes in a pill or liquid that a person swallows.
+
+When taken by mouth, medication gets into the bloodstream through the digestive system. It takes a while, usually 15-20 minutes, for the medicine to get through parts of the digestive system and get taken up into the bloodstream. Also, a very small amount of the medicine actually gets into the bloodstream. This is because acid in the stomach kills most of the medicine before it can be taken up into the bloodstream.
+
+Medicines taken by mouth often last longer than medicines taken by other routes of administration.
+
+Not every medication can be given by mouth. With some medicines, like insulin, the acid in the stomach will change the medicine or break it down so much that it will not work.
+
+Some medicines can be given through a needle placed into a vein. This way of giving medicine is called "intravenous (IV)".
+
+This is one of the fastest ways to get medicine into the bloodstream. Veins carry blood, so when a medication is given "intravenously", it goes right into the bloodstream immediately. It takes less than a minute for blood to flow around the entire body. This means that when given intravenously, a medicine will reach the brain within a minute or less. All of the medicine (100%) gets into the bloodstream.
+
+However, IV medications will not last as long as medications given by mouth. This is because the body starts metabolizing medications (breaking them down so the body can get rid of them) as soon as the medicine gets into the bloodstream.
+
+Not every medicine can be given intravenously.
+
+Some medicines can be given through a needle placed into a big muscle, like the muscles in the upper arm, thigh, or buttocks. This way of giving medicine is called "intramuscular (IM)".
+
+When a medicine is given "intramuscularly", the medicine gets into the bloodstream through smaller blood vessels in the muscles. This takes longer than an IV injection, because the medicine is not being injected directly into a blood vessel. However, the medicine still reaches the bloodstream faster than medicines given by mouth.
+
+Also, not all of the medicine gets into the bloodstream because some of it gets caught in the soft tissue in the muscle and never reaches the blood vessels.
+
+Some special medicines can be breathed in. This way of giving medicines is called "by inhalation" (sometimes abbreviated INH). This can be especially helpful for lung problems like asthma. Since the medicine is breathed right into the lungs, it can start working on the lungs right away.
+
+There are many other routes of administration. For example:
+
+There are many other routes of administration.
+
+Many medicines can be given more than one way. For example, acetaminophen can be given by mouth, into the rectum, or into a vein.

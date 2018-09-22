@@ -1,0 +1,35 @@
+Mathematical analysis
+
+Mathematical analysis is a part of mathematics. It is often shortened to analysis. It looks at functions, sequences and series. These have useful properties and characteristics that can be used in engineering. The mathematical analysis is about continuous functions, differential calculus and integration.
+
+Gottfried Wilhelm Leibniz and Isaac Newton developed most of the basis of mathematical analysis.
+
+An example for mathematical analysis is limits. Limits are used to see what happens very close to things. Limits can also be used to see what happens when things get very big. For example, formula_1 is never zero, but as n gets bigger formula_1 gets close to zero. The limit of formula_1 as n gets bigger is zero. It is usually said "The limit of formula_1 as n goes to infinity is zero". It is written as formula_5.
+
+The counterpart would be formula_6. When the formula_7 gets bigger, the limit goes to infinity. It is written as formula_8.
+
+The fundamental theorem of algebra can be proven from some basic results in complex analysis. It says that every polynomial formula_9 with real or complex coefficients has a complex root. A root is a number "x" which gives a solution formula_10. Some of these roots may be the same.
+
+The function formula_11 is a line. The formula_12 shows the slope of the function and the formula_13 shows the position of the function on the ordinate. With two points on the line, it is possible to calculate the slope formula_12 with:
+
+formula_15.
+
+A function of the form formula_16, which is not linear, cannot be calculated like above. It is only possible to calculate the slope by using tangents and secants. The secant passes through two points and when the two points get closer, it turns into a tangent.
+
+The new formula is formula_17.
+
+This is called difference quotient. The formula_18 gets now closer to formula_19. This can be expressed with the following formula:
+
+formula_20.
+
+The result is called derivative or slope of f at the point formula_21.
+
+The integration is about the calculation of areas.
+
+The symbol formula_22
+
+is read as "the integral of f, from a to b" and refers to the area between the x-axis, the graph of function f, and the lines x=a and x=b. The formula_23 is the point where the area should start and the formula_24 where the area ends.
+
+Some topics in analysis are:
+
+Some useful ideas in analysis are:

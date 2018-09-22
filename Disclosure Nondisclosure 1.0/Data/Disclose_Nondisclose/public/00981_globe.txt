@@ -1,0 +1,19 @@
+Globe
+
+A globe is a picture of a planet drawn on a sphere. It is like a scale model of the planet. The word "globe" comes from the Latin word "globus", meaning round mass or sphere.
+
+Most globes are maps of the Earth. The most common types are political and physical. Political globes show countries. Physical globes show landscape like mountains and rivers. Some globes are star charts and some are maps of distant worlds.
+
+Global as an adjective is used to mean the entire world rather than any special place. It is also used in fields like computers to mean dealing with a whole larger system, as distinguished from its individual little parts.
+
+The fact that the Earth is a sphere was established by Hellenistic astronomy in the 3rd century BCE. The earliest globe of the Earth appeared in that period. The earliest known example is the one made by Crates of Mallus in Cilicia (now Çukurova in modern-day Turkey), in the mid-2nd century BCE. 
+
+No globes of the Earth from Antiquity or the Middle Ages have survived. An example of a surviving celestial globe is part of a Hellenistic sculpture, called the Farnese Atlas. It survives in a 2nd century AD Roman copy in the Naples Museum, Naples, Italy.
+
+Early globes of the Earth that show all of the Old World were constructed in the Islamic Golden Age. One such example was made in the 9th century by Muslim geographers and cartographers working under the Abbasid caliph, Al-Ma'mun. Another example was the globe introduced to Beijing by the Persian astronomer, Jamal ad-Din, in 1267.
+
+The oldest surviving globe of the Earth is credited to Martin Behaim in Nürnberg, Germany, in 1492. A copy of the globe showing America was made by Martin Waldseemueller in 1507. Another early globe, the Hunt-Lenox Globe, ca. 1507, is thought to be the source of the phrase "Here be dragons." Another "remarkably modern-looking" globe of the Earth was made by Taqi al-Din at the Istanbul observatory of Taqi al-Din during the 1570s.
+
+Mass-produced globes are typically covered by a printed paper map. The most common type has long, thin gores (strips) of paper. These strips narrow to a point at the North Pole and the South Pole. Then a small disk is used to paper over the irregularities at the poles. The more gores there are, the less stretching and crumpling is needed to make the paper map fit the sphere. From a geometric point of view, all points on a sphere are the same. One could select any point on the Earth, and create a paper map that covers the Earth with strips that come together at that point and the opposite point.
+
+An Earth globe is usually mounted at a 23.5° angle on bearings. This mounting represents the angle of the planet in relation to its sun and the spin of the planet. This makes it easy to visualize how days and seasons change.

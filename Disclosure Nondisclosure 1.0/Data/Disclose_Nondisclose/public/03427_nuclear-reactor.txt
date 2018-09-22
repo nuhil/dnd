@@ -1,0 +1,11 @@
+Nuclear reactor
+
+A nuclear reactor is a machine that uses fission to generate heat. There are different designs which use different fuels. Most often, uranium-235 or plutonium-239 are the main components of these fuels.
+
+Most nuclear reactors are used to make electricity. In nuclear power plants heat from the fission reactions in the reactor changes water into steam. The steam is then used to power electric turbines which make electricity. As with other steam engines, the turbines take energy from the movement of the steam.
+
+Some reactors are used for other purposes. Some reactors make neutrons for science research and others make radioactive isotopes. Some universities have small nuclear reactors to teach students how reactors work.
+
+The first nuclear reactor was built in 1942 by a team of scientists led by Enrico Fermi. This was a part of the Manhattan Project which needed the fuel from the reactor to make the atomic bomb. The first nuclear reactor to make electricity was a small experimental reactor built in Idaho in 1951. It made just enough electricity for four light globes.
+
+Nuclear reactors are expensive to build because of the many safety features they need to have. There is also a problem with the huge amount of radioactive waste from the reactors. However they produce electricity cheaply, and do not pollute the air. There have been serious accidents at several nuclear reactors: Windscale (UK) 1957, Mayak (USSR) 1957, Three Mile Island (USA) 1979, Chernobyl (USSR) 1986 and Fukushima (Japan) 2011. Concerns about safety have limited the growth of nuclear power. There are about 437 reactors around the world which provide about 5% of the world's electricity.

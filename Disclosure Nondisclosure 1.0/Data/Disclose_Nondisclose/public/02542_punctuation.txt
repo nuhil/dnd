@@ -1,0 +1,100 @@
+Punctuation
+
+Punctuation is the name for marks used in writing. They are to help understanding and correct reading. These are some common punctuation marks used in English:
+
+
+The use of punctuation in English can change from place to place and from time to time. Modern typography suggests that punctuation should only be used when there is a need. That results in less punctuation than was the case the early 20th century.
+
+The use of these marks is often decided by a group or organization and then written down as a style guide. Newspapers have a style guide to make their content use the same rules (consistency).
+
+In the second example, no style guide will help. The writer just has to make sure that the sentence is understood as it is written. Punctuation is there to help the reader make sense of what is written. Often it is best to change the sentence so that the meaning does not rest on a comma.
+That seems to make the meanings clear.
+
+A period (U.S.A.), full stop (U.K. and Commonwealth) or full point (typography and printing), looks like this: .
+
+A period or stop is used to end a sentence. The period plus a space separates sentences in prose, and makes it easier to read. If they are not needed, they should not be used. So, for example, in a list format it is obvious when a section ends, therefore it does not need a full stop.
+
+A period can show numbers that are smaller than one. With money, a period is used to show the amount of money less than one dollar.
+
+A period is sometimes used to show that a word has been made shorter. A word that is made shorter with a period is called an abbreviation.
+
+A comma looks like this: ,
+
+A comma has many uses. Some of these are shown below:
+
+
+A question mark looks like this: ?
+
+Question marks are used when writing a question, to make an inquiry, or to ask something.
+
+An exclamation mark looks like this: !
+
+An exclamation mark is used to write about a strong emotion, or to write the words a person shouted. It can be used to make a statement stronger or more forceful.
+
+An exclamation mark can be used with a question mark, to make a question more forceful.
+
+An apostrophe looks like this: <nowiki>'</nowiki>
+
+An apostrophe has two main uses:
+
+An apostrophe can be used to show that something belongs to someone else.
+
+If there is only one thing, the letter "s" is used after an apostrophe to show ownership.
+
+Sometimes the letter "s" is not used after an apostrophe to show ownership. A word will end with just an apostrophe if there is more than one thing and the word already ends with an "s".
+
+An apostrophe can be used to put two small words together. Two small words that are put together with an apostrophe to make one word are called contractions. This is normal in writing about a person speaking. Spoken English often uses contractions because these words are easier to say.
+
+Pronouns do not use an apostrophe to show that something belongs to something else. Among these are "its", "his", "hers", "theirs".
+
+Plurals (words referring to more than one thing) do not need an apostrophe.
+
+Quotation marks (also called quote marks or quotes for short) are used around the words that people have said, or direct speech. They are used in pairs.
+
+When quotation marks sit next to periods and commas, there are two styles of punctuation. These two styles are most commonly referred to as "American" and "British"; the British one is also called "logical quotation". 
+
+Both systems have the same rules regarding question marks, exclamation points, colons, and semicolons. But they differ in how they treat full stops and commas.
+
+In all major forms of English, question marks, exclamation marks, semicolons, and any other punctuation are placed inside or outside the closing quotation mark depending on whether they are part of the quoted material.
+
+The style in the United Kingdom and other non-American places is called British style, 
+logical quotation, 
+or logical punctuation. it includes inside quotation marks only those punctuation marks which appeared in the "original" quoted material. Otherwise it places punctuation outside the closing quotation marks. Fowler's "A Dictionary of Modern English Usage" provides an early example of the rule: "All signs of punctuation used with words in quotation marks must be placed "according to the sense"."
+When dealing with words-as-words, short-form works and sentence fragments, this style places periods and commas outside the quotation marks:
+
+With direct speech, British placing depends on whether or not the quoted statement is complete or a fragment. According to the British style guide "Butcher's Copy-editing", American style should be used when writing fiction. In non-fiction, some British publishers may permit placing punctuation that is not part of the person's speech inside the quotation marks but prefer that it be placed outside. Periods and commas that "are" part of the person's speech are permitted inside the quotation marks regardless of whether the material is fiction.
+
+In the United States, the prevailing style is called American style, whereby commas and periods are almost always placed inside closing quotation marks. This style of punctuation is common in the U.S. and to a lesser extent, Canada as well., and is the style usually recommended by "The Chicago Manual of Style" and most other American style guides. 
+
+When dealing with words-as-words, short-form works and sentence fragments, standard American style places periods and commas inside the quotation marks:
+
+This style also places periods and commas inside the quotation marks when dealing with direct speech, regardless of whether the work is fiction or non-fiction:
+
+In both major styles, regardless of placement, only one end mark (?, !, or .) can end a sentence. Only the period, however, "may not" end a quoted sentence when it does not also end the enclosing sentence, except for literal text:
+
+This is a colon: :
+
+Colons can be used at the beginning of a list. ""This is a list of animals: birds, cats, insects, pigs, and sheep."".
+
+Colons can be used to replace a semicolon in between two parts of a sentence, but this is not common today.
+
+Standard English usage is to have no spaces before, and one space after a colon.
+
+A semicolon looks like this: ;
+
+A semicolon has only two uses. First, to connect two independent clauses into a single sentence. For example:
+"I could tell that it was getting late; it was growing darker by the second."
+The second use of a semicolon is to separate items in a series when the items contain parenthetical elements within themselves. For example:
+"The following crewmembers were on the bridge: James T. Kirk, captain of the
+Enterprise; Mr. Spock, first science officer; Mr. Sulu, helmsman; Mr. Scott,
+engineer; and Dr. McCoy, chief medical officer.
+
+A semicolon is also used with a conjunctive adverb when joining two clauses. In reality, this is the same as the first rule, but it looks different enough to sometimes cause concern.
+For example:
+"huzaifa, context in which all life exists; consequently, it is more than a political issue."
+
+An ellipsis is a mark that looks like this: ...
+
+It is used to show where words have been missed out when writing what a person said. It can also be used to show that there is more to be said but the person stopped at that point.
+
+A hyphen looks like this: -. Hyphens have many uses in writing:

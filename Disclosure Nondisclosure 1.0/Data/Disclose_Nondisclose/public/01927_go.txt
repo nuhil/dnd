@@ -1,0 +1,13 @@
+Go
+
+Go is a board game, called "I-Go" in Japanese, "Wei-chi" in Chinese and "Baduk" in Korean. It is played on a board, with pieces of two colors (black and white) called stones. Players take turns placing a stone of their color on intersections of the 19x19 square grid. A normal Go board has 19 rows and columns of lines. Sometimes Go is played on smaller 9x9 or 13x13 boards instead of 19x19. Rules are simple, but they vary slightly.
+
+Stones do not move after they are placed, but stones with no liberties (access to empty space) are captured and removed from the board. The goal of this game is to have more points when the game ends by placing pieces around the board to surround areas. You can place stones on any clear intersection you want, as long it isn't taken off right after, or the board looks the same all over as it did before. The second rule is called "Ko" (eternity) and is one of the things that is often changed between rule sets. At the end of each game each player's space (territory), prisoners or stones (depending on the rule set) are counted to see who has more points. 
+
+Its original Chinese name is "" (= wei qi or wei chi). It is also popular in Japan, and its common name "Go" comes from Japanese. In Korea the game is called "baduk". In these three countries the game is an important part of the culture, like chess is in many western countries.
+
+Go and chess are both "board games" and "strategy games", though both may be used as gambling games as well. They share a tenuous connection to the art of war, though this is most obvious in chess, which was a war game in origin. They both have no luck or secret information, unlike some other classic games like backgammon (dice are rolled) or poker and other card games which also have secret information.
+
+There are many places to play Go on the internet, as well as local clubs and national organizations in many countries around the world.
+
+Go was invented in China but the specific time is not known. The historian of board games, H.J.R. Murray, said:

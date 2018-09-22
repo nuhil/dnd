@@ -1,0 +1,9 @@
+Common year
+
+A common year is a year that is not a leap year. In the Gregorian Calendar a common year has 365 days. This means a common year has 52 weeks and one day. So if a certain year started on a Monday, the following year will start on a Tuesday. Stated differently, a common year always begins and ends on the same day of the week. (For example, in 2009, both January 1 and December 31 fell on a Thursday.) 
+
+In the Gregorian calendar, 303 out of every 400 years are common years. In the Julian calendar, 300 out of every 400 years were common years. All the other years are special and known as leap years.
+These are the 12 months in a year.
+
+
+There are 7 months with 31 days. There are 4 months with 30 days. There is 1 month with 28 days. Every 4 years there is 29 days in February which is called a leap year. This happens because every year is 365 and 1/4 days but instead of us having a spare quarter of a day in each year we add them all up every 4 years and make an extra day to avoid confusion and make things easier for everyone.

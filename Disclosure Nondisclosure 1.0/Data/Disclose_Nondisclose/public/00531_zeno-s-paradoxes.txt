@@ -1,0 +1,20 @@
+Zeno's paradoxes
+
+Zeno's Paradoxes are a famous set of thought-provoking stories or puzzles. They were created by Zeno of Elea in the mid-5th century BC. Philosophers, physicists, and mathematicians have argued over how to answer the questions raised by Zeno's Paradoxes for 25 centuries. Nine paradoxes have been attributed to him. Zeno constructed them to answer those who thought the idea of Parmenides that "all is one and unchanging" was absurd. Three of Zeno's paradoxes are the most famous and most problematic; two are presented below. Although the specifics of each paradox differ from one another, they all deal with the tension between the apparent continuous nature of space and time and the discrete or incremental nature of physics.
+
+In the paradox of Achilles and the Tortoise, Achilles is in a footrace with the tortoise. Achilles allows the tortoise a head start of 100 metres, for example. Suppose that each racer starts running at some constant speed (one very fast and one very slow). After some finite time, Achilles will have run 100 metres, bringing him to the tortoise's starting point. During this time, the slower tortoise has run a much shorter distance, say, 10 metres. It will then take Achilles some further time to run that 10 metre distance, by which time the tortoise will have advanced farther. It will then take still more time for Achilles to reach this third point, while the tortoise again moves ahead. Thus, whenever Achilles reaches somewhere the tortoise has been, he still has farther to go. Therefore, because there are an infinite number of points Achilles must reach where the tortoise has already been, he can never overtake the tortoise.
+
+Suppose someone wishes to get from point "A" to point "B". Well, first they must move halfway. Then, they must go half of the remaining way. Continuing in this manner, there will always be some small distance remaining, and the goal would never actually be reached. There will always be another number to add in a series such as 1 +1/2 + 1/4 + 1/8 + 1/16 + ... So, motion from any point "A" to any different point "B" is seen as an impossibility.
+
+This then is where Zeno's paradox lies: both pictures of reality cannot be true at the same time. Hence, either:
+1. There is something wrong with the way we perceive the continuous nature of time,
+2. In reality there is no such thing as a discrete, or incremental, amounts of time, distance, or perhaps anything else for that matter, or
+3. There is a third picture of reality that unifies the two pictures--the mathematical one and the common sense or philosophical one--that we do not yet have the tools to fully understand.
+
+Few people would bet that the tortoise would win the race against an athlete. But, what is wrong with the argument? 
+
+As one begins adding the terms in the series 1/2 + 1/4 + 1/8 + 1/16 + 1/32 + 1/64 + ..., one may notice that the sum gets closer and closer to 1, and will never exceed 1. Aristotle (who is the source for much of what we know about Zeno) noted that as the distance (in the dichotomy paradox) decreases, the time to travel each distance gets exceedingly smaller and smaller. Before 212 BCE, Archimedes had developed a method to derive a finite answer for the sum of infinitely many terms that get progressively smaller (such as 1/2 + 1/4 + 1/8 + 1/16 + 1/32 + ...).
+Modern calculus achieves the same result, using more rigorous methods.
+
+Some mathematicians, such as w:Carl Boyer, hold that Zeno's paradoxes are simply mathematical problems, for which modern calculus provides a mathematical solution.
+However, Zeno's questions remain problematic if one approaches an infinite series of steps, one step at a time. This is known as a supertask. Calculus does not actually involve adding numbers one at a time. Instead, it determines the value (called a "limit") that the addition is approaching.

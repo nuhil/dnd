@@ -1,0 +1,9 @@
+Google Mail
+
+Google Mail, also known as Gmail, is a free e-mail service that is run by Google. It can be accessed on the web, by POP3, or by IMAP. Some of the competitors to Gmail are Yahoo! Mail, Hotmail/Windows Live Mail, and Inbox.Com. The space given to any Gmail member is increased a small amount every second, and as of July 26, 2012, Google provides each account with about 10272 MB of space.
+
+Google Apps is a service from Google that was created in February 2006 as Gmail for your domain. It is to allow system administrators of a company or organisation to create email accounts for their own domain.
+
+In the United Kingdom (UK), the trademark "Gmail" was owned by another company before Gmail by Google was started. Thus, the United Kingdom uses a domain of "googlemail.com" for their users, and the logo has the words of "Google Mail" instead of the normal "Gmail".
+
+In September 2009 Google began to change the branding of UK accounts back to Gmail following the resolution of the trademark dispute.

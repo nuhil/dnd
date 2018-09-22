@@ -1,0 +1,43 @@
+Internet Protocol
+
+The Internet Protocol (IP) is the fundamental communications protocol in the Internet protocol suite for relaying data across network boundaries. It essentially establishes the Internet. Historically, IP did not provide the connectivity; It only specified how packets are supposed to be created. The Transmission Control Protocol (TCP) allowed this functionality. Due to this, one could not perform it's task without the other; They go hand in hand, therefore they earned the name TCP/IP, as a sign of their dependency on each other.
+
+Think of IP as something like the postal system. It allows you to address a package and drop it into the system, but there is no actual direct "link" between you and the recipient. Instead, there is a "web" of links interconnecting with each other. This is where IP and TCP come in. IP tells packets what their destination is and how to get there; TCP ensures a reliable connection, checking packets for errors, requesting a "re-transmission" if it detects one.
+
+The Internet Protocol gets information from a source computer to a destination computer. It sends this information in the form of packets.
+
+There are two versions of the Internet Protocol currently in use: "IPv4" and "IPv6," with "IPv4" being the version most used. IP also gives computers an IP address to identify each other, much like a typical physical address.
+
+IP is the primary protocol in the Internet Layer of the Internet Protocol Suite, which is a set of communications protocols consisting of seven abstraction layers (see OSI model),
+
+The main purpose and task of IP is the delivery of datagrams from the source host (source computer) to the destination host (receiving computer) based on their addresses. To achieve this, IP includes methods and structures for putting tags (address information, which is part of metadata) within datagrams. The process of putting these tags on datagrams is called encapsulation.Think of an anology with the postal system. IP is similar to the U.S. Postal System in that it allows a package (a datagram) to be addressed (encapsulation) and put into the system (the Internet) by the sender (source host). However, there is no direct link between sender and receiver. 
+
+The package (datagram) is almost always divided into pieces, but each piece contains the address of the receiver (destination host). Eventually, each piece arrives at the receiver, often by different routes and at different times. These routes and times are also determined by the Postal System, which is the IP. However, the Postal System (in the transport and application layers) puts all the pieces back together before delivery to the receiver (destination host).
+
+Note: IP is actually a connectionless protocol, meaning that the circuit to the receiver (destination host) does not need be set up before transmission (by the source host). Continuing the analogy, there does not need to be a direct connection between the physical return address on the letter/package and the recipient address before the letter/package is sent.
+
+Originally, IP was a connectionless datagram service in a transmission control program created by Vint Cerf and Bob Kahn in 1974. When format and rules were applied to allow connections, the connection-oriented Transmission Control Protocol was created. The two together form the Internet Protocol Suite, often referred to as TCP/IP.
+
+Internet Protocol version 4 (IPv4) was the first major version of IP. This is the dominant protocol of the Internet. However, iPv6 is active and in use, and its deployment is increasing all over the world.
+
+Addressing and routing are the most complex aspects of IP. However, intelligence in the network is located at nodes (network interconnection points) in the form of routers which forward datagrams to the next known gateway on the route to the final destination. The routers use interior gateway protocols (IGPs) or external gateway protocols (EGPs) to help with making forwarding route decisions. Routes are determined by the routing prefix within the datagrams. The routing process can therefore become complex. But at the speed of light (or nearly so) the routing intelligence determines the best route, and the datagram pieces and datagram all eventually arrive at their destination
+
+An IP packet or datagram has two parts. The first part is the header, which is like a label on an envelope. The second part is the payload, which is like the letter inside an envelope. The header contains the source and destination IP addresses, and some extra information. This information is called metadata, and is about the packet itself. Putting data in a packet with a header is encapsulation.
+
+Every computer on a network does some kind of routing. Dedicated computers talk with each other to figure out where to send packets. These computers are called routers, and talk using routing protocols.
+
+Along every hop in a packet's journey, a computer reads the header. The computer sees the destination IP address and figures out where to send the packet.
+
+ARPANET, the early ancestor of the internet, was designed to survive a nuclear war. If one computer was destroyed, communication between all the other computers would still work. Computer networks still follow this same design.
+
+Computers talking to each other handle the "smart" functions to simplify computer networks. The end nodes will check for errors instead of a central authority. Keeping the "smart" things on the end computers or nodes follows the end-to-end principle.
+
+The Internet Protocol sends packets out without ensuring they arrive safely. This is "best-effort delivery", and is unreliable. Packets could get messed up, lost, duplicated, or received out of order. Higher level protocols like the Transmission Control Protocol ("TCP") ensure packets are delivered correctly. IP is also "connectionless", so it does not keep track of communications.
+
+Internet Protocol Version 4 (IPv4) uses a checksum to check for errors in an IP header. Every checksum is unique to a source/destination combination. A routing node generates a new checksum when it gets a packet. If the new checksum is different from the old one, the routing node knows the packet is bad and throws it out. IPv6 assumes another protocol will check for errors and leaves out the checksum. This is to improve performance.
+
+In 1974, the Institute of Electrical and Electronics Engineers published a paper called "A Protocol for Packet Network Intercommunication". The paper described a way for computers to talk to each other using Packet Switching. A big part of this idea was the "Transmission Control Program". The Transmission Control Program was too big, so it split into TCP and IP. This model is now called the "DoD" "Internet Model" and "Internet Protocol Suite", or the TCP/IP Model.
+
+Versions 0 to 3 of IP were experimental, and used between 1977 and 1979.
+
+IPv4 addresses will run out, because the number of possible addresses is finite. To fix this, the IEEE made IPv6 which had even more addresses. While IPv4 has 4.3 Billion addresses, IPv6 has 340 undecillion of them. This means we will never run out of IPv6 addresses. IPv5 was reserved for the Internet Stream Protocol, which was only used experimentally.

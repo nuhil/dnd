@@ -1,0 +1,43 @@
+Mobile phone
+
+A mobile phone (also known as a wireless phone, cell phone, or cellular telephone) is a small portable radio telephone.
+
+The mobile phone can be used to communicate over long distances without wires. It works by communicating with a nearby base station (also called a "cell site") which connects it to the main phone network. When moving, if the mobile phone gets too far away from the cell it is connected to, that cell sends a message to another cell to tell the new cell to take over the call. This is called a "hand off," and the call continues with the new cell the phone is connected to. The hand-off is done so well and carefully that the user will usually never even know that the call was transferred to another cell.
+
+As mobile phones became more popular, they began to cost less money, and more people could afford them. Monthly plans became available for rates as low as US$30 or US$40 a month. Cell phones have become so cheap to own that they have mostly replaced pay phones and phone booths except for urban areas with many people.
+
+The modern form of mobile phone is called "Smart Phone". It has become very popular. The majority of mobile phones made after 2010 are "smartphones". They can be used as computers as well as making voice calls.
+
+Mobile phones in the 1950s through 1970s were large and heavy, and most were built into cars. In the late 20th century technology improved so people could carry their phones easily.
+
+Although Dr. Martin Cooper from Motorola made the first call using a mobile phone in 1973, it did not use the type of cellular mobile phone network that we use today.
+
+The first mobile phone networks were created in the late 1970s in Japan. Now almost all urban areas, and many country areas, are covered by mobile phone networks.
+A cell phone combines technologies, mainly telephone, radio, and computer. Most also have a digital camera inside.
+
+Cell phones work as two-way radios. They send electromagnetic microwaves from base station to base station. The waves are sent through antennas. This is called wireless communication.
+
+Early cell telephones used analog networks. They became rare late in the 20th century. Modern phones use digital networks.
+
+The first digital networks are also known as second generation, or 2G, technologies. The most used digital network is GSM (Global System for Mobile communication). It is used mainly in Europe and Asia, while CDMA (Code-Division Multiple Access) networks are mainly used in North America. The difference is in communication protocol. Other countries like Japan have different 2G protocols. A few 2G networks are still used. 3G are more common, and many places have 4G.
+
+The radio waves that the mobile phone networks use are split into different frequencies. The frequency is measured in Hz. Low frequencies can send the signal farther. Higher frequencies provide better connections and the voice communications are generally clearer. Four main frequencies are used around the world: 850, 900, 1800 and 1900 MHz. Europe uses 900 and 1800 MHz and North America uses 850 and 1900 MHz.
+
+Today there are mobile phones that work on two, three or four frequencies. The most advanced phones work on all frequencies. They are called 'world' phones and can be used everywhere.
+
+There are different kinds of phones. A flip phone flips open, and is best for calling. A bar phone is shaped like a candy bar, and the keys and screen are on one face. A slate phone is a phone that has almost no buttons, and uses a touchscreen. Most smartphones are slates. A slider phone slides on rails. It can slide out number keys or a mini keyboard, but some do both. A swivel spins on an axle.
+
+When a mobile phone is switched on, its radio receiver finds a nearby mobile phone network base station, and its transmitter sends a request for service. Computers in the base station check if the phone is allowed to use the network. The base station covers an area called a cell. A phone can move between different cells, but will only communicate with one cell at a time. This is why mobile communications are sometimes called cellular communications.
+
+Once connected to a station, the mobile phone can make calls. Because the network knows that the phone is connected to that particular cell, it can also route calls to the mobile phone. Sometimes the radio connection to the cell is lost, for example when you go underground. This means the phone cannot make or receive calls until the connection is made again.
+
+The network is the company that provides the phone service. In most areas there will be more than one mobile network. Customers choose networks based on how well the different networks work in their area, or by price.
+
+There are two main ways to pay for mobile phone calls:
+
+
+Mobile phones use different technical standards. GSM phones need a separate microchip, called a Subscriber Identity Module or SIM card, to work. The SIM has information like the phone number and payment account and this is needed to make or receive calls. The SIM may be supplied by the same company as the phone, or a different one. Sometimes you can change the network by using a SIM from another network, but some companies do not want this to happen and they lock the phone so that you have to use their SIM. 
+
+The others have a special radio inside them that only makes phone calls when the phone is activated. When someone buys a contract, the network gives them a code, that if they enter it into the phone, the phone will then make calls. It is usually impossible to switch to a different network's code on this type of phone. The majority of these CDMA phones are used in the United States and nearby countries.
+
+A majority of new mobile phones from the 21st century are smartphones. These phones can be used for email, browsing the internet, playing music and games,and many other functions that computers can perform. This is because mobile phones basically are small computers. Older phones also used computer technology, but lacked many of the parts of a computer that were too big to fit into a phone. Modern phone makers have been able to use smaller parts. Most smartphones are also GPS receivers and digital cameras. Examples of smartphones include Apple's iPhone and Samsung's Galaxy series.

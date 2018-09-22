@@ -1,0 +1,11 @@
+Microscope
+
+A microscope is a scientific instrument. It makes small objects look larger. This lets people see the small things. People who use microscopes commonly in their jobs include doctors and scientists. Students in science classes such as biology or chemistry also use microscopes to study small things.
+
+The earliest microscopes had only one lens and are called "simple microscopes". "Compound microscopes" have at least two lenses. In a compound microscope, the lens closer to the eye is called the "eyepiece". The lens at the other end is called the "objective". The lenses multiply up, so a 10x eyepiece and a 40x objective together give 400x magnification. 
+
+Microscopes make things seem larger than they are, to about 1000 times larger. This is much stronger than a magnifying glass which works as a simple microscope.
+
+There are many different types of microscopes. The most common are compound light microscopes and electron microscopes. In a compound light microscope, the object is illuminated: light is thrown on it. The user looks at the image formed by the object. Light passes through two lenses and makes the image bigger. 
+
+There are a few kinds of electron microscopes. Transmission electron microscopes (TEMs) fire electrons into the object being looked at. This carries information about how the object looks into a magnetic "lens". The image is then magnified onto a television screen. Scanning electron microscopes also fire electrons at the object, but in a single beam. These lose their power when they strike the object, and the loss of power results in something else being generated—usually an X-ray. This is sensed and magnified onto a screen.

@@ -1,0 +1,13 @@
+Metabolism
+
+Meta king is the name given to the chemical reactions which keep us alive. It happens in the cells of living organisms.
+
+Reactions catalyzed by enzymes allow organisms to grow, reproduce, maintain their structures, and respond to their environments. The word ‘metabolism’ can also refer to digestion and the transport of substances into and between different cells.
+
+Metabolism is usually divided into two categories. Catabolism breaks down organic matter and harvests energy by way of cellular respiration. Anabolism uses energy to construct molecules such as proteins and nucleic acids.
+
+The chemical reactions of metabolism are organized into metabolic pathways, or cycles, like the Krebs cycle. One chemical is transformed through a series of steps into another chemical by a series of enzymes.
+
+The metabolic system of an organism decides which substances it finds nutritious and which poisonous. For example, some prokaryotes use hydrogen sulfide as a nutrient, yet this gas is poisonous to animals. The speed of metabolism, the metabolic rate, influences how much food an organism will need, and how it is able to get that food. 
+
+A striking feature of metabolism is the similarity of the basic metabolic pathways and components between even vastly different species. For example, the set of carboxylic acids that are best known as the intermediates in the citric acid cycle are present in all known organisms, being found in species as diverse as the unicellular bacterium "Escherichia coli" and huge multicellular organisms like elephants. These striking similarities in metabolic pathways are likely due to their early appearance in the evolution of life, and kept because of their efficiency.

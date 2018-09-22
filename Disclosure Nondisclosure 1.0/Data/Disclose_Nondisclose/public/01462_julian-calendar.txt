@@ -1,0 +1,13 @@
+Julian calendar
+
+The Julian calendar is a calendar that was invented by Julius Caesar, the leader of Ancient Rome. It is a reform of the Roman calendar. It was first used in the year 709 Ab urbe condita, or 45 BC. Caesar consulted the astronomer Sosigenes of Alexandria. Very probably it was made to approximate the tropical year, which was known at least since Hipparchus. 
+
+The calendar has a regular year of 365 days divided into 12 months, and a leap day is added every four years to the month of February, making the average Julian year 365.25 days. 
+
+In the 16th century, the Gregorian calendar was introduced in Europe because it was more accurate with regard to the length of the year, and it also moved the date for the vernal equinox, the first day of spring (or of fall in the Southern Hemisphere) to where it belonged again, on March 21. The Gregorian calendar has 97 leap days every 400 years, while the Julian had exactly 100. 
+
+Some countries used this calendar to the 20th century. Mount Athos, and many national Eastern Orthodox churches still use the Julian calendar, or a revised form, introduced in 1923. 
+
+The main problem with the Julian Calendar is that it makes too many leap days, which means that it gains a day about every 128 years. 
+
+People sometimes use the term Old Style or O.S. to refer to the Julian calendar, with N.S. or New Style referring to the Gregorian calendar.

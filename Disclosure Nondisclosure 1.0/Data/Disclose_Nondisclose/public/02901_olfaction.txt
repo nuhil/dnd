@@ -1,0 +1,13 @@
+Olfaction
+
+Olfaction is the sense of smell. The sense of smell is how a human or animal notices a smell (or odour or odor) by using the nose. Many animals have better noses than people. Some animals can detect small particles in the air or sometimes water that people cannot. 
+
+People have special cells in the nose that can detect some chemicals. These are special nerve cells attached to the olfactory epithelium. All vertebrates have these cells. The smell is first processed by the olfactory system. The information is given to the olfactory bulb in the front of the forebrain. 
+
+In insects, smells are sensed by sensilia on the antennae and first processed by the antennal lobe.
+
+The olfactory reception (OR) cells are neurons (nerve cells). Many tiny hair-like cilia stick out of these cells into the mucus covering the surface of the epithelium. The surface of these cilia is covered with olfactory receptors, a kind of protein. 
+
+There are about 1000 different genes which code for the ORs, though only about a third are functional. The rest are pseudogenes. The OR genes are the largest gene family. An odor molecule dissolves into the mucus of the olfactory epithelium and then binds to an OR. Various odor molecules bind to various ORs. The basis of the sense of smell is that different groups of scent molecules bind to different receptor cells and so fire different groups of neurons. Inside the olfactory region of the brain, the firing of neurons produces the perceived smell. 
+
+When the OR is activated, changes start in the cells. Positive ions come in and negative ions go out of the cells. This causes the neuron to fire an impulse (generate an action potential).
