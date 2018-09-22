@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "Disclosure Detector",
+  "version": "0.1.0",
+  "description": "Disclosure Detector Demo",
+
+  "browser_action": {
+    "default_icon": "icon.png"
+  },  
+ 
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["jquery-1.10.2.min.js", "content.js"],
+    "matches": ["https://twitter.com/*"]
+  }]
+
+}
