@@ -1,0 +1,7 @@
+Desktop environment
+
+A desktop environment is a location on a personal computer that helps the user get around on the computer. The desktop itself is a place in the operating system used for short cuts to computer files and folders on the hard drive. Computer icons (small pictures) are used to represent files/folders. Clicking these icons will open or start a folder or program. The desktop is the area where the start menu is if the computer has a start menu.
+
+Usually the desktop is the main screen on the computer. If no programs or folders are open, the computer will display the desktop.
+
+The most common desktop environment on personal computers is the one given by Microsoft Windows; another common environment is the one given by Apple Mac OS X. Other mostly-used desktop environments for Unix-like operating systems using the X Window System are KDE, GNOME, Xfce. There are also other desktop environments, including : Aston, EDE, GEM, IRIX Interactive Desktop, Sun's Java Desktop System, Mezzo, Project Looking Glass, ROX Desktop, UDE, Xito, XFast.

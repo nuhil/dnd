@@ -1,0 +1,75 @@
+Physics
+
+Physics is a branch of science. It studies matter, and all forces and their effects. Modern physics connects ideas about the four laws of symmetry and conservation of energy, momentum, charge, and parity. The word "physics" comes from the Greek word ἡ φύσις, meaning "nature". Physics can also be defined as "that department of knowledge which relates to the order of nature, or, in other words, to the regular succession of events".
+
+One of the most fundamental scientific disciplines, the main goal of physics is to understand how the universe behaves.
+
+Physics is a very old discipline because astronomy, a part of physics, is the oldest natural science. In the past it was a part of natural philosophy with other fields of science, such as chemistry and biology, but during the scientific revolution, these fields became separate, and physics became a distinct field of knowledge.
+
+Physics is very important in the development of new technologies, such as airplanes, televisions, computers and nuclear weapons. Mechanics, a branch of physics, helped develop the mathematical field of calculus.
+
+Astronomy is the oldest natural science. The Sumerians, Ancient Egyptians, and Indus Valley Civilization all understood how the things in the sky moved since before 3000 BC. This is because they worshiped the objects in the sky as gods. Their understanding wasn't scientific, but their observations influenced later astronomy.
+
+A lot of astronomy comes from Mesopotamia, Babylonia, Ancient Egypt, and Ancient Greece. Astronomers from Egypt built monuments that showed how things in the sky moved, and most names for constellations that can be seen from the Northern hemisphere came from Greek astronomers.
+
+Natural philosophy started in Greece around 650 BC when some philosophers rejected superstition and decided things had to happen for a reason. Leucippus and his student Democritus suggested the idea of the atom around this period.
+
+Islamic scholars continued to study Aristotelian physics during the Islamic Golden Age. They also developed an early form of the scientific method.
+
+Scientists like Ibn Sahl, Al-Kindi, Ibn al-Haytham, Al-Farisi and Avicenna worked a lot on optics and vision. In "The Book of Optics", Ibn al-Haytham rejects previous Greek ideas and comes up with a new theory about vision. He studied how light enters the eye and then developed the camera obscura. From this book, European scientists later built eyeglasses, magnifying glasses, telescopes, and cameras.
+
+Physics became a separate field of study after the scientific revolution.
+
+Galileo's experiments helped to create classical physics. And although he did not invent the telescope, he noticed that the stars and planets were not perfect. He also investigated gravity.
+
+Isaac Newton used Galileo's ideas to put together his three laws of motion. He also developed calculus to help understand problems in mechanics, such as how things moved around the Sun.
+
+More energy was needed during the Industrial Revolution and more discoveries were made during this time in many fields of science. The laws of classical physics are good enough to study things that go much slower than the speed of light, and that are not very small. When very fast or very small things are studied, these laws do not work anymore, and because of this, modern physics was developed.
+
+As research progressed, scientists found things that classical mechanics did not explain.
+
+Classical mechanics predicted that the speed of light varied, but experiments showed the speed of light stayed the same. This was predicted by Albert Einstein's theory of special relativity. Einstein predicted that the speed of electromagnetic radiation through empty space would always be the same. His view of space-time replaced the ancient idea that space and time were quite separate things. 
+
+Max Planck came up with quantum mechanics to explain why metal releases electrons when you shine a light at it, and why matter emits radiation. Quantum mechanics applies for very small things like the electrons, protons, and neutrons that make up an atom. People like Werner Heisenberg, Erwin Schrödinger, and Paul Dirac continued to work on quantum mechanics and eventually we got the Standard Model.
+
+Physics is the study of energy and matter in space and time and how they are related to each other. Physicists assume the existence of mass, length, time and electric current and then define (give the meaning of) all other physical quantities in terms of these basic units. Mass, length, time, and electric current are never defined but the standard units used to measure them are always defined. In the International System of Units (abbreviated SI from the French Système International), the kilogram is the basic unit of mass, the metre is the basic unit of length, the second is the basic unit of time, and the ampere is the basic unit of electric current.
+
+In addition to these four units, there are three other ones: the mole, which is the unit of the quantity of matter, the candela which measures the luminous intensity (the power of lighting) and the kelvin, the unit of temperature.
+
+Physics studies how things move, and the forces that make them move. For example, velocity and acceleration are used by physics to show how things move. Also, physicists study the forces of gravity, electricity, magnetism and the forces that hold things together. 
+
+Physics studies very large things, and very small things. For instance, physicists can study stars, planets and galaxies but could also study small pieces of matter, such as atoms and electrons.They may also study sound, light and other waves. As well as that, they could examine energy, heat and radioactivity, and even space and time. 
+Physics not only helps people understand how objects move, but how they change form, how they make noise, how hot or cold they will be, and what they are made of at the smallest level.
+
+Physics is a quantitative science because it is based on measuring with numbers. Mathematics is used in physics to make models that try to guess what will happen in nature. The guesses are compared to the way the real world works. These guesses are made by theoretical physicists, and they are compared to the real world by experimental physicists. Physicists are always working to make their models of the world better.
+
+Physics is the science of matter and how matter interacts. Matter is any physical material in the universe. Everything is made of matter. Physics is used to describe the physical universe around us, and to predict how it will behave. 
+Physics is the science concerned with the discovery and characterization of the universal laws which govern matter, movement and forces, and space and time, and other features of the natural world.
+
+The sweep of physics is broad, from the smallest components of matter and the forces that hold it together, to galaxies and even larger things. There are only four forces that appear to operate over this whole range. However, even these four forces (gravity, electromagnetism, the weak force associated with radioactivity, and the strong force which holds protons and neutrons in an atom together) are believed to be different parts of a single force. 
+
+Physics is mainly focused on the goal of making ever simpler, more general, and more accurate rules that define the character and behavior of matter and space itself. 
+One of the major goals of physics is making theories that apply to everything in the universe. In other words, physics can be viewed as the study of those universal laws which define, at the most basic level possible, the behavior of the physical universe.
+
+Physics uses the scientific method. That is, data from experiments and observations are collected. Theories which attempt to explain these data are produced. Physics uses these theories to not only describe physical phenomena, but to model physical systems and predict how these physical systems will behave. Physicists then compare these predictions to observations or experimental evidence to show whether the theory is right or wrong.
+
+The theories that are well supported by data and are especially simple and general are sometimes called scientific laws. Of course, all theories, including those known as laws, can be replaced by more accurate and more general laws, when a disagreement with data is found.
+
+Physics is more quantitative than most other sciences. That is, many of the observations in physics may be represented in the form of numerical measurements. Most of the theories in physics use mathematics to express their principles. Most of the predictions from these theories are numerical. This is because of the areas which physics has addressed work better with quantitative approaches than other areas. Sciences also tend to become more quantitative with time as they become more highly developed, and physics is one of the oldest sciences.
+
+Classical physics normally includes the fields of mechanics, optics, electricity, magnetism, acoustics and thermodynamics. Modern physics is a term normally used to cover fields which rely on quantum theory, including quantum mechanics, atomic physics, nuclear physics, particle physics and condensed matter physics, as well as the more modern fields of general and special relativity, but these last two are often considered fields of classical physics as they do not rely on quantum theory. Although this difference can be found in older writings, it is of little new interest as quantum effects are now understood to be of importance even in fields that before were called classical.
+
+There are many approaches to studying physics, and many different kinds of activities in physics. There are two main types of activities in physics; the collection of data and the development of theories. 
+
+The data in some subfields of physics is amenable to experiment. For example, condensed matter physics and nuclear physics benefit from the ability to perform experiments. Experimental physics focuses mainly on an empirical approach. Sometimes experiments are done to explore nature, and in other cases experiments are performed to produce data to compare with the predictions of theories. 
+
+Some other fields in physics like astrophysics and geophysics are mostly observational sciences because most of their data has to be collected passively instead of through experimentation. However, observational programs in these fields use many of the same tools and technology that are used in the experimental subfields of physics. 
+Theoretical physics often uses quantitative approaches to develop the theories that attempt to explain the data. In this way, theoretical physicists often use tools from mathematics. Theoretical physics often can involve creating quantitative predictions of physical theories, and comparing these predictions quantitatively with data. Theoretical physics sometimes creates models of physical systems before data is available to test and support these models.
+
+These two main activities in physics, data collection, theory production and testing, use many different skills. This has led to a lot of specialization in physics, and the introduction, development and use of tools from other fields. For example, theoretical physicists use mathematics and numerical analysis and statistics and probability and computer software in their work. Experimental physicists develop instruments and techniques for collecting data, using engineering and computer technology and many other fields of technology. Often the tools from these other areas are not quite appropriate for the needs of physics, and need to be changed or more advanced versions have to be made.
+
+It is frequent for new physics to be discovered if experimental physicists do an experiment that current theories cannot explain, or for theoretical physicists to generate theories which can then be put to the test by experimental physicists.
+
+Experimental physics, engineering and technology are related. Experiments often need specialized tools such as particle accelerators, lasers, and important industrial applications such as transistors and magnetic resonance imaging have come from applied research.
+
+Famous "theoretical physicists" include

@@ -1,0 +1,54 @@
+Writing
+
+Writing is the act of recording language on a visual medium using a set of symbols. The symbols must be known to others, so that the text may be read.
+
+A text may also use other visual systems, such as illustrations and decorations. These are not called writing, but may help the message work. Usually, all educated people in a country use the same writing system to record the same language. To be able to read and write is to be literate.
+
+Writing differs from speech because "the readers need not be present at the time". We can read writing from long ago, and from different parts of the world. Text stores and communicates knowledge. Writing is one of the greatest inventions of the human species. It was invented after people settled in towns, and after agriculture started. Writing dates from about 3,300, which is over 5000 years ago, in the Middle East.
+
+Writing today is usually on paper, though there are ways to print on almost any surface. Television and movie screens can also display writing, and so can computer screens. Many writing materials were invented, long before paper. Clay, papyrus, wood, slate and parchment (prepared animal skins) have all been used. The Romans wrote on waxed tablets with a pointed stylus; this was popular for temporary notes and messages. The later invention of paper by the Chinese was a big step forward.
+
+Writing is traditionally done using a hand tool such as a pencil, a pen, or a brush. More and more, however, text is created by input on a computer keyboard.
+
+There are two schools of thought:
+
+
+Therefore, depending on an author's definition of writing, the term may be used in different ways. With many early systems we do not know what they do convey. The central idea is that "a full writing system must be able to represent anything that might be said in spoken language". From this point of view the invention of the rebus is an essential step.
+
+We can only be sure a sign system is full writing if we can translate the symbols into a modern language. In the case of some ancient scripts we cannot do this.
+
+Writing was invented independently a number of times. The Sumerian, the Ancient Egyptian, the Chinese and the Mayan writings are separate in their invention. All these writing systems started with "pictographs", symbols that stood for things. Then they developed a mixture of methods. Our own alphabetic system is different. It is based on the sounds of spoken language. All alphabets are modified versions of the first one, which originated with the Phoenicians and the Ancient Greeks.
+
+The Sumerians lived in Mesopotamia, between the Tigris and Euphrates rivers. 5000 years ago this was a fertile region and is now mostly in Iraq. The Sumerians developed a form of writing called cuneiform. Triangular marks were pressed into soft clay tablets. After the clay had dried in the sun the tablets were baked. Then they were carried somewhere else for others to read. We know that its first uses were for trade, accounting and administration.
+
+The earliest signs were mostly pictorial, but soon they stood as symbols for objects, ideas and sounds. This writing system was extremely successful, and outlasted the Sumerian empire. It was then used by other civilisations in the Middle East, such as the Old 
+Akkadian, Babylonian, Assyrian, Elamite, Hittite, Old Persian and Ugaritic empires. The last cuneiform inscription was dated as 75. Thus the system had lasted for more than 3000 years. Each version of cuneiform had to be deciphered separately, because all the languages were different. Documents (including stone objects) written in more than one language provided the clues.
+
+This is the most famous of the old forms of writing, or "scripts". It was invented at roughly the same time as cuneiform, yet was quite different in style, and used different materials. Egyptians ended up with three writing systems for the same language. They were:
+
+The writing tools used varied according to the material which was written on. The two cursive scripts were written with reed pens and carbon inks onto papyrus. If the material was cloth, then the writing was done by a brush. Many examples survive. The hieroglyphs were inscribed (carved) into stone (hammer & chisel) or painted onto stone surfaces. Many survive, some with the original colours intact. The key event in the decipherment of hieroglyphic writing was the discovery of the Rosetta Stone. This is a granite slab with the same message written in hieroglyphic, demotic and in Greek. Ancient Greek is well understood, and made possible the interpretation of the other two scripts.
+
+Chinese is the language with the largest number of native speakers. Its history dates back to about 1400. The Chinese writing system is idio-syllabic, a mixed method using characters which may have one or more of these elements:
+Chinese has a huge number of characters: in the region of 50,000. Because of this, printing methods were never really successful in China, despite their early invention. In the 14th century, Wang Tzhen, had sixty thousand wood block characters cut, a huge investment in time and money. He printed 100 copies of a local gazette, and was author of a treatise on agriculture and other technical works. Even with printing machines from Europe in the 19th century, the process was hampered by the huge number of characters, which slowed the "composition" to a snail's pace.
+
+China has eight regional languages that are mutually unintelligible, and many true dialects. The system appears to work mainly because as many as 70% speak Mandarin. Fluency in Chinese reading and writing is undoubtedly difficult to achieve, and this must act as a brake on the drive for literacy. There have been a number of attempts to reform or simplify the system. The most radical in Pinyin, which is a program to replace Chinese characters with an alphabetic system. This was supported by Mao, but faltered after his death.
+
+It seems that the idea of an alphabet–a script based entirely upon sound–arose only once, and has been copied and adapted to suit many different languages. Although no alphabet fits its language perfectly, it is flexible enough to fit any language approximately. It was a unique invention.
+Our alphabet is called the Roman alphabet, as compared with the Cyrillic and other alphabets. All of these come from the ancient Greek alphabet, which dates back to about 1100 to 800. The Greek alphabet was probably developed from the Phoenician script, which appeared somewhat earlier, and had some similar letter-shapes.
+
+The Phoenician language was a Semitic language, often called Canaanite. The Semitic group of languages includes Arabic, Maltese, Hebrew and also Aramaic, the language spoken by Jesus. We do not know much about how the alphabetic idea arose, but the Phoenicians, a trading people, came up with letters which were adapted by the early Greeks to produce their alphabet. The one big difference is that the Phoenician script had no pure vowels. Arabic script has vowels which may be shown by diacritics (small marks above or below the line). The oldest Qu'ran manuscripts had no diacritics. Israeli children today use texts with vowel 'dots' added, to about the third grade.
+
+No ancient script, alphabetic or not, had pure vowels before the Greeks. The Greek alphabet even has two vowels for 'e' and two for 'o', to distinguish between the long and short sounds. It is fairly clear from this that careful thought went into both the Phoenician invention and the Greek adaptation. However, no details survive of either process.
+
+Semitic scripts apparently derive from "Proto-Sinaitic", a script of which only 31 inscriptions (plus 17 doubtful) are known. It is thought by some researchers that the original source of this script was the Egyptian hieratic script. By the late Middle Kingdom (about 1900) hieratic had added some alphabetic signs for representing the consonants of foreign names. Egyptian activity in Sinai was at its height at that time. A similar idea had been suggested many years before.
+
+There are a number of scripts which have never been deciphered, despite much effort. Perhaps the most famous are the script of the Indus Valley civilization, and Etruscan. The Indus River civilisation predates other literate civilisations on the Indian subcontinent, going back to about 2500. Their cities of Mohenjo-Daru and Harappa were well-planned, with good drainage. The script is found on seal stones, terracotta, bronze, bone and ivory. All are brief, and the language is unknown.
+
+The Etruscan language used Greek letter-forms, and is found mainly on Etruscan tombs, from Tuscany through to Venice. They were an empire before the Romans, who defeated them, and absorbed their ideas. All knowledge of their language was lost, except that some of the names on tomb memorials can be read from the Greek letters.
+
+The Tărtăria tablets are three tablets discovered in 1961 in the village of Tărtăria (Hungarian: Alsótatárlaka). This is about from Alba Iulia in Romania. The tablets, dated to around 5300 BC, have symbols in clay: the "Vinča symbols". Some claim they are a yet undeciphered language. If this is so, they would be the earliest known form of writing. In 1908 similar symbols were found during excavations, by Miloje Vasić (1869–1956) in Vinča. This is a suburb of Belgrade (Serbia), some 300 km from Turdaș. Later, more were found in another part of Belgrade. Since 1875 over one hundred and fifty Vinča sites have been found in Serbia alone. Many, including Vinča itself, have not been fully excavated. The culture of the whole area is called the Vinča culture. Although some of these symbols look exactly the same as some letters in Etruscan, Greek, and Aramaic, they are generally regarded as an original, independent development.
+
+It is only in the last 150 years that most people have been able to read and write in Europe and North America. In many other parts of the world this did not happen until the 20th century. Until then, literacy was mainly for clerics, that is, people who had training as priests. Even wealthy people were often illiterate, and used scribes to write for them. The invention of printing came before mass literacy. Before 1500, each book had to be created by hand, so there were few books available compared to the billions in the world today. Mass literacy needed cheap books.
+Even now, there is still widespread illiteracy.
+
+The ordinary use of writing by means of a pen and paper. Can refer to writing for oneself, as in a diary, but mostly it refers to sending letters. Once it was almost the only means of communication between people who were separated. Now, the telephone and e-mail are the most common means of distance communication.

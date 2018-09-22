@@ -1,0 +1,11 @@
+Apple Macintosh
+
+The Apple Macintosh or just “Mac” is a line of personal computers made by the American company Apple Inc. The Macintosh was one of the first computers in which the people could use a mouse for pointing on a screen which had icons. This new way of working with a computer (interface) was known as graphical user interface. It was this feature of the Macintosh that made it so popular.
+
+"See Apple Intel transition."
+
+Macintoshes were different than other personal computers for many years based on their central processor unit (CPU). At the start, Macs used Motorola 68000 chips instead of Intel chips. Later, Macs used PowerPC chips. In 2006, Macs started to use Intel chips. Today, Macs are sold with Intel quad-core i7 chips.
+
+The Mac does not have the Windows operating system installed on it. It has its own range of operating systems, known as macOS. The newest operating system is known as “Sierra". Macs can run both Windows and macOS at the same time with help of a program called “Boot Camp”, which comes on every Mac.
+
+In general, Macintosh computers cost more than other computers of the same size. But people say they have very good quality, which explains why they’re really expensive.

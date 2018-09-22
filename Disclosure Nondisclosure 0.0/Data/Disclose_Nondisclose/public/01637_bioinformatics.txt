@@ -1,0 +1,15 @@
+Bioinformatics
+
+Bioinformatics or Computational biology is the study of large amounts of biological information. Mostly, it focuses on molecules like DNA. It is done mostly with the help of computers.
+
+As species of living things change over time, the DNA contained in their cells change, from evolution. If we can extract the information from living things today, and compare them to each other, we can see which living things are most closely related, much like comparing two editions of a book, the most similar can be thought to be the most closely related in time. Doing this, biologists can construct family trees, or phylogenies. By stitching together all the trees, a grand tree connecting all living things can be made, this is called the "Tree of Life".
+Bioinformatics is integration of mathematical, statistical and computational method to analyze biological, biochemical and biophysical data.
+
+Anything a cell could possibly want is stored in its DNA. When a cell wants to build a protein, it finds the appropriate piece of DNA, makes a copy of it (called RNA), and uses the instructions in the copy to make the protein. 
+
+Proteins are the 'machinery' of a cell. They can perform many functions like transportation, structural support, movement and metabolism. Proteins are made from "amino acids". There are twenty different amino acids that are used to build millions of different protein molecules. 
+
+The principle of bioinformatics is that these molecules can be studied by using computers to analyze the DNA, RNA, and amino acid sequences from which they are created. Because there are so many different molecules, the best way we have of understanding how the entire system works is to use bioinformatics.
+
+Chemists have developed ways to understand the shape and behavior of small molecules, using mathematical analysis. They might use computers (or even just a pencil and paper) to study these molecules. Also, the DNA contained in just one cell of an organism is far too large to be read by any person, and to compare the DNA between two (or more) organisms, be they in the brother and sister, or of a completely different species, requires comparing large amounts of information for small (or large) differences. Computers are far better suited to such comparisons, and computer programmers have worked with biologists to create very very large databases to store all the DNA information that has ever been learned.
+Biochemists today are trying to answer these questions about every single cell in the body:

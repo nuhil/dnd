@@ -1,0 +1,22 @@
+Electrical resistance
+
+The electrical resistance of an electrical conductor is a measure of the difficulty of passing an electric current through that conductor. It explains the relationship between voltage (amount of electrical pressure) and the current (flow of electricity). With more resistance in a circuit, less electricity will flow through the circuit. 
+
+Resistance, discovered by Georg Simon Ohm in 1827, is the ratio between voltage and current. Ohm's law said that the voltage between any two points in a conductor changes directly as the current between the two points, given the temperature remains the same. He described it with the equation:
+
+which models the ratio, where: 
+
+The resistance of a wire increases as it becomes longer and decreases as it becomes wider. (A simple analogy is a road - the more lanes there are, the less traffic there is.) The resistance of a wire with a constant width, therefore, can be calculated as:
+
+where formula_6 is the length of the conductor, measured in meters [m], formula_7 is the cross-sectional area of the conductor measured in square meters [m²], and (Greek: rho) is the electrical resistivity (also called "specific electrical resistance") of the material, measured in ohm-meters (Ω m).
+
+Example:
+Calculate the resistance of copper wire with a radius of 2mm and a length of 5 meters.
+
+Solution:
+
+Because: formula_5
+
+formula_15
+
+Resistors are used in electrical circuits to provide electrical resistance.

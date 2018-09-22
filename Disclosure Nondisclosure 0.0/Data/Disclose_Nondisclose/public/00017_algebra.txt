@@ -1,0 +1,65 @@
+Algebra
+
+Algebra is a part of mathematics (often called math in the United States and maths or numeracy in the United Kingdom ). It uses variables to represent a value that is not yet known. When an equals sign (=) is used, this is called an equation. A very simple equation using a variable is: 2 + 3 = x In this example, x = 5, or it could also be said, "x equals five". This is called "solving for x". 
+
+Besides equations, there are inequalities ("less than" and "greater than"). A special type of equation is called the function. This is often used in making graphs.
+
+Algebra can be used to solve real problems because the rules of algebra work in real life and numbers can be used to represent the values of real things. Physics, engineering and computer programming are areas that use algebra all the time. It is also useful to know in surveying, construction and business, especially accounting.
+
+People who do algebra need to know the rules of numbers and mathematic operations used on numbers, starting with adding, subtracting, multiplying, and dividing. More advanced operations involve exponents, starting with squares and square roots. Interestingly, many of these rules can also be used on the variables.
+
+Algebra was first used to solve equations and inequalities. Two examples are linear equations (the equation of a line, y=mx+b) and quadratic equations, which has variables that are squared (power of two, a number that is multiplied by itself, for example: 2*2, 3*3, x*x). How to factor polynomials is needed for quadratic equations.
+
+Early forms of algebra were developed by the Babylonians and the Greeks. However the word "algebra" is a Latin form of the Arabic word "Al-Jabr" ("casting") and comes from a mathematics book "Al-Maqala fi Hisab-al Jabr wa-al-Muqabilah", ("Essay on the Computation of Casting and Equation") written in the 9th century by a Persian mathematician, Muhammad ibn Mūsā al-Khwārizmī, who was a Muslim born in Khwarizm in Uzbekistan. He flourished under Al-Ma'moun in Baghdad, Iraq through 813-833 AD, and died around 840 AD. The book was brought into Europe and translated into Latin in the 12th century. The book was then given the name 'Algebra'. (The ending of the mathematician's name, al-Khwarizmi, was changed into a word easier to say in Latin, and became the English word "algorithm").
+
+Here is a simple example of an algebra problem:
+
+These are the steps you can use to solve the problem:
+
+
+With practice, algebra can be used when faced with a problem that is too hard to solve any other way. Problems such as building a freeway, designing a cell phone, or finding the cure for a disease all require algebra.
+
+As in most parts of mathematics, adding "z" to "y" (or "y" plus "z") is written as y + z.
+Subtracting "z" from "y" (or "y" minus "z") is written as y − z.
+Dividing "y" by "z" (or "y" over "z": formula_1) is written as y ÷ z or y/z. y/z is more commonly used.
+
+In algebra, multiplying "y" by "z" (or "y" times "z") can be written in 4 ways: y × z, y * z, y·z, or just yz. The multiplication symbol "×" is usually not used, because it looks too much like the letter x, which is often used as a variable. Also, when multiplying a larger expression, parentheses can be used: y (z+1).
+
+When we multiply a number and a letter in algebra, we write the number in front of the letter: 5 × y = 5y. When the number is 1, then the 1 is not written because 1 times any number is that number (1 × "y" = "y") and so it is not needed.
+
+An important part of algebra is the study of functions, since functions often appear in equations that we are trying to solve. A function is like a box you can put a number or numbers into and get a certain number out. When using functions, graphs can be powerful tools in helping us to study the solutions to equations. 
+
+A graph is a picture that shows all the values of the variables that make the equation or inequality true. Usually this is easy to make when there are only one or two variables. The graph is often a line, and if the line does not bend or go straight up-and-down it can be described by the basic formula y = mx + b. The variable "b" is the y-intercept of the graph (where the line crosses the vertical axis) and "m" is the slope or steepness of the line. This formula applies to the coordinates of a graph, where each point on the line is written (x, y). 
+
+In some math problems like the equation for a line, there can be more than one variable ("x" and "y" in this case). To find points on the line, one variable is changed. The variable that is changed is called the "independent" variable. Then the math is done to make a number. The number that is made is called the "dependent" variable. Most of the time the independent variable is written as "x" and the dependent variable is written as "y", for example, in y = 3x + 1. This is often put on a graph, using an "x" axis (going left and right) and a "y" axis (going up and down). It can also be written in function form: f(x) = 3x + 1. So in this example, we could put in 5 for "x" and get y = 16. Put in 2 for "x" would get y=7. And 0 for "x" would get y=1. So there would be a line going thru the points (5,16), (2,7), and (0,1) as seen in the graph to the right.
+
+If x has a power of 1, it is a straight line. If it is squared or some other power, it will be curved. If it uses an inequality ("<" or ">"), then usually part of the graph is shaded, either above or below the line.
+
+In algebra, there are a few rules that can be used for further understanding of equations. These are called the rules of algebra. While these rules may seem senseless or obvious, it is wise to understand that these properties do not hold throughout all branches of mathematics. Therefore, it will be useful to know how these axiomatic rules are declared, before taking them for granted. Before going on to the rules, reflect on two definitions that will be given.
+
+'Commutative' means that a function has the same result if the numbers are swapped around. In other words, the order of the terms in an equation do not matter. When the operator of two terms is an addition, the 'commutative property of addition' is applicable. In algebraic terms, this gives formula_6.
+
+Note that this does not apply for subtraction! (i.e. formula_7)
+
+When the operator of two terms is an multiplication, the 'commutative property of multiplication' is applicable. In algebraic terms, this gives formula_8.
+
+Note that this does not apply for division! (i.e. formula_9, when formula_10)
+
+'Associative' refers to the grouping of numbers. The associative property of addition implies that, when adding three or more terms, it doesn't matter how these terms are grouped. Algebraically, this gives formula_11. Note that this does not hold for subtraction, e.g. formula_12 (see the distributive property).
+
+The associative property of multiplication implies that, when multiplying three or more terms, it doesn't matter how these terms are grouped. Algebraically, this gives formula_13. Note that this does not hold for division, e.g. formula_14.
+
+The distributive property states that the multiplication of a number by another term can be distributed. For instance: formula_15. (Do "not "confuse this with the associative properties! For instance, formula_16.)
+
+'Identity' refers to the property of a number that it is equal to itself. In other words, there exists an operation of two numbers so that it equals the variable of the sum. The additive identity property states that the sum of any number and 0 is that number: formula_17. This also holds for subtraction: formula_18.
+
+The multiplicative identity property states that the product of any number and 1 is that number: formula_19. This also holds for division: formula_20.
+
+The additive inverse property is somewhat like the opposite of the additive identity property. When an operation is the sum of a number and its opposite, and it equals 0, that operation is a valid algebraic operation. Algebraically, it states the following: formula_21. Additive inverse of 1 is (-1).
+
+The multiplicative inverse property entails that when an operation is the product of a number and its reciprocal, and it equals 1, that operation is a valid algebraic operation. Algebraically, it states the following: formula_22. Multiplicative inverse of 2 is 1/2.
+
+In addition to "elementary algebra", or basic algebra, there are advanced forms of algebra, taught in colleges and universities, such as abstract algebra, linear algebra, and universal algebra. 
+This includes how to use a matrix to solve many linear equations at once. "Abstract algebra" is the study of things that are found in equations, going beyond numbers to the more abstract with groups of numbers.
+
+Many math problems are about physics and engineering. In many of these physics problems time is a variable. Time uses the letter "t". Using the basic ideas in algebra can help reduce a math problem to its simplest form making it easier to solve difficult problems. Energy is "e", force is "f", mass is "m", acceleration is "a" and speed of light is sometimes "c". This is used in some famous equations, like f = ma and e=mc^2 (although more complex math beyond algebra was needed to come up with that last equation).

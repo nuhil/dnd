@@ -1,0 +1,19 @@
+Inbreeding
+
+Inbreeding is a term in genetics, meaning the crossing (mating) of closely related animals or plants. Self-fertilisation in plants is the most extreme kind of inbreeding. It is quite widespread in plants which carry both male and female flowers on the same plant. Inbreeding is the opposite of outcrossing, which is the mating of unrelated members of the same species.
+
+Other terms are inbred strain, a group of organisms so inbred that they have little or no genetic variation, and inbreeding depression, which is the decreased fitness (usually lack of fertility and early illness and death) brought about by inbreeding.
+
+For human beings, inbreeding is a very destructive trait, and almost all cultures in the world have attempted to restrict inbreeding e.g. by prohibiting marriages between first cousins. The ultimate form of inbreeding is called incest. It is mating with blood relatives within the nuclear family.
+
+Loss of genetic variation means that many gene loci that were heterozygous are now homozygous. The result of both genes at a locus being mutant can be serious. 
+
+The most intense form of inbreeding is the self-fertilisation in an hermaphrodite, in which the proportion of heterozygotes is halved in each generation. Aa x Aa (100%) gives 1 AA: 2 Aa; 1 aa (50%), and so on. A similar effect takes twice as long with brother-sister mating, and longer still with mating in very small isolated groups. The latter situation is famous because Sewall Wright did his calculations for just such groups, and he called the process genetic drift. Genetic drift and inbreeding are closely related concepts.
+
+The degree of inbreeding can be measured in various ways. A simple test for mammals is the exchange of skin grafts. If the grafts are not rejected, the animals must be nearly identical genetically. Skin grafts can be successfully exchanged between rats in standard laboratory strains, and between cheetahs caught in the wild.
+
+Why is it that inbreeding brings about a loss of viability? There are two answers, and both seem to be true. The first is that a group with little genetic variation is vulnerable to environmental challenges: infections, sudden climate events, predators. Small groups are vulnerable to chance events in any case, but with no heritable variability they are even more vulnerable.
+
+The second explanation is genetic. Some of the homozygous genes will be "deleterious recessives" which would normally be shielded by a dominant allele. Also, there are some loci where the heterozygote is inherently fitter than either homozygote. If so, inbreeding will automatically cause a loss of vigour.
+
+Many plant species do self-pollination in the wild, but the great majority have occasional outcrossing. This provides them with sufficient variety for their survival.

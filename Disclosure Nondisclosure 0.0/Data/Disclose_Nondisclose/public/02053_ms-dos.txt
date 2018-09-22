@@ -1,0 +1,7 @@
+MS-DOS
+
+MS-DOS is a computer operating system by Microsoft Corporation. It stands for "Microsoft Disk Operating System", and came from an operating system Microsoft bought called QDOS, or the "Quick and Dirty Operating System." It was popularly used in PCs before an operating system called Microsoft Windows came out and still is in some places today. OS/2 was originally made by a joint agreement with companies that are called Microsoft and IBM. OS/2 was maintained by IBM until 2006. OS/2 was supposed to replace MS-DOS, but that replacement did not succeed. MS-DOS was the framework behind Windows operating systems until an operating system known as Windows XP.
+
+MS-DOS is a text-based operating system, meaning that a user works with a keyboard to input data and receives output in plain text. Later on, MS-DOS often had programs using a mouse and graphics to make work more simple and quick. (Some people still believe that working without graphics is really more efficient.) It is called a disk operating system because it was originally made to be loaded into a computer's memory with a floppy disk each time the computer is started (booted) up.
+
+Many books have been written on how to use MS-DOS. One of the easiest to understand is "MS-DOS for Dummies", by Dan Gookin, the first book in the "For Dummies" series of easier to follow instruction books.

@@ -1,0 +1,43 @@
+HIV
+
+Human immunodeficiency virus (HIV) is a type of virus called a retrovirus, which infects the human immune system (the system in the body which is in charge of fighting off illness). HIV may cause AIDS (a collection of diseases and symptoms) by eventually killing the white blood cells, which a healthy body uses to fight off disease.
+
+It is possible that a person can get infected with HIV if any body liquid with the virus gets into their body. The body liquids that carry HIV are blood, semen, liquid from the vagina, and breast milk. The liquids can go into the body through injured skin. The liquids can also enter through the mouth, eyes, nose, vagina, anus, or penis. However, though HIV might enter the body through any of these places, when people get HIV by having sex, the virus usually enters the body through the vagina or anus.
+
+There are some common ways to get HIV:
+
+A person cannot get infected with HIV from non-sexual touching, like a hug or handshake, or touching someone else's saliva. A person cannot get HIV from an insect bite, a cough, or a sneeze. People also cannot get HIV from touching light switches, using toilets, or drinking from the same glass as a person with HIV.
+
+<br>
+
+HIV causes a person to become more prone to illness, so infected people need treatment options. However, there is no cure for HIV. To help ease negative symptoms, drugs called anti-retroviral therapy (ART) are available. This treatment is also called high active anti-retroviral therapy (HAART). HAART treatment begins with one non-nucleoside reverse transcriptase inhibitor (NNRTI) and two nucleoside analogue reverse transcriptase inhibitors (NRTIs). The NRTI drug could be named zidovudine (AZT), tenofovir (TDF), andlamivudine (3TC), or emtricitabine (FTC).
+
+These drugs slow the progression of the HIV virus in the body. Usually, these treatments consist of a combination of three or more drugs, and each drug performs a different job in fighting the virus. In general, HAART prevents the HIV from multiplying and destroying CD4 cells. CD4 cells are necessary to help protect the body from infections and cancer. Since the HIV virus destroys CD4 cells, it causes people with HIV to be more prone to illness.
+
+It is recommended to start HAART if a person has HIV and has a CD4 cell count of less than or equal to 350 cells/mm3. This number can be determined by a doctor. A person’s age, sex, and other infections determine which treatment he or she should take. These medication regimens can help HIV-infected people live longer, healthier lives, and can also help prevent the HIV from advancing to AIDS.
+
+There has been controversy surrounding when the correct time to start therapy should be after a person discovers that he or she has HIV. Recently, the answer has been that earlier treatment is recommended. This is because, first, effective therapy can prevent non-AIDS-related deaths. Second, therapy can prevent harm to a person’s immune system. Third, therapy can help prevent transmission of HIV to others, and can therefore reduce HIV prevalence overall. Although there are some negative side effects of antiretroviral medications, the benefits of therapy usually outweigh the negative effects.
+
+Patients on HAART have reported significant improvements in physical health, emotional health, mental health, and daily function compared to HIV-positive patients not yet on treatment. Most research has occurred in developing countries, and little research has been done on the impacts of ART on household wellbeing.
+Although HAART can be an effective means to treating HIV, there can be many negative side effects. Negative side effects can vary by drug, by ethnicity, and by drug interactions in the body. The following list contains the most common and serious negative side effects associated with HAART medications to treat HIV.
+
+Nucleoside Reverse Transcriptase Inhibitors (NRTIs)
+
+Nonnucleoside Reverse Transcriptase Inhibitors (NNRTIs)
+
+Protease Inhibitors (PIs)
+
+Fusion Inhibitors
+Chemokine Coreceptor Antagonists
+
+Integrase Inhibitors
+
+Pharmacokinetic Enhancers
+
+Many people living with HIV have tried using alternative treatment methods, known as complementary and alternative medicine (CAM). Some types of CAM include stress management, natural health products, massage/therapeutic touch, acupuncture, and homeopathy. Stress management can increase quality of life for a person with HIV. Even with little evidence of its effectiveness, many people chose to try CAM because of the many negative side effects associated with HAART and the few negative side effects associated with CAM. Some HIV-infected people also try herbal medicines to treat HIV, but there has been no evidence showing any positive outcomes with the use of herbal remedies.
+
+Another type of alternative therapy for treating HIV is micronutrient supplementation. Micronutrients are vitamins and minerals, so these supplements would be in the form of a general daily multivitamin. These supplements have been proven to help treat HIV because HIV can cause micronutrient deficiencies, so the supplements can help replenish these needed vitamins and minerals. Although the supplements may not help ease all negative symptoms, they offer some benefits and are safe for HIV-infected patients. Supplements are also safe for HIV-infected pregnant women and their children. Specifically, vitamin A and zinc have shown positive health effects. There are no major negative side effects of vitamin and mineral supplements.
+
+Alternative therapies can help to reduce symptoms of diseases like HIV, but do not cure the disease, or stop the disease from spreading to other people.
+
+"PREP" or "PrEP" is "pre-exposure prophylaxis". This means a person takes a drug before having risky sex. The drug 'Truvada' is a combination of two different anti-viral treatments: "tenofovir" and "emtricitabine". Truvada is very expensive, and not available on the UK's National Health Service.

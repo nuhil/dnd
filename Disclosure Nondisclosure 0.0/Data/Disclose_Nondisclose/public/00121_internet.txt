@@ -1,0 +1,17 @@
+Internet
+
+The internet is the biggest world-wide communication network of computers. It has millions of smaller domestic, academic, business, and government networks, which together carry many different kinds of information. The term is sometimes abbreviated as "the net". The World Wide Web is one of its biggest services. It is used by a few billion people all over the world.
+
+The internet was developed in the United States by the "United States Department of Defense Advanced Research Projects Agency" (DARPA). It was first connected in October, 1969, and was called ARPANET. The World Wide Web was created at CERN in Switzerland in 1990 by a British (UK) man named Tim Berners-Lee.
+
+Today, people can pay money to access the internet from internet service providers. Some services on the Internet cost nothing to use. Sometimes people who offer these free services use advertising to make money from them.
+
+The internet is used for many things, such as electronic mail, online chat, file transfer, and the interlinked web pages and other documents of the World Wide Web.
+
+The most used service on the internet is the World Wide Web (which is also called the "Web"). The Web contains websites, including blogs and wikis like Wikipedia. Webpages on the internet can be seen and read by anyone (unless the page needs a password, or it is blocked).
+
+The second biggest use of the internet is to send and receive e-mail. E-mail is private and goes from one user to another. Instant messaging (such as AIM or ICQ) is similar to email, but allows two or more people to chat to each other much faster.
+
+Some governments think the Internet is a bad thing, and block all or part of it. For example, the Chinese government thinks that Wikipedia is bad. Many times no one in China can read it or add to it. Some parents block parts of the internet they think are bad for children to see. Well-known examples of the whole internet being blocked are in North Korea and Myanmar.
+
+The internet can also be dangerous. People sometimes use it to spread lies or other people's secrets or dangerously bad advice. When someone sends information through the internet, sometimes other people can read it even when they are not supposed to. For example, Facebook has had some problems with privacy settings. A person can post information on a website, but this is often a bad idea unless the person is very sure of what they are doing. One way to check for a secure website is to make sure the URL starts with <nowiki>https://</nowiki> instead of <nowiki>http://</nowiki>. This means it is secured so other people cannot read information while it is being sent. However, it does not mean the website will do things to keep it safe.

@@ -1,0 +1,16 @@
+Light-emitting diode
+
+A light-emitting diode (LED) is a semiconductor device that produces light from electricity. LEDs last a long time and do not break easily (compared to incandescent lightbulbs). They can produce many different colors. They are efficient - most of the energy makes light, not heat. 
+
+An LED is a type of diode that makes one color of light when electricity is sent through it in the expected direction (electrically biased in the forward direction). This effect is a kind of electroluminescence. 
+
+The color of the light depends on the chemical composition of the semiconducting material used, and can be near-ultraviolet, visible or infrared. The color affects how much electricity is used by the LED. A white LED has either two or three LEDs inside, of different colors. Some white LEDs have one single-color LED inside, combined with a phosphor that converts that single color to white.
+
+LEDs are used in many places. They are the colored indicator lights on many electronic devices, they can be used to make bright advertising signs, brake lights on a car, in TVs and more recently, light bulbs for the home. White LEDs bright enough to illuminate rooms are usually more expensive than regular lightbulbs but they last longer and burn less electricity.
+
+LEDs, which make their own light, should not be confused with LCDs, which block light. Some displays, however, mix the two technologies, using LEDs to backlight the LCD.
+
+Todays LEDs can also base on surface-mount technology and may be very small.
+
+
+Nikolay Zheludev 2007. The life and times of the LED – a 100-year history. "Nature Photonics". 1, 189–192. . is a full-text version.

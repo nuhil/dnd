@@ -1,0 +1,14 @@
+Neutrino
+
+Neutrinos are a type of elementary particle that exist all across the universe. Physicists study these particles, but they are hard to find because they have a very small chance of interacting with regular matter. (For example, they pass through the whole earth without touching any other particles). Neutrinos travel near the speed of light.
+
+We used to think that they have no mass, but a few years ago physicists found that they have a very small mass, much lighter than electrons. By finding neutrinos, we can learn about the structure and the history of the universe.
+
+Neutrinos are very difficult to detect. They are very unlikely to collide (interact, in this case) with other particles as they travel through space or through matter. Unlike negatively charged electrons, neutrinos have no charge (neutrino meaning small neutral particle). This means that they are unaffected by the electromagnetic force, too. Detectors built to find them only see 10-15 a year. 
+
+They are commonly generated in particle accelerators, the sun, nuclear reactions, and other stars. They are generated whenever there is a nuclear reaction in the form of Beta decay. This process starts off with one neutron, and ends with one electron, one proton, and one neutrino.
+
+The 3 types of neutrinos are named after the previous three leptons. There is the electron neutrino (v), the muon neutrino (v), and the tau neutrino (v). Each neutrino has an antiparticle, called an antineutrino. Therefore, there is an electron antineutrino, a muon antineutrino, and tau antineutrino.
+
+The three types of neutrinos change into each other over time, so an electron neutrino could turn into a tau neutrino and then back again. This is called neutrino oscillation. This was first suggested as there were only a third of the number of electron neutrinos coming from the sun as theories of the time said there should be.
+Most neutrinos passing through the Earth come from the Sun. About 65 billion () solar neutrinos per second pass through every square centimeter perpendicular to the direction of the Sun in the region of the Earth.

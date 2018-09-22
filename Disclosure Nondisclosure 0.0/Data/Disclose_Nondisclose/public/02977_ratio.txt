@@ -1,0 +1,7 @@
+Ratio
+
+A ratio between two or more quantities is a way of measuring their sizes compared to each other. 
+
+For example, if a school has 20 teachers and 500 pupils then the ratio of teachers to students is written as 20:500 (read as "20 to 500") also you can simplify it and divide them by 20 which equals to 1:25. For another example, if a cake mix asks for 100 grams of flour, 300 grams of butter and 25 grams of sugar then the ratio of flour to butter to sugar is written as 100:300:25 (read as "100 to 300 to 25"). 
+
+Ratios can be simplified. In the school example, there were 20 teachers to 500 pupils. If we divided the children up into equally sized classes then each teacher's class would have 25 pupils. That means that for each teacher there are 25 pupils, i.e. the teacher to pupil ratio is 1:25. Another way to go from the ratio 20:500 to the ratio 1:25 is to simply divide both numbers in 20:500 by 20. Note: The ratio 20:500 is the same as 1:25. They are just two ways of writing the same thing. Just like there are different ways of writing a fraction (for example ), there are many ways of writing a ratio. the first term is called antecedent and the second term is called consequent.ratio has no units

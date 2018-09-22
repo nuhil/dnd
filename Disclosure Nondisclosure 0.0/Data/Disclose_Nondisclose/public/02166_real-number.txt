@@ -1,0 +1,23 @@
+Real number
+
+A real number is a rational or irrational number. Usually when people say "number" they usually mean "real number". The official symbol for real numbers is a bold R or a blackboard bold formula_1.
+
+Some real numbers are called positive. A positive number is "bigger than zero". You can think of the real numbers as an infinitely long ruler. There is a mark for zero and every other number, in order of size. Unlike a ruler, there are numbers below zero. These are called negative real numbers. Negative numbers are "smaller than zero". They are like a mirror image of the positive numbers, except they are given minus signs (–) so that they are labeled differently from the positive numbers.
+
+There are infinitely many real numbers. There is no smallest or biggest real number. No matter how many real numbers are counted, there are always more which need to be counted. There are no empty spaces between real numbers. This means that if two different real numbers are taken, there will always be a third real number between them, no matter how close together the first two numbers are.
+
+If a positive number is added to another positive number, that number gets bigger. Zero is also a real number. If zero is added to a number, that number does not change. If a negative number is added to another number, that number gets smaller.
+
+The real numbers are uncountable. That means that there is no way to put all the real numbers into a sequence. Any sequence of real numbers will miss out a real number, even if the sequence is infinite. This makes the real numbers special. Even though there are infinitely many real numbers and infinitely many integers, we can say that there are "more" real numbers than integers because the integers are "countable" and the real numbers are "uncountable".
+
+Some simpler number systems are inside the real numbers. For example, the rational numbers and integers are all in the real numbers. There are also more complicated number systems than the real numbers, such as the complex numbers. Every real number is a complex number, but not every complex number is a real number. 
+
+There are different types of real numbers. Sometimes all the real numbers are not talked about at once. Sometimes only special, smaller sets of them are talked about. These sets have special names. They are:
+
+The number 0 ("zero") is special. Sometimes it is taken as part of the subset to be considered, and at other times it is not. It is the Identity element for addition and subtraction. That means that adding or subtracting zero does not change the original number. For multiplication and division, the identity element is 1.
+One real number that is not rational is formula_2. This number is irrational. If a square is drawn with sides that are one unit long, the length of the line between its opposite corners will be formula_2.
+
+The number formula_2 is not rational. Here is the proof.
+
+
+It is not true that formula_2 is a rational number. So formula_2 is irrational.

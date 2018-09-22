@@ -1,0 +1,27 @@
+Standard Model
+
+The Standard Model (SM) of physics is a theory of the elementary particles, which are either fermions or bosons. It also explains three of the four basic forces of nature. The four fundamental forces are: gravity, electromagnetism, the weak force, and the strong force. Gravity is the one the model does not explain.
+
+The model uses the parts of physics called quantum mechanics and special relativity, and the ideas of physical field and symmetry breaking. Some of the mathematics of the SM is group theory, and also as equations which have biggest and smallest points, called Lagrangians and Hamiltonians. 
+Fermions are particles that join together to make up all "matter" we see. Examples of groups of fermions are the proton and the neutron. Fermions have properties, such as charge and mass, which can be seen in everyday life. They also have other properties, such as spin, weak charge, hypercharge, and color charge, whose effects do not usually appear in everyday life. These properties are given numbers called quantum numbers. 
+
+Fermions are particles whose spin numbers equal an odd, positive number times one half: 1/2, 3/2, 5/2, etc. We say that fermions have "half integer spin."
+
+An important fact about fermions is that they follow a rule called the Pauli exclusion principle. This rule says that no two fermions can be in the same "place" at the same time, because no two fermions in an atom can have the same quantum numbers at the same time. Fermions also obey a theory called Fermi-Dirac statistics. The word "fermion" honors the physicist Enrico Fermi.
+
+There are 12 different types of fermions. Each type is called a "flavor." Their names are:
+
+
+Quarks are grouped into three pairs. Each pair is called a "generation." The first quark in each pair has charge 2/3, and the second quark has charge -1/3. The three kinds of neutrino have a charge of 0. The electron, muon, and tau have charge -1.
+Matter is made of atoms, and atoms are made of electrons, protons, and neutrons. Protons and neutrons are made of up and down quarks. You can find one lepton by itself, but you can never find quarks alone. This is because quarks are held together by the color force.
+
+Bosons are the second type of elementary particle in the standard model. All bosons have an integer spin (1, 2, 3, etc..) so many of them can be in the same place at the same time. There are two types of bosons, gauge bosons and the Higgs boson. Gauge bosons are what make the fundamental forces of nature possible. (We are not yet sure if gravity works through a gauge boson.) Every force that acts on fermions happens because gauge bosons are moving between the fermions, carrying the force. Bosons follow a theory called Bose-Einstein statistics. The word "boson" honors the Indian physicist Satyendra Nath Bose.
+
+The standard model says that there are:
+These particles have all been seen either in nature or in the laboratory. The model also predicts that there is a Higgs boson. The model says that fermions have mass (they are not just pure energy) because Higgs bosons travel back and forth between them. The Higgs boson is believed to have been discovered on July 4th, 2012. It is the particle that gives mass to other particles.
+
+There are four basic known forces of nature. These forces affect fermions, and are carried by bosons traveling between those fermions. The standard model explains three of these four forces.
+
+The strong and weak forces are only seen inside the nucleus of an atom. They only work over very tiny distances: distances that are about as far as a proton is wide. The electromagnetic force and gravity work over any distance, but the strength of these forces goes down as the affected objects get farther apart. The force goes down with the square of the distance between the affected objects: for example, if two objects become twice as far away from each other, the force of gravity between them becomes four times less strong (2=4).
+
+The standard model falls short of being a theory of everything. It does not include the full theory of gravitation as described by general relativity, or account for the accelerating expansion of the universe (as possibly described by dark energy). The model does not contain any dark matter particle that has all the properties got from observational cosmology. The SM is believed to be theoretically self-consistent. It has demonstrated huge and continued successes in experimental predictions, but it does leave some things unexplained.

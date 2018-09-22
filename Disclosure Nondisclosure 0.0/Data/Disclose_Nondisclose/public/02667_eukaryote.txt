@@ -1,0 +1,36 @@
+Eukaryote
+
+A eukaryote is an organism with complex cells, or a single cell with a complex structures. In these cells the genetic material is organized into chromosomes in the cell nucleus. 
+
+Animals, plants, algae and fungi are all eukaryotes. There are also eukaryotes amongst single-celled protists. In contrast, simpler organisms, such as bacteria and archaea, do not have nuclei and other complex cell structures. Such organisms are called prokaryotes. 
+
+The eukaryotes are often treated as a superkingdom, or domain. 
+
+Eukaryotes evolved in the Proterozoic eon. The oldest known probable eukaryote is "Grypania", a coiled, unbranched filament up to 30mm long. The oldest "Grypania" fossils come from an iron mine near Negaunee, Michigan. The fossils were originally dated as 2100 million years ago, but later research showed the date as about 1874 million years ago. "Grypania" lasted into the Mesoproterozoic era. 
+
+Another ancient group is the acritarchs, believed to be the cysts or reproductive stages of algal plankton. They are found 1400 million years ago, in the Mesoproterozoic era.
+
+The classification of the Eukaryota is under active discussion, and several taxonomies have been proposed. All modern versions have five kingdoms, but disagree about which groups go into each kingdom.
+
+Eukaryotic cells are usually much bigger than prokaryotes. They can be up to 10 times bigger. Eukaryote cells have many different internal membranes and structures, called organelles. They also have a cytoskeleton. The cytoskeleton is made up of microtubules and microfilaments. Those parts are very important in the cell's shape. Eukaryotic DNA is put in bundles called chromosomes, which are separated by a microtubular spindle during cell division. Most eukaryotes have some sort of sexual reproduction through fertilisation, which prokaryotes do not use. 
+
+Prokaryotes do not have sexes, but they can pass DNA to other bacteria. Their cell division is asexual. Bacterial conjugation is when bacteria give each DNA by touching each other or making something like a bridge to go between them. 
+
+Eukaryotes have sets of linear chromosomes located in the nucleus and the number of chromosomes is usually typical for each species.
+
+In eukaryotic cells, there are many things with membranes around them. All of them together are called the endomembrane system. Simple bags, called vesicles or vacuoles, are sometimes made by budding off other membranes, just like how children make bubbles with their toys. Many cells take in food and other things using something called endocytosis. In endocytosis, the membrane closest to the outside bends inwards and then pinches off to make a vesicle. Many other organelles that have membranes probably started off as vesicles.
+
+The nucleus is surrounded by two membranes membrane that has holes in it so things can go in and out. The nuclear envelope has things sticking out of it that look like tubes and sheets. These are called the endoplasmic reticulum which is often shortened to ER. The ER is works with moving proteins around and allowing them to mature. 
+
+The ER has two parts, the rough ER and the smooth ER. The rough ER has ribosomes attached to it. The proteins made by the ribosomes attached to the rough ER go to the inside the rough ER, called the lumen. After that, they usually go into vesicles, which grow and pinch off from the smooth ER. In most eukaryotes, the vesicles with proteins inside fuse with piles of flattened vesicles called the Golgi bodies, where the proteins inside are changed again.
+
+Vesicles are sometimes changed so they can do one thing very well. This is called specialization, or differentiation. For example, lysosomes have enzymes inside them that break down the food the comes from food vacuoles, and peroxisomes have enzymes that break down peroxide, a poison, so it is not poisonous anymore. 
+
+Many protozoa have contractile vacuoles, which are vacuoles that can fuse or pinch off from the outer membrane. Contractile vesicles are often used to get and get rid of unneeded water. Extrusomes shoot out stuff that make predators go away or catch food. In multicellular organisms, hormones are often made in vesicles. In the complicated plants, most of the inside of a plant cell is taken up by a central vacuole. That central vacuole is the main thing that keeps osmotic pressure so the cell can hold its shape.
+
+Because the cell organelles of eukaryotes have different (polyphyletic) origins, the question arises as to whether the group is a unified clade or not. It is certain that the protists are not. Cell organelles are specialised units which carry out well-defined functions, like mitochondria and plastids. It is fairly clear now that all or most of these organelles have their origin in once-independent prokaryotes (bacteria or archaea), and that the eukaryote cell is a 'community of micro-organisms' working together in 'a marriage of convenience'. The first such events took place between ancient bacteria to produce the double-membrane class known as gram-negative bacteria. Since the gram-negative bacteria include the cyanobacteria, this was the first of several such events in the history of the eukaryotes.
+
+"Protista" is a group of different single-celled organisms. More accurate taxonomies have been proposed, but scientists are still discussing them. For this reason, Protista is still useful for talking about these organisms. One modern scheme for the classification of the Eukarya is as follows: 
+However, in 2005, doubts were expressed as to whether some of these supergroups were monophyletic, particularly the Chromalveolata, and a review in 2006 noted the lack of evidence for several of the supposed six supergroups.
+
+The Eukarya may only be unified in the sense that the cells are a community derived from bacteria and archaea; opinions vary. Like the Protista, the Eukarya may be a polyphyletic assembly, though a useful one. However, as mentioned above, all branches of the Eukarya have sexual reproduction. That, and the general organisation of the nucleus, are the defining features. These two points are the main evidence for monophyletic origin.

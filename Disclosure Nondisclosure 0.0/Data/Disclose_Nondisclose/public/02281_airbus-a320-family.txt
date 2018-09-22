@@ -1,0 +1,32 @@
+Airbus A320 family
+
+The Airbus A320 family is a family of jet airliners. It only has two rows of seats, which means it is a narrow-body plane. The family is made by Airbus and it is made up of the A318, A319, A320 and A321, as well as the ACJ business jet. The A320 family is made in Toulouse, France, and Hamburg, Germany. Since 2009, a plant in Tianjin in the People's Republic of China has also been making aircraft for Chinese airlines. In June 2012, Airbus said that it would start making some A319, A320, and A321 planes in Mobile, Alabama. The planes in the family can hold up to 220 passengers and they have a range of . The range depends on the model.
+
+The first plane in the A320 family was the A320, which was launched in March 1984. It first flew on 22 February 1987 and the first A320 was delivered in 1988. The family got bigger over time, and there are now three other aircraft in the family: the A321 (first delivered 1994), the A319 (1996) and the A318 (2003). The A320 was the first airliner to have fly-by-wire flight control systems. It was also the first commercial airliner to have side-stick controls. (A side-stick is a small joystick which is used to fly the plane instead of a yoke.)
+
+On 1 December 2010, Airbus announced a new version of the plane, called the A320neo. With the A320neo, new engines will be used (the CFM International LEAP-X and the Pratt & Whitney PW1000G) and some improvements have been made to the outside of the plane. Winglets have also been added, which Airbus calls "Sharklets". The A320neo will use 15% less fuel than the current A320. Virgin America is the A320neo's launch customer. As of 31 December 2011, 1,196 A320neo aircraft have been ordered by 21 airlines, which makes it the fastest-selling commercial aircraft in history.
+
+As of June 2013, 5,635 Airbus A320 family aircraft have been delivered, and 5,443 of these are still being used. As well as this, 4,014 planes are on order. The A320 family's main rivals are the Boeing 737, 717, 757 and the McDonnell Douglas MD-80.
+
+The A320 was the world's first commercial jet to use a small joystick, also called a "sidestick", to fly it instead of a normal yoke (a steering-wheel like device). This matched the new digital 'fly-by-wire' system, the first use of this in a civilian aircraft, which makes the A320 much easier and safer to fly.
+
+The A320 also has a full "glass-cockpit", where most instruments in the cockpit (the front part of the plane where the pilot is) have been replaced by television screens. Most of the technology first used on the A320 has been used in other Airbus aircraft made afterwards. Other manufacturers, like Boeing, have also used much of the technology like a glass-cockpit and fly-by-wire in the Boeing 777.
+
+The A319, A320 and A321 have engines made by two different companies; International Aero Engines (IAE) supply the V2500 and CFM International provide the CFM56. Over 54% of A320s in the air today have CFM engines.
+
+The significantly smaller A318 has either Pratt and Whitney PW6000 engines or CFM56-5. The PW6000 was not as good as expected and this may have reduced the number of sales; several airlines cancelled their orders before the more efficient CFM engine arrived.
+
+The A320 has been shortened to produce the A319 and stretched to produce the A321. Recently it was shortened even more to make the A318. However this version has not sold as well and the only large operator is Frontier Airlines.
+
+These different versions are known as "A320 derivatives". When talking about all of them, they are known as the "A320 family" or "A32x".
+
+Changes in size are done by removing or adding sections of fuselage (the part of the aircraft passengers sit in) and adjusting the power of the engines. Airbus try to keep the airplanes the same where possible, to reduce operating costs.
+
+Pilots only need one licence (called a type rating) to fly all A320 derivatives.
+
+The A320 has been very reliable in service. Many early problems were caused by pilots not being use to the new "glass cockpit" and "fly-by-wire", but these no longer happen. In recent years, the A320 has had a number of problems involving its front undercarriage. The following accidents are some of those which have occurred since 1988:
+
+
+Seven incidents of nose gear malfunction, including JetBlue Airways Flight 292.
+
+This information comes from: Airbus.

@@ -1,0 +1,19 @@
+Mercalli intensity scale
+
+The Mercalli intensity scale (or more precisely the Modified Mercalli intensity scale) is a scale to measure the intensity of earthquakes. Unlike with the Richter scale, the Mercalli scale does not take into account energy of an earthquake directly. Rather, they classify earthquakes by the effects they have (and the destruction they cause). When there is little damage, the scale describes how people felt the earthquake, or how many people felt it.
+
+Very often, non-geologists use this scale, because it is easier for people to describe what damage an earthquake caused, than to do calculations to get a value on the Richter scale.
+
+Values range from I - Instrumental to XII - Catastrophic.
+
+Giuseppe Mercalli (1850-1914) originally developed the scale, with ten levels. In 1902, Adolfo Cancani extended the scale to include twelve levels. August Heinrich Sieberg copletely rewrote the scale. For this reason, the scale is sometimes named Mercalli-Cancani-Sieberg scale, or MCS scale.
+
+Harry O. Wood and Frank Neumann translated it into English, and published it as Mercalli–Wood–Neumann (MWN) scale. Charles Francis Richter also improved it. He also developed the Richter scale, later on. 
+
+The lower degrees of the Modified Mercalli Intensity scale generally deal with the manner in which the earthquake is felt by people. The higher numbers of the scale are based on observed damage to struxtures
+
+The large table gives Modified Mercalli scale intensities that are typically observed at locations near the epicenter of the earthquake.
+
+There is a correlation between the magitude and the intensity of the earthquake. Even though this correlation is there, it may be difficult to link one to the other: This correlation depends on several factors, such as the depth of the earthquake, terrain, population density, and damage. For example, on May 19, 2011, an earthquake of magnitude 0.7 in Central California, United States 4 km deep was classified as of intensity III by the United States Geological Survey (USGS) over away from the epicenter (and II intensity almost from the epicenter), while a 4.5 magnitude quake in Salta, Argentina 164 km deep was of intensity I.
+
+The small table is a rough guide to the degrees of the Modified Mercalli Intensity scale. The colors and descriptive names shown here differ from those used on certain shake maps in other articles.

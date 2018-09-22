@@ -1,0 +1,10 @@
+Al-Khwarizmi
+
+Muḥammad ibn Mūsā al-Khwārizmī (, ) was a Persian Muslim mathematician and astronomer. He was believed to have been born around 800 AD and died in 850 AD during the Abbasid Empire.
+
+Al-Khwarizmi was known for the book he wrote about algebra, "Compendious Book on Calculation by Completion and Balancing". He also wrote a book which taught the Western world about Hindu numerals and how to use them. This book was later titled the "Hindu Art of Reckoning". With his books, al-Khwarizmi authored astronomical tables- tables designed to calculate the position of planets or eclipses. 
+
+His work changed the understanding and knowledge of mathematics in the Middle Ages and mathematicians in Europe read his book. They began to use these Hindu–Arabic numerals (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, ...) instead of the Roman numerals (I, II, III, IV, V, VI, VII, VIII, IX, X, ...). The Arabic numeral system is easier to do mathematics with, as Roman numbers have no place values. This means that they can only deal with whole numbers and do simple equations. Roman numerals also have no number zero. 
+
+He wrote a book on algebra named "Al-Jabr Wal' Muqibla". In this book, he introduced his own number system and also introduced Arabic numerals. His books were translated into Greek and Latin. They named his books "So said Algorizmi". The word "algorithm" is derived from the word Algorizmi. The word algebra comes from the word al-jabr that is at the beginning of the title of the book.
+Muhammad ibn Musa al-Khwarizmi worked at the House of Wisdom, where people worked on translating scientific works.

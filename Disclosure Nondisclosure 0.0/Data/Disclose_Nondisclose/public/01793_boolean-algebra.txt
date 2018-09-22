@@ -1,0 +1,34 @@
+Boolean algebra
+
+Boolean algebra is algebra for binary (0 means false and 1 means true). It uses normal maths symbols, but it does not work in the same way. It is named after its creator George Boole.
+
+The NOT operator is written with a bar over numbers or letters like this:
+
+It means the output is not the input.
+
+The AND operator is written as formula_4 like this:
+
+The output is true only if one and the other input is true.
+
+The OR operator is written as formula_9 like this:
+
+One or the other input can be true for the output to be true.
+
+XOR basically means "exclusive or", meaning one input or the other must be true, but not both.
+
+The XOR operator is written as formula_14 like this:
+
+To make it more simple, one or the other input must be true, but not both.
+
+Different gates can be put together in different orders:
+
+It is not the same as a NOT then an AND like this: formula_20
+
+which is called "XOR identity table"
+, if
+formula_23.
+or if formula_24=TRUE, TRUE.,
+
+Augustus De Morgan found out that it is possible to change a formula_9 sign to a formula_4 sign and make or break a bar. See the 2 examples below:
+
+"Make/break the bar and change the sign."

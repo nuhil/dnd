@@ -1,0 +1,9 @@
+Copyleft
+
+Copyleft is a name for a type of a license for free content or free software. It is not the opposite of copyright, but its purpose is the opposite of the purpose of the frequently seen copyright type of license (which uses copyright to "forbid" changing, giving, or selling something). A copyleft license uses copyright to "forbid forbidding" changing, giving, or selling something.
+
+Both copyleft and non-copyleft (“permissive”) licenses for free content or free software can be used for things like documents (for example books), art, music and software; they always allow people to change the works, and to give or sell them to other people. It should be noted that, although people might think that copyleft content is not copyrighted, that's a myth. Copyleft is a form of licensing: it is not just another name for public domain.
+
+However, in a copyleft license, when a person gives or sells a work (changed or not changed) to a friend, the person must allow the friend to do the things which the author of the original work has allowed in the license to the person. This often means, for example, that if another person licensed a book under a copyleft license, and you changed it into a new book, you would have to license your new book under the same license.
+
+Some copyleft licenses that are used a lot are the GNU General Public License and the Creative Commons Attribution-ShareAlike license.

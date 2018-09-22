@@ -1,0 +1,25 @@
+Quantum entanglement
+
+Quantum entanglement is the name given to a special connection between pairs or groups of quantum systems, or any objects described by quantum mechanics. Quantum entanglement is one of the biggest parts of quantum mechanics that makes it hard to understand in terms of the everyday world.
+
+When we look at particles, we usually say that each particle has its own quantum state. Sometimes, two particles can act on one another and become an entangled system. When a pair or group of particles can only be described by the quantum state for the system, and not by individual quantum states, we say the particles are "entangled".
+
+Entanglement between particles happens because little particles can push and pull on each other, just like big objects do in terms of gravity. If nothing else is acting on those particles, then there are certain things before and after the particles act on each other that have to stay the same. For example, the total momentum of both particles put together would be (roughly) the same before and after they act on each other.
+
+Heisenberg's uncertainty principle tells us we can never know the momentum of a particle exactly, or even the total momentum of both particles put together. In fact, we can't ever know exactly what the momentum of a particle will be before we measure it, but we do know always that the total momentum of the two particles put together doesn't change when the particles act on each other.
+
+In order to be sure that the total momentum is the same before and after the particles act on one another, we need to describe a pair of particles as a single quantum system rather than a pair of quantum systems. If this weren't true, the Conservation law for momentum would be violated due to the quantum uncertainty of the momentum of each particle.
+
+Even though each particle has a lot of information about the other, they do not send messages to each other. There are no messages between the particles saying, "I'm going down, therefore, you must go up" and waiting for the particle to receive the message. Yet, the particles are always connected and can behave as one.
+
+Quantum entanglement is one of the concepts that led Albert Einstein to dislike the theory of quantum mechanics. With his co-workers, and , Einstein used entanglement to try to show weaknesses in quantum mechanics. Einstein called entanglement "spooky action at a distance". He said this because he did not believe that quantum particles could affect one another faster than the speed of light. He tried to show that this weird effect means that quantum mechanics gives an incomplete picture of what really goes on and that in the future it will be taken care of with extra "hidden" variables.
+
+Erwin Schrödinger talked about entanglement in the same article where he described Schrödinger's cat.
+
+Years later, showed with his theorem that we can tell if this "spooky action at a distance" is real or not. After that, experiments using Bell's theorem proved that entanglement actually happens between tiny particles.
+
+Scientists are trying to use quantum entanglement for many different things. Some things are sending completely secret messages (passing notes that can't be intercepted), and making computers faster than ever before thought possible. However, entanglement between a pair of particles is a very delicate thing and is easily destroyed. Because of this, it is difficult to use quantum entanglement to do these things. Currently, many scientists are working on making stronger systems where entanglement is stronger and lasts longer to try to do these things more easily.
+
+Although you can do some things to one particle to try to cause a change in its partner particle, you can't use this (by itself) to send information from one particle to another because it is only possible to control how likely the change will happen. The outcome of whatever measurement you make on a single particle is completely random, and so is the change that results in the partner particle. In other words, changing one particle may change its partner particle, but you cannot guarantee exactly which way you will influence them. Because scientists cannot control exactly what changes between entangled particles occur, it is not possible to use quantum entanglement alone to send messages. If you also send information about the state of the single particle classically (by phone, radio, carrier pigeon, etc.), you can use the entanglement they share to teleport the quantum state of one particle to another particle.
+
+Also, without sending information about the partner particle, there's no way to tell if a given particle is single or half of an entangled pair. With no outside information, a single particle is completely like any other. It's only when you can receive information about the other particle that you will be able to figure out if your particle is one part of an entangled pair. Because of this, no one can use entanglement to send information faster than the speed of light because you would need another faster than light communicator to do it.

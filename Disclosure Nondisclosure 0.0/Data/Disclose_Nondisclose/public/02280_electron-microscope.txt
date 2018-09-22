@@ -1,0 +1,11 @@
+Electron microscope
+
+An electron microscope is a scientific instrument which uses a beam of electrons to examine objects on a very fine scale. In an optical microscope, the wavelength of light limits the maximum magnification that is possible. As electrons have a smaller wavelength, they can achieve a higher magnification, and can see very small objects - typically around 1,000 times smaller than those seen in an optical microscope. The outline of objects, as revealed by the flow of electrons, is changed into a picture using visible light for people to see.
+
+A beam of electrons is sent towards the specimen - some electrons are reflected, while some pass through. Those that pass through are detected and used to form an image of the specimen at a magnification of about 500,000 times. This microscope is more powerful than a light microscope.
+
+Similar to a Transmission Electron Microscope, but the reflected electrons are detected. By measuring the reflected electrons, some information about the surface of the specimen can be gathered.
+
+A narrow beam of electrons is moved across the specimen and a picture is built up piece by piece by detecting how the electrons are reflected or absorbed as it moves.
+
+It combines the high magnification of TEM with the better surface detail of SEM. It can be used to perform complex analysis on the specimen, which cannot be done using TEM alone.

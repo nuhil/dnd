@@ -1,0 +1,9 @@
+Genus
+
+A genus is a rank in the biological classification (or taxonomy). It stands above species, and below families. A genus can include more than one species. When biologists talk about a genus, they mean one or more species of animals or plants that are closely related to each other.
+
+As with other taxons, the plural is different from other English words because it is a Latin word. 'Genus' is the singular, and 'genera' is the plural form of the word.
+
+When printing the scientific name of an organism, the name is "always in italic". A name of species has two parts, with the genus first. For example, in ""Felis silvestris"", "Felis" is the genus. The genus name always begins with a capital letter. In ""Felis silvestris catus"", the third word is the subspecies, which is not often used.
+
+In writing, genus names in Latin may be 'anglicised' to form a common name. For example, the genus "Pseudomonas" is "pseudomonad" (plural: "pseudomonads"). In practice, most really common animals and plants already have a common name. So instead of saying 'felids', or 'felines', one says 'cats' both for the family pet, and for all the cat family (Felidae).

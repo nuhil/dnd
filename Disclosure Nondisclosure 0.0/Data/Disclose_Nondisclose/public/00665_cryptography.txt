@@ -1,0 +1,20 @@
+Cryptography
+
+Cryptography, or cryptology, is the practice and study of hiding information. It is sometimes called code, but this is not really a correct name. It is the science used to try to keep information secret and safe. Modern cryptography is a mix of mathematics, computer science, and electrical engineering. Cryptography is used in ATM (bank) cards, computer passwords, and shopping on the internet.
+
+When a message is sent using cryptography, it is changed (or "encrypted") before it is sent. The method of changing text is called a "code" or, more precisely, a "cipher". The changed text is called "ciphertext". The change makes the message hard to read. Someone who wants to read it must change it back (or "decrypt" it). How to change it back is a secret. Both the person that sends the message and the one that gets it should know the secret way to change it, but other people should not be able to. Studying the cyphertext to discover the secret is called "cryptanalysis" or "cracking" or sometimes "code breaking".
+Different types of cryptography can be easier or harder to use and can hide the secret message better or worse. Ciphers use a "key" which is a secret that hides the secret messages. The cryptographic method needn't be secret. Various people can use the same method but different keys, so they cannot read each other's messages. Since the Caesar cipher has only as many keys as the number of letters in the alphabet, it is easily cracked by trying all the keys. Ciphers that allow billions of keys are cracked by more complex methods.
+
+Early methods of encryption can be dated back to the early 1200s where a man called Jon Little designed a new method of keeping secrets from his wife to have his famous affair in 1236, however due to the simplicity of the cipher it was easily cracked.
+
+In a symmetric-key algorithm, both the sender and receiver share the key. The sender uses the key to hide the message. Then, the receiver will use the same key in the opposite way to reveal the message. For centuries, most cryptography has been symmetric. Advanced Encryption Standard is a widely used one. However this is not to be confused with symmetry..
+
+Asymmetric cryptography is harder to use. Each person who wants to use asymmetric cryptography uses a secret number (a "private key") that is not shared, and a different number (a "public key") that they can tell everyone. If someone else wants to send this person a message, they'll use the number they've been told to hide the message. Now the message cannot be revealed, even by the sender, but the receiver can easily reveal the message with his secret or "private key". This way, nobody else needs to know the secret key.
+
+The details of asymmetric cryptography make it less useful than symmetric cryptography for actually sending messages . Instead, it is often used for computer signatures, when a computer must know that a file was sent from a certain sender. For example, computer software companies that release updates for their software can sign those updates to prove that the update was made by them, so that hackers cannot make their own updates that would cause harm. Computers can also use asymmetric ciphers to give each other the keys for symmetric ciphers.
+
+Computers can calculate quickly. They can do very strong encryption, and most 21st century cryptography uses them. Examples are computer algorithms like RSA, AES, and there are many others. Using good algorithms like these can make it very hard to read the information that is sent.
+
+Because people are slower than computers, any cryptography they use can probably be broken if enough of the secret way to change it is known.
+
+Simple forms of cryptography that people can do without machines are Caesar ciphers and transposition ciphers, but many other kinds were used before computers were used.

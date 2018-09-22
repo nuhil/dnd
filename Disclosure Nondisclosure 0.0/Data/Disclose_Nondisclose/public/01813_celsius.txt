@@ -1,0 +1,24 @@
+Celsius
+
+Celsius (more precisely, a degree Celsius), sometimes called centigrade, is a unit of measurement used in many countries to measure temperature. This unit was created by Anders Celsius (1701–1744), a Swedish astronomer.
+
+0 degrees (°) Celsius is the melting point of pure water at sea level ("normal pressure"). 
+100° Celsius is the boiling point of water at normal pressure. (Water boils at a lower temperature at higher altitudes).
+
+1 °C is therefore one hundredth (the 100th part) of that difference.
+
+Since 1948, this unit has been called "Celsius". "Centigrade" was the name of the unit before the change. "Centi" meaning 1/100, and "grade" being a scale.
+
+The other commonly used measurement of temperature is the Fahrenheit scale. The Celsius scale, based on multiples of ten, is used with SI, or metric measurements.
+
+In 1742, "Anders Celsius" (1701–1744) made a “reversed” version of the modern Celsius temperature scale. In this scale, zero was the boiling point of water and 100 was the melting point of ice. In his paper "Observations of two persistent degrees on a thermometer," he wrote about his experiments. He showed that the melting point of ice was basically unaffected by air pressure. Ice would turn into water at the same temperature, whether it was at sea level or on a mountain. This was not the case for the boiling point of water. It would boil easier with less pressure (on a mountain). He decided that zero on his temperature scale (water’s boiling point) would be set at the standard barometric pressure at sea level. This pressure is known as one atmosphere. In 1954, Resolution 4 of the 10th CGPM (the General Conference on Weights and Measures) set what exactly is one standard atmosphere (101.325 kPa).
+
+In 1744, the year Anders Celsius died, the famous Swedish botanist Carolus Linnaeus (1707–1778) used a reversed version of Celsius's scale when he bought his first thermometer. This had a scale where zero represented the melting point of ice and 100 represented water’s boiling point, like we use it today. His custom-made “linnaeus-thermometer,” to use in his greenhouses, was made by Daniel Ekström, then Sweden’s leading maker of scientific instruments. Ekstöm's workshop was in the basement of the Stockholm observatory. As often happened in this age before modern communications, many physicists, scientists, and instrument makers are given credit with independently making the same measurement scale; among them were Pehr Elvius, the secretary of the Royal Swedish Academy of Sciences (which had an instrument workshop), who Linnaeus had also talked to; Christin of Lyons; Daniel Ekström, the instrument maker; and Mårten Strömer (1707–1770) who had studied astronomy under Anders Celsius.
+
+The first known document reporting temperatures in this modern “forward” Celsius scale is the paper "Hortus Upsaliensis" dated 16 December 1745 that Linnaeus wrote to a student of his, Samuel Nauclér. In it, Linnaeus reported the temperatures inside the orangery at the Botanical Garden of Uppsala University:
+
+For the next 204 years, the scientific and thermometry communities worldwide called this scale the “centigrade scale.” Temperatures on the centigrade scale were often reported as “degrees” or “degrees centigrade.” The symbol for temperature values on this scale was °C (in several formats over the years). Because the name “centigrade” was also the Spanish and French language name for a unit of angular measurement (one-hundredth of a right angle) and had a similar meaning in other languages, the term “centesimal degree” was used when very precise, clear language was required for international communication, such as by the International Bureau of Weights and Measures (BIPM). The 9th CGPM (General Conference on Weights and Measures) and the CIPM (International Committee for Weights and Measures) officially decided to use “degree Celsius” (symbol: °C) in 1948.
+
+There were three reasons for the decision in 1948 to use the word "Celsius":
+
+It would take nearly two decades however, for school textbooks to change from "centigrade" to "Celsius", and many people today still use the old name.

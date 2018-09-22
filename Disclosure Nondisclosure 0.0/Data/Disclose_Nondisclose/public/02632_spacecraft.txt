@@ -1,0 +1,12 @@
+Spacecraft
+
+A spacecraft is a vehicle that can carry people and cargo beyond the Earth's atmosphere, through space to other planetary bodies, space stations, or orbits and back home again. Spacecraft which are launched from the surface of a planet are called launch vehicles and usually take-off from launch pads at spaceports. 
+
+Most spacecraft today are propelled by rocket engines, which shoot hot gases opposite to the direction of travel. Other forms of propulsion are used when appropriate. Spacecraft which do not need to escape from strong gravity may use ion thrusters or other more efficient methods. 
+
+Because of the very large amount of energy needed to leave the Earth's gravity, spacecraft are usually very expensive to build, launch, and operate. Plans for future spacecraft often focus on reducing these costs so more people can participate in space. But today, costs are still very high, and until recently all spacecraft were sponsored by national governments.
+
+Most expensive of all is to send people in to space, due to their needs for food, water, air, living space, safety, and control. People participating in this way have special names: Americans call themselves astronauts; Russians call themselves cosmonauts; Chinese call themselves taikonauts.
+
+
+Some of the most important spacecraft today are artificial satellites. Artificial satellites are smaller, unmanned spacecraft. Some go into Low Earth orbit to look at the Earth or for other purposes. Others are sent to geostationary orbit to relay radio signals from one part of Earth to another, or to watch events on Earth from a high point of view. Communications satellites are important for television and other communications, and other satellites help with weather prediction and other jobs.

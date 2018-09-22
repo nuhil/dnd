@@ -1,0 +1,55 @@
+Color blindness
+
+People with color blindness cannot tell the difference between certain colors. They may not see colors at all. 
+Most color blindness is heritable, usually as simple Mendelian inheritance. Sometimes it is the result of damage to the eyes, nerves or the brain. It can be caused by coming into contact with certain chemicals. 
+
+Most color blindness is permanent. Some conditions can lead to temporary color blindness. During certain kinds of migraine, some people are unable to tell the difference between certain colors. There is no treatment cure for permanent color blindness.
+
+Many more males are color blind than females. Between five and eight percent of males, but less than one percent of females, are color blind. 
+
+Color blindness is usually thought of as a disability. However, people who are color blind have an advantage: they are sometimes better at seeing through some types of camouflage.
+
+In 1798, English chemist John Dalton published the first scientific article about color blindness. That was after he found out that he was color blind. The article was called "Extraordinary facts relating to the vision of colours". Because of this, the condition is sometimes called "daltonism". As of 2009, the word "daltonism" is used only for the type of color blindness called deuteranopia.
+
+There are three steps in the process of telling the difference between colors:
+
+Inside the human eye is a part called the retina. The retina receives the images that the eye sees. It sends the images to the brain. The retina has two types of cells: Rod cells and Cone cells. They work in different types of light. 
+
+
+Parts of the thalamus and the visual cortex in the brain are involved in "seeing", also seeing colors. Color blindness can therefore also result if these areas of the brain, the optic nerve or the retina have been damaged. These types of color blindness usually happen because of an accident. They are not inherited. Inherited forms of color blindness affect the retina only. 
+
+That way it is possible that only a part of the visual field is affected by color blindness, but in the rest, there is no color blindness. 
+
+Some types of color blindness, but not inherited color blindness, can be cured.
+
+There are several different problems that can cause color blindness. 
+
+This condition is very rare. People who suffer from it can only see in black, gray and white: They can perceive only differences in "brightness" and do not see "color". This is called "monochromacy".
+There are two main types of total color blindness:
+
+There are two kinds of red-green color blindness: protanopia or deuteranopia. Deuteranopia is the most common form of color blindness; between five and ten percent of males suffer from it. Those affected have trouble telling the difference between red and green. As seen by protanopes (people suffering from protanopia), red is darkened. Most often, this is because they lack the receptors for long (protanopia) or medium (deuteranopia)-length light waves or because these receptors have changed their sensitivity.
+
+Although the name is Blue-yellow color blindness (tritanopia), people affected by this type of color blindness can usually tell the difference between blue and yellow. Instead they cannot tell the difference between blue and green, and also yellow and violet. It is different from the other types of color blindness because it is not linked to sex. It affects both sexes equally. It occurs because those affected lack receptors for short wavelengths, or because these receptors changed their sensitivity.
+
+Sometimes, people do not have problems seeing color, but their brain has trouble "telling" the color, and interprets it wrong. It is also possible that only certain parts of the eye have color blindness; people may become color blind because of other diseases, but after the disease goes away, see normally again. This seems to be the case with certain forms of migraine.
+
+Males have one X and one Y chromosome; females have two X chromosomes. Many of the genes involved in making color vision work are on the X chromosome: they are sex linked. For this reason, men are more often affected by color blindness than women. 
+
+The "color blind" gene allows non-color blind people see the difference between red and green. The gene is located on the X chromosome. This means that a male will be color blind if the single X he inherits from his mother contains the color blind version of the "color blind" gene. A female will inherit color blindness only if she inherits two X chromosomes containing defective (mutant) color gene alleles. In other words, a female needs to inherit "color blind" genes from both parents in order to be color blind.
+
+The Ishihara plate test has been in use since 1917. Each plate has an image with dots of different size and color. People will then "see" different images (most often Arabic numbers). Those with certain types of color blindness will see different numbers from those not affected by color blindness. 
+
+Because many young children have not learned numbers yet, other tests have been developed. They use symbols, like a square, a circle or a car instead of numbers.
+
+A color code is when there is much information in the color of certain item. Such codes cannot be understood easily by those who are color blind. For this reason, color should not be used alone to give information. Good graphic design avoids using color coding or color differences alone to give information. This does not only help color blind people, but also normally sighted people.
+
+Cascading Style Sheets can be used on web pages. They allow to give a different color scheme for color blind people. Certain color scheme generators help graphic designers see color schemes as eight types of color blind people see them. 
+
+Color blindness is very sensitive to changes in material. A red-green color blind person may be unable to see the difference between colors on a map printed on paper. The same map on a computer screen or television may appear normally. In addition, some color blind people find it easier to tell the difference between colors on artificial materials, such as plastic or in acrylic paints, than on natural materials, such as paper or wood. Thirdly, for some color blind people, color can only be if there is enough color: thin lines might appear black, but a thicker line of the same color can be seen in the correct color.
+In certain cases when it is important to understand information very quickly, the visual system may drop the colors, and only work in shades of gray. This is important to know when designing the interfaces for objects that need to be used in an emergency situation, like emergency brakes, or emergency telephones. 
+
+Because color blind people may not see the difference between colors such as red and green, some countries, such as Romania have refused to give them driving licenses. In Romania, people have started to change the laws so that color blind people will also be able to drive legally.
+
+In the United Kingdom, electricity wires in houses used to be red, black and green. They were changed to brown, blue and green/yellow to help color blind people see the difference between the "live" and "earth" wires.
+
+Many people do not understand color blindness. People who are color blind never swap the colors they are blind to. They may have trouble telling two colors from one another. That way they may have a problem finding the right kind of apple in the supermarket. The image below first shows the way that two apples look to a person with normal vision, and then the way it looks to a person with red-green color blindness. The left apple is a "Braeburn"; it is red in color. The apple on the right is a "Granny Smith"; it is green. To someone with red-green blindness, the apples look like they are almost the same color.

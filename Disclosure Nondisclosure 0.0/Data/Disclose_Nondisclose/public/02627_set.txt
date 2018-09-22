@@ -1,0 +1,80 @@
+Set
+
+A set is an idea from mathematics. A set has "members" (also called "elements"). A set is fixed by its members. It is the only set which has the same members. (If set "X" and set "Y" have the same members, then "X = Y". A set cannot have the same member twice - never more than once. Membership is the only thing that means anything. For example, there is no order or other distinction among the members.) One particular set is the "empty set" (also called the "null set"). The empty set has "no" members. "Anything" can be a member of a set. A set can be a member of a set. (If a set is a member of itself, beware of Russell's paradox.) 
+
+Most mathematicians use uppercase "italic" (usually Roman) letters to write about sets. The things that are seen as elements of sets are usually written with lowercase Roman letters.
+
+One way of showing a set is by a list of its members, separated by commas, included in braces.
+For example, 
+
+Another way is by a statement of what is true of the set, like this:
+In spoken English, that is: "the set of all "x" such that "x" is a natural number and "x" is less than four".
+
+The empty set has a special name
+
+An object "a" is the member of set "A" is written
+In spoken English, that is: ""a" is a member of "A""
+
+Various things can be put into a bag. Later on, a valid question would be if a certain thing is in the bag. Mathematicians call this "element of". Something is an element of a set, if that thing can be found in the respective bag. The symbol used for this is formula_2
+
+formula_3
+
+means that formula_4 is in the bag formula_5
+
+Like a bag, a set can also be "empty". The empty set is like an empty bag: it has no things in it.
+
+Two sets can be compared. This is like looking at two different bags. If they contain the same things, they are equal.
+
+When mathematicians talk about a set, they sometimes want to know how big a set is. They do this by counting how many elements are in the set (how many items are in the bag). The cardinality can be a simple number. The empty set has a cardinality of 0. The set formula_6 has a cardinality of 2.
+
+Two sets have the same cardinality if we can pair up their elements—if we can join two elements, one from each set. The set formula_6 and the set formula_8 have the same cardinality. We can pair "apple" with "sun", and "orange" with "moon". The order does not matter. It is possible to pair the elements, and none is left out. But the set formula_9 and the set formula_10 have different cardinality. 
+If we try to pair them up, we always leave out one animal.
+
+At times cardinality is not a number. Sometimes a set has infinite cardinality. The set of integers is a set with infinite cardinality. Some sets with infinite cardinality are bigger (have a bigger cardinality) than others. There are more real numbers than there are natural numbers, for example. That means we cannot pair up the set of integers and the set of real numbers, even if we worked forever. If a set has the same cardinality as the set of integers, it is called a countable set. But if a set has the same cardinality as the real numbers, it is called an uncountable set.
+
+If you look at the set {a,b} and the set {a,b,c,d}, you can see that all elements in the first set are also in the second set.<br> We say: {a,b} is a subset of {a,b,c,d}<br>
+As a formula it looks like this:<br>
+formula_11
+
+When all elements of A are also elements of B, we call A a subset of B:<br>
+formula_12<br>
+It is usually read "A is contained in B"
+
+Example:<br>
+Every Chevrolet is an American car. So the set of all Chevrolets is contained in the set of all American cars.
+
+There are different ways to combine sets.
+
+The intersection formula_13 of two sets A and B is a set that contains all the elements,<br> that are both in set A and in set B.<br>
+When A is the set of all cheap cars, and B is the set of all American cars,<br> then formula_13 is the set of all cheap American cars.
+
+The union formula_15 of two sets A and B is a set that contains all the elements,<br> that are in set A or in set B.
+When A is the set of all cheap cars, and B is the set of all American cars,<br> then formula_15 is the set of all cars, without all expensive cars that are not from America.
+
+Complement can mean two different things:
+
+formula_18 <br>
+The universe U is the set of all things you speak about.<br>
+When U is the set of all cars, and A is the set of all cheap cars,<br> then A is the set of all expensive cars.
+
+formula_19<br>
+It is often called the "set difference".<br>
+When A is the set of all cheap cars, and B is the set of all American cars,<br> then formula_19 is the set of all expensive American cars.
+
+If you exchange the sets in the set difference, the result is different:<br>In the example with the cars, the difference formula_21 is the set of all cheap cars, that are not made in America.
+
+Some sets are very important to mathematics. They are used very often. One of these is the "ẽøø set". 
+Many of these sets are written using blackboard bold typeface, as shown below. Special sets include:
+
+Each of these sets of numbers has an infinite number of elements, and formula_38. The primes are used less frequently than the others outside of number theory and related fields.
+
+A mathematician called Bertrand Russell found that there are problems with this theory of sets. He stated this in a paradox called "Russell's paradox". An easier to understand version, closer to real life, is called the "Barber paradox":
+
+There is a small town somewhere. In that town, there is a barber. All the men in the town do not like beards, so they either shave themselves, or they go to the barber shop to be shaved by the barber.
+
+We can therefore make a statement about the barber himself: "The barber shaves all men that do not shave themselves. He only shaves those men (since the others shave themselves and do not need a barber to give them a shave)."
+
+This of course raises the question: What does the barber do each morning to look clean-shaven? This is the paradox.
+
+
+The following are books about sets. They may not be easy to read though:

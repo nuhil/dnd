@@ -1,0 +1,11 @@
+Fahrenheit
+
+Fahrenheit (more precisely, a degree Fahrenheit) is a unit of measurement used to measure temperature. The conversion rate to Celsius is C= 5/9 x (F − 32). The degree Fahrenheit is abbreviated °F.
+
+This temperature scale was made in 1724 by a German scientist named Daniel Gabriel Fahrenheit. In the twentieth century, the unit declined in favour for the degree Celsius. It is still used often in the United States. In the United Kingdom, Fahrenheit is encountered on some websites, as well as some weather forecasts; the main reason for this is because some of the older population are more familiar with Fahrenheit.
+
+The use of the degree Fahrenheit is in decline throughout the majority of the world with the USA being the main exception.
+
+The degree Fahrenheit is often considered to be "old fashioned" throughout the majority of the world as it is an older and outdated way of measuring temperature. The degree Celsius has largely replaced Fahrenheit's use as it is generally easier to use.
+
+On the Fahrenheit scale, water freezes at 32° and boils at 212°.

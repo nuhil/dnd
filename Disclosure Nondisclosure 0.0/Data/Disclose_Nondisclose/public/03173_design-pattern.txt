@@ -1,0 +1,12 @@
+Design pattern
+
+In Computer science, a Design pattern is an abstract solution to a certain problem. Design patterns are used in object oriented programming. They give a possible solution to a problem of designing software.
+
+Design patterns became popular around the year 1995. They also simplify the language between computer scientists. Ideally, a design pattern should be reusable many times. It is like a brick of a house, it can be used for many different problems. One can also build bridges with bricks, not only houses.
+
+These examples are actual examples of design patterns as they are in use. They have not been simplified. It is only the language used to describe them that has been made simpler.
+The flyweight design pattern is used to minimize the use of many similar objects. In a text-processing system each letter can have some attributes like formatting, typeface, and size. While it would be possible to create a new object for each character in the document and give it these attributes, it is extremely expensive.
+
+Instead it would be better to create one object for each type of formatting and link the letter to that information. That needs a lot fewer objects. The only extra information that would need to be stored is the word or letter's position in the document. All similar letters would use the same object to define font, size, and other properties.
+
+Another easy to understand pattern is called "Singleton". It is used when there can only be one instance of a given class. That class usually has some static method (e.g. getInstance()) which returns a new instance. It also saves the instance internally. So if it already created the instance, it can simply return it.

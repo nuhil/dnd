@@ -1,0 +1,30 @@
+Cellular respiration
+
+Cellular respiration is the process of breaking sugar into a form that the cell can use as energy. This happens in all forms of life. Cellular respiration takes in food and uses it to create ATP, a chemical which the cell uses for energy. 
+
+Usually, this process uses oxygen, and is called aerobic respiration. It has four stages known as glycolysis, Link reaction, the Krebs cycle, and the electron transport chain. This produces ATP which supplies the energy that cells need to do work.
+
+When they don't get enough oxygen, the cells use anaerobic respiration, which doesn’t require oxygen. However, this process produces lactic acid, and is not as efficient as when oxygen is used. 
+
+Aerobic respiration, the process that does use oxygen, produces much more energy and doesn’t produce lactic acid. It also produces carbon dioxide as a waste product, which then enters the circulatory system. The carbon dioxide is taken to the lungs, where it is exchanged for oxygen.
+
+The simplified formula for aerobic cellular respiration is: 
+
+CHO + 6O → 6CO + 6HO + Energy (as ATP)
+The word equation for this is:Glucose (sugar) + Oxygen → Carbon dioxide + Water + Energy (as ATP)
+
+Aerobic cellular respiration has four stages. Each is important, and could not happen without the one before it. The steps of aerobic cellular respiration are:
+
+In glycolysis, glucose in the cytoplasm is broken into two molecules of pyruvate. Ten enzymes are needed for the ten intermediate compounds in this process.
+
+Biology textbooks often state that 38 ATP molecules can be made per oxidised glucose molecule during cellular respiration (two from glycolysis, two from the Krebs cycle, and about 34 from the electron transport chain). However, this maximum yield is never quite reached, mainly because of losses through leaky membranes. Estimates are 29 to 30 ATP per glucose.
+
+Aerobic metabolism is about (see sentence above) 15 times more efficient than anaerobic metabolism. Anaerobic metabolism yields 2 mol ATP per 1 mol glucose. They share the initial pathway of glycolysis but aerobic metabolism continues with the Krebs cycle and oxidative phosphorylation. The post glycolytic reactions take place in the mitochondria in eukaryotic cells, and in the cytoplasm in prokaryotic cells.
+
+Pyruvate from glycolysis is actively pumped into mitochondria. One carbon dioxide molecule and one hydrogen molecule are removed from the pyruvate (called oxidative decarboxylation) to produce an acetyl group, which joins to an enzyme called CoA to form acetyl CoA. This is essential for the Krebs cycle.
+
+Acetyl CoA joins with oxaloacetate to form a compound with six carbon atoms. This is the first step in the ever-repeating Krebs cycle. Because two acetyl-CoA molecules are produced from each glucose molecule, "two cycles are required per glucose molecule". Therefore, at the end of two cycles, the products are: two ATP, six NADH, two FADH, and four CO2. The ATP is a molecule which carries energy in chemical form to be used in other cell processes.
+
+This is where most of the ATP is made. All of the hydrogen molecules which have been removed in the steps before (Krebs cycle, Link reaction) are pumped inside the mitochondria using energy that electrons release. Eventually, the electrons powering the pumping of hydrogen into the mitochondria mix with some hydrogen and oxygen to form water and the hydrogen molecules stop being pumped.
+
+Eventually, the hydrogen flows back into the cytoplasm of the mitochondria through protein channels. As the hydrogen flows, ATP is made from ADP and phosphate ions.

@@ -1,0 +1,9 @@
+Silicon
+
+Silicon is element 14 on the periodic table. Its symbol is Si.
+
+Silicon looks like a metal, but does not do everything a metal does, like conduct electricity very easily. It is a metalloid. Silicon is used as a great deal in today's computers and virtually every electronic device. Germanium can also be used in computers, but silicon is easier to find. 
+
+There is a lot of silicon on the Earth. At the beach, there is silicon in the form of sand. Sand is a compound of silicon known as silicon dioxide or silica. Glass is made by heating sand (or silicon dioxide) hot enough. The glass can have different colours by adding coloured compounds. Silicon also makes up a lot of different rocks and minerals, and they are known as silicates.
+
+Silicon is a semiconductor, and much used in computers. A super-pure isotope of silicon, silicon-28, can now be made 40 times more pure than before. It is very important for the next big development in computers. This stores "qubits" in atoms of another element, like phosphorous, embedded in a tiny layer of ultra-pure silicon-28. These qubits can simultaneously encode a one and a zero, for incredibly fast and complex calculations.

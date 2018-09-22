@@ -1,0 +1,29 @@
+Photosynthesis
+
+Photosynthesis is the process by which plants and other things make food. It is a chemical process that uses sunlight to turn carbon dioxide into sugars the cell can use as energy. As well as plants, many kinds of algae, protists and bacteria use it to get food. Photosynthesis is very important for life on Earth. Most plants either directly or indirectly depend on it. The exception are certain organisms that directly get their energy from chemical reactions; these organisms are called chemoautotrophs.
+
+Photosynthesis can happen in different ways, but there are some parts that are common.
+
+Photosynthesis has two main sets of reactions. Light-dependent reactions need light to work; and light-independent reactions, which do not need light to work.
+
+Light energy from the sun is used to split water molecules (photolysis). The sunlight hits chloroplasts in the plant, causing an enzyme to break apart the water. Water, when broken, makes oxygen, hydrogen, and electrons. 
+
+Hydrogen, along with electrons energized by light, converts NADP into NADPH which is then used in the light-independent reactions. Oxygen diffuses out of the plant as a waste product of photosynthesis, and ATP is synthesized from ADP and inorganic phosphate. This all happens in the grana of chloroplasts.
+
+During this reaction, sugars are built up using carbon dioxide and the products of the light-dependent reactions (ATP and NADPH) and various other chemicals found in the plant in the Calvin Cycle. Therefore, the light-independent reaction cannot happen without the light-dependent reaction. Carbon dioxide diffuses into the plant and along with chemicals in the chloroplast, ATP, and NADPH, glucose is made and finally, transported around the plant by translocation.
+
+There are three main factors affecting photosynthesis:
+
+If there is little light shining on a plant, the light-dependent reactions will not work efficiently. This means that photolysis will not happen quickly, and therefore little NADPH and ATP will be made. This shortage of NADPH and ATP will lead to the light-independent reactions not working as NADPH and ATP are needed for the light-independent reactions to work.
+
+Carbon dioxide is used in the light-independent reactions. It combines with NADPH and ATP and various other chemicals (such as Ribulose Bisphosphate) to form glucose. Therefore, if there is not enough carbon dioxide, then there will be a buildup of NADPH and ATP and not enough glucose will be formed.
+
+There are many enzymes working in photosynthetic reactions – such as the enzyme in photolysis. These enzymes will not work as well, or stop working at all at high or low temperatures and therefore, so will the light-dependent and light-independent reactions.
+
+The first photosynthetic organisms probably evolved early in the history of life. They may have used reducing agents such as hydrogen or hydrogen sulfide as sources of electrons, rather than water. Cyanobacteria appeared later, and the excess oxygen they produced contributed to the oxygen catastrophe. This made the evolution of complex life possible. 
+
+Today, the average rate of energy capture by photosynthesis globally is approximately 130 terawatts, which is about six times larger than the current power used by human civilization.
+Photosynthetic organisms also convert around 100–115 thousand million metric tonnes of carbon into biomass per year.
+
+
+/sup

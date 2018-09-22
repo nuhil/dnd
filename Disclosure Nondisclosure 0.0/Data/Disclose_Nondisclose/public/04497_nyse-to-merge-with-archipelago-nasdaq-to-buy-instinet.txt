@@ -1,0 +1,42 @@
+NYSE to merge with Archipelago; NASDAQ to buy Instinet
+
+<br>
+
+New York Stock Exchange (NYSE) announced last Wednesday that it has agreed definitively to merge with Chicago-based Archipelago Exchange (ArcaEx) and form a new publicly traded, for-profit company known as NYSE Group. This announcement was followed two days later by NASDAQ®, which independently announced a definitive agreement to purchase Instinet Group.
+
+Archipelago and Instinet are innovative e-trading (electronic trading) companies, and formerly were the two largest American rivals to NYSE and NASDAQ, in recent years taking increasingly large portions of their market share. The Securities and Exchange Commission (SEC) and other regulatory agencies still have to review and approve the transactions, particularly with respect to US securities law and antitrust law, in order to ensure that the marketplace remains lawful and competitive. 
+
+Other pending issues for NASDAQ include obtaining the approval of Instinet shareholders, as well as customary closing conditions. NYSE must obtain the approval of its members and Archipelago shareholders.
+
+These changes, a reaction to increased e-trading competition and a changed regulatory environment, will result in NASDAQ and NYSE trading each other's shares and attempting to grab market share, which many hope will drive down transaction costs and ultimately benefit consumers. However, at least one commentator, Dan Ackman writing in "Forbes", has noted that the trading commission at the NYSE currently averages less than a nickel (US$0.05) per share, and was less enthusiastic about potential efficiency gains from electronic trading at the exchange.
+
+The transactions are also intended to make the two leading American stock exchanges more globally competitive with such exchanges as the London Stock Exchange, the Frankfurt Stock Exchange, the Toronto Stock Exchange, and the Australian Stock Exchange located in Sydney.
+
+The NYSE-Archipelago merger would result in some of the most sweeping changes in the 212-year history of the NYSE. The NYSE, which has always been a not-for-profit company, would for the first time incorporate and itself be a publicly-traded company, in what is potentially a large stock offering. However, the regulatory functions of the NYSE would continue to be conducted independently by a private not-for-profit organization.
+
+NYSE is merging with Archipelago in a "stock for membership" deal, in which NYSE members are to receive cash and 70% of newly issued stock, and Archipelago's shareholders would receive 30% of the new stock, forming a new holding company known as the NYSE Group. The merger is expected to be completed by either the fourth quarter of 2005 or the first quarter of 2006.
+
+"This strategic move is courageous, almost unbelievable, but this is going to make the New York Stock Exchange in my opinion a potentially giant publicly traded company. The main reason is they've got brand, they've got companies, they've got liquidity [and] with Archipelago they have electronic global access," said Harold Bradley of American Century Investments to "Investor's Business Daily".
+
+NYSE has traditionally used the "open cry auction" system where buyers and sellers gather in a boisterous trading floor to shout "buy" and "sell" orders. It has been slow to adapt to new technology, still manually punching in 90% of its orders. 
+
+However, Last November NYSE introduced a new, faster Java-based trading system for its floor exchange that is currently in the process of phased roll-out. NYSE TradeWorks, a management system for stock orders, was developed in a first-of-kind partnership with external company IBM, using J2EE open systems, custom-built Linux-based workstations and HP-UX servers running IBM's WebSphere middleware, and a DB2 database on the back end running on an IBM zSeries mainframe. NYSE, which does most of its IT development internally, announced that they do not plan to combine their IT department with Archipelago's.
+
+The future of the traditional floor trading system remains uncertain. Some commentators believe it provides a necessary antidote to the occasionally chaotic instability of electronic trading, while others believe that future trends toward electronic trading would provide advantages of speed and fluidity of trade, and make the old-fashioned system of floor trading redundant and obsolete. Roger Burkhardt, Chief Technology Officer of NYSE, told "Computerworld" last December that the merger will attempt a "hybrid" trading model where both human and computer trading are coordinated side-by-side, which in its scope is a difficult and unprecedented task.
+
+Current owners of seats in the exchange have expressed concerns over how the new merger will affect them. The seats, which confer the right to trade on the floor and are typically leased to traders under the current system, will likely be bought back by the NYSE Group from the individual owners. The exact system of how traders will lease access to the trading floor from the new company has yet to be worked out.
+
+Also of concern to owners is the reported plans for a "stock lockup" (preventing selling of portions of stock in the new NYSE Group by the new stock recipients) for the next 3 to 5 years. However, their inability to immediately profit from sale of their newly issued stock would be compensated by the price they receive for their seat, or perhaps by a separate stock issuance.
+
+The NYSE has been subject to complaints in recent years, concerning:
+
+However, most of the participants in the merger expressed confidence in taking advantage of historic opportunities. “This combination will be good for investors and for America. It will create a strong, dynamic and innovative enterprise capable of meeting the demands of investors and issuers throughout the world in the decades ahead,” said John A. Thain, CEO of the NYSE. “As we look to the future and to the challenge of competing globally in a high-speed electronically connected world, it is clear that we must do more. This transaction will mean we will be more diversified and transparent, and better able to compete, grow and serve our customers."
+
+NASDAQ, formerly an acronym for National Association of Securities Dealers Automated Quotations, was founded in 1971 as the world's first electronic stock market, and by some measures is now the world's largest exchange. Its purchase of Instinet Group, although it followed the NYSE merger announcement by only two days, was actually pursued independently for as long as six months and is set to continue regardless of the NYSE outcome. The sale is expected to be completed by the end of this year.
+
+NASDAQ's planned acquisition, Instinet Group, will be split along the lines of its separate divisions for sale in a cash transaction (figures are approximate):
+
+Instinet stockholders would receive about US$1.88 billion in cash total, including the above amounts as well as US$562 million from INET's available cash. Of this amount, about US$1 billion would go to Reuters, a shareholder of 62% of the company's stock, which is getting rid of Instinet to focus on its core areas of providing news and financial data.
+NASDAQ president and CEO Bob Greifeld, said, “This transaction will allow NASDAQ to compete more effectively with other U.S. and international market centers by making our technological platform more competitive, which will result in greater cost efficiencies and improved quality of execution in our market — qualities that today’s individual and institutional investors demand. NASDAQ will continue to innovate and will also have the ability to tap new opportunities in other asset classes.”
+
+He continued, “Regulation NMS has defined the new competitive landscape by calling for all market centers to be mutually accessible. With this move we maintain our status as the low cost provider and at the same time provide increased order interaction for both NASDAQ and exchange listed securities. We also believe this further enhances our ability to attract new listings. We want to thank all of our partners for their combined efforts on this transaction."

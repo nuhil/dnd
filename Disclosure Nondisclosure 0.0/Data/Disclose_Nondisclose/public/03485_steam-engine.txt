@@ -1,0 +1,12 @@
+Steam engine
+
+A steam engine is an engine which uses steam from boiling water to make it move. The steam pushes on the engine parts to make them move. Steam engines can power many kinds of machines including vehicles and electric generators. 
+
+Steam engines were used in mine pumps starting in the early 18th century and were much improved by James Watt in the 1770s. They were very important during the industrial revolution where they replaced horses, windmills and watermills to work machines.
+
+The first steam engines were piston engines. The steam pressure pushed on a piston which made it move along a cylinder and so they had a "reciprocal" (back-and-forth) motion. This could move a pump directly or work a crank to turn a wheel and work a machine. They operated at low pressure and had to be very big to make a lot of power.
+
+Steam engines were used in factories to work machines and in mines to move pumps. Later smaller engines were built that could move railway locomotives and steam boats.
+The steam to power a steam engine is made in a boiler that heats water to make steam. In most places fire heats the boiler. Fuel for the fire may be wood, coal, or petroleum. Nuclear energy or solar energy may be used instead of fire. The steam coming out of the boiler applies the force on a piston. A valve sends the steam to one end of the piston, then the other, to make it move backwards and forwards. The moving piston pushes and pulls the piston rod, crosshead and connecting rod, to turn wheels or drive other machinery. The heavy spinning flywheel smooths out the power from the piston. The governor controls the speed of the engine.
+
+Today many steam engines are still at work. During the 20th century the pistons were replaced by turbines which spin like a windmill pushed by jets of steam. These turn faster with more energy efficiency than the original kinds of piston steam engines. They are used in power plants to operate generators which make electricity. Some ships are also powered by steam turbines. The boilers of steam turbines can be heated by many different types of fuel, even a nuclear reactor in some power stations and warships.

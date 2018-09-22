@@ -1,0 +1,11 @@
+Plasma (physics)
+
+Plasma is a state of matter. The three other common states of matter are solids, liquids and gases, so plasma is sometimes called the fourth state of matter. 
+
+Plasma is created by adding energy to a gas so that some of its electrons leave its atoms. This is called ionization. It results in negatively charged electrons, and positively charged ions. Unlike the other states of matter, the charged particles in a plasma will react strongly to electric and magnetic fields (i.e. electromagnetic fields). If a plasma loses heat, the ions will re-form into a gas, emitting the energy which had caused them to ionize.
+
+Over 99% of the matter in the visible universe is believed to be plasma. When the atoms in a gas are broken up, the pieces are called electrons and ions. Because they have an electric charge, they are pulled together or pushed apart by electric fields and magnetic fields. This makes a plasma act differently than a gas. For example, magnetic fields can be used to hold a plasma, but not to hold a gas. Plasma is a better conductor of electricity than copper.
+
+Plasma is usually very hot, because it takes very high temperatures to break the bonds between electrons and the nuclei of the atoms. Sometimes plasmas can have very high pressure, like in stars. Stars (including the Sun) are mostly made of plasma. Plasmas can also have very low pressure, like in outer space.
+
+On Earth, lightning makes plasma. Artificial (man-made) uses of plasma include fluorescent lightbulbs, neon signs, and plasma displays used for television or computer screens, as well as plasma lamps and globes which are a popular children's toy and room decoration. Scientists are experimenting with plasma to make a new kind of nuclear power, called fusion, which would be much better and safer than ordinary nuclear power, and would produce much less radioactive waste.

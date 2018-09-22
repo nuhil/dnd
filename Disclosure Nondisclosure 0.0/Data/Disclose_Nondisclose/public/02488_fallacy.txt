@@ -1,0 +1,15 @@
+Fallacy
+
+A fallacy is an incorrect argument in logic and rhetoric. It gives a result which is not valid or lacks soundness. Fallacies are either formal fallacies or informal fallacies.
+
+A formal fallacy is an error in logic. This shows in the argument's form. All formal fallacies are types of non sequiturs (the conclusion does not follow from the premises.)
+
+
+
+Informal fallacies – arguments that are fallacious for reasons other than structural flaws. They usually need examination of the argument's content. This is a list of examples:
+
+Faulty generalizations – reach a conclusion from weak premises. Unlike fallacies of relevance, in fallacies of defective induction, the premises are related to the conclusions yet only weakly buttress the conclusions. A faulty generalization is thus produced.
+
+A red herring fallacy is an error in logic where a proposition is, or is intended to be, misleading in order to make irrelevant or false inferences. In the general case any logical inference based on fake arguments, intended to replace the lack of real arguments or to replace implicitly the subject of the discussion.
+
+Red herring – argument given in response to another argument, which is irrelevant and draws attention away from the subject of argument. "See also irrelevant conclusion."

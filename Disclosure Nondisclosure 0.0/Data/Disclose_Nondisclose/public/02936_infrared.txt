@@ -1,0 +1,9 @@
+Infrared
+
+Infrared (IR) radiation is a type of electromagnetic radiation (a wave with electricity) . The wave is longer than light which humans can see and shorter than microwaves. The word "infrared" means "below red". It comes from the Latin word "infra" (meaning "below") and the English word "red". (Infrared light has a frequency "below" the frequency of red light.) Red light has the longest wavelength that human eyes can see. Infrared waves cannot be seen by the eye. The infrared wave is between 800 nm and 1 mm. People sense infrared as heat. 
+
+Most remote controls use infrared to send the control signals. Many missiles for anti-aircraft warfare find their target by infrared.
+
+Before Bluetooth was invented, some computers, personal digital assistants, and mobile phones were using the infrared technology to send files to other devices. Bluetooth replaced infrared in the early 2000's. Infrared is limited by the need to have both devices in a "line of sight" with each other.
+
+Infrared lasers are used to provide the light for optical fiber communications systems. Infrared light with a wavelength around 1,330 nm (least dispersion) or 1,550 nm (best transmission) are the best choices for standard silica fibers.

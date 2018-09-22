@@ -1,0 +1,32 @@
+Newton's laws of motion
+
+Isaac Newton (1642–1727), the father of the study of dynamics – the study of motion – developed three laws that are the foundation of classical mechanics. They are believed to be true because the results of tests done by scientists agree with the laws he produced.
+
+
+A "uniform velocity" means that an object moves at a constant speed without changing direction (i.e. in a straight line). A "net force" means that the forces acting on the object are not balanced. In other words, the first law states two things:
+
+The first part states that a table resting on the ground will not move unless pushed. Although gravity is acting on the table, pulling it down, there is a "reaction force" from the ground which is pushing it back. The forces acting on the table are "balanced", so the object will not move.
+
+The second part is harder to understand. A ball rolling along a flat surface will slow down and eventually come to a halt. But this is because of friction, which is a force that slows the ball down. A ball rolling down a slope is also affected by friction, but the force of gravity that causes it to move is stronger. In a place without the forces of friction, air resistance and gravity (e.g. in outer space) a moving object would keep on moving in a straight line if there were no force to slow it down or change its direction.
+
+
+Newton's second law says that acceleration of a particle is dependent on the forces acting upon the particle and the particle's mass. For a given particle, if the net force is increased, the acceleration is increased. For a given net force, the more mass a particle has, the less acceleration it has. 
+
+For example, weight is a force that we feel on Earth, caused by the gravity. The weight on a particle is given by
+where is the mass of the particle and is the local gravitational acceleration (not to be confused with "G", the universal gravitational constant), roughly equal to 9.8 meters per second (32 feet per second) on Earth.
+
+We can express Newton's second law in terms of momentum. The momentum of a particle is defined as the product of its mass and velocity :
+The acceleration of a particle is the time derivative of its velocity :
+Therefore,
+Thus, we have another way of stating Newton's second law:
+
+In classical mechanics, the two forms of the second law, formula_1 and formula_6, are completely equivalent. Note that we assume that the mass of a particle does not change.
+
+
+This is best understood with billiard balls, where you can easily see the action/reaction pairs of forces. Likewise, when you kick a football, not only does the ball move, but you feel a force on your foot.
+
+The size of the forces on the first object equals the size of the force on the second object. The direction of the force on the first object is opposite to the direction of the force on the second object. Forces always come in pairs - equal and opposite action-reaction force pairs. 
+
+A variety of action-reaction force pairs are evident in nature. Consider the propulsion of a fish through the water. A fish uses its fins to push water backwards. But a push on the water will only serve to accelerate the water. Since forces result from mutual interactions, the water must also be pushing the fish forwards, propelling the fish through the water. The size of the force on the water equals the size of the force on the fish; the direction of the force on the water (backwards) is opposite the direction of the force on the fish (forwards). For every action, there is an equal (in size) and opposite (in direction) reaction force. Action-reaction force pairs make it possible for fish to swim.
+
+Consider the motion of a car on the way to school. A car has wheels which spin forwards. As the wheels spin forwards, they grip the road and push the road backwards. Since forces result from mutual interactions, the road must also be pushing the wheels forward. The size of the force on the road equals the size of the force on the wheels (or car); the direction of the force on the road (backwards) is opposite the direction of the force on the wheels (forwards). For every action, there is an equal (in size) and opposite (in direction) reaction. Action-reaction force pairs make it possible for cars to move along a roadway surface.

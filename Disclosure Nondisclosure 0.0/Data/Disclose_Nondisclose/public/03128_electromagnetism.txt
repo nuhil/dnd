@@ -1,0 +1,27 @@
+Electromagnetism
+
+Electromagnetism is the study of the electromagnetic field. The electromagnetic field pushes or pulls anything that has an electric charge. The electromagnetic field affects all of space.
+
+An electric field is an area where charged particles will feel an electric force. The units used to measure electric fields are newtons per coulomb. Electromagnetism is closely related to both electricity and magnetism because both involve the movement of electrons.
+
+Electric fields can be drawn as arrows. The arrows point which way a positive particle, like a proton, will be pushed if it's in the field. Negative particles, like electrons, will go in the opposite direction as the arrows. In an electric field, arrows will point away from positive particles, and towards negative ones. So, a proton in an electric field would move away from another proton, or towards an electron.
+
+A magnetic field is a part of the electric field that only exerts a force on moving charges.
+
+Through electromagnetic induction, a changing magnetic field can produce an electric field. This concept is used to make electric generators, induction motors, and transformers work. Since the two types of fields were dependent on each other, the two are thought to be one. Together they are called the electromagnetic field.
+
+The electromagnetic force is one of the fundamental forces of nature. The electromagnetic force is the force that causes an attraction between electrons and the positive nucleus. All forces between atoms are caused by the electromagnetic force.
+
+The electromagnetic radiation is thought to be both a particle and a wave. This is because it sometimes acts like a particle and sometimes acts like a wave. To make things easier we can think of an electromagnetic wave as a stream of photons (symbol γ).
+
+A photon is an elementary particle. It is the particle that light is made up of. Photons also make up all other types of electromagnetic radiation such as gamma rays, X-rays, and UV rays. The idea of photons was thought up by Einstein. Using his theory for the photoelectric effect, Einstein said that light existed in small "packets" or parcels which he called photons.
+
+Photons have energy and momentum. When two electromagnetic fields act on each other, they switch photons. So photons carry the electromagnetic force between charged objects. Photons are also known as messenger particles in physics because these particles often carry messages between objects. Photons send messages saying "come closer" or "go away" depending on the charges of the objects that are being looked at. If a force exists while time passes, then photons are being exchanged during that time.
+
+Fundamental electromagnetic interactions occur between any two particles that have an electric charge. These interactions involve the exchange or production of photons. Thus, photons are the carrier particles of electromagnetic interactions.
+
+Electromagnetic decay processes can often be recognized by the fact that they produce one or more photons (also known as gamma rays). They proceed less rapidly than strong decay processes with comparable mass differences, but more rapidly than comparable weak decays.
+
+In 1600, William Gilbert said that electricity and magnetism were two different effects in his book "De Magnete". In 1820 Hans Christian Ørsted proved the link between electricity and magnetism. Another scientist, Andre-Marie Ampere then used mathematics in electromagnetism. Many physicists soon developed a theory of electromagnetism now known as classical electromagnetism. James Clerk Maxwell brought everything together into one theory of electromagnetism. This type of electromagnetism was based on Maxwell's equations and the Lorentz force law. Maxwell's studies showed what light actually was. Maxwell's work did not work with classical mechanics because he said that the speed of light was always constant. It only depended on the permeability of the substance it was traveling through. This led to the development of the theory of special relativity by Einstein.
+
+Albert Einstein's work with the photoelectric effect and Max Planck's work with black body radiation did not work with the traditional view of light as a continuous wave. This problem would be solved after the development of quantum mechanics in 1925. This development led to the development of quantum electrodynamics which was developed by Richard Feynman and Julian Schwinger. Quantum electrodynamics was able to describe the interactions particles in detail.

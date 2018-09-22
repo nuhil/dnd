@@ -1,0 +1,11 @@
+Cold
+
+Cold is a relative term used in comparison with the adjective warm (opposite of cold). Because it is relative, there is no range in coldness. The temperatures in the winter season are often categorized as being cold. Cold is the opposite of hot. 
+
+The coldest possible temperature is −273.15 °C, which can be expressed as about -459.67 °F on the Fahrenheit scale. This is called absolute zero. Absolute zero is also 0 K on the Kelvin scale and 0 °R on the Rankine scale
+
+Cooling is when an object gets cold, or lowers in temperature. This can happen by taking away heat, or by putting something in a place with a lower temperature. Fluids used to cool objects are called coolants.
+
+Air cooling making the temperature of an object lower using air. This will only work if the air is at a lower temperature than the object. The process will work better if there is more surface area on the object or if the item's mass can be made smaller.
+
+Other ways to cool objects include using ice, dry ice, or liquid nitrogen. This works by convection; the heat is taken from the relatively warm object to the relatively cold coolant.

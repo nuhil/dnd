@@ -1,0 +1,18 @@
+Organic compound
+
+Organic compounds are carbon-based compounds. Organic compounds contain carbon bonds in which at least one carbon atom is covalently linked to an atom of another type (usually hydrogen, oxygen or nitrogen). Most polymers are organic compounds.
+
+The name "" is a historical name from the 19th century.
+
+People believed that only living things could make organic compounds and "dead" things (such as minerals) could make inorganic compounds. However, Friedrich Wöhler proved this wrong because certain compounds in urine were thought to be inorganic, but urine came from a living thing.
+There are natural organic compounds, and synthetic ones. Their structure may be described by using names, and making diagrams. 
+
+One way of showing the molecule is by drawing its structural formula. Because molecules can have complicated structures, people have made ways to show them in simple language. One way is to use line diagrams. Each atom is shown by a letter, and connected by a line to each atom with which it is has a covalent bond. One line means a single bond, two lines means a double bond and so on. 
+
+Because there is in an infinite number of possible organic compounds, language is needed to give a unique name to each one. The International Union of Pure and Applied Chemistry, or IUPAC, made a system for doing this. Although an IUPAC name makes every single possible molecule unique, the names are often long and complicated, so in everyday life, "trivial" names--unofficial but widely understood names--are used, such as the trivial names Paracetamol, Tylenol, and Acetaminophen, which are used for a compound whose IUPAC name is "N-(4-hydroxyphenyl) acetamide". Some of these trivial names are trademarks.
+
+Natural compounds are compounds made by plants or animals. These could also be made in a lab, but many of these compounds are taken from nature because it is easier and less expensive to do it that way. Commonnatural compounds are: amino acids, proteins, carbohydrates, many antibiotics like Penicillin and Amoxicillin.
+
+Synthetic compounds are those made by people. Sometimes, this is done by taking something natural and changing the molecule in a small way, such as making glycerin from vegetable oils. Other compounds are synthesized in long, complicated reactions with many steps. Plastics are sometimes mostly natural, and other kinds are manufactured.
+
+Since a compound is often first discovered in nature instead of being made on purpose in a lab, people may know the compound exists, and even know what it does sometimes, but not know exactly what atoms it is made of and how it is arranged. There are several ways of taking an unknown compound and finding out this structure:

@@ -1,0 +1,50 @@
+Central processing unit
+
+A central processing unit (CPU) is an important part of every computer. The CPU sends signals to control the other parts of the computer, almost like how a brain controls a body.
+
+The CPU is an electronic machine that works on a list of computer things to do, called "instructions". It reads the list of instructions and does ("executes") each one in order. A list of instructions that a CPU can run is a computer program.
+
+The speed that a CPU works at is measured in hertz (Hz). Modern processors often run so fast that gigahertz (GHz) is used instead. One gigahertz is one billion cycles per second.
+
+Most CPUs used in desktop (home) computers are made by either Intel or Advanced Micro Devices (usually shortened to AMD). Some other companies that make CPUs are ARM, IBM, and Sun Microsystems. Most of their CPUs are used in embedded systems for more specialized things, like in mobile phones, cars, game consoles, or in the military. 
+
+In the 20th century engineers invented many different computer architectures. Nowadays most desktop computers use either 32-bit CPUs or 64-bit CPUs. The instructions in a 32-bit CPU are good at handling data that is 32 bits in size (most instructions "think" in 32 bits in a 32-bit CPU). Likewise, a 64-bit CPU is good at handling data that is 64 bits in size (and often good at handling 32-bit data too). The size of data that a CPU handles best is often called the "word size" of the CPU. Many old CPUs from the 70s, 80s and early 90s (and some modern small CPUs) have an 8-bit or 16-bit word size. When CPUs were invented in the middle 20th century they had many different word sizes. Some had different word sizes for instructions and data. The less popular word sizes later stopped being used. 
+Most CPUs are microprocessors. This means that the CPU is just a single chip. Some chips with microprocessors inside them also contain other components, and are complete single-chip "computers". This is called a microcontroller.
+
+When the CPU runs a computer program, it needs somewhere to store the data that the instructions operate on (the data that they read and write). This storage is called a "register." A CPU usually has many registers. Registers must be very fast to access (to read and write). Therefore, they are part of the CPU chip itself.
+
+Storing all data in registers would make most CPUs too complicated (and very expensive). Therefore, registers usually only store the data that the CPU is working on "right now". The rest of the data used by the program is stored in RAM (memory). Except in microcontrollers, RAM is usually stored outside the CPU in separate chips.
+
+When the CPU wants to read or write data in RAM, it outputs an "address" to that data. Each byte in RAM has a memory address. The size of addresses is often the same as the word size: A 32-bit CPU uses 32-bit addresses, etc. However, smaller CPUs, like 8-bit CPUs, often use addresses that are larger than the word size. Otherwise the maximum program length would be too short.
+
+Because the size of addresses is limited, the maximum amount of memory is also limited. 32-bit processors can usually only handle up to 4 GB of RAM. This is the number of different bytes that can be selected using a 32-bit address (each bit can have two values—0 and 1—and 2 bytes is 4 GB). A 64-bit processor might be able to handle up to 16 EB of RAM (16 exabytes, around 16 billion GB, or 16 billion billion bytes). The operating system may limit it to using smaller amounts.
+
+The information that is stored in RAM is usually volatile. This means that it will disappear if the computer is turned off.
+
+On modern computers, RAM is much slower than registers, so accessing RAM slows down programs. To speed up memory accesses, a faster type of memory called a "cache" is often put between the RAM and the main parts of the CPU. The cache is usually a part of the CPU chip itself, and is much more expensive per byte than RAM. The cache stores the same data as RAM, but is usually much smaller. Therefore, all the data used by the program might not fit in the cache. The cache tries to store data that is likely to be used a lot. Examples include recently used data and data close in memory to recently used data.
+
+Often it makes sense to have a "cache for the cache", just as it makes sense to have a cache for RAM. In "multi-level caching", there are many caches, called the L1 cache, the L2 cache, and so on. The L1 cache is the fastest (and most expensive per byte) cache and is "closest" to the CPU. The L2 cache is one step away and is slower than the L1 cache, etc. The L1 cache can often be viewed as a cache for the L2 cache, etc.
+
+Computer buses are the wires used by the CPU to communicate with RAM and other components in the computer. Almost all CPUs have at least a "data bus" - used to read and write data - and an "address bus" - used to output addresses. Other buses inside the CPU carry data to different parts of the CPU.
+
+An instruction set (also called an ISA - Instruction Set Architecture) is a language understood directly by a particular CPU. These languages are also called machine code or binary. They say how you tell the CPU to do different things, like loading data from memory into a register, or adding the values from two registers. Each instruction in an instruction set has an encoding, which is how the instruction is written as a sequence of bits.
+
+Programs written in programming languages like C and C++ can't be run directly by the CPU. They must be translated into machine code before the CPU can run them. A compiler is a computer program that does this translation.
+
+Machine code is just a sequence of 0s and 1s, which makes it difficult for humans to read it. To make it more readable, machine code programs are usually written in "assembly language". Assembly language uses text instead of 0s and 1s: You might write "LD A,0" to load the value 0 into register A for example. A program that translates assembly language into machine code is called an "assembler".
+
+Here are some of the basic things a CPU can do:
+
+
+Even very complicated programs can be made by combining many simple instructions like these. This is possible because each instruction takes a very short time to happen. Many CPUs today can do more than 1 billion (1,000,000,000) instructions in a single second. In general, the more a CPU can do in a given time, the faster it is. One way to measure a processor's speed is MIPS (Million Instructions Per Second). Flops (Floating-point operations per second) and CPU clock speed (usually measured in gigahertz) are also ways to measure how much work a processor can do in a certain time.
+
+A CPU is built out of logic gates; it has no moving parts. The CPU of a computer is connected electronically to other parts of the computer, like the video card, or the BIOS. A computer program can control these peripherals by reading or writing numbers to special places in the computer's memory.
+
+Each instruction executed by a CPU is usually done in many steps. For example, the steps to run an instruction "INC A" (increase the value stored in register A by one) on a simple CPU could be this:
+
+Different parts of the CPU do these different things. Often it is possible to run some steps from different instructions at the same time, which makes the CPU faster. For example, we can read an instruction from memory at the same time that we decode another instruction, since those steps use different modules. This can be thought of as having many instructions "inside the pipeline" at once. In the best case, all of the modules are working on different instructions at once, but this is not always possible.
+Modern CPUs often use a memory management unit (MMU). An MMU is a component that translates addresses from the CPU to (usually) different RAM addresses. When using an MMU, the addresses used in a program are (usually) not the "real" addresses where the data is stored. This is called "virtual" (the opposite of "real") memory. A few of the reasons why it is good to have an MMU are listed below:
+
+Multi-core processors became common in the early 21st century. This means that they have many processors built on to the same chip so that they can run many instructions at once. Some processors may have up to thirty-two cores, like the AMD Epyc 7601.
+
+The following companies make computer CPUs:

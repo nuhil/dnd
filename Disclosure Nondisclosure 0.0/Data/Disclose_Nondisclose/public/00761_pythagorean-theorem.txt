@@ -1,0 +1,29 @@
+Pythagorean theorem
+
+In mathematics, the Pythagorean theorem or Pythagoras's theorem is a statement about the sides of a right triangle.
+
+One of the angles of a right triangle is always equal to 90 degrees. This angle is the right angle. The two sides next to the right angle are called the legs and the other side is called the hypotenuse. The hypotenuse is the side opposite to the right angle, and it is always the longest side.
+
+The Pythagorean theorem says that the area of a square on the hypotenuse is equal to the sum of the areas of the squares on the legs. In this picture, the area of the blue square added to the area of the red square makes the area of the purple square. It was named after the Greek mathematician Pythagoras:
+
+If the lengths of the legs are "a" and "b", and the length of the hypotenuse is "c", then, formula_1.
+
+There are many different proofs of this theorem. They fall into four categories:
+
+One proof of the Pythagorean theorem was found by a Greek mathematician, Eudoxus of Cnidus.
+
+The proof uses three lemma (mathematics):
+
+The proof is:
+
+We can get another proof of the Pythagorean theorem by using similar triangles.
+
+From the image, we know that formula_4. And by replacing equations (1) and (2):
+
+Multiplying by c:
+
+Pythagorean Triples or Triplets are three whole numbers which fit the equation formula_1.
+
+The triangle with sides of 3, 4, and 5 is a well known example. If a=3 and b=4, then formula_8 because formula_9. This can also be shown as formula_10
+
+The three-four-five triangle works for all multiples of 3, 4, and 5. In other words, numbers such as 6, 8, 10 or 30, 40 and 50 are also Pythagorean triples. Another example of a triple is the 12-5-13 triangle, because formula_11

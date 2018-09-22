@@ -1,0 +1,52 @@
+Vector
+
+A vector is a mathematical object that has a size, called the "magnitude", and a direction.
+
+For example, a vector would be used to show the distance and direction something moved in. If you ask for directions, and a person says "Walk one kilometer towards North", that's a vector. If he'd say "Walk one kilometer", without showing a direction, it would be a scalar.
+
+We usually draw vectors as arrows. The length of the arrow is proportional to the vector's magnitude. The direction in which the arrow points is the vector's direction.
+
+
+
+
+The Head to Tail method of adding vectors is useful for doing an estimate on paper of the result of adding two vectors. To do it:
+
+It's called the "Head to Tail" method, because each head from the previous vector leads in to the tail of the next one.
+
+See link for an example created with Java.
+
+Using the component form to add two vectors literally means adding the components of the vectors to create a new vector. For example, let a and b be two two-dimensional vectors. These vectors can be written in terms of their components.
+
+formula_1
+
+formula_2
+
+Suppose c is the sum of these two vectors, so that c = a + b. This means that formula_3.
+
+Here is an example of addition of two vectors, using their component forms.
+
+formula_4
+
+formula_5
+
+formula_6
+
+This method works for all vectors, not just two dimensional ones.
+
+The dot product is one method to multiply vectors. It produces a scalar. It uses component form:
+
+formula_10
+
+The cross product is another method to multiply vectors. It produces another vector. Using component form:
+
+formula_11
+
+Here formula_12 means the length of formula_13 and formula_14 is the unit vector at right angles to both formula_13 and formula_16.
+
+To multiply a vector by a scalar (a normal number), you multiply the number by each component of the vector:
+
+formula_17
+
+An example of this is
+
+formula_18

@@ -1,0 +1,16 @@
+Data compression
+
+Data compression is a set of steps for packing data into a smaller space, while allowing for the original data to be seen again. Compression is a two-way process: a compression algorithm can be used to make a data package smaller, but it can also be run the other way, to decompress the package into its original form. Data compression is useful in computing to save disk space, or to reduce the bandwidth used when sending data (e.g., over the internet). 
+
+Lossless compression packs data in such a way that the compressed package can be decompressed, and the data can be pulled out exactly the same as it went in. This is very important for computer programs and archives, since even a very small change in a computer program will make it unusable.
+
+This type of compression works by reducing how much waste space is in a piece of data. For example, if you receive a data package which contains "AAAAABBBB", you could compress that into "5A4B", which has the same meaning but takes up less space. This type of compression is called "run-length encoding", because you define how long the "run" of a character is. In the above example, there are two runs: a run of 5 A's, and another of 4 B's.
+
+The problem with run-length encoding is that it only works on long pieces of the same value of data. If you receive a package with "ABBAABAAB" inside, that can be compressed into "1A2B2A1B2A1B"; but that's longer than the original! In this case, there's another method that can be used: checking how often a particular value comes up in the whole data package. This is often called frequency compression.
+
+The most common kind of frequency compression is called Huffman coding, after the scientist who came up with the idea. The basic plan is to give each distinct value in a piece of data a code: values that crop up all the time get shorter codes, and values that only show up once or twice get longer codes.
+
+
+For some types of data, lossy compression can go a lot further; this is most often the case with media files, like music and images. Lossy compression throws out some of the data so that there's less to store. Beyond a certain level of fine-grain detail, or past a particularly high tone, people do not notice if the information is missing. As a result, it can simply be removed from the data.
+
+Of course, this will not work for computer programs and other such data where every piece is important; throwing away large pieces of a computer program is generally unhealthy for the program.

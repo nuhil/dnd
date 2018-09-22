@@ -1,0 +1,23 @@
+Light bulb
+
+A light bulb (also spelled lightbulb) is a device that produces light from electricity. In addition to lighting a dark space, they can be used to show an electronic device is on, to direct traffic, for heat, and many other purposes. 
+
+Early people used candles and oil lamps for light. Crude incandescent lights were made in the early and middle 19th century but had little use. Improved vacuum pumps and better materials made them shine longer and brighter late in the century. Electric power stations brought electricity to urban and later rural areas to power them. Later gas discharge lights, including fluorescent lights, use less electricity to make more light.
+
+There are several kinds of light bulbs: 
+
+Light bulbs convert electricity into light and heat. Except for heat lamps, the heat is considered waste. A light bulb that produces more light and less heat is more efficient.
+
+The incandescent light bulb turns electricity into light by sending the electric current through a thin wire called a filament. Filaments are made up mostly of tungsten, a metal. The resistance of the filament heats the bulb up. Eventually the filament gets so hot that it glows, producing light. 
+
+The filament needs to be protected from oxygen in the air, so it is inside the bulb, and the air in the bulb is either removed (a vacuum) or more often, replaced with a gas that doesn't affect anything, like neon or argon. Only about 3% of the energy that goes into an incandescent light bulb actually makes light, the rest makes heat. That's one of the reasons LED's are more efficient.
+
+This is the type of light bulb that Thomas Edison spent so much time on in the 1870s. It was the first light bulb that could be used in houses - it did not cost too much, and it worked well. For the first time, people did not have to burn something (candles, oil lamps, kerosene lamps, etc.) to make light. It was bright enough that people could read easily at night or do work. It was used to light stores and streets, and people could travel around after dark. This started the common use of electricity in homes and businesses. Tungsten filaments, developed in the 1900s, last longer and make a brighter light. They quickly replaced carbon ones.
+
+Fluorescent lamps are efficient, and only give off ¼ the amount of heat of an incandescent. They also last longer than incandescent but until the late 20th century were much bigger and did not fit into sockets for small overhead lights and lamps like an incandescent could.
+
+A fluorescent bulb is a glass tube usually filled with argon gas and a little bit of mercury. When turned on, the cathode heats up and sends out electrons. These hit the argon gas and the mercury. The argon gas makes a plasma which lets the electrons move around better. When the electrons hit a mercury atom it puts the molecule into a state where it has a lot of energy (stores the energy). The energetic state doesn't last very long, and when the energy is released, it lets out a photon. Photons from mercury are not visible like some other photons; they are ultraviolet. So there's a phosphor coating on the wall of the bulb. When the photon hits a phosphor molecule, it in turn puts that molecule into an excited state. When this phosphor releases energy, it lets out a photon that we can see, and light is made. Changing the type of phosphor can change the color we see, but usually fluorescent light bulbs are whiter than incandescent light bulbs, which are slightly yellow.
+
+An LED is made like electronics. It is a chip of semiconducting material. LED bulbs are more efficient and last much longer than either incandescent or fluorescent bulbs. Unlike fluorescent bulbs, LEDs do not use mercury, which is toxic. For several years LED bulbs were not as bright as the other kinds of lights, and cost more too.
+
+Most light bulbs fit into a socket. If the socket is turned on, there is electricity there, even if the bulb is out, so there is danger of electric shock. Most bulbs get very hot when they are turned on, and take some time to cool off. Most light bulbs are made of glass, which means that they can break easily. Fluorescent bulbs contain a small amount of mercury, if they break, be careful to not breathe the mercury vapor. With all light bulbs , the filament will eventually break and the bulb will need to be replaced.

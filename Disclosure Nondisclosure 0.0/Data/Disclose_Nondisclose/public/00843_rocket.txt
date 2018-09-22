@@ -1,0 +1,17 @@
+Rocket
+
+A rocket may be a missile, spacecraft, aircraft or other vehicle which is pushed by a rocket engine. Some rockets are manned (e.g. Saturn V). Other rockets, for example missiles, are unmanned. ("Manned" means that a person is in it; "unmanned" means that the machine can go without a person.) 
+
+Most rockets can be launched from the ground because exhaust thrust from the engine is bigger than the weight of the vehicle on Earth. Some are used to bring satellites into orbit. Some rockets such as ion thrusters are too weak and heavy to lift themselves. They work after other rockets bring them to outer space. 
+
+The rocket was invented by the Chinese while using gunpowder. The first rockets were shaped like arrows and were not very fast. Most rockets still work by fire. The fire makes hot exhaust gases that expand and shoot out the back. This makes the rocket go forward. 
+
+Most rockets still use solid fuel to make the fire. The biggest ones use liquid fuel because it makes a hotter fire so the rocket is more powerful. However, handling the liquid fuel safely is difficult and expensive. Some satellite launch vehicles use both.
+
+Rockets are also used for fireworks and weapons and to control moves in outer space.
+
+Manned rockets, like other manned flying machines, are designed to limit their acceleration and vibration to protect the crew. Unmanned rockets however are not bound by the limits of humans. 
+
+Some rockets go faster than the speed of sound (Mach 1) and may reach speeds of up to 30'000 km/hr (Mach 25) when in orbit. 
+
+Yuri Gagarin was a Soviet cosmonaut who, on 12 April 1961, became the first human to journey into outer space. He was in a rocket launched by the Soviet Union.

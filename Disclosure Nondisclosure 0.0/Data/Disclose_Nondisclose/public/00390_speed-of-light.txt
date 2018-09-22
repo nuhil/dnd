@@ -1,0 +1,42 @@
+Speed of light
+
+The speed of light in empty space is a universal physical constant. This means it is the same everywhere in empty space and does not change with time. Physicists often use the letter to denote the speed of light in empty space (vacuum). It has the value 299,792,458 meters per second (or about 186,282.397 miles per second). A photon (particle of light) travels at this speed in a vacuum. 
+
+According to special relativity, is the maximum speed at which all energy, matter, and physical information in the universe can travel. It is the speed of all massless particles such as photons, and associated fields—including electromagnetic radiation such as light—in a vacuum. 
+
+It is predicted by the current theory to be the speed of gravity (that is, gravitational waves). Such particles and waves travel at regardless of the motion of the source or the inertial frame of reference of the observer. In the theory of relativity, interrelates space and time, and appears in the famous equation of mass–energy equivalence "E" = "mc".
+
+The theory of relativity is based on the prediction, so far upheld by observations, that the measured speed of light in a vacuum is the same whether or not the source of the light and the person doing the measuring are moving relative to each other. This is sometimes expressed as "the speed of light is independent of the reference frame".
+
+This behavior is different from our common ideas about motion as shown by this example:
+
+George is standing on the ground next to some train tracks. There is a train rushing by at 30 mph. George throws a baseball at 90 mph in the direction the train is moving. Tom, a passenger on the train, has a device (like a radar gun) to measure throwing speeds. Because he is on the train, Tom is already moving at 30 mph in the direction of the throw, so Tom measures the speed of the ball as only 60 mph.
+
+In other words, the speed of the baseball, as measured by Tom on the train, depends on the speed of the train.
+
+In the example above, the train was moving at 1/3 the speed of the ball, and the speed of the ball as measured on the train was 2/3 of the throwing speed as measured on the ground.
+
+Now, repeat the experiment with light instead of a baseball, that is, George has a flashlight instead of throwing a baseball. George and Tom both have devices that are the same to measure the speed of light(instead of the radar gun in the baseball example).
+
+George is standing on the ground next to some train tracks. There is a train rushing by at 1/3 the speed of light. George flashes a light beam in the direction the train is moving. George measures the speed of light as 186,000 miles per second. Tom, a passenger on the train, measures the speed of the light beam. What speed does Tom measure?
+
+Intuitively you may think that the speed of the light from the flashlight as measured on the train should be 2/3 the speed measured on the ground, just like the speed of the baseball was 2/3. But in fact, the speed measured on the train is the full value, 186,000 miles per second not 124,000 miles per second.
+
+It sounds impossible, but that's what one measures. Part of the reason is that light is energy which acts and moves in ways very different than matter or solid objects such as a baseball.
+
+Maxwell's equations predicted the speed of light and confirmed Michael Faraday's idea that light was an electromagnetic wave (a way that energy moves). From these equations we find that the speed of light is related to the inverse of the square root of the permittivity of free space and the permeability of free space.
+
+A consequence of this fact is that nothing can go faster than the speed of light. Another consequence is that for objects that have mass, no matter how much energy is used to increase the speed of an object, it will get closer and closer but it will never reach the speed of light. These ideas were discovered in the early 1900s by Albert Einstein whose work completely changed our understanding of light.
+
+The index of refraction of a clear material is the ratio between the speed of light in a vacuum and the speed of light in that material.
+
+Ole Christensen Rømer used an astronomical measurement to make the first quantitative estimate of the speed of light. When measured from Earth, the periods of moons orbiting a distant planet are shorter when the Earth is approaching the planet than when the Earth is receding from it. The distance travelled by light from the planet (or its moon) to Earth is shorter when the Earth is at the point in its orbit that is closest to its planet than when the Earth is at the farthest point in its orbit, the difference in distance being the diameter of the Earth's orbit around the Sun. The observed change in the moon's orbital period is actually the difference in the time it takes light to traverse the shorter or longer distance. Rømer observed this effect for Jupiter's innermost moon Io and deduced that light takes 22 minutes to cross the diameter of the Earth's orbit.
+
+Another method is to use the aberration of light, discovered and explained by James Bradley in the 18th century. This effect results from the vector addition of the velocity of light arriving from a distant source (such as a star) and the velocity of its observer (see diagram on the right). A moving observer thus sees the light coming from a slightly different direction and consequently sees the source at a position shifted from its original position. Since the direction of the Earth's velocity changes continuously as the Earth orbits the Sun, this effect causes the apparent position of stars to move around. From the angular difference in the position of stars, it is possible to express the speed of light in terms of the Earth's velocity around the Sun. This, with the known length of a year, can be easily converted to the time needed to travel from the Sun to the Earth. In 1729, Bradley used this method to derive that light travelled 10,210 times faster than the Earth in its orbit (the modern figure is 10,066 times faster) or, equivalently, that it would take light 8 minutes 12 seconds to travel from the Sun to the Earth.
+
+Nowadays, the "light time for unit distance"—the inverse of "c" (1/c), expressed in seconds per astronomical unit—is measured by comparing the time for radio signals to reach different spacecraft in the Solar System. The position of spacecraft is calculated from the gravitational effects of the Sun and various planets. By combining many such measurements, a best fit value for the light time per unit distance is obtained. , the best estimate, as approved by the International Astronomical Union (IAU), is:
+The relative uncertainty in these measurements is 0.02 parts per billion (2), equivalent to the uncertainty in Earth-based measurements of length by interferometry. Since the metre is defined to be the length travelled by light in a certain time interval, the measurement of the light time for unit distance can also be interpreted as measuring the length of an AU in metres. The metre is considered to be a unit of proper length, whereas the AU is usually used as a unit of observed length in a given frame of reference.
+
+The finite speed of light is a major constraint on long-distance space travel. Supposing a journey to the other side of the Milky Way, the total time for a message and its reply would be about 200,000 years. Even more seriously, no spacecraft could travel faster than light, so all galactic-scale transport would be effectively one-way, and would take much longer than than any modern civilisation has existed.
+
+The speed of light can also be of concern over very short distances. In supercomputers, the speed of light imposes a limit on how quickly data can be sent between processors. If a processor operates at 1 gigahertz, a signal can only travel a maximum of about in a single cycle. Processors must therefore be placed close to each other to minimize communication latencies; this can cause difficulty with cooling. If clock frequencies continue to increase, the speed of light will eventually become a limiting factor for the internal design of single chips.

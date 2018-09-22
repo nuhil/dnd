@@ -1,0 +1,51 @@
+Snake
+
+Snakes are reptiles. They are part of the order Squamata. They don't have legs, voice, ears, and eyelids. Despite this, snakes are successful carnivores. There are at least 20 families,and about 500 genera and 3,400 species.
+
+They have a long, slender body, and are very mobile in their own way. Most of them live in the tropics. Very few snake species live beyond the Tropic of Cancer or Tropic of Capricorn, and only one species, the common viper ("Vipera berus") lives beyond the Arctic Circle. Their skin is covered with scales. They can see well enough, and they can taste scents with their tongues by flicking them in and out. They are very sensitive to vibrations in the ground.
+
+Though they do not have a voice, they can hiss. Most snakes live on the ground, others live in the water, and a few live under the soil. Like all reptiles, snakes need the heat of the sun to control their body temperature. That is why most snakes are in the warm, humid tropical regions of the world.
+
+They range in size from the tiny, 10.4 cm-long thread snake to the reticulated python of in length. The fossil "Titanoboa" was long.
+
+Snakes are thought to have evolved from lizards. The earliest snake fossils are from the Lower Cretaceous. A wide range of snakes appeared during the Paleocene period ("c" 66 to 56 million years ago).
+
+The Squamata are definitely a monophyletic group: it is a sister group to the Tuatara. Judged by their fossil record, the squamates were present in the Mesozoic, but had a minor place in the land ecology. Three of the six lines are recorded first in the Upper Jurassic, the others in the Cretaceous. Probably all, certainly the lizards, arose earlier in the Jurassic. The Mosasaurs of the Upper Cretaceous were by far the most successful of all the lizards, becoming the top predator in their ecosystem.
+
+Although snakes and lizards look very different, "neither is a proper clade". Snakes did descend from early lizards, not once, but a number of times. 
+
+There is a monophyletic clade within the Squamata. It is the Toxicofera. It includes all venomous snakes and lizards, and many related non-venomous species. The evidence for this is in recent molecular analyses.
+
+The fossil of a primitive snake from the Lower Cretaceous has been found. It lived about 113 million ears ago. It had rather small front and rear legs. Several other fossil snakes have been found with small rear legs, but this is the first one with all four legs. The snake, "Tetrapodophis amplectus", lived on land and was adapted to burrowing. The researcher said there were "a lot of very advanced snake features, including its hooked teeth, flexible jaw and spine – and even snake-like scales. And there's the gut contents – it's swallowed another vertebrate. It was preying on other animals, which is a snake feature". The snake came from the Crato Formation in Brazil, and lay in a private collection for many years. It was re-discovered in a museum at Solnhofen, Bavaria. 
+
+Most snakes are nonvenomous. Those that have venom use it mainly to kill and subdue prey rather than for self-defense. Some have venom potent enough to cause painful injury or death to humans. Nonvenomous snakes either swallow prey alive or kill by squeezing.
+
+Two taxonomic families are entirely venomous: 
+
+A third family with the "rear-fanged" snakes (and most of the other snake species) is the
+
+Many snakes have skulls with more joints than their lizard ancestors. This helps them swallow prey much larger than their heads. The bones of the head and jaws can move apart to let large prey move into their body. The throat, stomach and intestines can also expand in a most extraordinary manner. In this was, a thin-looking snake can swallow and digest a larger animal.
+
+To fit their narrow bodies, snakes' paired organs (such as kidneys) are one in front of the other instead of side by side, and most snakes have only one working lung. Some species have a pelvic girdle with a pair of vestigial claws on either side of the cloaca. This is a relic of the legs which do not appear in modern snakes.
+
+Snakes need to shed their skin regularly while they grow. This is called moulting. Snakes shed their skin by rubbing their head against something rough and hard, like a piece of wood or a rock. This causes the skin, which is already stretched, to split open. The snake keeps on rubbing its skin on various rough objects until the skin peels off from its head. This lets it crawl out, turning the skin inside out.
+
+All snakes are carnivorous; they eat other animals. Some are venomous; they inject poison by grooves in their teeth. Constrictors are not venomous, so they squeeze their prey to death. Snakes swallow their food whole, and they cannot chew. Because they are cold-blooded, they do not have to eat so regularly as mammals. People who own pet snakes feed them as infrequently as once per month. Some snakes can go as long as six months without a good meal.
+
+The lack of limbs does not impede the movement of snakes. They have developed several different modes of locomotion to deal with particular environments. Each mode of snake locomotion is discrete and distinct from the others.
+
+Lateral undulation is the sole mode of aquatic locomotion, and the most common mode of terrestrial locomotion. In this mode, the body of the snake alternately flexes to the left and right, resulting in a series of rearward-moving "waves". While this movement appears rapid, snakes have rarely been documented moving faster than two body-lengths per second, often much less. This mode of movement has the same net cost of transport (calories burned per meter moved) as running in lizards of the same mass.
+
+Terrestrial lateral undulation is the most common mode of terrestrial locomotion for most snake species. In this mode, the posteriorly moving waves push against contact points in the environment, such as rocks, twigs, irregularities in the soil, etc. Each of these environmental objects, in turn, generates a reaction force directed forward and towards the midline of the snake, resulting in forward thrust while the lateral components cancel out. The speed of this movement depends upon the density of push-points in the environment, with a medium density of about 8 along the snake's length being ideal. The wave speed is precisely the same as the snake speed, and as a result, every point on the snake's body follows the path of the point ahead of it, allowing snakes to move through very dense vegetation and small openings.
+
+Snakes move forward in water by moving their bodies in a wave-like motion. The waves become larger as they move down the snake's body, and the wave travels backwards faster than the snake moves forwards. Thrust is got by pushing their body against the water: this results in the observed slip. In spite of overall similarities, studies show that the pattern of muscle activation is different in aquatic versus terrestrial lateral undulation, which justifies calling them separate modes. All snakes can laterally undulate forward (with backward-moving waves), but only sea snakes have been observed reversing the motion (moving backwards with forward-moving waves).
+
+This is most often used by colubroid snakes (colubrids, elapids, and vipers). They use it when the environment lacks anything firm to push against, such as a slick mud flat, or a sand dune. Sidewinding is a modified form of lateral undulation in which all of the body segments oriented in one direction remain in contact with the ground, while the other segments are lifted up. This results in a peculiar "rolling" motion. This mode of locomotion overcomes the slippery nature of sand or mud by pushing off with only static portions on the body, thereby minimizing slipping. The static nature of the contact points can be shown from the tracks of a sidewinding snake, which show each belly scale imprint, without any smearing. This mode of locomotion has very low caloric cost, less than ⅓ of the cost for a lizard or snake to move the same distance.
+
+When push-points are absent, but the space is too narrow for sidewinding, such as in tunnels, snakes rely on concertina locomotion. In this mode, the snake braces the back part of its body against the tunnel wall while the front of the snake extends and straightens. The front portion then flexes and forms an anchor point, and the back part is straightened and pulled forwards. This mode of locomotion is slow and very demanding, needing up to seven times the energy of laterally undulating over the same distance. This high cost is due to the repeated stops and starts of portions of the body as well as the need to use the muscles to brace against the tunnel walls.
+
+The slowest mode of snake locomotion is rectilinear locomotion, which is also the only one where the snake does not need to bend its body laterally, though it may do so when turning. In this mode, the belly scales are lifted and pulled forward before being placed down and the body pulled over them. Waves of movement and stasis pass posteriorly, resulting in a series of ripples in the skin. The ribs of the snake do not move in this mode of locomotion and this method is most often used by large pythons, boas, and vipers when stalking prey across open ground as the snake's movements are subtle and harder to detect by their prey in this manner.
+
+The movement of snakes in trees has only recently been studied. While on tree branches, snakes use several modes of locomotion depending on species and bark texture. In general, snakes will use a modified form of concertina locomotion on smooth branches, but will laterally undulate if contact points are available. Snakes move faster on small branches and when contact points are present, in contrast to limbed animals, which do better on large branches with little 'clutter'.
+
+Gliding snakes ("Chrysopelea") of Southeast Asia launch themselves from branch tips, spreading their ribs and laterally undulating as they glide between trees. These snakes can perform a controlled glide for hundreds of feet depending upon launch altitude and can even turn in midair.

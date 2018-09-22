@@ -1,0 +1,21 @@
+Linguistics
+
+Linguistics is the study of language. People who study language are called linguists.
+
+There are five main parts of linguistics: phonology (the study of sounds, or phonemes), morphology (the study of parts of words, like "un-" and "-ing"), syntax (the study of word order and how sentences are made), semantics (the study of the meaning of words), and pragmatics (the study of the unspoken meaning of speech that is separate from the literal meaning of what is said; for example if you were to say "I'm cold" when what you actually want is for someone to turn off the fan). 
+
+There are many ways to use linguistics every day. Some linguists are theoretical linguists, meaning they study the theory and ideas behind language, such as historical linguistics (the study of the history of language, and how it has changed), or sociolinguistics (the study of how different groups of people may use language differently). Some linguists are applied linguists, meaning they use linguistics to do things, such as forensic linguistics (which is used in crime investigations), or computational linguistics (which is used to help make computers understand languages, such as the iPhone's Siri application). 
+
+Linguistics in its broader context includes evolutionary linguistics, which considers the origins of language; historical linguistics, which explores language change; sociolinguistics, which looks at the relation between linguistic variation and social structures; psycholinguistics, which explores the representation and function of language in the mind; neurolinguistics, which looks at language processing in the brain; language acquisition, how children or adults acquire language; and discourse analysis, which involves the structure of texts and conversations.
+
+Although linguistics is the scientific study of language, a number of other intellectual disciplines are relevant to language and intersect with it. Semiotics, for example, is the general study of signs and symbols both within language and without. Literary theorists study the use of language in literature. Linguistics additionally draws on and informs work from such diverse fields as acoustics, anthropology, biology, computer science, human anatomy, informatics, neuroscience, philosophy, psychology, sociology, and speech-language pathology. Discourse analysis is the study of entire conversations or texts. 
+
+Linguistics studies one language next to another to find similar properties. Doing that makes it possible to find things shared by all the languages of the world, and also find out which languages are related to each other. Linguists who study how languages are structured and how they work are said to study theoretical linguistics.
+
+Another part of linguistics is involved in understanding how languages are used in society or in the world. Sociolinguistics studies how language is used in society, and historical linguistics studies how languages change over time and how languages were in the past. One part of historical linguistics is known as etymology, where people study the history of words. 
+
+The part of linguistics which aims to find out how languages works in the mind is known as psycholinguistics. 
+
+The study of language began in India with Pāṇini, the 5th century BC grammarian who wrote about the 3,959 rules of Sanskrit morphology, which described the different kinds of vowels and consonants Sanskrit had, as well as verb and noun classes. In the Middle East, Sibawayh (سیبویه) wrote a book about Arabic in 760 AD called "Al-kitab fi al-nahw" (الكتاب في النحو, "The Book on Grammar"); he was the first known author to talk about the difference between sounds and phonemes.
+
+Linguistics started in the western world as early as it did in the East, but western linguistics at that time was more like philosophy, and less the study of language. Plato was the first western philosopher to write about semantics in his "Cratylus" dialogue, where he argues that words represent concepts that are eternal and exist in the world of ideas, and the word "etymology" is first used to talk about the history behind a word's meaning.

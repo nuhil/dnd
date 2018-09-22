@@ -1,0 +1,32 @@
+Roman numeral
+
+Roman numerals are very important as we still use them today. A Roman numeral is the name for a number when it is written in the way the Romans used to write numbers.The Romans used a variety of numbers. 
+
+Roman numerals are not used very often today in the west. They are used to write the names of kings and queens, or popes. For example: Queen Elizabeth II. They may be used to write the year a number of a book or movie. 
+In general, the system is additive, which means that the numbers are added.
+
+As an example 'VI' represents the number 6, 'XIII' is 13.
+
+There is a simple rule, which generally avoids that more than three of the same symbols are added. It says that the lower value symbol which is directly before the higher one, is subtracted, and not added. This rule was used in Roman times, but not at all times. It is used since about the Middle Ages. This means that rather than writing 'IIII', it is preferable to write 'IV', for the number 4 or IX, for the number 9. Also note that the subtraction rule is only valid for the symbol which comes right beforehand in the sequence. This means that 99 is written XCIX, and not IC. 
+
+The Romans also used fractions. The most common base for fractions was 1/12, which in Latin is called "uncia". The word uncia transformed to the modern English word ounce. There are special names for fractions where the numerator is one less than the denominator, an example of this is <nowiki>"</nowiki>Dodrans<nowiki>"</nowiki> (de quadrans, formula_1). 
+
+It is very easy to write a number as a Roman numeral. Simply substract the largest possible Roman numeral, as many times as possible from the number. This system will result in a valid Roman numeral, but will not take the subtraction rule into account.
+Getting the number from the numeral is equally simple, by adding the values of the symbols.
+
+In general, the values for 5, 50, 500.. are not subtracted. The same number, with using the subtraction rule:
+There are two exceptions to the subtraction rule: WE STILL USE ROMAN NUMARAls today.
+Both of these exceptions can be combined: IIL instead of XLVIII for 48, IIC instead of XCVIII for 98.
+
+The system that is in use today is: whenever the same symbol is written four times, it is replaced by subtracting it from the next higher number (5,50,50,500). That way, "IV" is written instead of "IIII" (4), "XL" instead of "XXXX" (40), etc. 
+
+Usually only one number is subtracted, not two. So 8 is always "VIII" and never "IIX"
+
+Especially on clocks and watches, "IIII" can sometimes still be found. This is done partly because the "IIII" for the 4 o'clock position aesthetically balances the "VIII" for the 8 o'clock position. Also, some use it as a metaphor that IIII was commonplace in an period of time earlier than the idea of subtraction - IX - was introduced into writing Roman numerals. (4:00 comes earlier in the day than 9:00.)
+
+Proper form is to subtract only a value with the next lower power of 10. Thus, 900 is written "CM", but 990 would not be "XM" - properly, it is "CM" for the 900 portion and "XC" for the 90 portion, or "CMXC". Similarly, 999 would not be "IM" but rather "CMXCIX" - "CM" for the 900 portion, "XC" for the 90 portion, and "IX" for the 9 portion. Only values with 1's are ever used to subtract; 45 is properly "XLV", not "VL". 
+
+Notations in Roman numerals for numbers higher than 3,001 are rarely seen. One system uses "V" and "X" with bars over them to signify 5,000 and 10,000, respectively.
+So in the lists above, though 5000 etc may appear as V when writing it add a bar on top.
+
+Unicode has a code block called Number Forms, which also contains representations of Roman numerals, at the positions U+2160 to U+2188.

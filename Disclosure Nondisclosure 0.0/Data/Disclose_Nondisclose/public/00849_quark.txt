@@ -1,0 +1,15 @@
+Quark
+
+A quark is a tiny particle which makes up protons and neutrons. The atom is made up of protons, neutrons and electrons. It was once thought that neutrons, protons and electrons were fundamental particles. Fundamental particles cannot be broken up into anything smaller. After the invention of the particle accelerator, it was discovered that electrons are fundamental particles, but neutrons and protons are not. Neutrons and protons are made up of quarks, which are held together by Gluons.
+
+There are six types of quarks. The types are called flavours. The flavours are up, down, strange, charm, top, and bottom. Up, charm and top quarks have a charge of +, while down, strange and bottom quarks have a charge of -. Each quark has a matching antiquark. Antiquarks have a charge opposite to that of their quarks; meaning that up, charm and top antiquarks have a charge of - and that down, strange and bottom antiquarks have a charge of +.
+
+Only up and down quarks are found inside atoms of normal matter. Two up quarks and one down make a proton ( + - = +1 charge) while two down quarks and one up make a neutron ( - - = 0 charge). The other four flavours are not seen naturally on Earth, but they can be made in particle accelerators. Some of them may also exist inside of stars.
+
+When two or more quarks are held together by the strong nuclear force, the particle formed is called a hadron. Quarks that make the quantum number of hadrons are named 'valence quarks'. The two families of hadrons are baryons (made of three valence quarks) and mesons (which are made from a quark and an antiquark).
+
+When quarks are stretched farther and farther, the force that holds them together becomes bigger. When it comes to the point when quarks are separated, they form two sets of quarks, because the energy that is put into trying to separate them is enough to form two new quarks.
+
+The idea (or model) for quarks was proposed by physicists Murray Gell-Mann and George Zweig in 1964. Other scientists began searching for evidence of quarks, and succeeded in 1968.
+
+The superparticle of a quark is called a "squark."

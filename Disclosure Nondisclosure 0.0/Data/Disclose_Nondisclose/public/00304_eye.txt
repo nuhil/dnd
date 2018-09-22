@@ -1,0 +1,49 @@
+Eye
+
+The eye is a round organ for sensing light so animals can see. About 97 percent of animals have eyes. Image-resolving eyes are present in cnidaria, molluscs, vertebtates, annelids and arthropods.
+
+In mammals, two kinds of cells, "rods" and "cones", allow sight by sending signals through the optic nerve to the brain.
+
+Some animals can see light that humans cannot see. They can see ultraviolet or infrared light.
+
+The "lens" on the front part of the eye acts like a camera lens. It can be pulled flatter by muscles inside the eye, or allowed to become rounder. As some people get older, they may not be as able to do this perfectly. Many people are born with other small problems or get them later in life, and they may need eyeglasses (or "contact lenses") to fix the problem.
+
+Today, ten different types of eyes are known. Most ways of capturing an image have evolved at least once.
+
+One way to categorize eyes is to look at the number of "chambers". "Simple eyes" are made of only one concave chamber, perhaps with a lens. Compound eyes have many such chambers with their lenses on a convex surface.
+
+Eyes also can be grouped according to how the photoreceptor is made. Photoreeptors are either cillated, or rhabdomic. and some annelids possess both.
+
+Pit eyes are set in a depression in the skin. This reduces the angles at which light can enter. It allows the organism to say where the light is coming from.
+Such eyes can be found in about 85% of phyla. They probably came before the development of more complex eyes. Pit eyes are small. They are made of up to about hundred cells, covering about 100 µm. The directionality can be improved by reducing the size of the opening, and by putting a reflective layer behind the receptor cells.
+
+The pinhole eye is an advanced form of pit eye. It has several bits, most notably a small aperture and deep pit. Sometimes, the aperture can be changed. It is only found in the "Nautilus". Without a lens to focus the image, it produces a blurry image. Consequently, nautiloids can not discriminate between objects with a separation of less than 11°. Shrinking the aperture would produce a sharper image, but let in less light.
+
+The resolution of pit eyes can be improved a lot by adding a material to make a lens. This will reduce the radius of the blurring, and increase the resolution that can be achieved. The most basic form can still be seen in some gastropods and annelids. These eyes have a lens of one refractive index. It is possible to get a better image with materials that have a high refractive index which decreases towards the edges. This decreases the focal length and allows a sharp image to form on the retina.
+
+This eye creates an image that is sharp enough that motion of the eye can cause significant blurring. To minimize the effect of eye motion while the animal moves, most such eyes have stabilizing eye muscles.
+
+The ocelli of insects have a simple lens, but their focal point always lies behind the retina.They can never form a sharp image. This limits the function of the eye. Ocelli (pit-type eyes of arthropods) blur the image across the whole retina. They are very good at responding to rapid changes in light intensity across the whole visual field — this fast response is accelerated even more by the large nerve bundles which rush the information to the brain. Focusing the image would also cause the sun's image to be focused on a few receptors. These could possibly be damaged by the intense light; shielding the receptors would block out some light and reduce their sensitivity.
+
+This fast response has led to suggestions that the ocelli of insects are used mainly in flight, because they can be used to detect sudden changes in which way is up (because light, especially UV light which is absorbed by vegetation, usually comes from above).
+
+The eyes of most land-living vertebrates (as well as those of some spiders, and insect larvae) contain a fluid that has a higher refractive index than the air. That way, the lens does not have to reduce the focal length, because this is done by the fluid. That way, the lens can adjust the focus more easily. That way, a very high resolution can be obtained.
+
+Instead of using a lens it is also possible to have cells inside the eye that act like mirrors. The image can then be reflected to focus at a central point. This design also means that someone looking into such an eye will see the same image as the organism which has them.
+
+Many small organisms such as rotifers, copeopods and platyhelminthes use such this design, but their eyes are too small to produce usable images. Some larger organisms, such as scallops, also use reflector eyes. The scallop "Pecten" has up to 100 millimeter-scale reflector eyes fringing the edge of its shell. It detects moving objects as they pass successive lenses.
+
+Compound eyes are different from simple eyes. Instead of having one organ that can sense light, they put together many such organs. Some compound eyes have thousands of them. The resulting image is put together in the brain, based on the signals of the many eye units. Each such unit is called "ommatidium", several are called "ommatidia". The ommatidia are located on a convex surface, each of them points in a slighly different direction. Unlike simple eyes, compound eyes have a very large angle of view. They can detect fast movement, and sometimes the polarization of light. 
+Compound eyes are common in arthropods, annelids, and some bivalved molluscs
+
+The evolution of eyes started with simplest light-sensitive patches in unicellular organisms. These eye-spots do nothing but detect if the surroundings are light or dark. Most animals have a biochemical 'clock' inside. These simple eye-spots are used to adjust this daily clock, which is called circadian rhythm. Some snails, for example, see no image (picture) at all, but they sense light, which helps them stay out of bright sunlight.
+
+More complex eyes have not lost this function. A special type of cells in the eye senses light for a different purpose than seeing. These cells are called "ganglion" cells. They are located in the retina. They send their information about light to the brain along a different path (the "retinohypothalamic tract"). This information adjusts (synchronizes) the animal's circadian rhythm to nature's light/dark cycle of 24 hours. The system also works for some blind people who cannot see light at all.
+
+Eyes that are a little bit better are shaped like cups, which lets the animal know where the light is coming from.
+
+More complex eyes give the full sense of vision, including color, motion, and texture. These eyes have a round shape that makes light rays focus on the back part of the eye, called the "retina".
+
+Good fliers like flies or honey bees, or prey-catching insects like praying mantis or dragonflies, have specialized zones of ommatidia organized into a fovea area which gives sharp vision. In this zone the eyes are flattened and the facets are larger. The flattening allows more ommatidia to receive light from a spot. This gives a higher resolution.
+
+The body of "Ophiocoma wendtii", a type of brittle star, is covered with ommatidia, turning its whole skin into a compound eye. The same is true of many chitons.

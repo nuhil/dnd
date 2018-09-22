@@ -1,0 +1,17 @@
+Human body
+
+The human body is the body of a person. It is the physical structure of a person. 
+
+The body is a thing that can be hurt or killed. Its functions are stopped by deathand you need your muscles and your joints to move.
+
+Some people study the human body. They look at where it is different from or the same as other animals' bodies. These animals can be alive today. Or they can be extinct animals like other hominids. (Hominids are primates that are close to humans. Neanderthals and "Homo erectus" were hominids.) Some people study how the human body works and lives in its environment. Some people study what people think about their body. Artists study how to draw or paint the human body.
+
+Many different fields of study look at the human:
+
+The human body is like other animals. The skeleton, muscles and other parts are very much like those of other primates. Our body is also like other mammals, and somewhat like other vertebrates. DNA differnces follow a similar pattern. Our DNA is closer to that of other primates, than it is to other vertebrates.
+
+The animal that is alive now that is closest to humans is the chimpanzee. 98.4% of the DNA is the same between humans and chimpanzees. However, this applies only to single nucleotide polymorphisms, that is, changes in "single" base pairs only. The full picture is rather different.
+
+The draft sequence of the common chimpanzee genome was published in 2005. It showed that the regions which are similar enough to be aligned with one another account for 2400 million of the human genome’s 3164.7 million bases, that is, 75.8% of the genome. 
+
+This 75.8% of the human genome is 1.23% different from the chimpanzee genome in single-nucleotide polymorphisms (SNPs - changes of single DNA “letters” in the genome). Another type of difference, called 'indels' (insertions/deletions) account for another ~3% difference between the alignable sequences. In addition, variation in copy number of large segments (> 20 kb) of similar DNA sequence provides a further 2.7% difference between the two species. Hence the total similarity of the genomes could be as low as about 70%.

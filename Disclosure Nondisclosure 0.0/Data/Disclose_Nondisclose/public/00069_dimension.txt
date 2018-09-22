@@ -1,0 +1,19 @@
+Dimension
+
+Dimensions are the way we see, measure and experience our world . By Using up and down, right to left, back to front, hot and cold, how heavy and how long as well as more advanced concepts from mathematics and physics. One way to define a dimension is to look at the degrees of freedom or the way an object can move in a specific space. There are different concepts or ways where the term dimension is used and there are also different definitions. There is no definition that can satisfy all concepts. 
+
+In a vector space, (a vector is an opened ended line) a dimension is equal to the cardinality or number of directions of vectors or lines. It is also equal to the number of the largest group of straight line directions of that space. "Normal" objects in everyday life are specified by three dimensions, which are usually called length, width and depth. Mathematicians call this concept Euclidean space.
+
+Dimensions can be used to measure position too. The distance to a position from a starting place can be measured in the length, width and height directions. These distances are a measure of the position.
+
+Sometimes a fourth (4D) dimension, time, is used to show the position of an event in time and space.
+
+In modern science, people use other dimensions. Dimensions like temperature and weight can be used to show the position of something in less simple spaces. Scientist study those dimension with dimensional analysis.
+
+Mathematicians also use dimensions. In mathematics, dimensions are more general. Dimensions in mathematics might not measure things in the world. The rules for doing arithmetic with dimensions in mathematics might be different than usual arithmetic rules.
+
+Vectors are used to show distances and directions. Vectors are often used in engineering and science, and sometimes in mathematics.
+
+A vector is a list of numbers. There is one number for each dimension. There are arithmetic rules for vectors.
+
+For example, if Jane wants to know the position of Sally, Sally can give Jane a vector to show the position. If Jane and Sally are in the world, there are three dimensions. Therefore, Sally gives Jane a list of three numbers to show her position. The three numbers in the vector Sally gives Jane might be:

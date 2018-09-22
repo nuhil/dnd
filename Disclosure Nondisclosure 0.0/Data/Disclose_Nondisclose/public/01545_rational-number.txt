@@ -1,0 +1,23 @@
+Rational number
+
+In mathematics, a rational number is a number that can be written as a fraction. Rational numbers are all real numbers, and can be positive or negative. A number that is not rational is called irrational.
+
+Most of the numbers that people use in everyday life are rational. These include fractions and integers. And also a number that can be written as a fraction while it is in its own form.
+
+All rational numbers can be written as a fraction. Take 1.5 as an example, this can be written as formula_1, formula_2, or formula_3.
+
+More examples of fractions that are rational numbers include formula_4, formula_5, and formula_6.
+
+A terminating decimal is a decimal with a certain number of digits to the right of the decimal point. Examples include 3.2, 4.075, and -300.12002. All of these are rational. Another good example would be 0.9582938472938498234.
+
+A repeating decimal is a decimal where there are infinitely many digits to the right of the decimal point, but they follow a repeating pattern.
+
+An example of this is formula_7. As a decimal, it is written as 0.3333333333... The dots tell you that the number 3 repeats forever.
+
+Sometimes, a group of digits repeats. An example is formula_8. As a decimal, it is written as 0.09090909... In this example, the group of digits 09 repeats.
+
+Also, sometimes the digits repeat "after" another group of digits. An example is formula_9. It is written as 0.16666666... In this example, the digit 6 repeats, following the digit 1.
+
+If you try this on your calculator, sometimes it may make a rounding error at the end. For instance, your calculator may say that formula_10, even though there is no 7. It rounds the 6 at the end up to 7.
+
+The digits after the decimal point in an irrational number do not repeat in an infinite pattern. For instance, the first several digits of π (Pi) are 3.1415926535... A few of the digits repeat, but they never start repeating in an infinite pattern, no matter how far you go to the right of the decimal point.

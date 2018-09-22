@@ -1,0 +1,11 @@
+List of planets
+
+This is a list of two types of planets: standard planets and dwarf planets, in the Solar System.
+
+
+
+Some scientists think that there was once a planet called Theia which crashed into the Earth at one point, creating the Moon.
+
+Technically, there was never a scientific definition of the term "planet" before 2006. When the Greeks observed the sky thousands of years ago, they discovered objects that acted differently than stars. These points of light seemed to wander around the sky throughout the year. The term "planet" is derived from the Greek word "planetes" - meaning wanderer.
+
+in 2006 the International Astronomical Union (IAU) convened a Planet Definition Committee, deliberated, and ultimately reached consensus on a new definition of planet which leaves us with the eight planets we today consider to comprise our solar system (thus the exit of Pluto). That new definition: " A “planet” is a celestial body that (a) is in orbit around the Sun, (b) has sufficient mass for its self-gravity to overcome rigid body forces so that it assumes a hydrostatic equilibrium (nearly round) shape, and (c) has cleared the neighborhood around its orbit [meaning: 'there are no other bodies in its path that it must sweep up as it goes around the Sun'.]"

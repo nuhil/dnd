@@ -1,0 +1,24 @@
+Byte
+
+A byte is a unit of measurement of the size of information on a computer or other electronic device. A single typed character (for example, 'x' or '8') measures one byte. A single byte generally holds eight bits (bits are, in turn, the smallest unit of storage on a computer, meaning what atoms mean for matter). Bytes are often represented by the letter B.
+
+Historically, bytes have been used to encode text characters. Most of the time, this was done using eight bits per byte, but other numbers of bits were also used. To describe the byte that uses 8 bits, computer scientists talk about octet. EBCDIC is a character encoding used mainly on mainframe computers that uses 8 bits per byte, ASCII is another encoding that uses only seven bits. 
+
+When used as a measurement, the byte is basically measuring how many numbers a computer (or electronics device) can hold. This is useful for things like RAM in a computer, or storage devices like USB drives and other types of Flash memory. Sending of data (for a modem or wi-fi) is usually measured in bits, not bytes.
+
+One byte is usually equal to eight bits. Some very early computers had bytes with different numbers of bits. An octet is always eight bits. In modern usage, an octet and a byte are the same.
+
+The symbol for "byte" is "B". Sometimes a lowercase "b" is used, but this use is incorrect because "b" is actually the IEEE symbol for "bit". The IEC symbol for bit is bit. For example, "MB" means "megabyte" and "Mbit" means "megabit". The difference is important because 1 megabyte (MB) is 1,000,000 bytes, and 1 megabit (Mbit) is 1,000,000 bits or 125,000 bytes. It's easy to confuse the two, but bits are much smaller than bytes, so the symbol "bit" should be used when referring to "bits" and an uppercase "B" when referring to "bytes".
+
+For large data, byte is often used with a binary prefix:
+
+The following terms represent even larger units of bytes, but are very rarely used:
+
+Some people have invented unofficial names for even larger units of bytes:
+
+According to the International Electrotechnical Commission (IEC), who sets many computer standards, these charts show how bytes should be referred to.
+
+People who refer to 1 kilobyte as 1,024 bytes, for example, are technically incorrect; 1,024 bytes should be referred to as 1 kibibyte, according to the IEC. However, using 1024 for kilo and 1048576 for mega, etc. was widely practiced before the IEC standards were set in 1998. There is some confusion and mixing of terms in the marketplace.
+
+When using standard metric names like "kilo-", "mega-" and "giga-", they should follow the same measure that other metric measurements use, like kilometer (1 kilometer = 1,000 meters) for example.
+Since computers are very complex digital devices that are based on the binary numeral system rather than the commonly-used decimal numeral system or binary coded decimal system, there are many situations where the standard metric system does not work well, particularly with memory sizes for a computer or storage device. If a memory or storage device uses a binary number for addresses, the number of different positions to be accessed (the size of the memory) can be expressed as a power of 2, rather than a power of 10.

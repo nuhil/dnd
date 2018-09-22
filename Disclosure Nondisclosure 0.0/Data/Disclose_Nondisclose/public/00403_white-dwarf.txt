@@ -1,0 +1,27 @@
+White dwarf
+
+A white dwarf is a compact star. Their matter is squashed together. Gravitation has pulled the atoms close together, and taken off their electrons. The mass of a white dwarf is similar to the mass of the Sun, but its volume is similar to that of the Earth.
+
+White dwarfs are the final evolutionary state of all stars whose mass is not high enough to become a neutron star. Over 97% of the stars in the Milky Way will become white dwarf stars. After the hydrogen–fusing lifetime of a main-sequence star ends, it will expand to a red giant which fuses helium to carbon and oxygen in its core. If a red giant does not have enough mass to fuse carbon, around 1 billion K, inactive carbon and oxygen will build up at its center. After shedding its outer layers to form a planetary nebula, it will leave behind the core, which is the white dwarf.
+
+The material in a white dwarf no longer undergoes fusion reactions, so the star has no source of energy. It is not supported by the heat of fusion against gravitational collapse.
+
+A star like our Sun will become a white dwarf when it has run out of fuel. Near the end of its life, it will go through a red giant stage, and then lose most of its gas, until what is left contracts and becomes a young white dwarf. 
+
+White dwarfs were discovered in the 18th century. The first white dwarf star, called 40 Eridani B, was discovered on 31 January 1783 by William Herschel. It is part of a three star system called 40 Eridani.
+
+The second white dwarf was discovered in 1862, a small star near the star Sirius. This companion star, called Sirius B, had a surface temperature of about 25,000 kelvin, so it was thought of as a hot star. However, Sirius B was about 10,000 times fainter than the primary, Sirius A. Scientists have discovered that the mass of Sirius B is almost the same as that of the Sun. This means that once, Sirius B was a star similar to our own Sun.
+
+In 1917, Adriaan van Maanen discovered a white dwarf which is called Van Maanen 2. It was the third white dwarf to be discovered. It is the closest white dwarf to Earth, except for Sirius B.
+
+A white dwarf has low luminosity (total amount of light given off) but a very hot core. The core might be 10 K, while the surface is only 10 K.
+
+A white dwarf is very hot when it is formed, but since it has no source of energy, it will gradually radiate away its energy and cool. This means that its radiation, which gives it a blue or white colour at the start, lessens over time. Over a very long time, a white dwarf will cool to temperatures at which it will no longer emit light. Unless the white dwarf gets matter from a companion star or some other source, its radiation comes from its stored heat. This is not replaced. 
+
+White dwarfs cool slowly for two reasons. They have an extremely small surface area to radiate this heat from, so they cool gradually, remaining hot for a long time. Also, they are very opaque. The degenerate matter that makes up the bulk of a white dwarf has a very low opacity, in other words, it does not lose heat and light much by radiation.
+
+Eventually, all white dwarfs will cool down into black dwarfs, so called because they lack the energy to create light. No black dwarfs exist yet because it takes longer than the current age of the universe for a white dwarf to cool down. A black dwarf is what will be left of the star after all of its energy (heat and light) is used up.
+
+White dwarfs may re-ignite and explode as supernovas if they get more material. There is a maximum mass for a white dwarf to remain stable. This is known as the Chandrasekhar limit.
+
+A dwarf might pull in material from a companion star, for example, bringing it over the Chandrasekhar limit. The extra mass would start a carbon-fusion reaction. Astronomers think this re-igniting might be the cause of Type Ia supernovas.

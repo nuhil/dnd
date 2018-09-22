@@ -1,0 +1,33 @@
+Machine code
+
+Machine code or machine language is the name for commands. They can directly be executed by a processor. Usually, they are 1s and 0s. Their order tells the computer what to do. This code is the lowest level of software. All other kinds of software need to be translated into machine code before they can be used. 
+
+Each processor has its own machine code.
+
+Each instruction is made up of an opcode (operation code) and operand(s). An instruction tells the computer to do one thing. The operands are usually memory addresses. An instruction set is a list of the opcodes used in a computer. Machine code is what assembly code and other programming languages are compiled to or interpreted as.
+
+Program builders turn code into another language or machine code.
+Machine code is sometimes called native code. This is used when talking about things that work on only some computers.
+
+Machine code can be written in different forms:
+
+Machine code usually offers many kinds of instructions:
+Many modern processors use microcode for some of the commands. More complex commands tend to use it. This is often done with CISC architectures.
+
+Every processor or processor family has its own machine code instruction set. They correspond to the different commands that can be given. An instruction set is specific to a processor or a family of processors that have a similar set up. Newer processors often copy all of its instructions. Processors that try to be similar to the original processor can also copy all of its instructions. Often, newer processors add more instructions not present in the original design. 
+
+Sometimes a newer processor will change the meaning of an instruction. Sometimes it will no longer support it. This can change the compatibility of the code. Some old code will no longer work on the newer processor. Processors that are similar will sometimes act different. This is rarely a problem. Many systems may also be different in other ways. Their access to the memory or its arrangement may be different. Computer hardware may be connected in a different way. Also, the access to other hardware could be changed. A program normally relies on such factors. For this reason, different systems will typically not run the same machine code. This is true even when the same type of processor is used.
+
+Most instructions have one or more opcode fields. They specify the basic instruction type. Other fields may give the type of the operands, the addressing mode, and so on. There may also be special instructions. They are contained in the opcode itself. These instructions are called "immediates".
+
+Processor designs can be different in other ways. Different instructions can have different lengths. Also, they can have the same length. Having all instructions have the same length can simplify the design.
+
+The MIPS architecture has instructions which are 32 bits long. This section has examples of code. The general type of instruction is in the "op" (operation) field. It is the highest 6 bits. J-type (jump) and I-type (immediate) instructions are fully given by "op". R-type (register) instructions include the field "funct". It determines the exact operation of the code. The fields used in these types are:
+
+"rs", "rt", and "rd" indicate register operands. "shamt" gives a shift amount. The "address" or "immediate" fields contain an operand directly.
+
+Example: add the registers 1 and 2. Place the result in register 6. It is encoded:
+
+Load a value into register 8. Take it from the memory cell 68 cells after the location listed in register 3:
+
+Jump to the address 1024:

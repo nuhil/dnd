@@ -1,0 +1,30 @@
+Battery
+
+A battery converts chemical energy into electrical energy by a chemical reaction. Usually the chemicals are kept inside the battery. It is used in a circuit to power other components. A battery produces direct current (DC) electricity (electricity that flows in one direction, and does not switch back and forth).
+
+Using the electricity from an outlet in a building is cheaper and more efficient, but a battery can provide electricity in areas that do not have electric power distribution. It is also useful for things that move, such as electric vehicles and mobile phones.
+
+A Battery can be one "cell" or many "cells". Each cell has an anode, cathode and electrolyte. The electrolyte is the main material inside the battery. It is often a type of acid, and can be dangerous to touch. The anode reacts with the electrolyte to produce electrons (this is the "negative" or "-" end). The cathode reacts with the electrolyte and takes electrons (this is the "positive" or "+" end). An electric current happens when a wire connects the anode to the cathode, and the electrons move from one end to the other. (But a battery can be damaged by just a wire connecting the two ends, so a "load" is also needed between the two ends. The load is something that slows the electrons down, and usually does something useful, like a lightbulb in a flashlight, or the electronics in a calculator). 
+The electrolyte can be liquid or solid. A battery is called a wet cell or dry cell battery, depending on the type of electrolyte.
+
+The chemical reactions that occur in a battery are exothermic reactions. This type of reaction makes heat. For example, if you leave your laptop on for a long time, and then touch the battery, it will be warm or hot. 
+
+Rechargeable batteries are recharged by reversing the chemical reaction that occurs within the battery. But a rechargeable battery can only be recharged a given amount of time (recharge life). Even iPods, with built in batteries, cannot be recharged forever. Moreover, each time a battery is recharged, its ability to hold a charge goes down a bit. Non-rechargeable batteries should not be charged as various harmful and harmful substances can leak out, such as potassium hydroxide.
+
+The cells can be connected to make a bigger battery. Connecting the positive of one cell to the negative of the next cell is called connecting them "in series". The voltage of each battery are added together. Two six volt batteries connected in series will make 12 volts. 
+
+Connecting the positive of one cell to the positive of the other, and the negative to the negative is called connecting them "in parallel". The voltage stays the same, but the current is added together. Voltage is the pressure pushing the electrons through the wires, it is measured in volts. Current is how many electrons can go at once, it is measured in amps. The combination of current and voltage is the power (watts = volts x amps) of the battery.
+
+Batteries come in many different shapes, sizes and voltages. 
+
+AA, AAA, C, and D cells, including alkaline batteries, have about 1.5 volts. The voltage of a cell depends on the chemicals used. The electric charge it can supply depends on how large the cell is, as well as what chemicals. The charge a battery delivers is usually measured in ampere-hours. Since the voltage stays the same, more charge means a bigger cell can supply more amps, or run for a longer time.
+
+The first battery was invented in 1800 by Alessandro Volta. Nowadays, his battery is called the voltaic pile. 
+In many modern batteries, the fluid is "soaked up" in a kind of paste. And everything is put in a completely sealed case. Because of this case, nothing can spill out of the battery. An exception is car batteries; they still have liquid inside.
+
+
+Fuel cells and solar cells are not batteries because they do not store the energy inside them. 
+
+A capacitor is not a battery because it does not store the energy in a chemical reaction. A capacitor can store electricity and create electricity much faster than a battery, but it usually costs too much to make it as big as a battery can be. Scientists and chemical engineers are working to make better capacitors and batteries for electric cars.
+
+Small electrical generators operated by hand and foot can supply power in small electrical devices. Clockwork radios, clockwork torches and similar devices also have a wind-up spring to store mechanical energy.

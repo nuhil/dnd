@@ -1,0 +1,70 @@
+Mars
+
+Mars is the fourth planet from the Sun in the Solar System and the second-smallest solid planet. Mars is rocky and cold, with polar ice caps of frozen water and carbon dioxide. It has the largest volcano in the Solar System, and some very large impact craters. Mars is named after the mythological Roman god of war because it is a red planet, the colour of blood.
+
+Robot space probes are the main tools for the Exploration of Mars and tell us almost all that we know about it.
+
+Mars is a terrestrial planet and made of rock. The ground there is red because of iron oxide (rust) in the rocks and dust. The planet's atmosphere is very thin. It is mostly carbon dioxide with some argon and nitrogen and tiny amounts of other gases including oxygen. The temperatures on Mars are colder than on Earth, because it is farther away from the Sun and has less air to keep warmth in. There is water ice and frozen carbon dioxide at the north and south poles. Mars does not have any liquid water on the surface now, but signs of run-off on the surface were probably caused by water.
+
+The average thickness of the planet's crust is about 50 km (31 mi), with a maximum thickness of 125 km (78 mi).
+
+Mars has two small moons, called Phobos and Deimos.
+
+A Martian day is called a "sol", and is a little longer than an Earth day. Mars rotates in 24 hours, and 37 minutes. It rotates on a tilt, just like the Earth does, so it has four different seasons. Of all the planets in the Solar System, the seasons of Mars are the most Earth-like, due to the similar tilts of the two planets' rotational axes. The lengths of the Martian seasons are almost twice those of Earth's, as Mars's greater distance from the Sun leads to the Martian year being almost two Earth years long. Martian surface temperatures vary from lows of about (at the winter polar caps) to highs of up to (in equatorial summer). The wide range in temperatures is due mostly to the thin atmosphere which cannot store much solar heat. The planet is also 1.52 times as far from the Sun as Earth, resulting in just 43% of the amount of sunlight.
+
+A 2015 report says Martian dark streaks on the surface were affected by water.
+
+Liquid water cannot exist on the surface of Mars due to its low atmospheric pressure (there's not enough air to hold it in), except at the lowest elevations for short periods. The two polar ice caps appear to be made largely of frozen water. The amount of ice in the south polar ice cap, if melted, would be enough to cover the entire planet's surface 11 meters deep. A permafrost mantle stretches from the pole to latitudes of about 60°.
+
+Geological evidence gathered by unmanned missions suggest that Mars once had much liquid water on its surface. In 2005, radar data revealed the presence of large quantities of water ice at the poles, and at mid-latitudes. The Mars rover "Spirit" sampled chemical compounds containing water molecules in March 2007. The "Phoenix" lander found water ice in shallow Martian soil in July 2008.
+Landforms seen on Mars strongly suggest that liquid water at some time existed on the planet's surface. Huge areas of ground have been scraped and eroded. 
+
+Mars has two permanent polar ice caps. During a pole's winter, it lies in continuous darkness, chilling the surface and causing the deposition of 25–30% of the atmosphere into slabs of CO ice (dry ice). When the poles are again exposed to sunlight, the frozen CO sublimes (turns to vapor), creating enormous winds that sweep off the poles as fast as 400 km/h. Each season this moves large amounts of dust and water vapor, giving rise to Earth-like frost and large cirrus clouds and dust storms. Clouds of water-ice were photographed by the "Opportunity" rover in 2004.
+
+The polar caps at both poles consist primarily of water ice.
+
+Mars has a very thin atmosphere with barely any oxygen (it is mostly carbon dioxide). Because there is an atmosphere, however thin it is, the sky does change colour when the sun rises and sets. The dust in the Martian atmosphere make the Martian sunsets have a rather blue colour. Mars's atmosphere, of course, is too thin to protect Mars from meteors, which is why the lower half of Mars has so many craters. 
+
+After the formation of the planets, all experienced the "Late Heavy Bombardment". About 60% of the surface of Mars shows a record of impacts from that era. Much of the remaining surface is probably lying over the immense impact basins caused by those events. There is evidence of an enormous impact basin in the northern hemisphere of Mars, spanning , or roughly four times larger than the largest impact basin yet discovered. This theory suggests that Mars was struck by a Pluto-sized body about four billion years ago. The event is thought to be the cause of the difference between the Martian hemispheres. It made the smooth Borealis basin that covers 40% of the planet.
+
+Some meteorites hit Mars with so much force a few pieces of Mars went flying into space even to Earth! Rocks on Earth are sometimes found which have chemicals that are exactly like the ones in Martian rocks. These rocks also look like they fell really quickly through the atmosphere, so it is reasonable to think they came from Mars.
+
+Mars is home to the highest known mountain in the Solar System, Olympus Mons. Olympus Mons is about 17 miles (or 27 kilometers) high. This is more than three times the height of Earth's tallest mountain, Mount Everest. It is also home to Valles Marineris, the third largest rift system (canyon) in the Solar System, 4,000 km long.
+
+Our records of watching and recording Mars start with ancient Egyptian astronomers in the 2nd millennium BC. 
+
+Detailed observations of the location of Mars were made by Babylonian astronomers who developed methods using math to predict the future position of the planet. The ancient Greek philosophers and astronomers developed a model of the solar system with the Earth at the center ('geocentric'), instead of the sun. They used this model to explain the planet's motions. Indian and Islamic astronomers estimated the size of Mars and its distance from Earth. Similar work was done by Chinese astronomers.
+In the 16th century, Nicholas Copernicus proposed a model for the Solar System in which the planets follow circular orbits about the Sun. This 'heliocentric' model was the beginning of modern astronomy. It was revised by Johannes Kepler, who gave an elliptical orbit for Mars which better fit the data from our observations.
+
+The first observations of Mars by telescope was by Galileo Galilei in 1610. Within a century, astronomers discovered distinct albedo features (changes in brightness) on the planet, including the dark patch and polar ice caps. They were able to find the planet's day (rotation period) and axial tilt.
+
+Better telescopes developed early in the 19th century allowed permanent Martian albedo features to be mapped in detail. The first crude map of Mars was published in 1840, followed by better maps from 1877 onward. Astronomers mistakenly thought they had detected the spectroscopic mark of water in the Martian atmosphere, and the idea of life on Mars became popular among the public. Percival Lowell believed he could see an artificial network of canals on Mars. These linear features later proved to be an optical illusion, and the atmosphere was found to be too thin to support an Earth-like environment, including surface water.
+
+Yellow clouds on Mars have been observed since the 1870s, which were windblown sand or dust. During the 1920s, the range of Martian surface temperature was measured; it ranged from 85 to 7 C. The planetary atmosphere was found to be arid with only traces of oxygen and water. In 1947, Gerard Kuiper showed that the thin Martian atmosphere contained extensive carbon dioxide; roughly double the quantity found in Earth's atmosphere. The first standard naming of Mars surface features was set in 1960 by the International Astronomical Union. 
+
+Since the 1960s, multiple robotic spacecraft and rovers have been sent to explore Mars from orbit and the surface. The planet has remained under observation by ground and space-based instruments across a broad range of the electromagnetic spectrum (visible light, infrared and others). The discovery of meteorites on Earth that came from Mars has allowed laboratory examination of the chemical conditions on the planet.
+
+During the 1877 opposition, Italian astronomer Giovanni Schiaparelli used a telescope to help produce the first detailed map of Mars. What caught people's attention was that the maps had features he called "canali". These were later shown to be an optical illusion (not real). These "canali" were supposedly long straight lines on the surface of Mars to which he gave names of famous rivers on Earth. His term "canali" was popularly mistranslated in English as "canals", and thought to be made by intelligent beings. 
+
+Other astronomers thought they could see the canals too, especially the American astronomer Percy Lowell, who built his telescopes and his career on the idea.
+
+Although these results were widely accepted, they were contested. Greek astronomer Eugène M. Antoniadi and English naturalist Alfred Russel Wallace were against the idea; Wallace was extremely outspoken. As bigger and better telescopes were used, fewer long, straight "canali" were observed. During an observation in 1909 by Flammarion with a telescope, irregular patterns were observed, but no "canali" were seen.
+
+Because Mars is the one of the closest planets to Earth in the Solar System, many have wondered if there is any kind of life on Mars. Today we know that the kind of life, if any, would be some simple bacteria-type organism. 
+
+NASA maintains a catalog of 34 Mars meteorites, that is, meteorites which originally came from Mars. These assets are highly valuable since they are the only physical samples available of Mars. 
+
+Studies at NASA's Johnson Space Center show that at least three of the meteorites contain possible evidence of past life on Mars, in the form of microscopic structures resembling fossilized bacteria (so-called biomorphs). Although the scientific evidence collected is reliable, and the rocks are correctly described, what made the rocks look like they do is not clear. To date, scientists are still trying to agree if it really is evidence of simple life on Mars.
+
+Over the past few decades, scientists have agreed that when using meteorites from other planets found on Earth (or rocks brought back to Earth), various things are needed to be sure of life. Those things include:
+
+
+For people to agree on past life in a geologic sample, most or all of these things must be met. This has not happened yet, but investigations are still in progress. Reexaminations of the biomorphs found in the three Martian meteorites are underway.
+
+Liquid water is necessary for life and metabolism, so if water was present on Mars, the chances of life evolving is improved. The Viking orbiters found evidence of possible river valleys in many areas, erosion and, in the southern hemisphere, branched streams. Since then, rovers and orbiters have also looked closely and eventually proved water was on the surface at one time, and is still found as ice in the polar ice caps and underground.
+
+So far, scientists have not found life on Mars, either living or extinct. Several space probes have gone to Mars to study it. Some have orbited (gone around) the planet, and some have landed on it. There are pictures of the surface of Mars that were sent back to Earth by the probes. Some people are interested in sending astronauts to visit Mars. They could do a better search, but getting astronauts there would be difficult and expensive. The astronauts would be in space for many years, and it could be very dangerous because of radiation from the sun. So far we have only sent unmanned probes. 
+
+The most recent probe to the planet is the Mars Science Laboratory. It landed on Aeolis Palus in Gale Crater on Mars on 6 August 2012. It brought with it a mobile explorer called 'Curiosity'. It is the most advanced space probe ever. Curiosity has dug up Martian soil and studied it in its laboratory. It has found sulfur, chlorine, and water molecules.
+
+Some famous stories were written about this idea. The writers used the name "Martians" for intelligent beings from Mars. In 1898, H. G. Wells wrote "The War of the Worlds", a famous novel about Martians attacking the Earth. In 1938, Orson Welles broadcast a radio version of this story in the United States, and many people thought it was really happening and were very afraid. Beginning in 1912, Edgar Rice Burroughs wrote several novels about adventures on Mars.

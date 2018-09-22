@@ -1,0 +1,52 @@
+Dutch language
+
+Dutch ("Nederlands") is a language which comes from the Netherlands and is the country's official language. It is also spoken in the northern half of Belgium (the region called Flanders), and in the South American country of Suriname. A language known as "Afrikaans" was developed from Dutch by the people in southern Africa and is now spoken mainly in South Africa but also in nearby Namibia. About 22 million people around the world speak Dutch.
+
+Dutch is a West Germanic language The West Germanic branch is divided into English, Frisian, German and Dutch. It is why Dutch is very much like English in its vocabulary and grammar, though it resembles German more than English does.
+
+The North Germanic languages of Danish, Norwegian, Swedish and Icelandic are also part of the Germanic language branch. Dutch is also in some cases like these languages.
+
+The Dutch of before 1170 is called "Old Dutch" (Oudnederlands). The Dutch between 1170 and 1500 is called "Middle Dutch" (Middelnederlands), which is also called "Diets". That's why Dutch is called Dutch in English. The word "Dutch" itself came from the Proto-Germanic word "", which means "language of the common people" and which at the time was also used to refer to the Germans and their language. Over time, the modern English usage is now used to refer to that of the Netherlands and not the Germans. The Dutch word for German, "Duits", comes from the same origin.
+
+The oldest Dutch book known is "Wachtendonckse Psalmen" which was written in 900. The first Dutch writer we know by name is Hendrik van Veldeke, who was born around 1150.
+
+Dutch uses the same roman alphabet (letters) as English.
+
+Note: The e can also be a schwa (like in "the")
+
+
+The way of how vowels are pronounced, depends on the fact if the syllable is "open" or "closed". If a syllable is open, short written vowels are spoken as long ones. Short written vowels are only spoken short if the syllable is closed.
+Example:
+
+There is, however, an exception to this rule. This is the "e". This is because "e" can also be a "mute e" (Schwa) (IPA character ə). In most words, where an open syllable ends with e it is a short e. Therefore, open syllables with a long e (ee) are written as ee. Example:
+
+There are, however, exceptions to this rule as well. This can be seen in the word "meenemen". This word can be divided into three syllables: mee|ne|men. The e's in the first two syllables are long ones, but the last one is a mute e.
+
+The mute e also occurs in the ending of verbs (usually -en).
+
+
+Note: In words that end with "-d", the "-d" is pronounced like "-t".
+
+The grammar of Dutch is slightly different from English. The order in which words are put in sentences are different in complex sentences. The most simple sentence-structure is "Subject - Verb". The Dutch language has few grammatical "tenses". The most used are:
+
+The most simple verb-time is the onvoltooide tegenwoordige tijd (ott; present simple). The ott is used when something is occurring "now", or "regularly" (like: "Hij eet regelmatig" (He eats regularly)). Most verbs are conjugated (changed) in a regular form (these verbs are called "regelmatige werkwoorden" (regular verbs)). The word stem of the verb is still there in all of the conjugations (changes). The correct way of doing this is
+
+Note*: The stem of a verb is the infinitive of the verb without the final "-en". In some verbs, the first syllable is open, and any vowel therefore is long. The stem changes to a written long vowel. So the stem of "lopen" becomes "loop". If the "-en" is then added to the stem (for example with wij), the written form becomes short again (but it still will be spoken as a long vowel).
+
+The past form of the ott is the "onvoltooid verleden tijd" (ovt; past simple). The way how verbs are conjugated (changed) in the ovt is not easy to understand, and is mistaken often. This is because some verbs are conjugated by adding a D, while others are conjugated while adding a T. A way of solving this problem is the socalled 't kofschip. If the verb without "-en" (the stem in most verbs, but not always) ends with a consonant which is also in "'t kofschip", the verb is changed with a T. Example:
+
+The verb can now be changed as the following:
+
+There are however words in "'t kofschip" are not so easy. This is for instance in the word "vrezen" (to fear). The stem of the verb is "vrees", so it seems that the verb is changed with a T. This is not true (it changed with a D), because "vrezen" minus "-en" is "vrez". The Z is not in "'t kofschip", so the verb is changed with a D.
+
+The verb can now be changed as the following:
+
+Although the Dutch have a kind of "present continuous" (the -ing form of verbs in English), they do not use it much. Example:
+
+Actually, there are three types of continuous verbs in Dutch. 
+
+ " hallo " (hello)
+
+ " een " (one)
+
+In number with three digits (e.g. 100), the Dutch change the u into o and replace 1 of the r's. Example:

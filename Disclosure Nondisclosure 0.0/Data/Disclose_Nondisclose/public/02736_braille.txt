@@ -1,0 +1,65 @@
+Braille
+
+The Braille system is a way of writing things. It is named after Louis Braille, the French man who invented it. The system is used by blind people to read and write. The Braille system uses a set of raised bumps or dots that can be felt with a finger. Each set of dots is a character in an alphabet, and the numbers and some punctuation.
+
+Louis Braille was not the first person to think about how to let the blind read and write. In the 17th century the Italian Jesuit Francesco Lana thought about different systems of writing for the blind. He invented a system of dashes that could be felt.
+
+Valentin Haüy was one of the first French who was interested in the problems the blind had when they wanted to communicate. Haüy was born in Picardie in 1745, and studied languages at the university in Paris. First he studied deaf people who could not speak, then blind people. In his opinion the biggest problem of the blind was that they could not read. He then invented a system which allowed them to read and write sentences and to do mathematics. Later he started a school for blind children. His writing system used two columns which had between one and six positions each. Vowels had a dot in the left column, for example.
+
+Charles Barbier used a similar system, because Napoleon wanted a code that soldiers could use to exchange messages silently and without light at night. Barbier called it night writing. Night writing uses two columns of six dots. It uses phonemes (separate sounds), not letters. Barbier's system was too hard for soldiers to learn, and the military did not use it. From the year 1821, he started to test his system in the school Haüy had founded. There it became very successful. Even though the system was difficult to learn, it did help the blind to read better than earlier systems. Barbier had understood that it was better to use a system that used dots over one that used lines.
+
+Barbier met Braille when he visited the National Institute of the Blind. Braille saw the biggest problem of the code: The human finger cannot feel the whole symbol at one time. This makes it impossible to move rapidly from one symbol to the next. Braille's change was to use a 6 dot cell — the braille system — which completely changed how the blind would read and write.
+
+Braille can be seen as the world's first binary way of character encoding. The system as originally invented by Braille has two parts
+
+Braille is used with different languages today. In each language, the letters are "encoded" differently, depending on the alphabet. The list of codes is known as braille code, or code page. There are also different braille codes in use for special purposes, like writing shorthand, mathematics or music.
+
+To make it possible to read faster, certain transcriptions of Braille use shortened words, or contractions. This is known as "Grade 2 Braille".
+
+Braille uses cells of six raised dots, in two columns of three dots. The dot positions on the left are numbered one, to three, the ones on the right four to six, as shown in the picture.
+
+Each symbol is coded with certain dots present, and others absent. The dots are approximately 0.02 inches (0.5 mm) high; inside the cell, the dots are about 0.1 inches (2.5 mm) apart. The space between the dots of two cells is about 0.15 inches (3.75 mm) horizontally and 0.2 inches (5 mm) vertically. A standard braille page is 11 inches by 11 inches and typically has between forty and forty-two braille cells per line and twenty-five lines.
+
+As first made by Louis Braille, the first group of characters, using just the top 4 dots of the braille cell, represents letters "a" through "j" (this group of ten characters is called a "decade"). Dot 3 (bottom left) is added to each of the "a" through "j" symbols to give letters "k" through "t". Both of the bottom dots (dots 3 and 6) are added to the first decade to give letters "u", "v", "x", "y", and "z". The letter "w" is left out of this group because French did not use the letter "w" when Louis Braille made his alphabet. The fifth decade is the same as the first decade, but shifted down by a row (dots 1 and 4 are blank).
+
+English braille has codes for the letters and some punctuation, and some double letter signs and word signs directly, but capitalization and numbers need a prefix symbol. In practice, braille produced in the United Kingdom does not use capital letters.
+
+There are braille codes for representing shorthand (produced on a machine which embosses a paper tape) and for representing mathematics (Nemeth Braille) and musical notation (braille music).
+
+Braille can be made using a "slate" and a "stylus" in which each dot is created from the back of the page, writing in mirror image, by hand, or it may be produced on a special braille typewriter or "Perkins Brailler", or produced by a braille embosser attached to a computer. It may also be made using a refreshable braille display.
+
+The six bit braille code is very limited, it only allows 64 different possible combinations. This means that many things need more than one braille character to be coded. One example for this is how numbers are coded in English braille: First there is a symbol that says the next symbol is a number, and then there is the symbol for the number. The symbol for "number" is usually given only once; every symbol that follows is treated as a number, until there is a space.
+
+Braille has been extended to an 8 dot code, particularly for use with braille embossers and refreshable braille displays. In 8 dot braille the added dots are added at the bottom of the cell, giving a cell 4 dots high by 2 dots wide. The additional dots are called 7 (for the lower-left dot) and 8 (for the lower-right dot). 8-dot braille has the advantages that capital and lower cases of the letters are directly coded in the cell, a capital letter does not need two cells. All the printable ASCII characters can be represented in a single cell, and all 256 possible combinations of 8 bits are encoded by the Unicode standard. Braille with six dots is frequently stored as braille ASCII.
+
+It is possible to transcribe braille by replacing each letter with the braille code for the letter. This is usually known as "Grade 1 Braille". Grade 1 braille is mostly used by beginners.
+
+The basic problem of Grade 1 braille is that braille "letters" are much larger than printed ones. The standard page is 11"x11" (28 cm by 28 cm) in size and only has room for twenty-five lines of forty characters. This means a book would need to be very thick compared to a standard printed book.
+
+For this reason almost all English braille books use a transcription known as "Grade 2 braille". Grade 2 braille uses contractions, which allows to save space and increase reading speed. Grade 2 braille was developed by linguists (people who study languages), who also looked at customs, styles and practices. Transcribing a text into Grade 2 braille is difficult, and the people doing the transcription need to have a special education.
+
+In English, there are 23 words which are replaced with a single letter. That way, the word "but" is contracted (shortened) to the single letter "b," "can" to "c", "do" to "d", and so on. Even this simple rule has exceptions and special cases, which must be thought of. As an example, only the verb "to do" is replaced by "d", the noun "do" (which stands for a note in music) is a different word, and is written in full.
+
+Sometimes, part of words are contracted, and a character can mean different things in different parts of a word. There are many rules for this process. For example, the character with dots 2-3-5 (the letter "f" lowered in the braille cell) stands for "ff" when used in the middle of a word. At the beginning of a word, this same character stands for the word "to" although the character is written in braille with no space following it. At the end of a word, the same character represents an exclamation point.
+
+The contraction rules cannot be used when it would make a problem with a prefix or suffix on the word. Also, some rules are flexible and may depend on the situation. So when the rules permit the same word to be written in more than one way, preference is given to "the contraction that is closer to the correct pronunciation."
+
+"Grade 3 Braille" is a system that includes many additional contractions. It is almost like a shorthand. It is rarely used for books, but people use it to be able to write and read fast, for themselves. It can be used for taking notes.
+
+Only very few people can use grade 4 braille. It uses many rules to shorten grade 3 even further. It allows a blind person to use shorthand to follow spoken conversation. Very often, systems of seven or eight dots are used.
+
+The current Canadian paper money has raised dots on the bills that shows its value. This helps blind people who might otherwise be cheated. This 'tactile feature' does not use standard braille but, instead, a system developed by working with blind and visually impaired Canadians after they found that not all people who needed it could read braille.
+
+Though braille is thought to be the main way blind people read and write, in Britain (for example) out of the reported 2 million visually impaired population, it is estimated that only around 15-20 thousand people use Braille. Younger people are turning to electronic text on computers instead which can be read aloud by computer programs; a more portable communication method that they can also use with their friends. A debate has started on how to make braille more attractive and for more teachers to be available to teach it.
+
+There are many extensions of Braille for additional letters with diacritics, such as "ç, ô, é".
+
+When braille is adapted to languages which do not use the Latin alphabet, the blocks are generally assigned to the new alphabet according to how it is transliterated into the Latin alphabet, not the alphabetic order of the national script. This is the case with Russian (Cyrillic alphabet), Greek, Hebrew, Arabic, and Chinese. In Greek, for example, "gamma" is written as Latin "g", even though it is the third letter of that alphabet (like the Latin "c"). Hebrew "beth", the second letter of the alphabet and cognate with the Latin letter "b", is instead written "v", as it is commonly pronounced. Esperanto letters with circumflexes, "ĉ", "ĝ", "ĥ", "ĵ" and "ŝ", are written as those letters without circumflexes with a filled sixth dot.
+
+More differences are in Chinese braille. In Mandarin Braille, which is based on Zhuyin rather than the Latin Pinyin alphabet, the Latin braille values are used for the first consonants and the simple vowels. There are additional blocks for the tones, diphthongs, and any following vowel + consonant combinations. Cantonese Braille is also based on Latin braille for many of the initial consonants and simple vowels, but the blocks also have different values depending on whether they are in a leading syllable or following syllable position. For instance, the block for Latin "k" represents old-style Cantonese "k" ("g" in Yale and other modern Romanizations) when initial, but "aak" when final, while Latin "j" represents Cantonese initial "j" but final "oei".
+
+However, at least two adaptations of Braille have completely reassigned the Latin sound values of the blocks. These are:
+
+In Japanese Braille, alphabetic signs for a consonant and vowel are combined into a single syllable block; in Korean Braille, the consonants have different leading and following syllable forms. These changes made Braille much more compatible with Japanese kana and Korean hangul, but meant that the Latin sound values could not be kept.
+
+Trained readers of Braille can read about 100 words per minute; trained readers who do not have sight problems can get to around 250 to 300 words per minute.

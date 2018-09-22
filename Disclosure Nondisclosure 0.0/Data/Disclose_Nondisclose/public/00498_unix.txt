@@ -1,0 +1,24 @@
+UNIX
+
+UNIX, often spelled "Unix" when the product trademark is not important, is a multi-user multi-processing operating system. It was developed beginning in 1969 at Bell Labs. It was created by Ken Thompson, Dennis Ritchie, Douglas McIlroy, and others, using the newly invented C programming language. The Unix operating system is a multiuser and multiprocessing system - this lets it run several applications at one time, and support a large number of users at the same time. It also is network oriented; which means that it is able to operate well in a network of computers. Security is also emphasized in Unix, because many people can have access to it, both by using it directly or over a network.
+
+Many ideas found in Unix were new. Other operating systems copied them. Today, there are many operating systems that have some of the ideas of Unix in them. For this reason, some people talk about a "Unix philosophy" of doing things. One of these systems with many of the Unix ideas in it, is called Linux. Linux does not use code from UNIX, it only shares some of the ideas and the names of commands. Therefore, Linux is not a UNIX operating system. Instead it is called "Unix-like".
+
+There can be many different users in a Unix and Unix-like operating system. Most of them have a personal area where they can put things. This is called a user account.
+
+The main method of using a Unix system is with the command line interface. Users run commands and programs by typing text characters (the "command lines"). This takes time to learn, but it is a very powerful and flexible way of working, because it allows things to be combined and done automatically, and it is still used by most Unix users and administrators. These commands are run in a shell, which can change slightly between one system and another.
+
+A graphical user interface (GUI) is the other method. The GUI usually used by Unix systems is the X Window System. The X Window System is only a shell of a graphical interface. It is made of many protocols. The X Window System itself does not provide a way for the user to move and resize windows. This is handled by a window manager or desktop manager.
+
+Some of the popular desktop environments and window managers are:
+
+
+Like most other graphical user interfaces, they use windows, dialog boxes, support the use of a computer mouse and are designed to be easy to use.
+
+There are many thousands of programs available for the X Window System. Programs like word processors and spreadsheets are available including free and open-source software.
+
+Today, there are two kinds of operating systems that look like Unix. The first group contains all those that have common kernel code with the original, developed at Bell Labs of AT&T. This includes the commercial UNIX variants, like Solaris, or AIX . The other group includes free ones that usually have BSD in their name, like FreeBSD, OpenBSD ,NetBSD and Mac OS X. These are based on free BSD.
+
+There are also free systems based on the Linux kernel. These do not have common code with the original UNIX. Even with the BSD systems, the amount of code from the original Unix is relatively small as much of the code has been rewritten over the years. To avoid confusion, many people speak about "Unix and Unix-like systems".
+
+As to the applications, most can be made to run on any modern Unix or Unix-like system. KDE and GNOME were developed for Linux, and later ported to the commercial Unix variants.

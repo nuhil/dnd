@@ -1,0 +1,101 @@
+Exponent
+
+An exponent tells you how many times a number (known as the base) is multiplied by itself
+
+For example: if you see formula_1, 5 is the base and 7 is the exponent. Therefore, in this example, 5 is multiplied by itself 7 times e.g. formula_2. 
+
+The exponent in formula_3 is 3. This can also be written as formula_4
+
+Bases raised to the second power or formula_5 are known as squared values
+
+Bases raised to the third power or formula_6 are known as cubed values
+
+Exponents are used in algebra. Exponentiation is a way of shortening the process/equation of repeatedly multiplying a number by itself. 
+
+An exponent is a number or symbol, placed above and to the right of the expression to which it applies, that indicates the number of times the expression is used as a factor.The exponent "x" in formula_7 indicates formula_8 multiplied by itself "x" times.
+
+There are some basic rules used in exponentiation
+
+1. Product Rule:
+
+Proof - When you are multiplying a base term by two different exponents formula_10 there are "m" number of "a'"s and "n" number of "a"'s 
+
+by definition, when dealing with exponents you are dealing with repeated multiplication of a base term so 
+
+therefore formula_12
+
+Example: formula_13 : This is true because at first we had 2 threes times 4 threes which, when multiplied together gives us 3 multiplied by itself 6 times or 4+2 times. 
+
+2. Quotient Rule:
+
+Proof (when m > n) - formula_15
+
+now group corresponding a’s
+
+corresponding a’s become 1 and we are left with
+
+therefore, formula_18
+
+Example: formula_19 notice formula_20 therefore the proof holds true
+
+this holds true for when m < n as well but when that happens you get negative exponents. When m < n the format of the problem becomes formula_21 
+
+See section below for more information on negative exponents
+
+3. Zero Rule:
+
+Proof: we showed in #1 that formula_23
+
+this holds true for formula_24 as well so, 
+
+if this statement is true where formula_26 
+
+then formula_24 must equal one,
+
+A negative exponent is the reciprocal of a number with a positive exponent which can be mathematically represented as formula_29 In the same way that regular exponents are considered repeated multiplication, negative exponents can be considered repeated division. 
+
+Negative exponents can also be different from -1. In this case the negative exponent can be separated from the positive exponent, so formula_30
+
+The formula for a negative exponent in terms of a whole number exponent is formula_31 There are more than one ways to prove this. The first proof involves a pattern form. It is not always a good idea to use patterns because in cases like exponents they may not be complete patterns for every case, but the proof still holds. 
+
+Proof #1: Why is formula_32 ?
+
+divide both sides by formula_36
+
+The second proof proves exactly the same thing but dives further into matching equalities 
+
+Proof #2: formula_39
+
+everything in the next row is proved by the rules in the exponent section
+
+therefore formula_44
+
+If we also have a multiplication, like in formula_45, it would be written as formula_46
+
+A complex number can also be taken to the power of another complex number. The relationship between imaginary numbers and trigonometry, which produces the multiplication formula
+
+This formula basically states that the multiplication of complex numbers is related to addition of angles.
+
+There are some relationships between functions and “infinite degree polynomials”, that are called series representations of the functions. The important series representations that we will focus on are:
+
+From these representations, you should notice that the terms of the sine and cosine series combine, along with some sign changes, to make the exponential series. By introducing the number i into the equation, we get
+
+This result is often used as the beginning of the definition for complex number exponents.
+
+There are some cases where we are raising other numbers to the power i. For example, we can use the following relationship formula_52. Here using base 2 and exponent i, we get
+
+When using base i and exponent i, we get
+
+Now we can look at a general formula.
+
+We can rewrite the formula_56 in the trigonometric form formula_57.
+
+By the relationship we found between trigonometry and complex exponent, we can rewrite the equation in complex exponential form, formula_58.
+
+Substituting this equation in the exponent in our original equation, we get formula_59
+
+This can be simplified to be formula_60
+
+The real and imaginary parts of the exponent can be simplified separately to obtain to result formula_61
+
+Because there are many ways to describe the angle P, this formula can give many answers. If we allow the variable P to vary by multiples of formula_62, we get the final result

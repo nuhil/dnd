@@ -1,0 +1,11 @@
+WordPress
+
+WordPress is a piece of software which has become the most widely used content management system and is used for setting up blogs. It is open source, licensed under the GPL, and written in PHP.
+
+WordPress allows users to create and edit websites through a central administrative dashboard, which includes a text editor for modifying content, menus and various design elements. WordPress provides plugins which provide additional functionality through WordPress Plugin Directory. Plugins can be installed through either upload or by one-click installation through the WordPress Plugin Library.
+
+Users can write posts into the software and other people reading the post can write comments about it.
+
+Since the release of WordPress version 4.7 the software had been downloaded more than 36+ million times.
+
+WordPress can be downloaded and installed on any server with PHP installed. However, WordPress has a service for users to host blogs, called wordpress.com. It has a limit of 3 GB of free space, with an option to upgrade for more. Users cannot add their own domain to the blog when using free option.

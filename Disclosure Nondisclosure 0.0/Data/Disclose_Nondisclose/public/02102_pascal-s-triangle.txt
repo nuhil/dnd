@@ -1,0 +1,22 @@
+Pascal's Triangle
+
+Pascal's Triangle is a mathematical triangular array. It is named after French mathematician Blaise Pascal, but it was used in China 3 centuries before his time.
+
+Pascal's triangle can be made as follows. On the first row, write only the number 1. Then, to get the numbers of following rows, add the number that can be seen above and to the left (if any) and the number above and to the right (if any) to find the new value. For example, the numbers 1 and 3 in the fourth row are added to make 4 in the fifth row. 
+The triangle has many uses in probability. It can also be used in binomial expansions. For example
+
+Notice the coefficients are the third row of Pascal's triangle: 1, 2, 1.
+In general, when a binomial is raised to a positive integer power we have:
+
+where the coefficients "a" in this expansion are precisely the numbers on row "n" + 1 of Pascal's triangle; in other words,
+
+Formally speaking, the way of making the Pascal's Triangle uses Pascal's rule, which states that
+
+for non-negative integers "n" and "k" where "n" ≥ "k" and with the initial condition
+
+Pascal's triangle generalizes readily into higher dimensions. The three-dimensional version is called Pascal's pyramid or "Pascal's tetrahedron". A higher-dimensional analogue is generically called a "Pascal's simplex". See also pyramid, tetrahedron, and simplex.
+
+The first and last number in each row is always 1.
+The second number in each row is the row number. In a binomial expansion, this second number is equal to the power. (This makes the 'first' row, 1, actually the zero row). 
+The rows always read the same forward and backward. 
+The sum of the numbers in each row is double the sum of the numbers in the row before. The sum of each row is 2.

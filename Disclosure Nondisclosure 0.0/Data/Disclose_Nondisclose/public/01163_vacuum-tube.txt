@@ -1,0 +1,11 @@
+Vacuum tube
+
+A vacuum tube, also called a "valve" in British English, is an electronic device used in many older model radios, television sets, and amplifiers. The cathode is heated, as in a light bulb, so it will emit electrons. This is called thermionic emission. The anode is the part that accepts the emitted electrons. The device may have other parts. Vacuum tubes must be hot to work. Most are made of glass, thus are fragile and can break. Vacuum tubes were used in the first computers like the ENIAC, which were large and need much work to continue operating.
+
+Although the vacuum tube was invented by John Ambrose Fleming later, it was Thomas Edison who discovered the “Edison effect”. The Edison effect states that electricity does not necessarily need a solid material to move through; it can move through gas or vacuums as well. Without this realization, vacuum tubes would never have been invented. 
+
+John Ambrose Fleming invented the first vacuum tube, the diode, in 1904. Lee De Forest invented the "audion" in 1906 (which was improved by others as the triode in 1908) and used in the first telephone amplifiers. Many other kinds were invented for various purposes. 
+
+The transistor became cheaper in the 1960s and was much smaller, worked on lower voltages, and used less power. In addition, unlike vacuum tubes, they were much less likely to be damaged by being dropped and had extremely long life. Eventually, they were also much cheaper than glass vacuum tubes. At this time, most radios, television sets, and amplifiers began using transistors instead. High powered electronics such as broadcasting transmitters were transistorized more slowly. Television receivers continued using the cathode ray tube until the mid-2000s.
+
+In the 21st century, vacuum tubes are rarely used in common electronic equipment. Many devices today rely on the transistor over the vacuum tube. Some devices that still use the vacuum tube, however, include:

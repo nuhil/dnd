@@ -1,0 +1,20 @@
+Computer science
+
+Computer science is the study of how to manipulate, manage, transform and encode information. 
+
+There are many different areas in computer science. Some of the areas consider problems in an abstract way. Some areas need special machines, called computers.
+
+A person who works with computers will often need mathematics, science, and logic in order to make and use computers.
+
+This is so that they can find new and easier ways to do things, and the way to approach problems with this information.
+
+Computers can do some things easily (for example: simple math, or sorting out a list of names from A-to-Z). But computers cannot answer questions when there is not enough information, or when there is no real answer. Also, computers may take too much time to finish long tasks. For example, it may take too long to find the shortest way through all of the towns in the USA - so instead a computer will try to make a close guess. A computer will answer these simpler questions much faster.
+
+Algorithms are a specific set of instructions or steps on how to complete a task. Think about playing cards, for example. A computer scientist wants to sort these cards. First he sorts them by suits. Then he orders them by number (2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King, and Ace). There are many ways to sort the cards. By deciding on a set of steps of how to sort the cards, he has created an algorithm. After making the algorithm, the scientist needs to test whether the algorithm works. Then, the scientist can see how well his algorithm sorts the cards.
+
+A simple but slow algorithm could be: drop the cards, pick them up, and check whether they are sorted. If they are not, do it again. This method will work, but it should take a very long time.
+A better algorithm would be too, finding the first card, the smallest suit and smallest number (2 of diamonds), and putting it at the start. After this, he looks for the second card, and so on. This works much faster, and does not need much space. This sorting algorithm has a name, selection sort.
+
+Computer science began during World War II and separated from the other sciences during the 1960s and 1970s. Now, computer science has its own methods, and has its own technical terms. It is related to electrical engineering, mathematics, and language science.
+
+Computer science looks at the theoretical parts of computers. Computer engineering looks at the physical parts of computers (hardware), and software engineering looks at the use of computer programs and how to make them.

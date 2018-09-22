@@ -1,0 +1,13 @@
+Random-access memory
+
+Random Access Memory (or simply RAM) is the memory or information storage in a computer that is used to store running programs and data for the programs. Data (information) in the RAM can be read and written quickly in any order. Normally, the random access memory is in the form of computer chips. Usually, the contents of RAM are accessible faster than other types of information storage but are lost every time the computer is turned off. Non-volatile random-access memory (NVRAM) keeps its data without using power, but is more expensive and works more slowly, so it is used in smaller amounts. 
+
+Since the late 20th century, RAM uses transistors, usually MOSFETs, to store data. Before that, magnetic memory was the usual kind.
+
+Dynamic random access memory (DRAM) is the majority in computers. Modern computers use several types of DRAM. Before 2002, most computers used single data rate (SDR) RAM. Most computers made since then use either double data rate (DDR), DDR2, DDR3, or RAM. The later types allow stored data to be moved and used more quickly, so that the computer's processor can keep working quickly without having to wait for data as long or as often. 
+
+Different kinds of RAM usually will not work together in the same computer. Most computers can only use one kind of RAM. Some can use a small number of different kinds. Different kinds of RAM often have differently shaped connectors. This limits which RAM chips a particular computer model can use.
+
+Static RAM (SRAM) needs power to keep its data, but doesn't need the computer to be active. Some SRAM chips are battery-backed. This type has a built-in battery to make sure no data is lost if the computer is turned off. Some computers have a little SRAM and mostly DRAM.
+
+Information that the computer always needs, that does not often change, is normally kept in read-only memory (ROM), which does not lose its contents when the computer is turned off. Such items include the BIOS (Basic Input/Output System), which stores the most basic commands for the computer, telling it how it should start up. The BIOS also tells the computer how to input and output information. The BIOS can be compared to the part of your brain that tells your heart how to beat. This is an important part.

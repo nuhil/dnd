@@ -1,0 +1,34 @@
+Magnetic field
+
+In physics, the magnetic field is a field that passes through space and which makes a magnetic force move electric charges and magnetic dipoles. Magnetic fields are around electric currents, magnetic dipoles, and changing electric fields.
+
+When placed in a magnetic field, magnetic dipoles are in one line with their axes to be parallel with the field lines, as can be seen when iron filings are in the presence of a magnet. Magnetic fields also have their own energy and momentum, with an energy density proportional to the square of the field intensity. The magnetic field is measured in the units of teslas (SI units) or gauss (cgs units).
+
+There are some notable specific kinds of the magnetic field. For the physics of magnetic materials, see magnetism and magnet, and more specifically diamagnetism. For magnetic fields made by changing electric fields, see electromagnetism.
+
+The electric field and the magnetic field are components of the electromagnetic field.
+
+The law of electromagnetism was founded by Michael Faraday. 
+
+Physicists can say that the force and torques between two magnets are caused by magnetic poles repelling or attracting each other. This is like the Coulomb force repelling the same electric charges or attracting opposite electric charges. In this model, a magnetic "H-field" is produced by "magnetic charges" that are 'smeared' around each pole. So, the H-field is like the electric field E which starts at a positive electric charge and ends at a negative electric charge. Near the north pole, all H-field lines point away from the north pole (whether inside the magnet or out) while near the south pole (whether inside the magnet or out) all H-field lines point toward the south pole. A north pole, then, feels a force in the direction of the H-field while the force on the south pole is opposite to the H-field.
+
+In the magnetic pole model, the elementary magnetic dipole m is formed by two opposite magnetic poles of pole strength "q" separated by a very small distance d, such that m = "q" d. 
+
+Unfortunately, magnetic poles cannot exist apart from each other. All magnets have north/south pairs which cannot be separated without creating two magnets each having a north/south pair. Also, magnetic poles do not account for magnetism that is produced by electric currents nor the force that a magnetic field applies to moving electric charges.
+
+The -field is defined as:
+
+With this definition, Ampere's law becomes:
+
+where represents the 'free current' enclosed by the loop so that the line integral of does not depend at all on the bound currents. For the differential equivalent of this equation see Maxwell's equations. Ampere's law leads to the boundary condition:
+where is the surface free current density.
+
+Similarly, a surface integral of over any closed surface is independent of the free currents and picks out the 'magnetic charges' within that closed surface:
+
+which does not depend on the free currents.
+
+The -field, therefore, can be separated into two independent parts:
+
+where is the applied magnetic field due only to the free currents and is the demagnetizing field due only to the bound currents.
+
+The magnetic -field, therefore, re-factors the bound current in terms of 'magnetic charges'. The field lines loop only around 'free current' and, unlike the magnetic field, begins and ends at near magnetic poles as well.

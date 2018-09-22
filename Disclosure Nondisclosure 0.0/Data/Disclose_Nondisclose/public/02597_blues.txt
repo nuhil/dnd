@@ -1,0 +1,21 @@
+Blues
+
+The blues is a form of music that started in the United States during the start of the 20th century. It was started by former African slaves from spirituals, praise songs, and chants. The first blues songs were called Delta blues. These songs came from the area near the mouth of the Mississippi River. Many African Americans migrated to the north esp. in the northwest of the United States, to find work. They took the blues with them and developed it into new styles. The most important is the Chicago Blues, which is played with electric amplified instruments. But other cities and states have their own form of Blues developed from the Delta Blues (f. e. Texas Blues, West Coast Blues and others).
+
+Blues is based on a simple pattern. "“Blues is easy to play, but hard to feel”"-Jimi Hendrix. A common form for the blues is a repeating 12 bar form (each bar has 4 beats). This is put together as 3 phrases or sections, each being 4 bars long. The basic blues only needs 3 chords, one based on the first note of the scale - the tonic chord, one based on the fourth note of the scale - the subdominant chord, and one based on the fifth note of the scale - the dominant chord. The first section or phrase of 4 bars only uses the tonic chord. A common variation is to use the subdominant chord in the second bar. The second phrase has 2 bars (8 beats) of subdominant chord then 2 bars of tonic chord. The third phrase has 1 bar (4 beats) of dominant chord, 1 bar of subdominant chord and finishes with 2 bars of tonic chord.
+
+In a scale based on the note C (C is the 1st or tonic, F is the 4th or subdominant, and G is the 5th or dominant), the chord pattern of a 12 bar blues would be like this:
+
+C C C C |C C C C or F F F F |C C C C |C C C C |
+F F F F |F F F F |C C C C |C C C C |
+G G G G |F F F F |C C C C |C C C C |
+
+The melody of the simplest blues scales are based on the scale for example C Eflat G A Bflat C, with extra notes (called "blue notes") added like this C Eflat Gflat G A Bflat C. Blue notes do not normally fit a scale, but they give the music a special feeling.
+
+The lyrics (words) are usually about life, more specifically, the bad things in life. They are simple blues songs that are also based around the form of 3 phrases. The first phrase is set over the first 4 bars of music. The second phrase words are a repetition of the first phrase, this always happens and emphasises the message. The third phrase completes the "story" and rhymes (ends with the same sound) as the first line. This verse from Robert Johnson's ""Crossroad Blues"" shows how these phrases work in a song:
+
+"I went to the crossroads, fell down on my knees"
+"I went to the crossroads, fell down on my knees"
+"Asked the Lord above, have mercy now, save poor Bob if you please"
+
+The blues have made a difference in newer American and Western popular music, such as jazz, bluegrass, rhythm and blues, rock and roll, hip-hop, and country music, as well as common pop songs.

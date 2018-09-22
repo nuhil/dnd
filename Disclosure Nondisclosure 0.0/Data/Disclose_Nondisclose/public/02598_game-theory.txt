@@ -1,0 +1,25 @@
+Game theory
+
+Game theory is the study of how and why people make decisions. (Specifically, it is "the study of mathematical models of conflict and cooperation between intelligent rational decision-makers".) It helps people understand parts of science and politics. An alternative term suggested "as a more descriptive name for the discipline" is interactive decision theory.
+
+In the Cold War period, the strategic decisions of the United States and the Soviet Union were sometimes viewed as an exercise in game theory. In that case the "players" being studied were the United States and the Soviet Union.
+
+Game theory is not just about games, but how and why businesses make decisions, and just about any decision based on valuing likely outcomes. In game theory, all of these situations are "games" since the people involved make choices based on how they value the possible outcomes of the choices. This is true even of cases where the decisions of a single person only affect that one person. 
+
+Game theory is found in the financial choices people make, and is found in the study of economics. 
+
+One example is the prisoner's dilemma. It gives an example where co-operation may not be the "best choice" in game theory. 
+
+Suppose two people are arrested for a crime, and the police are uncertain which person committed the crime, and which person abetted the crime. Each is given a choice: If each remains silent, they are both soon released. If one betrays the other, the betrayer goes free, and the other is imprisoned for a long time. If each betrays the other, they both are held for a shorter time. 
+
+If you are a prisoner in this situation and you only care about yourself, the way to get the smallest sentence is to betray the other prisoner. No matter what, you get a shorter sentence when you betray than when you do not. Imagine a situation where you are one of the prisoners, if the other prisoner stays silent and does not betray, then betraying means you do not go to jail at all instead of going to jail for 6 months. If the other prisoner betrays, then betraying lets you go to jail for 2 years instead of 10 years. In short, "betrayal" is the best strategy, and is called the "dominant strategy." 
+
+The prisoner's dilemma does not have same result if some of the details are different. If the prisoners (or countries) can talk with each other and plan for the future, they might both decide to cooperate (not betray) because they hope that will make the other country help them in the future. In game theory, this is called a "repeated game." If the players are altruistic (if they care about each other), they might be okay with going to jail so they can help the other person.
+
+Game theory has also been used in philosophy. Responding to two papers by W.V.O. Quine from 1960 and 1967, used game theory to develop a philosophical account of convention. With this, he provided the first analysis of common knowledge and used it to analyze play in coordination games. In addition, he first suggested that it is possible to understand meaning in terms of signaling games. This suggestion has been pursued by several philosophers since Lewis. Following game-theoretic account of conventions, Edna Ullmann-Margalit (1977) and Bicchieri (2006) have developed theories of Social norms that define them as Nash equilibria that result from transforming a mixed-motive game into a coordination game.
+
+Game theory has also challenged philosophers to think in terms of interactive Epistemology: what it means for a collective to have common beliefs or knowledge, and what are the consequences of this knowledge for the social outcomes resulting from agents' interactions. Philosophers who have worked in this area include Bicchieri (1989, 1993), Skyrms (1990), and Stalnaker (1999).
+
+Using the ethics part of philosophy pursues Thomas Hobbes' project of deriving morality from self-interest. Since games like the Prisoner's dilemma present an apparent conflict between morality and self-interest, explaining why cooperation is required by self-interest is an important part of this project. This general strategy is a component of the general Social contract view in Political philosophy (for examples, see and ).
+
+Other authors have attempted to use Evolutionary game theory to explain the emergence of human attitudes about morality and corresponding animal behaviors. These authors look at several games including the prisoner's dilemma, Stag hunt, and the Nash bargaining game as providing an explanation for the emergence of attitudes about morality (see, e.g., and ).

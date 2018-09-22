@@ -1,0 +1,13 @@
+Radio wave
+
+Radio waves make up part of the electromagnetic spectrum. These waves are packets of energy with differing wavelengths, similar to visible light waves, X-rays or gamma rays, except longer.
+
+A radio wave, like other electromagnetic waves, is similar to an ocean surface wave or any other type of wave. Both types of wave have a hill and valley shape, repeating over and over. A wavelength is measured as the distance from the top of one crest to the top of its neighboring crest. While the wavelength of visible light is very very small, less than one micrometer and much less than the thickness of a human hair, radio waves can have a wavelength from a couple centimeters to several meters. They also have a radio frequency.
+
+The smallest radio waves are called microwaves. Shortwaves are not quite so small. There are also medium and long waves. Antennas designed to send and receive radio waves are usually similar in size to the wavelength they are to use. Many radio antennas (like those on cars) are made long because they receive signals of FM radio (a few meters, several feet) or AM radio (hundreds of meters, about a thousand feet). 
+
+Manmade radio waves have been used since the 19th century for communication. Radar was developed in the 20th century, using radio waves to 'see' distant objects by bouncing waves off an object and seeing how long it takes for the waves to return. Radios also use these waves to send and receive information.
+
+Natural radio waves were first discovered in the 1930s by Karl Guthe Jansky, working for Bell Laboratories. Before his discovery, everyone thought only people could generate radio waves. Bell was detecting static on radio channels, and had Jansky try to figure out where this static, or interference was coming from. Surprisingly, the interference was coming from space! This discovery eventually led astronomers to look at radio waves along with light waves to find things in the sky. These radio astronomers use giant Radio telescopes, shaped like satellite dishes, to gather and study the waves.
+
+Radio waves are used for many things today. Broadcasting and communications satellites and mobile phones and many computers communicate by radio waves.

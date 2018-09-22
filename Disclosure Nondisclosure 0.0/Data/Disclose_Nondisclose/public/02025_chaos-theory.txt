@@ -1,0 +1,13 @@
+Chaos theory
+
+Chaos theory is a part of mathematics. It looks at certain systems that are very sensitive. A very small change may make the system behave completely differently. 
+
+Very small changes in the starting position of a chaotic system make a big difference after a while. This is why even large computers cannot tell the weather for more than a few days in the future. Even if the weather was perfectly measured, a small change or error will make the prediction completely wrong. Since even a butterfly can make enough wind with its wings to do this, a chaotic system is sometimes called the "butterfly effect". No computer knows enough to tell how the small wind will change the weather.
+
+Some systems (like weather) might appear random at first look, but chaos theory says that these kinds of systems or patterns may not be. If people pay close enough attention to what is really going on, they might notice the chaotic patterns.
+
+The main idea of chaos theory is that a minor difference at the start of a process can make a major change in it as time progresses. Quantum chaos theory is a new idea in the study of chaos theory. It deals with quantum physics.
+
+As an example, take a pendulum that is attached at some point, and swings freely. Connecting a second pendulum to the first will make the system completely different. It is very hard to start in exactly the same position again - a change in starting position so small that it cannot even be seen can quickly cause the pendulum swing to become different from what it was before. 
+
+A very important part to the study of chaos theory is the study of mathematics functions that are known as "fractals". Fractal functions work like chaotic systems: a small change in the starting values can change the value of the function in ways that look random. Due to the fact that they are mathematical, they are easy to study.

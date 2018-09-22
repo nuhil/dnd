@@ -1,0 +1,18 @@
+Integrated circuit
+
+An integrated circuit (more often called an IC, microchip, silicon chip, computer chip, or chip) is a piece of specially prepared silicon (or another semiconductor) into which an electronic circuit is etched using photographic techniques. Silicon chips can contain logic gates, computer processors, memory and special devices. The chip is very fragile and so is normally surrounded by a tough plastic package. Electrical contact with the chip is provided through metal legs sticking out of the package.
+
+There are two main advantages of ICs over discrete circuits: cost and performance. Cost is low because millions of transistors are printed as a complete unit by photolithography and not constructed as one transistor at a time. Performance is higher since the components switch quickly, consuming little power.
+
+ICs are designed for different purposes. A chip may be designed as a calculator, which only works as a calculator. Integrated circuits can be classified into analog, digital and mixed signal (both analog and digital on the same chip).
+
+A semiconductor such as silicon can be controlled to conduct much or little. This allows making transistors that control each other. They are found in many household items such as radio, computers, telephones and other devices. Other semiconductor devices include solar cells, diodes, and LED’s (light emitting diode).
+
+In 1958 and 1959, two people had the idea for an integrated circuit at almost exactly the same time. Transistors had become an everyday thing used in computers. They affected everything from radios to phones and at the time manufacturers needed a better product. Transistors were smaller than vacuum tubes, but for some of the newest electronics, for example missile guidance, they weren't small enough. 
+
+One day in July, Jack Kilby was working at Texas Instruments when it occurred to him that all parts of a circuit, not just the transistor, could be made out of silicon. At the time, nobody was making capacitors or resistors out of semiconductors. This would change the future and make it easier to produce and sell integrated circuits. Kilby's boss liked the idea, and told him to get to work. By September 12, Kilby had built a working model, and on February 6, Texas Instruments filed a patent. Their first ""Solid Circuit"" was the size of a fingertip. 
+Meanwhile, in California, another man had the same idea. In January of 1959, Robert Noyce was working at the small Fairchild Semiconductor startup company. He also realized a whole circuit could be put into a single chip. While Kilby had worked out the details of making individual components, Noyce thought of a much better way to connect the parts. The design was called a ""unitary circuit." All that detail paid off because on April 25, 1961, the patent office awarded the first patent for an integrated circuit to Robert Noyce while Kilby's application was still being analyzed. Today, both men are acknowledged as having independently conceived of the idea.
+
+※ The difference between VLSI and ULSI is obscure.
+
+Integrated circuits can be packaged as DIP (Dual in-line package), PLCC (Plastic leaded chip carrier), TSOP (Thin small-outline package), PQFP (Plastic Quad Flat Pack) and other chip package types. Some small ones are packaged for surface-mount technology. The transistors inside can be bipolar transistors in unusual circuits, such as those needing unusually high switching speeds. Most, however, are MOSFETs.

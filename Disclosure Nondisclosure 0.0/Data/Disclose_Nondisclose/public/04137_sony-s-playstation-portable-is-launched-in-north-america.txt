@@ -1,0 +1,20 @@
+Sony's PlayStation Portable is launched in North America
+
+Sony launched its eagerly anticipated PlayStation Portable (PSP) in the North American market today. The PlayStation costs $250 and plays MP3 files, movies and of course games.
+
+Launched previously in Japan last year with much fanfare, the PSP quickly achieved sales of more than 800,000 units. The device is Sony's first major attempt at challenging Nintendo's long held grip on the market for handheld games. 
+
+Nintendo currently holds a 90 percent of the market share for handhelds in North America. With the recent introduction of Nintendo DS, the fight for control of this market is expected to become even more intense. 
+
+The first shipment of 200,000 PSP units were made available for purchase in Japan on December 12, 2004. All units sold out within the first two days. Some users reported problems with the launch units, including dead pixels (discolored squares) within the LCD screen and game discs ejecting abruptly if the system is twisted. Sony offered to replace these PSPs under warranty, but said they do not consider a display faulty unless four pixels are within 1cm (0.39 in) of each other. 
+
+Sony have said that the following titles will be launched during the "launch window":
+
+
+The unit measures 170 mm (6.7 in) (Length) × 74 mm (2.9 in) (Width) × 23 mm (0.9 in) (Depth), and weighs 260 grams (9.17 oz) including the battery. The most noticeable element of the PSP is its 4.3" 16:9 ratio TFT LCD screen sporting a 480 x 272 pixel resolution capable of 16.77 million colors.
+
+The PlayStation Portable's CPU is a MIPS R4000 (32-bit) CPU, split into two cores each operating between 1 and 333 MHz; the system has 32MB of main RAM and 4MB of embedded DRAM. The primary CPU core is responsible for traditional game processor functions; the secondary core, dubbed the "Virtual Media Engine", is responsible for decoding multimedia, for example the h.264 decoder. 
+
+The independent 166 MHz graphics chip provides hardware polygon and NURBS rendering, clipping, morphing, texture compression and tessellation, along with handling image output. Specifications state that the PSP is capable of rendering 33 million flat-shaded polygons per second, with a 664 million pixel per second fill rate.
+
+Unlike Sony's PlayStation 2 console, the GPU (PS2 Vector Unit equivalent) is not programmable.

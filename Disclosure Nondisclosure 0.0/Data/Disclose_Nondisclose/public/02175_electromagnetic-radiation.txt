@@ -1,0 +1,34 @@
+Electromagnetic radiation
+
+Electromagnetic waves are waves that contain an electric field and a magnetic field and carry energy. They travel at the speed of light.
+
+Quantum mechanics developed from the study of electromagnetic waves. This field includes the study of both visible and invisible light. Visible light is the light one can see with normal eyesight in the colors of the rainbow. Invisible light is light one can't see with normal eyesight and includes more energetic and higher frequency waves, such as ultraviolet, x-rays and gamma rays. Waves with longer lengths, such as infrared, micro and radio waves, are also explored in the field of Quantum mechanics. 
+
+Some types of electromagnetic radiation, such as X-rays, are ionizing radiation and can be harmful to your body. 
+Ultraviolet rays are near the violet end of the light spectrum and infrared are near the red end. Infrared rays are heat rays and ultraviolet rays cause sunburn.
+
+The various parts of the electromagnetic spectrum differ in wavelength, frequency and quantum energy. 
+
+Sound waves are not electromagnetic waves but waves of pressure in air, water or any other substance.
+
+In physics, it is well known that the wave equation for a typical wave is
+
+formula_1
+
+The problem now is to prove that Maxwell's equations explicitly prove that the electric and magnetic fields create electromagnetic radiation. Recall that two of Maxwell's equations are given by
+
+formula_2
+
+formula_3
+
+By evaluating the curl of the above equations and vector calculus one can prove the following equations
+
+formula_4
+
+formula_5
+
+Note: the proof involves making the substitution 
+
+formula_6
+
+The equations above are analogous to the wave equation, by replacing f with E and B. The above equations mean that propagations through the magnetic (B) and electric (E) fields will produce waves.

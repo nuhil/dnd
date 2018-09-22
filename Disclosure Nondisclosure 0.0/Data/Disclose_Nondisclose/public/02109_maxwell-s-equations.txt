@@ -1,0 +1,107 @@
+Maxwell's equations
+
+In the 1860s James Clerk Maxwell published equations that describe how charged particles give rise to electric and magnetic force per unit charge. The force per unit charge is called a field. The particles could be stationary or moving. These, together with the Lorentz force equation, provide everything one needs to calculate the motion of classical particles in electric and magnetic fields.
+
+Maxwell's equations describe how electric charges and electric currents create electric and magnetic fields. Further, they describe how an electric field can generate a magnetic field, and vice versa. 
+
+The first equation allows you to calculate the electric field created by a charge. The second allows you to calculate the magnetic field. The other two describe how fields 'circulate' around their sources. Magnetic fields 'circulate' around electric currents and time varying electric fields, Ampère's law with Maxwell's correction, while electric fields 'circulate' around time varying magnetic fields, Faraday's law.
+
+where the following table provides the meaning of each symbol and the SI unit of measure:
+
+and
+
+where formula_4 is the "free" electric charge density (in units of C/m), not counting the dipole charges bound in a material, and formula_5 is the electric displacement field (in units of C/m). This equation is like Coulomb's law for non-moving charges in vacuum.
+
+The next integral form (by the divergence theorem), also known as Gauss' law, says the same thing:
+
+formula_7 is the area of a differential square on the closed surface A. The surface normal pointing out is the direction, and formula_8 is the free charge that is inside the surface.
+
+In a "linear material", formula_5 is directly related to the electric field formula_10 with a constant called the permittivity, formula_11 (This constant is different for different materials):
+
+You can pretend a material is linear, if the electric field is not very strong. 
+
+The permittivity of free space is called formula_13, and is used in this equation:
+
+Here formula_10 is the electric field again (in units of V/m), formula_16 is the total charge density (including the bound charges), and formula_13 (approximately 8.854 pF/m) is the permittivity of free space. One can also write formula_11 as formula_19. Here, formula_20 is the permittivity of the material when compared to the permittivity of free space. This is called the relative permittivity or "dielectric constant".
+
+See also Poisson's equation.
+
+formula_22 is the magnetic flux density (in units of teslas, T), also called the magnetic induction.
+
+This next integral form says the same thing: 
+
+The area of formula_7 is the area of a differential square on the surface formula_25. The direction of formula_7 is the surface normal pointing outwards on the surface of formula_25.
+
+This equation only works if the integral is done over a closed surface.
+This equation says, that in every volume the sum of the magnetic field lines that go in equals the sum of the magnetical field lines that go out. This means that the magnetic field lines must be closed loops. Another way of saying this is that the field lines cannot start from somewhere. 
+This is the mathematical way of saying: "There are no magnetic monopoles".
+
+This next integral form says the same thing: 
+
+Here formula_30
+
+This is what the symbols mean:
+
+Φ is the magnetic flux that goes through the area A that the second equation describes,
+
+E is the electric field that the magnetic flux causes,
+
+s is a closed path in which current is induced, for example a wire,
+
+v is the instantaneous velocity of the line element (for moving circuits).
+
+The electromotive force is equal to the value of this integral. Sometimes this symbol is used for the electromotive force: formula_31, do not confuse it with the symbol for permittivity that was used before.
+
+This law is like Faraday's law of electromagnetic induction.
+
+Some textbooks show the right hand sign of the integral form with an "N" (N is the number of coils of wire that are around the edge of "A") in front of the flux derivative. The "N" can be taken care of in calculating "A" (multiple wire coils means multiple surfaces for the flux to go through), and it is an engineering detail so it's left out here.
+
+The negative sign is needed for conservation of energy. It is so important that it even has its own name, Lenz's law.
+
+This equation shows how the electric and magnetic fields have to do with each other. For example, this equation explains how electric motors and electric generators work. In a motor or generator, the field circuit has a fixed electric field that causes a magnetic field. This is called fixed excitation. The varying voltage is measured across the armature circuit.
+Maxwell's equations are used in a right-handed coordinate system. To use them in a left-handed system, without having to change the equations, the polarity of magnetic fields has to made opposite (this is not wrong, but it is confusing because it is not usually done like this).
+
+H is the magnetic field strength (in units of A/m), which you can get by dividing the magnetic flux B by a constant called the permeability, μ (B = μH), and J is the current density, defined by: 
+
+J = ∫ρvdV 
+
+v is a vector field called the drift velocity. It describes the speeds of the charge carriers that have a density described by the scalar function ρ.
+
+In free space, the permeability μ is the permeability of free space, μ, which is "exactly" 4π×10 W/A·m, by definition. Also, the permittivity is the permittivity of free space ε. So, in free space, the equation is:
+
+The next integral form says the same thing:
+
+"s" is the edge of the open surface "A" (any surface with the curve "s" as its edge is okay here), and "I" is the current encircled by the curve "s" (the current through any surface is defined by the equation: "I" = ∫"J·dA)."
+
+If the electric flux density does not change very fast, the second term on the right hand side (the displacement flux) is very small and can be left out, and then the equation is the same as Ampere's law.
+
+There are only two covariant Maxwell Equations, because the covariant field vector includes the electrical and the magnetical field.
+
+"Mathematical note: In this section the abstract index notation will be used."
+
+In special relativity, Maxwell's equations for the vacuum are written in terms of four-vectors and tensors in the "manifestly covariant" form. This has been done to show more clearly the fact that Maxwell's equations (in vacuum) take the same form in any inertial coordinate system. This is the "manifestly covariant" form:
+
+and
+
+The second equation is the same as:
+
+Here formula_38 is the 4-current, formula_39 is the field strength tensor (written as a 4 × 4 matrix), formula_40 is the Levi-Civita symbol, and formula_41 is the 4-gradient (so that formula_42 is the d'Alembertian operator). (The formula_43 in the first equation is implicitly summed over, according to Einstein notation.) The first tensor equation says the same thing as the two inhomogeneous Maxwell's equations: Gauss' law and Ampere's law with Maxwell's correction. The second equation say the same thing as the other two equations, the homogeneous equations: Faraday's law of induction and the absence of magnetic monopoles.
+
+formula_38 can also be described more explicitly by this equation: formula_45 (as a contravariant vector), where you get formula_38 from the charge density ρ and the current density formula_47. The 4-current is a solution to the continuity equation:
+
+formula_48
+
+In terms of the 4-potential (as a contravariant vector) formula_49, where φ is the electric potential and formula_50 is the magnetic vector potential in the Lorentz gauge formula_51, "F" can be written as:
+
+which leads to the 4 × 4 matrix rank-2 tensor:
+
+The fact that both electric and magnetic fields are combined into a single tensor shows the fact that, according to relativity, both of these are different parts of the same thing—by changing frames of reference, what looks like an electric field in one frame can look like a magnetic field in another frame, and the other way around.
+
+Using the tensor form of Maxwell's equations, the first equation implies 
+
+formula_54
+(See Electromagnetic four-potential for the relationship between the d'Alembertian of the four-potential and the four-current, expressed in terms of the older vector operator notation).
+
+Different authors sometimes use different sign conventions for these tensors and 4-vectors (but this does not change what they mean).
+
+formula_39 and formula_56 are "not" the same: they are related by the Minkowski metric tensor formula_57: formula_58. This changes the sign of some of "F"'s components; more complex metric dualities can be seen in general relativity.

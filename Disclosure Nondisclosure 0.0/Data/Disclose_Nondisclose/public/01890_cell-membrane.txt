@@ -1,0 +1,16 @@
+Cell membrane
+
+The cell membrane is a thin flexible layer around the cells of all living things. It is sometimes called the plasma membrane or cytoplasmic membrane. 
+
+Its basic job is to separate the inside of cells from the outside.
+In all cells, the cell membrane separates the cytoplasm inside the cell from its surroundings. Animal cells are contained in just a membrane. Bacteria, fungi and plants have strong cell walls as well, which support the cell and block the passage of large molecules.
+
+The membrane is made up of a thin layer called the 'phospholipid bilayer'. This has two layers of phospholipid molecules with phosphate heads on the surfaces and lipid (oil) tails on the inside. The outside heads mix with water, but the tails reject water.
+
+Other proteins and lipids can be added to the cell membrane. By these changes, the cell can adjust what it brings in or puts out. Some proteins are always stuck into it, these are called "integral" membrane proteins. It also has some which are only sometimes stuck onto it. These are called peripheral membrane proteins.
+
+The cell membrane is active and regulates (adjusts) what comes in and what goes out of the cell. The movement of substances across the membrane can be either "passive", occurring without the input of cellular energy, or "active", requiring energy. 
+
+Proteins within the membrane are key to its working. These proteins mainly transport chemicals and information across the membrane. 
+
+The membrane contains many proteins. The surface proteins can act as gates. They let some chemicals into the cell and let other chemicals leave the cell. It is estimated that up to a third of the human proteome may be membrane proteins. Some of these proteins are linked to the exterior of the cell membrane. An example of this is the CD59 protein, which identifies cells as “self” and thus inhibits their destruction by the immune system.

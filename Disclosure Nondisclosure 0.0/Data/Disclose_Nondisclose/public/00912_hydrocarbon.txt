@@ -1,0 +1,25 @@
+Hydrocarbon
+
+A hydrocarbon is a type of chemical compound. It is made of only hydrogen and carbon atoms.
+They can be found in crude oil and are separated by fractional distillation (which means they are separated into different groups). The hydrogen and carbon are bonded with non-polar covalent bonds. Because of its lack of polar covalent bonds, hydrocarbons cannot create hydrogen bonds with water and are hydrophobic. 
+
+Hydrocarbons are grouped into "families" or "homologous series". There are five main families. The hydrocarbons in each family have a general formula and similar chemical properties, and similar trends in physical properties. This system was approved in 1892 by the International Congress of Chemists, meeting in Geneva. 
+
+Alkanes are the simplest hydrocarbons. Their general formula is CH.
+
+Alkenes are similar to alkanes. The main difference between them is that alkenes have a carbon to carbon double bond. The general formula for the alkenes is CH.
+Note that there is no "Methene". Methene is not possible as alkenes require a carbon-carbon double bond and methane only has one carbon atom.
+
+Alkynes have a carbon to carbon triple bond. CH is their general formula.
+"Methyne" does not exist because of methane's one carbon atom.
+
+Cycloalkanes are isomers of alkenes. They have the same general formula (CH), the only difference is that they do not have a carbon to carbon double bond.
+
+Note that the alkene Ethene does not have a cycloalkane as it can only form a straight line.
+
+Alkadienes have two carbon to carbon double bonds. Their general formula is CH. They are isomers of Alkynes.
+
+In a similar manner, there can also exist alkatriene (three carbon to carbon bonds) and other forms. The versatile nature of Carbon's chemistry allows for a nealy infinite number of configurations and compounds.
+
+Aromatic hydrocarbons are aromatic organic molecules that form flat ring-shaped bonds. The most simplest of aromatic hydrocarbons are benzene and indole. They can have one ring, "heterocyclic", like benzene or 2 rings, "bicyclic" like napthalene (primary ingredient in mothballs) or many rings, "polycyclic" like anthracene (red dye colourant).
+Their general formula is CH, where n is a number greater than or equal to 6.

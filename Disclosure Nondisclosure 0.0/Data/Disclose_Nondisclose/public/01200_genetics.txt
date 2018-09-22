@@ -1,0 +1,92 @@
+Genetics
+
+Genetics is a discipline of biology. It is the science of heredity. This includes the study of genes, and the inheritance of variation and traits of living organisms. In the laboratory, genetics proceeds by mating carefully selected organisms, and analysing their offspring. More informally, genetics is the study of how parents pass some of their characteristics to their children. It is an important part of biology, and gives the basic rules on which evolution acts.
+
+The fact that living things inherit traits from their parents has been known since prehistoric times, and used to improve crop plants and animals through selective breeding. However, the modern science of genetics seeks to understand the process of inheritance. This began with the work of Gregor Mendel in the mid-nineteenth century. Although he did not know the physical basis for heredity, Mendel observed that organisms inherit traits via discrete units of inheritance, which are now called genes.
+
+Living things are made of millions of tiny self-contained components called cells. Inside of each cell are long and complex molecules called Deoxyribonucleic acid. DNA stores information that tells the cells how to create that living thing. Parts of this information that tell how to make one small part or characteristic of the living thing – red hair, or blue eyes, or a tendency to be tall – are known as genes.
+
+Every cell in the same living thing has the same DNA, but only some of it is used in each cell. For instance, some genes that tell how to make parts of the liver are switched off in the brain. What genes are used can also change over time. For instance, a lot of genes are used by a child early in pregnancy that are not used later.
+
+A living thing has two copies of each gene, one from its mother, and one from its father. There can be multiple types of each gene, which give different instructions: one version might cause a person to have blue eyes, another might cause them to have brown. These different versions are known as "alleles" of the gene.
+
+Since a living thing has two copies of each gene, it can have two different alleles of it at the same time. Often, one allele will be "dominant", meaning that the living thing looks and acts as if it had only that one allele. The unexpressed allele is called "recessive". In other cases, you end up with something in between the two possibilities. In that case, the two alleles are called "co-dominant".
+
+Most of the characteristics that you can see in a living thing have multiple genes that influence them. And many genes have multiple effects on the body, because their function will not have the same effect in each tissue. The multiple effects of a single gene is called "pleiotropism". The whole set of genes is called the "genotype", and the total effect of genes on the body is called the "phenotype". These are key terms in genetics.
+
+We know that man started breeding domestic animals from early times, probably before the invention of agriculture. We do not know when heredity was first appreciated as a scientific problem. The Greeks, and most obviously Aristotle, studied living things, and proposed ideas about reproduction and heredity.
+
+Probably the most important idea before Mendel was that of Charles Darwin, whose idea of "pangenesis" had two parts. The first, that persistent hereditary units were passed on from one generation to another, was quite right. The second was his idea that they were replenished by 'gemmules' from the somatic (body) tissues. This was entirely wrong, and plays no part in science today. Darwin was right about one thing: whatever happens in evolution must happen by means of heredity, and so an accurate science of genetics is fundamental to the theory of evolution. This 'mating' between genetics and evolution took many years to organise. It resulted in the Modern evolutionary synthesis.
+
+The basic rules of genetics were first discovered by a monk named Gregor Mendel in around 1865. For thousands of years, people had already studied how traits are inherited from parents to their children. However, Mendel's work was different because he designed his experiments very carefully.
+
+In his experiments, Mendel studied how traits were passed on in pea plants. He started his crosses with plants that bred true, and counted characters that were either/or in nature (either "tall" or "short"). He bred large numbers of plants, and expressed his results numerically. He used test crosses to reveal the presence and proportion of recessive characters.
+
+Mendel explained the results of his experiment using two scientific laws:
+
+Mendel's laws helped explain the results he observed in his pea plants. Later, geneticists discovered that his laws were also true for other living things, even humans. Mendel's findings from his work on the garden pea plants helped to establish the field of genetics. His contributions were not limited to the basic rules that he discovered. Mendel's care towards controlling experiment conditions along with his attention to his numerical results set a standard for future experiments. Over the years, scientists have changed and improved Mendel's ideas. However, the science of genetics would not be possible today without the early work of Gregor Mendel.
+
+In the years between Mendel's work and 1900 the foundations of cytology, the study of cells, was developed. The facts discovered about the nucleus and cell division were essential for Mendel's work to be properly understood.
+
+At this point, discoveries in cytology merged with the rediscovered ideas of Mendel to make a fusion called cytogenetics, (cyto = cell; genetics = heredity) which has continued to the present day.
+
+During the 1890s several biologists began doing experiments on breeding. and soon Mendel's results were duplicated, even before his papers were read. Carl Correns and Hugo de Vries were the main rediscovers of Mendel's writings and laws. Both acknowledged Mendel's priority, although it is probable that de Vries did not understand his own results until after reading Mendel. Though Erich von Tschermak was originally also credited with rediscovery, this is no longer accepted because he did not understand Mendel's laws. Though de Vries later lost interest in Mendelism, other biologists built genetics into a science.
+
+Mendel's results were replicated, and genetic linkage soon worked out. William Bateson perhaps did the most in the early days to publicise Mendel's theory. The word "genetics", and other terminology, originated with Bateson.
+
+Mendel's experimental results have later been the object of some debate. Fisher analyzed the results of the F2 (second filial) ratio and found them to be implausibly close to the exact ratio of 3 to 1. It is sometimes suggested that Mendel may have censored his results, and that his seven traits each occur on a separate chromosome pair, an extremely unlikely occurrence if they were chosen at random. In fact, the genes Mendel studied occurred in only four linkage groups, and only one gene pair (out of 21 possible) is close enough to show deviation from independent assortment; this is not a pair that Mendel studied.
+
+During the process of DNA replication, errors sometimes occur. These errors, called mutations, can have an effect on the phenotype of an organism. In turn, that usually has an effect on the organism's fitness, its ability to live and reproduce successfully.
+
+Error rates are usually very low—1 error in every 10–100 million bases—due to the "proofreading" ability of DNA polymerases. Error rates are a thousandfold higher in many viruses. Because they rely on DNA and RNA polymerases which lack proofreading ability, they get higher mutation rates.
+
+Processes that increase the rate of changes in DNA are called mutagenic. Mutagenic chemicals increase errors in DNA replication, often by interfering with the structure of base-pairing, while UV radiation induces mutations by causing damage to the DNA structure. Chemical damage to DNA occurs naturally as well, and cells use DNA repair mechanisms to repair mismatches and breaks in DNA—nevertheless, the repair sometimes fails to return the DNA to its original sequence.
+
+In organisms which use chromosomal crossovers to exchange DNA and recombine genes, errors in alignment during meiosis can also cause mutations. Errors in crossover are especially likely when similar sequences cause partner chromosomes to adopt a mistaken alignment; this makes some regions in genomes more prone to mutating in this way. These errors create large structural changes in DNA sequence—duplications, inversions or deletions of entire regions, or the accidental exchanging of whole parts between different chromosomes (called translocation).
+
+Developed by Reginald Punnett, Punnett squares are used by biologists to determine the probability of offspring to having a particular genotype.
+
+If B represents the allele for having black hair and b represents the allele for having white hair, the offspring of two Bb parents would have a 25% probability of having two white hair alleles (bb), 50% of having one of each (Bb), and 25% of having only black hair alleles (BB).
+
+Geneticists (biologists who study genetics) use pedigree charts to record traits of people in a family. Using these charts, geneticists can study how a trait is inherited from person to person.
+
+Geneticists can also use pedigree charts to predict how traits will be passed to future children in a family. For instance, genetic counselors are professionals who work with families who might be affected by genetic diseases. As part of their job, they create pedigree charts for the family, which can be used to study how the disease might be inherited.
+
+Since human beings are not bred experimentally, human genetics must be studied by other means. One recent way is by studying the human genome. Another way, older by many years, is to study twins.
+Identical twins are natural clones. They carry the same genes, they may be used to investigate how much heredity contributes to individual people. Studies with twins have been quite interesting. If we make a list of characteristic traits, we find that they vary in how much they owe to heredity. For example:
+
+The way the studies are done is like this. Take a group of identical twins and a group of fraternal twins. Measure them for various traits. Do a statistical analysis (such as analysis of variance). This tells you to what extent the trait is inherited. Those traits which are partly inherited will be significantly more similar in identical twins. Studies like this may be carried further, by comparing identical twins brought up together with identical twins brought up in different circumstances. That gives a handle on how much circumstances can alter the outcomes of genetically identical people.
+
+The person who first did twin studies was Francis Galton, Darwin's half-cousin, who was a founder of statistics. His method was to trace twins through their life-history, making many kinds of measurement. Unfortunately, though he knew about mono and dizygotic twins, he did not appreciate the real genetic difference. Twin studies of the modern kind did not appear until the 1920s.
+
+The genetics of bacteria, archaea and viruses is a major field or research. Bacterial mostly divide by asexual cell division, but do have a kind of sex by horizontal gene transfer. Bacterial conjugation, transduction and transformation are their methods. In addition, the complete DNA sequence of many bacteria, archaea and viruses is now known.
+
+Although many bacteria were given generic and specific names, like "Staphylococcus aureus", the whole idea of a species is rather meaningless for an organism which does not have sexes and crossing-over of chromosomes. Instead, these organisms have strains, and that is how they are identified in the laboratory.
+
+Gene expression is the process by which the heritable information in a gene, the sequence of DNA base pairs, is made into a functional gene product, such as protein or RNA. The basic idea is that DNA is transcribed into RNA, which is then translated into proteins. Proteins make many of the structures and all the enzymes in a cell or organism.
+
+Several steps in the gene expression process may be modulated (tuned). This includes both the transcription and translation stages, and the final folded state of a protein. Gene regulation switches genes on and off, and so controls cell differentiation, and morphogenesis. Gene regulation may also serve as a basis for evolutionary change: control of the timing, location, and amount of gene expression can have a profound effect on the development of the organism. The expression of a gene may vary a lot in different tissues. This is called pleiotropism, a widespread phenomenon in genetics.
+
+Alternative splicing is a modern discovery of great importance. It is a process where "from a single gene a large number of variant proteins can be assembled". One particular Drosophila gene (DSCAM) can be alternatively spliced into 38,000 different mRNA.
+
+Epigenetics is the study of changes in gene activity which are "not" caused by changes in the DNA sequence. It is the study of gene expression, the way genes bring about their phenotypic effects.
+
+These changes in gene activity may stay for the remainder of the cell's life and may also last for many generations of cells, through cell divisions. However, there is no change in the underlying DNA sequence of the organism. Instead, non-hereditary factors cause the organism's genes to behave (express themselves) differently.
+
+Hox genes are a complex of genes whose proteins bind to the regulatory regions of target genes. The target genes then activate or repress cell processes to direct the final development of the organism.
+
+There are some kinds of heredity which happen outside the cell nucleus. Normal inheritance is from both parents via the chromosomes in the nucleus of a fertilised egg cell. There are some kinds of inheritance other than this.
+
+Mitochondria and chloroplasts carry some DNA of their own. Their make-up is decided by genes in the chromosomes and genes in the organelle. Carl Correns discovered an example in 1908. The four o'clock plant, "Mirabilis jalapa", has leaves which may be white, green or variegated. Correns discovered the pollen had no influence on this inheritance. The colour is decided by genes in the chloroplasts.
+
+This is caused by a symbiotic or parasitic relationship with a microorganism.
+
+In this case nuclear genes in the female gamete are transcribed. The products accumulate in the egg cytoplasm, and have an effect on the early development of the fertilised egg. The coiling of a snail, "Limnaea peregra", is determined like this. Right-handed shells are genotypes Dd or dd, while left-handed shells are dd.
+
+The most important example of maternal effect is in "Drosophila melanogaster". The protein product maternal-effect genes activate other genes, which in turn activate still more genes. This work won the Nobel Prize in Physiology or Medicine for 1995.
+
+Much modern research uses a mixture of genetics, cell biology and molecular biology. Topics which have been the subject of Nobel Prizes in either chemistry or physiology include:
+
+Many well-known disorders of human behaviour have a genetic component. This means that their inheritance partly causes the behaviour, or makes it more likely the problem would occur. Examples include:
+
+Also, normal behaviour is also heavily influenced by heredity:

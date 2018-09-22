@@ -1,0 +1,13 @@
+Chloroplast
+
+Chloroplasts are small organelles inside the cells of plants and algae. They absorb light to make sugar in a process called photosynthesis. The sugar can be stored in the form of starch. Chloroplasts contain the molecule chlorophyll, which absorbs sunlight for photosynthesis. In addition to chlorophyll, a chloroplast uses carbon dioxide (CO) and water (HO) to form sugar and gives off oxygen (O). Chlorophyll is what gives green plants their green colour. Chloroplasts also contain various yellow and orange pigments to assist in photon capture for photosynthesis.
+
+Each chloroplast is surrounded by a double walled semi-permeable membrane. In the layered stacks are flat disk-shaped thylakoids. They contain light-absorbing pigments, including chlorophyll and carotenoids, as well as proteins which bind the pigments. Like mitochondria, chloroplasts also contain their own DNA and ribosomes.
+
+Chloroplasts are one of the many different types of organelles in the cell. They are thought to have originated as endosymbiotic cyanobacteria. This was first suggested by Mereschkowsky in 1905 after an observation by Schimper in 1883 that chloroplasts closely resembled cyanobacteria. Almost all chloroplasts are thought to derive directly or indirectly from a single endosymbiotic event. 
+
+Mitochondria also had a similar origin, but chloroplasts are found only in plants and protista. In green plants, chloroplasts are surrounded by two lipid-bilayer membranes. They are thought to correspond to the outer and inner membranes of the ancestral cyanobacterium. Chloroplasts have their own genome, which is much smaller than that of free-living cyanobacteria. The DNA which remains shows clear similarities with the cyanobacterial genome. Plastids may contain 60–100 genes whereas cyanobacteria often contain more than 1500 genes. Many of the missing genes are encoded in the nuclear genome of the host. 
+
+In some algae (such as the heterokonts), chloroplasts seem to have evolved through a secondary event of endosymbiosis, in which a eukaryotic cell engulfed a second eukaryotic cell containing chloroplasts, forming chloroplasts with three or four membrane layers. In some cases, such secondary endosymbionts may have themselves been engulfed by still other eukaryotes, thus forming tertiary endosymbionts. In the alga "Chlorella", there is only one chloroplast, which is bell-shaped.
+
+In some groups of mixotrophic protists such as the dinoflagellates, chloroplasts are separated from a captured alga or diatom and used temporarily. These klepto (stolen) chloroplasts may only have a lifetime of a few days and are then replaced.

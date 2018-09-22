@@ -1,0 +1,50 @@
+RSA (algorithm)
+
+RSA is an algorithm used by modern computers to encrypt and decrypt messages. It is an asymmetric cryptographic algorithm. Asymmetric means that there are two different keys. This is also called "", because one of them can be given to everyone. The other key must be kept private. It is based on the fact that finding the factors of an integer is hard (the factoring problem). RSA stands for , and , who first publicly described it in 1978. A user of RSA creates and then publishes the product of two large prime numbers, along with an auxiliary value, as their public key. The prime factors must be kept secret. Anyone can use the public key to encrypt a message, but with currently published methods, if the public key is large enough, only someone with knowledge of the prime factors can feasibly decode the message.
+RSA involves a public key and private key. The public key can be known to everyone; it is used to encrypt messages. Messages encrypted using the public key can only be decrypted with the private key. The keys for the RSA algorithm are generated the following way:
+
+
+Notes on the above steps:
+<br>
+The public key is made of the modulus formula_4 and the public (or encryption) exponent formula_6.<br>
+The private key is made of the modulus formula_4 and the private (or decryption) exponent formula_16 which must be kept secret.
+
+Alice gives her public key (formula_4 & formula_6) to Bob and keeps her private key secret. Bob wants to send message M to Alice.
+
+First he turns M into a number formula_50 smaller than formula_51 by using an agreed-upon reversible protocol known as a padding scheme. He then computes the ciphertext formula_52 corresponding to:
+
+This can be done quickly using the method of exponentiation by squaring. Bob then sends formula_52 to Alice.
+
+Alice can recover formula_55 from formula_52 by using her private key formula_16 in the following procedure:
+
+Given formula_55, she can recover the original distinct prime numbers, applying the Chinese remainder theorem to these two congruences yields
+
+Thus,
+
+Here is an example of RSA encryption and decryption. The parameters used here are artificially small, but you can also .
+
+<br>
+The public key is (formula_74, formula_69). For a padded message formula_55 the encryption function is:
+
+The private key is (formula_74, formula_72). The decryption function is:
+
+<br>
+For example, to encrypt formula_81, we calculate
+
+To decrypt formula_83, we calculate
+
+Both of these calculations can be computed efficiently using the square-and-multiply algorithm for .
+
+When used in practice, RSA must be combined with some form of padding scheme, so that no values of "M" result in insecure ciphertexts. RSA used without padding may have some problems:
+
+In practice, the first two problems can arise when short ASCII messages are sent. In such messages, "m" might be the concatenation of one or more ASCII-encoded character(s). A message consisting of a single ASCII codice_1 character (whose numeric value is 0) would be encoded as "m" = 0, which produces a ciphertext of 0 no matter which values of "e" and "N" are used. Likewise, a single ASCII codice_2 (whose numeric value is 1) would always produce a ciphertext of 1. For systems which conventionally use small values of "e", such as 3, all single character ASCII messages encoded using this scheme would be insecure, since the largest "m" would have a value of 255, and 255 is less than any reasonable modulus. Such plaintexts could be recovered by simply taking the cube root of the ciphertext.
+
+To avoid these problems, practical RSA implementations typically embed some form of structured, randomized padding into the value "m" before encrypting it. This padding ensures that "m" does not fall into the range of insecure plaintexts, and that a given message, once padded, will encrypt to one of a large number of different possible ciphertexts. The latter property can increase the cost of a dictionary attack beyond the capabilities of a reasonable attacker.
+
+Standards such as PKCS have been carefully designed to securely pad messages prior to RSA encryption. Because these schemes pad the plaintext "m" with some number of additional bits, the size of the un-padded message "M" must be somewhat smaller. RSA padding schemes must be carefully designed so as to prevent sophisticated attacks. This may be made easier by a predictable message structure. Early versions of the PKCS standard used constructions, which were later found vulnerable to a practical adaptive chosen ciphertext attack. Modern constructions use secure techniques such as (OAEP) to protect messages while preventing these attacks. The PKCS standard also has processing schemes designed to provide additional security for RSA signatures, e.g., the Probabilistic Signature Scheme for RSA (RSA-PSS).
+
+Suppose Alice uses Bob's public key to send him an encrypted message. In the message, she can claim to be Alice but Bob has no way of verifying that the message was actually from Alice since anyone can use Bob's public key to send him encrypted messages. So, in order to verify the origin of a message, RSA can also be used to sign a message.
+
+Suppose Alice wishes to send a signed message to Bob. She produces a hash value of the message, raises it to the power of "d" mod "n" (just like when decrypting a message), and attaches it as a "signature" to the message. When Bob receives the signed message, he raises the signature to the power of "e" mod "n" (just like encrypting a message), and compares the resulting hash value with the message's actual hash value. If the two agree, he knows that the author of the message was in possession of Alice's secret key, and that the message has not been tampered with since.
+
+Note that secure padding schemes such as RSA-PSS are as essential for the security of message signing as they are for message encryption, and that the same key should never be used for both encryption and signing purposes.

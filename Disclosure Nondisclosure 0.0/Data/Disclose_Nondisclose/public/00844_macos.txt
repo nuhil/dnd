@@ -1,0 +1,32 @@
+MacOS
+
+macOS, formerly Mac OS X from 2001 to 2012 and OS X until 2016, is the name of an operating system for computers made by Apple Inc. These are called Macintosh computers, or Macs. It differs from other computers, as macOS is supposed to run only on Macs and not on other computers. However, people have made the OS run on computers that are not Macs. This is called Hackintosh and violates macOS’ license agreement.
+
+macOS first came out in 2001, and is completely different than the Classic Mac OS that it replaced. macOS is a UNIX OS that is based on NEXTSTEP, an older OS that Apple bought and turned into macOS. macOS and NEXTSTEP have a background in a kind of UNIX called BSD (more specifically FreeBSD and NetBSD). The core of macOS is an open source OS called Darwin, but Darwin itself cannot run macOS software.
+
+macOS releases are named after kinds of big cats, or California landmarks, and have a version number that starts with 10. The newest version of macOS is called macOS High Sierra (10.13.x.)
+
+On September 13, 2000, Apple release a $29.95 preview of Mac OS X to ask users what they think of the new operating system so far.
+Apple stopped the Public Beta in March 2001 because of the recent release of OS X 10.0.
+
+On March 24, 2001 Apple released Mac OS X for the first time aka OS X v10.0 (codenamed Cheetah), but rather than being an excellent and successful operating system version, it was a failure due to its many computer bugs and glitches and its slow performance. Luckily this operating system version only stayed on the market up until September when it was moved up to a "higher level".
+
+Due to many problems and complaints about Cheetah, Apple directly got to work on releasing Puma, the next big cat in Mac OS X. It was released on September 24, 2001. Apple gave 10.0 users a free Mac OS X v10.1 install CD to make up for the flawed operating system before. As of January 7, 2002, Apple said Mac OS 9 and other previous operating systems from Apple were "going in the computer scrapyard" by the end of the month (January 31, 2002) and OS X would be the default and only operating system available on all Macs.
+
+Mac OS X 10.2 Jaguar was released on August 24, 2002 and was the first to have its codename in the version branding. The Happy Mac (which formerly appeared when a Mac was starting up) was replaced with a large gray apple logo with the startup sequence of OS X 10.2 Jaguar.
+
+Mac OS X 10.3 Panther was released on October 24, 2003 and was one of the biggest updates to OS X yet. It featured a new brushed metal interface, an updated Finder, and many more features from Jaguar the year before.
+
+Tiger was released on April 29, 2005 and as stated by Apple, featured more than 200 new features. Among the new features, Tiger introduced Spotlight, Dashboard, Smart Folders, updated Mail program with Smart Mailboxes, QuickTime 7, Safari 2, Automator, VoiceOver, Core Image and Core Video. Apple released the first Power Intel Macs for Tiger on January 10, 2006. Tiger ran swell on these computers. It was also the last operating system to support the Aqua color scheme.
+
+Mac OS X v10.5 Leopard was released on October 26, 2007. It was completely redesigned featuring a 3D Dock, a new purple color scheme, and over 200 new features. It had both support for PowerPC and Intel Macs too. Leopard was the last release to have support for PowerPC.
+
+Mac OS X Snow Leopard was released on August 28, 2009, and rather than featuring changes to the appearance, it featured "Under the hood" changes. Snow Leopard dropped support for PowerPC Macs too.
+
+OS X Lion was first shown to the public at the "Back to The Mac" event in 2010, announced more at WWDC 2011, and released on July 20, 2011. It featured iOS like features such as a launchpad, the magic trackpad coming to MacBooks, and a new solar system color scheme. Apple also removed Rosetta making it impossible to use PowerPC apps without jailbreaking.
+
+OS X Mountain Lion was announced on February 18, 2012, and released on July 25, 2012. It adds more features from iOS 5 and 6 to the Mac such as notifications, messaging, game center, and gaming with people on iPhones, iPods, and iPads.
+
+OS X Mavericks was announced on June 10, 2013 at the 2013 Worldwide Developers Conference. It adds the Maps and iBooks applications, as well as new Finder features, better multi-display support, power improvements, and a new version of Safari. It was released on October 22 2013.
+
+The old Macintosh Operating System (Mac OS) is a non-Unix program that allows a Macintosh computer to operate and be used. Mac OS was first made by Apple Inc. in 1984. In those days Mac OS was called Macintosh System Software – which was shortened to System or SSW (System Software). The term "Mac OS" first appeared in the splash screen for System 7.5.1, but was not adopted as the new name until the release of Mac OS 7.6.

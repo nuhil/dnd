@@ -1,0 +1,55 @@
+Virus
+
+A virus is a microscopic parasite which can infect living organisms and cause disease. It can make copies of itself inside another organisms cells. Viruses consist of nucleic acid + a protein coat. Usually the nucleic acid is RNA; sometimes it is DNA. 
+
+Viruses reproduce by getting their nucleic acid strand into a prokaryote or eukaryote cell. The RNA or DNA strand then takes over the cell machinery to reproduce copies of itself and the protein coat. The cell then bursts open, spreading the newly created viruses. All viruses reproduce this way, and there are no free-living viruses. Viruses are ubiquitous (everywhere) in the environment, and all organisms can be infected by them.
+
+Viruses are much smaller than bacteria. They were not visible until the invention of the electron microscope. A virus has a simple structure. It has no internal cellular structure, no cell wall or cell membrane, just the protein coat that holds the string of nucleic acid. 
+
+With eukaryote cells, the virus' protein coat is able to enter the target cells via certain cell membrane receptors. With prokaryote bacteria cells, the bacteriophage physically injects the nucleic acid strand into the host cell.
+
+Viruses have the following characteristics: 
+
+When the host cell has finished making more viruses, it undergoes lysis, or breaks apart. The viruses are released and are then able to infect other cells. Viruses can remain intact for a long time, and will infect cells when the time and conditions are right.
+
+Some special viruses are worth noting. Bacteriophages have evolved to enter bacterial cells, which have a different type of cell wall from eukaryote cell membranes. "Envelope viruses", when they reproduce, cover themselves with a modified form of the host cell membrane, thus gaining an outer lipid layer that helps entry. Some of our most difficult-to-combat viruses, like influenza and HIV, use this method.
+
+Viral infections in animals trigger an immune response which usually kills the infecting virus. Vaccines can also produce immune responses. They give an artificially acquired immunity to the specific viral infection. However, some viruses (including those causing AIDS and viral hepatitis) escape from these immune responses and cause chronic infections. Antibiotics have no effect on viruses, but there are some other drugs against viruses.
+
+There are a many genomic structures in viruses. As a group they have more structural genomic diversity than plants, animals, archaea, or bacteria. There are millions of different types of viruses, but only about 5,000 of them have been described in detail.
+
+A virus has either RNA or DNA genes and is called an RNA virus or a DNA virus respectively. "The vast majority of viruses have RNA genomes". Plant viruses tend to have single-stranded RNA genomes and bacteriophages tend to have double-stranded DNA genomes.
+
+Viral populations do not grow through cell division, because they do not have cells. Instead, they use the machinery and metabolism of a host cell to produce many copies of themselves, and they "assemble" ("put together") in the cell.
+
+The life cycle of viruses differs greatly between species but there are six "basic" stages in the life cycle of viruses:
+
+
+The genetic material within virus particles, and the method by which the material is replicated, varies considerably between different types of viruses.
+
+
+
+The body's first line of defence against viruses is the innate immune system. This has cells and other mechanisms which defend the host from any infection. The cells of the innate system recognise, and respond to, pathogens in a general way.
+
+RNA interference is an important innate defence against viruses. Many viruses have a replication strategy that involves double-stranded RNA (dsRNA). When such a virus infects a cell, it releases its RNA molecule. A protein complex called dicer sticks to it and chops the RNA into pieces. Then a biochemical pathway, called the RISC complex, starts up. This attacks the viral mRNA, and the cell survives the infection. 
+Rotaviruses avoid this by not uncoating fully inside the cell and by releasing newly produced mRNA through pores in the particle's inner capsid. The genomic dsRNA remains protected inside the core of the virion.
+
+The production of interferon is an important host defence mechanism. This is a hormone produced by the body when viruses are present. Its role in immunity is complex; it eventually stops the viruses from reproducing by killing the infected cell and its close neighbours.
+
+Vertebrates have a second, more specific, immune system. It is called the adaptive immune system. When it meets a virus, it produces specific antibodies that bind to the virus and render it non-infectious. Two types of antibodies are important. 
+
+The first, called IgM, is highly effective at neutralizing viruses but is produced by the cells of the immune system only for a few weeks. The second, called IgG, is produced indefinitely. The presence of IgM in the blood of the host is used to test for acute infection, whereas IgG indicates an infection sometime in the past. IgG antibody is measured when tests for immunity are carried out.
+
+Another vertebrate defence against viruses is cell-mediated immunity. It involves immune cells known as T cells. The body's cells constantly display short fragments of their proteins on the cell's surface, and, if a T cell recognises a suspicious viral fragment there, the host cell is destroyed by "killer T" cells and the virus-specific T-cells proliferate. Cells such as macrophages are specialists at this 'antigen presentation'. 
+
+Not all virus infections produce a protective immune response. These persistent viruses evade immune control by sequestration (hiding away); blocking antigen presentation; cytokine resistance; evading natural killer cell activity; escape from apoptosis (cell death), and antigenic shift (changing surface proteins). HIV evades the immune system by constantly changing the amino acid sequence of the proteins on the surface of the virion. Other viruses, called "neurotropic viruses", move along nerves to places the immune system cannot reach.
+
+Viruses do not belong to any of the six kingdoms. They do not meet all the requirements for being classified as a living organism because they are not active until the point of infection. However, that is just a verbal point. 
+
+Obviously, their structure and mode of operation means they have evolved from other living things, and the loss of normal structure occurs in many endoparasites. The origins of viruses in the evolutionary history of life are unclear: some may have evolved from plasmids – pieces of DNA that can move between cells – while others may have evolved from bacteria. In evolution, viruses are an important means of horizontal gene transfer, which increases genetic diversity.
+
+A recent project discovered nearly 1500 new RNA viruses by sampling over 200 invertebrate species. "The research team... extracted their RNA and, using next-generation sequencing, deciphered the sequence of a staggering 6 trillion letters present in the invertebrate RNA libraries". The research showed that viruses changed bits and pieces of their RNA by a variety of genetic mechanisms. "The invertebrate virome [shows] remarkable genomic flexibility that includes frequent recombination, lateral gene transfer among viruses and hosts, gene gain and loss, and complex genomic rearrangements".
+
+A group of large viruses infect amoebae. The largest is "Pithovirus". Others in order of size are "Pandoravirus", then "Megavirus", then "Mimivirus". They are bigger than some bacteria, and visible under a light microscope.
+
+Viruses are used widely in cell biology. Geneticists often use viruses as vectors to introduce genes into cells that they are studying. This is useful for making the cell produce a foreign substance, or to study the effect of introducing a new gene into the genome. Eastern European scientists have used phage therapy as an alternative to antibiotics for some time, and interest in this approach is increasing, because of the high level of antibiotic resistance now found in some pathogenic bacteria.

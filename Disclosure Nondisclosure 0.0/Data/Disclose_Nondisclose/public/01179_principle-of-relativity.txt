@@ -1,0 +1,22 @@
+Principle of relativity
+
+In the physics of Aristotle, heavy objects fall faster than objects that are not heavy. The natural science of Aristotle was most popular in Western thought for 2,000 years.
+
+Galileo proved that all objects fall with the same acceleration. Therefore, the longer an object moves with constant acceleration the faster its final velocity is. Also, if different objects each having a different mass are dropped from rest (initial velocity is zero) at the same height in a vacuum, they will all hit the ground at the same velocity regardless of their mass. The experimental discoveries of Galileo and the Laws of Motion developed mathematically by Newton gave birth to modern science.
+Galileo's principle of relativity states "It is impossible by mechanical means to say whether we are moving or staying at rest". If two trains are moving at the same speed in the same direction, then a passenger in either car will not be able to notice that either train is moving. However, if the passenger takes a fixed frame of reference, a fixed point, like the earth, he will then be able to notice the motion of either train. Another thing, if one stands on the earth one will not be able to see that it is moving.
+
+This principle is just taken from observation. For example, if we are travelling by airplane at a constant speed, we can walk through the inside of the airplane without noticing anything special.
+
+From a practical point of view, this means that Newton's laws of motion are valid in all inertial systems, which means those at rest or those moving with constant speed relative to one considered at rest. This is the law of inertia: a body at rest continues at rest and a body in motion continues in motion in a straight line unless influenced by an external force. A Galilean coordinate system is one where the law of inertia is valid. The laws of mechanics of Galileo and Newton are valid in a Galilean coordinate system. If K is a Galilean coordinate system, then every other system K' is a Galileian coordinate system if it lies at rest or moves according to the law of inertia relative to K. Relative to K', the mechanical laws of Galileo and Newton are as valid as they are relative to K.
+
+In other words, if a mass m is at rest or is moving with constant acceleration (the constant acceleration could be equal to zero in which case the velocity would remain constant) in a straight line relative to a Galilean coordinate system K, then it will also be at rest or moving with constant acceleration in a straight line relative to a second coordinate system K' provided the law of inertia is valid in system K' (in other words, provided it is a Galilean coordinate system).
+
+Therefore, if we want to observe an effect in a moving system at constant speed, we can apply the Newton laws directly. If the moving system speeds up (or we speed up relative to it, like looking at the stars from the earth) then we will have to introduce imaginary forces to compensate this effect.
+
+These fictitious forces are called centrifugal force and coriolis force.
+
+Newton's Laws of Motion are mechanically accurate for speeds that are slow compared with the velocity of light. For speeds that approach the speed of light, it is necessary to apply the discoveries of Einstein's Special Theory of Relativity.
+
+In order to describe what happens mechanically in the universe, physicists use mass, length and time. In the physics of Galileo and Newton, these quantities remain the same throughout the universe.
+
+With Einstein's Special Theory of Relativity, these quantities can change.

@@ -1,0 +1,61 @@
+Linux
+
+Linux or GNU/Linux is a Unix-like operating system for computers. An operating system is a collection of the basic instructions that manage the electronic parts of the computer allowing running application programs. Linux is free software. Free software means that everyone has the freedom to use it, see how it works, change it or share it.
+
+There is a lot of software for Linux and—like Linux itself—a lot of the software for Linux is free software. This is one reason why many people like to use Linux.
+
+The defining component of Linux is the Linux kernel. 
+
+Linux was originally developed as a free operating system for personal computers. Thanks to its dominance on smartphones, Android, which is built on top of the Linux kernel, has the largest installed base of all general-purpose operating systems. Linux, in its original form, is also the leading operating system on servers such as mainframe computers and supercomputers, but is used on only around 3.4% of desktop computers. Linux also runs on embedded systems, which are devices whose operating system is typically built into the firmware and is highly tailored to the system; this includes mobile phones, tablet computers, network routers, facility automation controls, televisions, video game consoles and smartwatches. 
+
+The development of Linux is one of the most prominent examples of free and open-source software collaboration. The underlying source code may be used, modified, and distributed—commercially or non-commercially—by anyone under the GNU General Public License version 2 (and some software components under other licenes). Typically, Linux is packaged in a form known as a "Linux distribution", for both desktop and server use. Some of the popular mainstream Linux distributions are Debian, Ubuntu, Linux Mint, Fedora, openSUSE, Arch Linux and Gentoo, together with commercial Red Hat Enterprise Linux and SUSE Linux Enterprise Server distributions. Linux distributions include the Linux kernel, supporting utilities and libraries, and usually a large amount of application software to fulfill the distribution's intended use.
+
+Distributions oriented toward desktop use typically include X11, a Wayland implementation, or Mir as the windowing system, and an accompanying desktop environment such as GNOME or the KDE Software Compilation; some distributions may also include a less resource-intensive desktop such as LXDE or Xfce. Distributions intended to run on servers may omit all graphical environments from the standard install, and instead include other software to set up and operate a solution stack such as LAMP. Because Linux is freely redistributable, anyone may create a distribution for any intended use.
+
+In the 1980s, many people liked to use an operating system called Unix. But because it restricted the user from sharing and improving the system, some people made a new operating system that would work like Unix but which anybody could share or improve. MINIX, similar to Unix, was used as a teaching tool for university students to learn how operating systems worked. MINIX also restricted its sharing and improvement by its users.
+
+A group of people called the GNU Project wrote different parts of a new operating system called GNU, but it did not have all the parts an operating system needs to work. In 1991 Linus Torvalds began to work on a replacement for MINIX that would be free to use, and which would not cost anything. Linus started the project when he was attending the University of Helsinki. This eventually became the Linux kernel.
+
+Linus Torvalds shared the Linux kernel on some internet groups for MINIX users. Linus first called the operating system "Freax". The name Freax came from joining up the English words "free" and "freak", and adding an X to the name because Unix has an X in its name. Ari Lemmke, who worked with Linus at the University, was responsible for the servers that Freax was stored on. Ari did not think Freax was a good name, so he called the project "Linux" without asking Linus. Later, Linus agreed that Linux was a better name for his project.
+
+Linux relied on software code from MINIX at first. But, with code from the GNU system available for free, he decided it would be good for Linux if it could use that code, instead of code from MINIX. The GNU General Public License is a software license that lets people change any part of the code they want to, as long as they share any changes they make with the people they give their software to and allow them to redistribute it for free or for a price . The software from GNU was all licensed under the GNU General Public License, so Linus and the other people who worked on Linux could use it too.
+
+To make the Linux kernel suitable for use with the code from the GNU Project, Linus Torvalds started a switch from his original license (which did not allow people to sell it) to the GNU GPL. Linux and GNU developers worked together to integrate GNU code with Linux to make a free operating system.
+
+Since 1991, thousands of programmers and companies have worked to make Linux better including Google.
+
+The mascot of Linux is a cartoon penguin named "Tux". When a person sees the penguin on software and hardware, it means that it will work with Linux, and sometimes all systems that are like Unix.
+
+The idea of the penguin came from the creator of Linux, Linus Torvalds. The image was made by a man named Larry Ewing in a competition to create a logo. The image, Tux, did not win, but it was picked as a mascot later.
+
+Tux has now become a symbol for Linux, and sometimes even for open source. He can be seen in many different places and often, when people refer to Linux, they think about Tux. Tux has even been included in many video games, such as Super Tux (like Super Mario Bros.), Tux Racer (where players race Tux down an icy hill) and Pingus (like Lemmings).
+
+Although there are only a few Linux versions for some Mac OS X and Microsoft Windows programs in areas like desktop publishing and professional audio and video there are programs that are comparatively similar in quality compared to those available for Mac and Windows.
+
+Many free software programs that are popular on Windows, such as Pidgin, Mozilla Firefox, LibreOffice, Chromium, VLC and GIMP, are available for Linux. A growing amount of proprietary desktop software can also be used under Linux, such as Adobe Flash Player, Spotify and Skype. CrossOver is a proprietary solution based on the open source Wine project that supports running Windows applications such as Microsoft Office and Adobe Photoshop under Linux.
+
+Linux has mainly been used as a server operating system, and has risen to be known by a lot of people in that area; Netcraft reported in February 2008 that five of the ten best internet hosting companies run Linux on their web servers. This is because of its stability and uptime, and the fact that desktop software with a graphical user interface for servers is often unneeded.
+
+Linux is commonly used as an operating system for supercomputers. As of June 2017, out of the top 500 systems, 498 (99.6%) run Linux.
+
+In 1992, Torvalds explained how he pronounces the word "Linux":
+
+Torvalds has made available an audio sample which indicates his own pronunciation, in English and Swedish.
+
+Some English speakers pronounce the name as lee-narks or lee-nix or lie-nix. According to Torvalds, that is incorrect pronunciation. 
+
+A 2001 study of Red Hat Linux 7.1 found this distribution had 30 million lines of code. The study showed that Red Hat 7.1 required about 8,000 years of time to develop. The study also said that if all this software had been made by proprietary means, it would have cost about $1.08 billion to make in the United States. As of 7 March 2011, Linux kernel would cost about $3bn.
+
+Version 3.10 of the Linux kernel, released in June 2013, has 15 million lines of code, while the version 4.1, released in June 2015, has grown to over 19.5 million lines of code by almost 14,000 programmers. 
+
+Most of the code (around 71%) was written in the C programming language, and many other languages were used, including C++, assembly language, Perl, Python, Fortran, and various shell scripting languages. A little more than half of all lines of code were licensed under the GPL.
+
+People who want to get Linux can download it from the Internet or buy it from a store or a website. Sometimes books and magazines about Linux have a CD or DVD with Linux on it. Any certain version of Linux is called a "distribution", or "distro". A Linux version has the Linux kernel and GNU software, and some extra programs that might not be part of GNU. Different versions include different extra programs. The versions used by the most people include:
+
+
+People might pay some money for a version, so they can have a CD-ROM or DVD and to help the company to make their versions better. Usually when someone pays, it is so the company will help the user after they install it, which is called "support".
+
+Software for Linux includes: 
+
+
+The Linux kernel and most GNU software are licensed under the GNU General Public License (GPL). The GPL requires that anyone who distributes the Linux kernel must make the source code (and any modifications) available to the recipient under the same terms. In 1997, Linus Torvalds said, “Making Linux GPL'd was definitely the best thing I ever did.” Other key components of a Linux system may use other licenses; many libraries use the GNU Lesser General Public License (LGPL), a type of the GPL that is less restricted, and the X Window System uses the MIT License. "Linux" is a trademark of Linus Torvalds.

@@ -1,0 +1,18 @@
+Magnetic resonance imaging
+
+Magnetic resonance imaging (MRI), or nuclear magnetic resonance imaging (NMRI), are techniques that doctors use to give a visual representation of soft tissue (flesh) inside the body. Magnetic resonance uses nuclear magnetic resonance to generate these images.
+
+To take an MRI image, the patient lies on a movable bed. The bed enters a strong magnetic field and then radio waves are applied for a short time in a different direction. This sudden shift causes certain atoms in the patient's body to make special signals. The MRI scanner detects those special signals.
+The MRI scanner then sends the signal information to a computer, and the computer creates an image of the inner body by using the signal information.
+
+The MRI is used to diagnose disorders of the body that cannot be seen by X-rays. The MRI is painless and has the advantage of avoiding the dangerous X-ray radiation. 
+
+It is an expensive medical procedure, due to the high cost of the equipment. Some metallic objects may distort the image, like hip, shoulder and knee replacements but the exam can still be done. Cochlear (ear) implants, some (older) aneurysm clips in the brain, and most pacemakers are not MRI compatible. Obese and severely claustrophobic patients often need sedation and/or imaging with an "open" magnet, which is much less confining. Contrast agents may or may not be indicated for some patients, and those with compromised kidney function may not be able to receive the contrast, due to a serious but rare skin reaction.
+
+MRI scans can be used to study the brain, spinal cord, bones, joints, breasts, the heart and blood vessels. It can also be used to look at other internal organs. MRI scans can be used to find blood clots as well.
+
+An MRI scan can be used as an extremely accurate method of disease detection throughout the body.
+
+Neurosurgeons use an MRI scan not only in defining brain anatomy but in evaluating the integrity of the spinal cord after an injury. An MRI scan can evaluate the structure of the heart and aorta, where it can detect aneurysms or tears. 
+
+It provides valuable information on glands and organs within the abdomen, and accurate information about the structure of the joints, soft tissues, and bones of the body. Often, surgery can be deferred or more accurately directed after knowing the results of an MRI scan.

@@ -1,0 +1,11 @@
+Microwave
+
+A microwave is a kind of high-frequency radio wave. They are broadly defined as having a wavelength between 1 millimeter and 1 meter, or narrowly as between 3mm and 300mm. Microwaves have many uses including communication, radar, radio astronomy, and to heat food in a microwave oven.
+
+When something moves, it almost always has a wave pattern to its movement - this can be seen in water most easily, with ripples and ocean waves. A very common type of wave in the universe is electromagnetic waves. Light is an example of an electromagnetic wave, and so is a microwave. We can only see electromagnetic radiation in the visible light spectrum (which is why it's called the visible light spectrum), so microwaves are invisible.
+
+Microwave ovens work because microwaves make polar molecules (that is, molecules that act like tiny magnets) all face the same direction - to visualize it, imagine that the microwave oven is telling all of the molecules to face left. Then, the microwave oven reverses the waves, so that all of the molecules have to face the other direction - right, in this case. 
+
+Heat is just the movement of molecules, so when the microwave oven tells the molecules to turn left, then right, then left, over and over again, this makes them get hotter. 
+
+Water is the most common polar molecule in food, which is why dry foods don't tend to heat as well. This is also why microwaves don't heat many plastics - those plastics are non-polar.

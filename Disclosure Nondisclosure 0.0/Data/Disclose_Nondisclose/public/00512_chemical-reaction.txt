@@ -1,0 +1,32 @@
+Chemical reaction
+
+A chemical reaction happens when one or more chemicals are changed into one or more other chemicals. Examples:
+
+
+Some reactions are fast, and others are slow. Some happen at different speeds, depending on temperature or other things. For example, wood does not react with air when it is cold, but if it is made hot enough, it will start to burn. Some reactions give out energy. These are exothermic reactions. In other reactions, energy is taken in. These are endothermic reactions.
+
+Nuclear reactions are "not" chemical reactions. Chemical reactions involve only the electrons of atoms; nuclear reactions involve the protons and neutrons in the atomic nuclei.
+
+In a synthesis reaction, two or more simple substances combine to form a more complex substance. 
+
+"Two or more reactants giving one product" is another way to identify a synthesis reaction. One example of a synthesis reaction is the combination of iron and sulfur to form iron(II) sulfide:
+
+Another example is simple hydrogen gas combined with simple oxygen gas to produce a more complex substance, such as water.
+
+A decomposition reaction is when a more complex substance breaks down into its more simple parts. It is thus the opposite of a synthesis reaction, and can be written as:
+
+One example of a decomposition reaction is the electrolysis of water to make oxygen and hydrogen gas:
+
+In a single replacement reaction, a single uncombined element replaces another in a compound; in other words, one element trades places with another element in a compound These reactions come in the general form of:
+
+One example of a single displacement reaction is when magnesium replaces hydrogen in water to make magnesium hydroxide and hydrogen gas:
+
+In a double replacement reaction, the anions and cations of two compounds switch places and form two entirely different compounds. These reactions are in the general form:
+
+For example, when barium chloride (BaCl) and magnesium sulfate (MgSO) react, the SO anion switches places with the 2Cl anion, giving the compounds BaSO and MgCl.
+
+Another example of a double displacement reaction is the reaction of lead(II) nitrate with potassium iodide to form lead(II) iodide and potassium nitrate:
+
+A chemical reaction is being displayed by an equation:
+
+formula_10

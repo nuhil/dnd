@@ -1,0 +1,9 @@
+Distillation
+
+Distillation is a chemical process where a mixture made of two or more liquids (called "components") with different boiling points can be separated from each other. The mixture is heated until one of the components boils (turns to a vapor). The vapor is then fed into a condenser, which cools the vapor and changes it back into a liquid that is called "distillate". What remains in the original container is called the "residue". A fractionating column (that is a distillation column with more than two outlets) can be used to improve the separation. An oil refinery uses fractional distillation to purify crude oil, separating several different liquids for different uses. 
+
+This has been used for a long time, to distill alcohol and produce distilled beverages. Distillation is a commonly used operation in many industries.
+
+Distillation can be done anywhere, whether it's in a house or a laboratory, but in most countries it is illegal to distill alcohol without a license. Illegally distilled alcoholic drinks are in some places called "moonshine".
+
+Distillation is also the main way of desalination of water. In this case the salt is a solid that is in solution with the water. In alcohol distillation or petroleum distillation, the things to be separated from their solution are two or more liquids.

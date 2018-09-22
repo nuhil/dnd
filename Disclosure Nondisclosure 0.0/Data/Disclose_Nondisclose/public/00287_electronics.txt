@@ -1,0 +1,41 @@
+Electronics
+
+Electronics is the study of how to control the flow of electrons. It deals with circuits made up of components that control the flow of electricity. Electronics is a part of physics and electrical engineering.
+
+Electrical components like transistors and relays can act as switches. This lets us use electrical circuits to process information and transmit information across long distances. Circuits can also take a weak signal (like a whisper) and amplify it (make it louder).
+
+Most electronic systems fall into two categories:
+
+One way of looking at an electronic system is to separate it into three parts:
+
+A television set, for example, has as its input a broadcast signal received from an antenna, or for cable television, a cable. 
+
+Signal processing circuits inside the television set use the brightness, colour, and sound information contained in the received signal to control the television set's output devices. The display output device may be a cathode ray tube (CRT) or a plasma or liquid crystal display screen. The audio output device might be a magnetically driven audio speaker. The display output devices convert the signal processing circuits' brightness and colour information into the visible image displayed on a screen. The audio output device converts the processed sound information into sounds that can be heard by listeners.
+
+Analysis of a circuit/network involves knowing the input and the signal processing circuit, and finding out the output. Knowing the input and output and finding out or designing the signal processing part is called "synthesis".
+
+People started experimenting with electricity as early as 600 B.C.E, when Thales of Miletus discovered rubbing fur on amber would cause them to attract each other.
+
+Devices used in the 1900's used glass or metal vacuum tubes to control the flow of electricity. With these components a low power voltage can be used to change another, and that's why they are useful in amplifiers and switches.
+
+By the late 1960's and early 1970's the transistor and semiconductor began replacing vacuum tubes. Transistors can be made much smaller than vacuum tubes and they can work using less energy.
+
+At about the same time, integrated circuits (circuits that have a large numbers of very small transistors placed on very thin slices of silicon) became commonly used. Integrated circuits made it possible to reduce the number of parts needed to make electronic products and made the products much cheaper in general.
+
+Analog circuits are used for signals that have a range of amplitudes. In general, analog circuits measure or control the amplitude of signals. In the early days of electronics, all electronic devices used analog circuits. The frequency of the analog circuit is often measured or controlled in analog signal processing. Even though more digital circuits are made, analog circuits will always be necessary, since the world and its people work in analog ways.
+
+Pulse circuits are used for signals that require rapid pulses of energy. For example, aircraft and ground radar equipment work by using pulse circuits to create and send high powered bursts of radio energy from radar transmitters. Special antennas (called "beam" or "dish" antennas because of their shape) are used to send ("transmit") the high powered bursts in the direction the beam or dish antenna is pointed.
+
+The radar transmitter's pulses or bursts of radio energy hit and bounce back (they are "reflected") from hard and metallic objects. Hard objects are things like buildings, hills, and mountains. Metallic objects are anything made of metal, like aircraft, bridges, or even objects in space, like satellites. The reflected radar energy is detected by radar pulse receivers which use both pulse and digital circuits together. The pulse and digital circuits in radar pulse receivers are used to show the location and distance of objects which have reflected the radar transmitter's high powered pulses.
+
+By controlling how often the rapid pulses of radar energy are sent out by a radar transmitter (called the transmitter's "pulse timing"), and how long it takes for the reflected pulse energy to come back to the radar receiver, one can tell not only where objects are, but also how far away they are. Digital circuits in a radar receiver calculate the distance to an object by knowing the time interval between energy pulses. The radar receiver's digital circuits count how long it takes between pulses for an object's reflected energy to be detected by the radar receiver. Since radar pulses are sent and received at approximately the speed of light, the distance to an object can easily be calculated. This is done in digital circuits by multiplying the speed of light by the time it takes to receive the radar energy reflected back from an object.
+
+The time between pulses (often called "pulse rate time", or PRT) sets the limit on how far away an object can be detected. That distance is called the "range" of a radar transmitter and receiver. Radar transmitters and receivers use long PRT's to find the distance to objects that are far away. Long PRT's makes it possible to accurately determine the distance to the moon, for example. Fast PRT's are used to detect objects that are much closer, like ships at sea, high flying aircraft, or to determine the speed of fast moving automobiles on highways.
+
+Digital circuits are used for signals that only turn on and off instead of often working at levels somewhere between on and off. Active components in digital circuits typically have one signal level when turned on, and another signal level when turned off. In general, in digital circuits a component is only switched on and off. 
+
+Computers and electronic clocks are examples of electronic devices that are made up of mostly digital circuits.
+
+Basic blocks:
+
+Complex devices:

@@ -1,0 +1,25 @@
+Radio
+
+Radio is a way to send electromagnetic signals over a long distance, to deliver information from one place to another. A machine that sends radio signals is called a transmitter, while a machine that "picks up" the signals is called a receiver. A machine that does both jobs is a "transceiver". When radio signals are sent out to many receivers at the same time, it is called a broadcast.
+
+Television also uses radio signals to send pictures and sound. Radio signals can start engines moving so that gates open on their own from a distance. ("See: Radio control."). Radio signals can be used to lock and unlock the doors in a car from a distance.
+
+Sound can be sent by radio, sometimes through Frequency Modulation (FM) or Amplitude Modulation (AM).
+
+Many people worked to make radio possible. After James Clerk Maxwell predicted them, Heinrich Rudolf Hertz in Germany first showed that radio waves exist. Guglielmo Marconi in Italy made radio into a practical tool of telegraphy, used mainly by ships at sea. He is sometimes said to have invented radio. Later inventors learned to transmit voices, which led to broadcasting of news, music and entertainment.
+
+Radio was first created as a way to send telegraph messages between two people without wires, but soon two-way radio brought voice communication, including walkie-talkies and eventually mobile phones.
+
+Now an important use is to broadcast music, news and entertainers including "talk radio". Radio shows were used before there were TV programs. In the 1930s the US President started sending a message about the country every week to the American people. Companies that make and send radio programming are called radio stations. These are sometimes run by governments, and sometimes by private companies, who make money by sending advertisements. Other radio stations are supported by local communities. These are called community radio stations. In the early days manufacturing companies would pay to broadcast complete stories on the radio. These were often plays or dramas. Because companies who made soap often paid for them, these were called "soap operas".
+
+Radio waves are still used to send messages between people. Talking to someone with a radio is different than "talk radio". Citizens band radio and amateur radio use specific radios to talk back and forth. Policemen, firemen and other people who help in emergency use a radio emergency communication system to communicate (talk to each other). It is like a mobile phone, (which also uses radio signals) but the distance they reach is shorter and both people must use the same kind of radio. 
+
+The word "radio" is sometimes used to mean only voiceband broadcasting. Most voiceband broadcasting uses lower frequency and longer wavelength than most television broadcasting. 
+
+Microwaves have even higher frequency; shorter wavelength. They also are used to transmit television and radio programs, and for other purposes. Communications satellites relay microwaves around the world.
+
+A radio receiver does not need to be directly in view of the transmitter to receive programme signals. Low frequency radio waves can bend around hills by diffraction, although repeater stations are often used to improve the quality of the signals.
+
+Shortwave radio frequencies are also reflected from an electrically charged layer of the upper atmosphere, called the Ionosphere. The waves can bounce between the ionosphere and the earth to reach receivers that are not in the line of sight because of the curvature of the Earth's surface. They can reach very far, sometimes around the world. 
+
+Radio telescopes receive radio waves from the sky to study astronomical objects.

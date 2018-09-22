@@ -1,0 +1,25 @@
+Photon
+
+Photons (from Greek φως, meaning "light"), in many atomic models in physics, are particles which transmit light. In other words, light is carried over space by photons. Photon is an elementary particle that is its own antiparticle. In quantum mechanics each photon has a characteristic quantum of energy.
+
+Photons have a rest mass of 0 (zero). However, Einstein's theory of relativity says that they do have a certain amount of momentum. Before the photon got its name, Einstein revived the proposal that light is separate pieces of energy (particles). These particles came to be known as photons. 
+
+A photon is usually given the symbol γ (gamma), 
+
+Photons are fundamental particles. Although they can be created and destroyed, their lifetime is infinite.
+
+In a vacuum, all photons move at the speed of light, c, which is equal to 299,792,458 meters (approximately 300,000 kilometers) per second.
+
+A photon has a given frequency, which determines its color. Radio technology makes great use of frequency. Beyond the visible range, frequency is less discussed, for example it is little used in distinguishing between X-Ray photons and infrared. Frequency is equivalent to the quantum energy of the photon, as related by the Planck constant equation E = h × f
+
+Another property of a photon is its wavelength. The frequency formula_1, wavelength formula_2, and speed of light "c" are related by the equation formula_3. Wavelength is used in many types of technology. 
+
+The quantum energy of different photons is used in infrared technology, and much used for cameras and other machines that use visible and higher than visible radiation. This because these photons are energetic enough to ionize atoms. 
+
+The last usable property of a photon is its polarity. If you saw a giant photon coming straight at you, it could appear as a swath whipping vertically, horizontally, or somewhere in between. Polarized sunglasses stop photons swinging up and down from passing. This is how they reduce glare as light bouncing off of surfaces tend to fly that way. Liquid crystal displays also use polarity to control which light passes through. Some animals can see light polarization.
+
+Finally, light has a spin to it. A photon's spin is a subtle feature, and requires expensive equipment to detect.
+
+In particle physics, photons are responsible for electromagnetic force. Electromagnetism is an idea that combines electricity with magnetism. One common way that we experience electromagnetism in our daily lives is light, which is caused by electromagnetism. Electromagnetism is also responsible for charge, which is the reason that you can not push your hand through a table. Since photons are the force-carrying particle of electromagnetism, they are also gauge bosons. Some matter–called dark matter–is not believed to be affected by electromagnetism. This would mean that dark matter does not have a charge, and does not give off light. 
+
+Light is often created when energy hits an electron. This energy can be in the form of heat, kinetic energy, or other form. For example, an incandescent light bulb uses heat. The increase of energy can push an electron up one level in a shell called a "valence". This makes it unstable, and like everything, it wants to be in the lowest energy state. (If being in the lowest energy state is confusing, pick up a pencil and drop it. Once on the ground, the pencil will be in a lower energy state). When the electron drops back down to a lower energy state, it needs to release the energy that hit it, and it must obey the conservation of energy (energy can neither be created nor destroyed). Electrons release this energy as photons, and at higher intensities, this photon can be seen as visible light.

@@ -1,0 +1,17 @@
+Set theory
+
+Set theory is the study of sets in mathematics. Sets are collections of objects. We refer to these objects as "elements" or "members" of the set.
+To write a set, one wraps the numbers in {curly brackets} and separates them with commas: e.g., holds 1, 2, and 3.
+
+There are three types of set theories: Description method, Roster method (tabular form), Rule method (set builder form).
+
+Set theory was made in 1874 by Georg Cantor.
+It had to be made better because collections of objects can cause problems if you work with them without explaining them better. Russell's paradox was one of the problems. Think about the set of all sets that are not members of themselves. If it were inside itself, then the rule which defines it would mean that it is "not" inside itself. But, if it were not inside itself, then the rule which defines it would mean that it "is" inside itself. This was a serious problem, and it meant that the old set theory was broken.
+It was improved by people including Zermelo and Bertrand Russell.
+
+Set theory begins by giving some examples of things that are sets. Then it gives rules in which you can make other sets from the already known sets. Collections of objects that are not sets are called classes. It is possible to do mathematics using only sets, rather than classes, so that the problems that classes cause in mathematics do not occur.
+
+
+A binary relation between two sets is the subset relation, also called "set inclusion". If all the members of set are also members of set , then is a "subset" of , marking . For example, is a subset of , but is not. From this example, it is clear that a set is a subset of itself. In cases where one wishes to not to have this, the term "proper subset" is meant not to have this possibility.
+
+The selfconsidering object in the set theory was existing too, an example numbers: 1={1}, 2={1, 2}, 3={1, 2, 3} and so on.

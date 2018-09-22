@@ -1,0 +1,102 @@
+Astronomy
+
+Astronomy is a natural science. It is the study of everything outside the atmosphere of Earth.
+
+It studies celestial objects (such as stars, galaxies, planets, moons, asteroids, comets and nebulae) and processes (such as supernovae explosions, gamma ray bursts, and cosmic microwave background radiation). This includes the physics, chemistry of those objects and processes.
+
+The word astronomy comes from the Greek words "astron" which means star and "nomos" which means law. A person who studies astronomy is called an astronomer.
+
+Astronomy is one of the oldest sciences. Ancient people used the positions of the stars to navigate, and to find when was the best time to plant crops. Astronomy is very similar to astrophysics. A related subject, physical cosmology, is concerned with studying the Universe as a whole, and the way the universe changed over time. Astronomy is not the same as "astrology", the belief that the patterns the stars and the planets may affect human lives.
+
+Since the 20th century there have been two main types of astronomy, "observational" and "theoretical" astronomy. Observational astronomy uses telescopes and cameras to "observe" or look at stars, galaxies and other astronomical objects. Theoretical astronomy uses maths and computer models to predict what should happen. The two often work together, the theoretical predicts what should happen and the observational shows whether the prediction works.
+
+Early astronomers used only their eyes to look at the stars. They used maps of the constellations and stars for religious reasons and also to work out the time of year. Early civilisations such as the Maya people and the Ancient Egyptians built simple observatories and drew maps of the stars positions. They also began to think about the place of Earth in the universe. For a long time people thought Earth was the center of the universe, and that the planets, the stars and the sun went around it. This is known as geocentrism.
+
+Ancient Greeks tried to explain the motions of the sun and stars by taking measurements. A mathematician named Eratosthenes was the first who measured the size of the Earth and proved that the Earth is a sphere. A theory by another mathematician named Aristarchus was, that the sun is in the center and the Earth is moving around it. This is known as heliocentrism. Only a few people thought it was right. The rest continued to believe in the "geocentric" model. Most of the names of constellations and stars come from Greeks of that time. 
+
+Arabic astronomers made many advancements during the Middle Ages including improved star maps and ways to estimate the size of the Earth. They also learned from the ancients by translating Greek books into Arabic.
+
+During the renaissance a priest named Nicolaus Copernicus thought, from looking at the way the planets moved, that the Earth was not the center of everything. Based on previous works, he said that the Earth was a planet and all the planets moved around the sun. This brought back the old idea of heliocentrism. A physicist called Galileo Galilei built his own telescopes, and used them to look more closely at the stars and planets for the first time. He agreed with Copernicus. The Catholic Church decided that Galileo was wrong. He had to spend the rest of his life under house arrest. Heliocentric ideas were soon improved by Johannes Kepler and Isaac Newton who invented the theory of gravity. 
+
+After Galileo, people made better telescopes and used them to see farther objects such as the planets Uranus and Neptune. They also saw how stars were similar to our Sun, but in a range of colours and sizes. They also saw thousands of other faraway objects such as galaxies and nebulae.
+
+The 20th century saw important changes in astronomy.
+
+In 1931, Karl Jansky discovered radio emission from outside the Earth when trying to isolate a source of noise in radio communications, marking the birth of radio astronomy and the first attempts at using another part of the electromagnetic spectrum to observe the sky. Those parts of the electromagnetic spectrum that the atmosphere did not block were now opened up to astronomy, allowing more discoveries to be made.
+
+The opening of this new window on the Universe saw the discovery of entirely new things, for example pulsars, which sent regular pulses of radio waves out into space. The waves were first thought to be alien in origin because the pulses were so regular that it implied an artificial source.
+
+The period after World War 2 saw more observatories where large and accurate telescopes are built and operated at good observing sites, normally by governments. For example, Bernard Lovell began radio astronomy at Jodrell Bank using leftover military radar equipment. By 1957, the site had the largest steerable radio telescope in the world. Similarly, the end of the 1960s saw the start of the building of dedicated observatories at Mauna Kea in Hawaii, a good site for visible and infra-red telescopes thanks to its high altitude and clear skies. 
+
+The next great revolution in astronomy was thanks to the birth of rocketry. This allowed telescopes to be placed in space on satellites.
+
+Space telescopes gave access, for the first time in history, to the entire electromagnetic spectrum including rays that had been blocked by the atmosphere. The X-rays, gamma rays, ultraviolet light and parts of the infra-red spectrum were all opened to astronomy as observing telescopes were launched. As with other parts of the spectrum, new discoveries were made.
+
+From 1970s satellites were launched to be replaced with more accurate and better satellites, causing the sky to be mapped in nearly all parts of the electromagnetic spectrum.
+
+Discoveries broadly come in two types: bodies and phenomena. Bodies are things in the Universe, whether it is a planet like our Earth or a galaxy like our Milky Way. Phenomena are events and happenings in the Universe. 
+
+For convenience, this section has been divided by where these astronomical bodies may be found: those found around stars are solar bodies, those inside galaxies are galactic bodies and everything else larger are cosmic bodies.
+
+
+
+Diffuse Objects:
+
+Compact Stars:
+
+
+Burst events are those where there is a sudden change in the heavens that disappears quickly. These are called bursts because they are normally associated with large explosions producing a "burst" of energy. They include: 
+
+Periodic events are those that happen regularly in a repetitive way. The name periodic comes from period, which is the length of time required for a wave to complete one cycle. Periodic phenomena include: 
+
+Noise phenomena tend to relate to things that happened a long time ago. The signal from these events bounce around the Universe until it seems to come from everywhere and varies little in intensity. In this way, it resembles "noise", the background signal that pervades every instrument used for astronomy. The most common example of noise is static seen on analogue televisions. The principal astronomical example is: Cosmic background radiation.
+
+
+There are way astronomers can get better pictures of the heavens. Light from a distant source reaches a sensor and gets measured, normally by a human eye or a camera. For very dim sources, there may not be enough light particles coming from the source for it to be seen. One technique that astronomers have for making it visible is using "integration" (which is like longer exposures in photography).
+
+Astronomical sources do not move much: only the rotation and movement of the Earth causes them to move across the heavens. As light particles reach the camera over time, they hit the same place making it brighter and more visible than the background, until it can be seen. 
+
+Telescopes at most observatories (and satellite instruments) can normally track a source as it moves across the heavens, making the star appear still to the telescope and allowing longer exposures. Also, images can be taken on different nights so exposures span hours, days or even months. In the digital era, digitised pictures of the sky can be added together by computer, which overlays the images after correcting for movement.
+
+With radio telescopes smaller telescopes can be combined together to create a big one, which works like one as big as the distance between the two smaller telescopes.
+
+Adaptive optics means changing the shape of the mirror or lens while looking at something, to see it better.
+
+Data analysis is the process of getting more information out of an astronomical observation than by simply looking at it. The observation is first stored as data. This data will then have various techniques used to analyse it.
+
+Fourier analysis in mathematics can show if an observation (over a length of time) is changing periodically (changes like a wave). If so, it can extract the frequencies and the type of wave pattern, and find many things including new planets.
+
+A good example of a fields comes from pulsars which pulse regularly in radio waves. These turned out to be similar to some (but not all) of a type of bright source in X-rays called a Low-mass X-ray binary. It turned out that all pulsars and some LMXBs are neutron stars and that the differences were due to the environment in which the neutron star was found. Those LMXBs that were not neutron stars turned out to be black holes.
+
+This section attempts to provide an overview of the important fields of astronomy, their period of importance and the terms used to describe them. It should be noted that astronomy in the Modern Era has been divided mainly by electromagnetic spectrum, although there is some evidence this is changing.
+
+Solar astronomy is the study of the Sun. The Sun is the closest star to Earth at around 92 million (92,000,000) miles away. It is the easiest to observe in detail. Observing the Sun can help us understand how other stars work and are formed. Changes in the Sun can affect the weather and climate on Earth. A stream of charged particles called the Solar wind is constantly sent off from the Sun. The Solar Wind hitting the Earth's magnetic field causes the northern lights. Studying the Sun helped people understand how nuclear fusion works.
+
+Planetary Astronomy is the study of planets, moons, dwarf planets, comets and asteroids as well as other small objects that orbit stars. The planets of our own Solar System have been studied in depth by many visiting spacecraft such as Cassini-Huygens (Saturn) and the Voyager 1 and 2.
+
+Galactic Astronomy is the study of distant galaxies. Studying distant galaxies is the best way of learning about our own galaxy, as the gases and stars in our own galaxy make it difficult to observe. Galactic Astronomers attempt to understand the structure of galaxies and how they are formed through the use of different types of telescopes and computer simulations.
+
+
+Hydrodynamics is used in astronomy for mathematically modelling how gases behave. Strong magnetic fields found around many bodies can drastically change how these gases behave, affecting things from star formation to the flows of gases around compact stars. This makes MHD an important and useful tool in astronomy.
+
+Gravitational wave astronomy is the study of the Universe in the gravitational wave spectrum. So far, all astronomy that has been done has used the electromagnetic spectrum. Gravitational Waves are ripples in spacetime emitted by very dense objects changing shape, which include white dwarves, neutron stars and black holes. Because no one has been able to detect gravitational waves directly, the impact of Gravitational Wave Astronomy has been very limited.
+
+
+
+ (which is like longer exposures in photography).
+
+Astronomical sources do not move much: only the rotation and movement of the Earth causes them to move across the heavens. As light particles reach the camera over time, they hit the same place making it brighter and more visible than the background, until it can be seen. 
+
+Telescopes at most observatories (and satellite instruments) can normally track a source as it moves across the heavens, making the star appear still to the telescope and allowing longer exposures. Also, images can be taken on different nights so exposures span hours, days or even months. In the digital era, digitised pictures of the sky can be added together by computer, which overlays the images after correcting for movement.
+
+With radio telescopes smaller telescopes can be combined together to create a big one, which works like one as big as the distance between the two smaller telescopes.
+
+Adaptive optics means changing the shape of the mirror or lens while looking at something, to see it better.
+
+Data analysis is the process of getting more information out of an astronomical observation than by simply looking at it. The observation is first stored as data. This data will then have various techniques used to analyse it.
+
+Fourier analysis in mathematics can show if an observation (over a length of time) is changing periodically (changes like a wave). If so, it can extract the frequencies and the type of wave pattern, and find many things including new planets.
+
+A good example of a fields comes from pulsars which pulse regularly in radio waves. These turned out to be similar to some (but not all) of a type of bright source in X-rays called a Low-mass X-ray binary. It turned out that all pulsars and some LMXBs are neutron stars and that the differences were due to the environment in which the neutron star was found. Those LMXBs that were not neutron stars turned out to be black holes.
+
+This section attempts to provide an overview of the important fields of astronomy, their period of importance and the terms used to describe them. It should be noted that astronomy in the Modern Era has been divided mainly by electromagnetic spectrum, although there is some evidence this is changing.

@@ -1,0 +1,16 @@
+Weight
+
+The weight of an object (or the weight of an amount of matter) is the measure of the intensity of the force imposed on this object by the local gravitational field. Weight should not be confused with the related but quite different concept of mass. For small objects on Earth, the weight force is directed towards the center of the planet. For larger objects, such as the Moon orbiting around the Earth, the force is directed towards the center of mass of the combined system.
+
+In common language, the weight of something is typically understood to be the value measured at or near the Earth's surface. Unfortunately the common terms used to describe the weight of an object are units of mass such as kilograms or pounds. For almost all of human history, weight has been measured on the surface of the Earth. Here, the weight is proportional to the mass. Objects which have the same mass have the same weight. An object with the twice the mass of another will also have twice the weight. As a consequence it is common practice to use the two words, mass and weight, as if they mean the same thing and to use kilograms and pounds as the units for both mass and weight. Using the same terms to describe and measure the two different properties has led to confusion between these two properties, mass and weight. Mass and weight are not the same thing.
+
+The unit of weight in the International System of Units is the newton, which is represented by the symbol 'N'.
+
+Other units have been in use in the past but have been abandoned, such as the dyne (the unit of force in the old CGS system) or the kilogram-force, which is the force exerted on a 
+kilogram of matter by a 'standard' Earth: a body with a mass of 1 kg has a weight of about 9.81 N at sea level.
+
+The weight of an object, or of an amount of matter, is typically measured with an instrument such as a spring scale. The scale includes a spring which provides a force to oppose the gravitational force on the object which is being weighed. The gravitational force pulls down, the spring pushes or pulls upwards. Typically, the scale has a readout which gives not the weight (which is a force) but rather the mass of the object. Spring scales are made with the assumption that they are being used on the surface of the Earth. If a spring scale was taken to the Moon it would give a misleading reading.
+
+A balance style weighing scale is a device that compares the weights of two object in the same gravitational field: it determines whether one object is heavier or lighter than the other.
+
+Weight is not an intrinsic property of matter because the local gravitational field that generates the force called weight is variable in space and time:

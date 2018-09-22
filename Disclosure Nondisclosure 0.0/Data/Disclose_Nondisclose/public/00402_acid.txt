@@ -1,0 +1,26 @@
+Acid
+
+An acid is a substance that can donate a hydrogen ion (H) (generally speaking, this will be a proton) to another substance. Acids have a pH less than 7.0. 
+A chemical can donate a proton if the hydrogen atom is attached to an electronegative atom like oxygen, nitrogen, or chlorine. Some acids are strong and others are weak. The weak acids hold on to some of their protons, while the strong acids let go of all of them. All acids will release hydrogen ions into solutions. The amount of ions that get released per molecule will determine if the acid is weak or strong. Weak acids are acids that partially release the hydrogen atoms that are attached. These acids, then, may lower pH by dissociation of hydrogen ions, but not completely. Weak acids generally have a pH value of 4-6 while strong acids have a pH value of 1 to 3.
+
+A base is an acid's "chemical opposite." A base is a substance that will accept the acid's hydrogen atom. Bases are molecules that can split apart in water and release hydroxide ions.
+
+Acids and bases typically exist together in equilibrium. This means that within a sample of an acid, some molecules will give up their protons and others will accept them. Even water is a mixture of an acidic ion, HO (called a hydronium ion) and a basic ion, OH (called a hydroxide ion). A hydronium ion will give up its proton to a hydroxide ion, forming two molecules of HO, which is neutral. This reaction happens continuously in a sample of water, but overall the sample is neutral because there are equal amounts of hydronium and hydroxide in the sample. For most reactions, however, the acids and bases are not present in equal amounts, and this imbalance is what allows a chemical reaction to occur.
+
+Every acid has a conjugate base formed by removing the acid's proton. Hydrochloric acid (HCl), for example, is an acid and its conjugate base is a chlorine anion, or Cl. An acid and its conjugate base are opposite in strength. Since HCl is a strong acid, Cl is a weak base.
+
+Acids can have different "strengths", some are more reactive than others. More reactive acids are often more dangerous.
+
+Acids can have a lot of different properties depending on their molecular structure. Most acids have the following properties:
+
+Acids can burn the skin, the severity of the burn depending on the type and concentration of the acid. These chemical burns require immediate medical attention.
+
+Because acids donate hydrogen ions, all acids must have hydrogen in them.
+
+Acids are important. Nucleic acids, such as DNA and RNA contain the genetic code. These molecules determine many characteristics of an organism, they are passed from the parents to offspring. DNA contains the plans how to build proteins which are made of amino acids.
+
+Fatty acids and fatty acid derivatives are another group of carboxylic acids that play a significant role in biology. These contain long chains of hydrocarbons and a carboxylic acid group on one end. The cell membrane of nearly all organisms is primarily made up of a phospholipid bilayer, a micelle of hydrophobic fatty acid chains with polar, hydrophilic phosphate "head" groups.
+
+In humans and many other animals, hydrochloric acid is a part of the gastric acid secreted within the stomach. It can help hydrolyze proteins and polysaccharides. It can also convert the inactive pro-enzyme, pepsinogen into the enzyme, pepsin. Some organisms produce acids for defense; for example, ants produce formic acid, and octopi produce a black acid called magneta.
+
+Most acids can be found in nature. Some of these include the following:

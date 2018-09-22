@@ -1,0 +1,24 @@
+Electric guitar
+
+The Electric guitar is a type of musical instrument. It was made in 1931 by George Beauchamp. It is a string instrument usually played with a pick and sometimes with the fingers. It uses things called "electric pickups" which are wire-wound magnets that change the vibration of the strings into electric current. This electric current is then sent to an amplifier that changes it to sound. This electric current can also be changed to produce effects.
+The main parts of an electric guitar are the neck, the pickups, the tuners, the bridge, the input, the body, the frets, the pick guard, the volume knobs and the tone knobs. There may also be other parts that can change other sounds. A normal electric guitar has one neck with 6 strings on it, although there are 12 string guitars and guitars with more than one neck. 
+
+Guitars are made and sold in many parts of the world by many companies. They can be hand made or factory made. Some companies that make electric guitars are Fender, Gibson, and Ibanez.
+
+
+Many guitarists today share their music through a system called tablature (commonly known as 'tab'). Tablature is a way of reading notes for a guitar. It is much simpler than musical notes, but most tabs do not support rhythm. Many tabs can be found online or in books and magazines.
+
+To read guitar tab, generally there is a staff like this:
+
+Each line represents a string. Tab is always read as if the player were holding the guitar on their lap, strings facing up. Each number then represents what fret the finger is placed on.
+
+E -----------------0------------------------------------------------------------------------------------------------------------------
+B -----------------0------------------------------------------------------------------------------------------------------------------
+G --1-------------1-----------------------------------------------------------------------------------------------------------------
+D ----2-----------2-----------------------------------------------------------------------------------------------------------------
+A ------2---------2-----------------------------------------------------------------------------------------------------------------
+E -----------------0------------------------------------------------------------------------------------------------------------------
+
+The above diagram would be to play an open E chord, picking each string individually, and then strumming the chord. If the notes are stacked directly above each other, it means to strum the chord.
+
+Some guitar music is written in both musical note format and tablature. The musical notes are written out, with the corresponding tablature under each line of notes.

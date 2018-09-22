@@ -1,0 +1,34 @@
+IEEE 1394
+
+IEEE 1394 is the name for a set of standards. The standards specify a serial bus which can be used to transfer information. Other names for the standards include Firewire, i.Link and Lynx. The standard is often used to connect a computer to an external device, like a hard drive or digital camcorder. It also has uses to transfer data in cars and airplanes.
+It is similar to the contemporary USB. Firewire replaced the earlier SCSI for many applications: Making a device understand Firewire is easier than having it understand SCSI; handling Firewire cables is also much easier than SCSI cabling.
+
+"FireWire" is popular in industrial systems for machine vision and professional audio systems. It is preferred over the more common USB because of its greater effective speed and power distribution capabilities, and because it does not need a computer host. Perhaps more importantly, "FireWire" makes full use of all SCSI (older connecting possibility) capabilities. Compared to USB 2.0, it usually has higher data transfer rates. This feature is important for audio and video editors.
+Also many computers intended for home or professional audio/video use have built-in "FireWire" ports, including all Apple Inc. and Sony laptop computers and most Dell and Hewlett-Packard models currently produced. It is available to general public on retail motherboards for do-it-yourself PCs, alongside USB.
+FireWire is produced in wireless, optical fiber, and coaxial cable versions. 
+However, the copyright fees demanded from users of FireWire and the more expensive hardware needed to implement it has prevented FireWire from displacing USB in mass-market, where cost of product is crucial.
+
+FireWire is Apple Inc.'s name for the IEEE 1394 High Speed Serial Bus. Apple intended FireWire to be a serial replacement for the parallel SCSI (Small Computer System Interface) bus while also providing connectivity for digital audio and video equipment. 
+Apple's development of the original IEEE 1394 was completed in 1995.It was followed by several modifications: The IEEE Std. 1394a-2000, the IEEE Std. 1394b-2002, and the IEEE Std. 1394c-2006 amendment. The aim of current work is to incorporate all four of these documents into new revision of the 1394 standard.
+Sony's version of the system is known as i.LINK, and uses only the four signal pins, omitting the two pins which provide power to the device because of a separate power connector on Sony's i.LINK products
+
+FireWire 400 can transfer data between devices at 100, 200, or 400 Mbit/s data rates. The 6-pin connector is commonly found on desktop computers, and can supply the connected device with power.
+Typically a device can pull about 7 to 8 watts from the port; However, the voltage varies significantly from different devices.
+
+Modification IEEE 1394a was released in 2000. It standardized the 4 pin connector already widely in use. The 4-pin version is used on many consumer devices such as camcorders, some laptops and other small "FireWire" devices. It is fully data compatible with 6-pin interfaces.
+
+9-pin FireWire 800 was introduced commercially by Apple Inc. in 2003. This newer specification (1394b) and corresponding products allow a transfer rate of 786.432 Mbit/s. It is backwards compatibility to the slower rates and 6-pin connectors of FireWire 400. However, while the IEEE 1394a and IEEE 1394b standards are compatible, connectors are different, making the cables used by previous versions incompatible.
+
+In December 2007, the 1394 Trade Association announced the products will soon be available using S3200 mode. It will use the same 9-pin connectors as the existing FireWire 800 and will be fully compatible with existing S400 and S800 devices. The future products are intended to compete with the USB 3.0.
+
+The numbers given after the "FireWire", or the "S" give the approximate speed in MBit/s, rounded up to the next 100. The first version can transfer 98.304.000 Bits/s, or 12.288.000 Bytes/s. The versions that came afterwards can do this speed, and multiples of it. Using the SI prefix, this is exactly 98.304 kBit/s, using the binary prefix, it is 96.000 kiBit/s. To avoid confusion, it is rounded to the next closest 100. That way, S3200 does not transfer 3.200 MBit/s, nor 3.200 MiBit/s, but 3.145,728 Mbit/s, or 3.000 MiBit/s. This is approximately 2,93 Gibit/s.
+
+Unlike with USB, there is no one device that manages the bus all the time. Each device is able to manage the bus. When a new device is connected, there will be negotiations between the devices which of them does the management. 
+
+Addresses have a length of 64 Bits. Of these, 10 are used to identify "segments" (as part of the network), 6 are used for nodes, and 48 are freely available. The standard used to connect several segments has not yet been ratified. For this reason, all Firewire networks currently only use one segment.
+
+Devices on a FireWire bus can communicate by direct memory access. With Direct Memory access (DMA) a device can use hardware to map internal memory to FireWire's "Physical Memory Space". The SBP-2 (Serial Bus Protocol 2) used by FireWire disk drives uses this capability to minimize interrupts and buffer copies. In SBP-2, the initiator (controlling device) sends a request by remotely writing a command into a specified area of the target's FireWire address space. This command usually includes buffer addresses in the initiator's FireWire "Physical Address Space". The target is supposed to use this space to move I/O data to and from the initiator.
+
+Many implementations use hardware to do the mapping between the FireWire "Physical Memory Space" and device physical memory. Among these, are those used by PCs and Macs, especially those using OHCI. In this case, the operating system is not involved in the transfer. This allows for high speed transfers with a low latency and avoids that the data is copied around unnecessarily. It can however be a security risk if devices that are not trusted are connected to the bus. Installations where security is a concern will therefore either use newer hardware, which use virtual memory to map the Firewire Physical memory space, or disable the mapping the OHCI does. They might also disable the whole Firewire subsystem, or not provide Firewire at all.
+
+This feature can also be useful, for example to debug a machine where the operating system has crashed. Some systems can use it to provide a remote console. On FreeBSD, the dcons driver provides both, using gdb as debugger. Under Linux, firescope and fireproxy exist.

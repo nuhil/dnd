@@ -1,0 +1,17 @@
+Gene
+
+Genes are forms of DNA. DNA is a collection of chemical information that carries the instructions for making all the proteins a cell will ever need. Each gene contains a single set of instructions. These instructions usually code for a particular protein. Humans have about 20,000 genes that code proteins and many more that are non-coding. Half of a person's genes come from the mother. The other half come from the father.
+
+Originally: a hereditary unit which occupies a specific position ("locus") on a chromosome. Other definitions are ways the gene showed itself: 
+
+Modern definitions must take note of later discoveries. There are now two classes of genes:
+
+Genes are passed on from parent to child and are an important part of what decides how children look and act (their biological properties). Genes affect the way our bodies work, including how we look. Our eye, hair and skin color are decided by genes. It is said that genes cause "genetic" effects in our bodies.
+
+A gene may be "dominant" or "recessive". These terms refer to the effect a gene has on the offspring who carry it in their genome. 
+
+For example, let's say a mother only has genes for brown hair and a father only has genes for red hair. The child will inherit – receive – genes for red hair (from her father) and brown hair (from her mother). The brown hair gene is 'dominant' to the red hair gene. This means the child will have brown hair even though she has genes for both red and brown hair. This means only one dominant gene is needed for the child to receive that particular trait, while two recessive genes are needed for one.
+
+A recessive trait might stay hidden for many generations. Let us use the child from the last example. We will call her "Mary". Mary has brown hair but has genes for both red and brown hair. Let us say Mary grew up and married Tom. Tom also has brown hair, but like Mary one of his parents had red hair. This means Tom has genes for both red and brown hair. Mary and Tom would each have a chance of passing either brown or red hair genes to their children. This means that the children of Mary and Tom could have either red or brown hair. This explains why a person might look different from their parents, but look like their grandparents or great grandparents.
+
+The structure of a gene has many elements: the actual protein coding sequence is only a small part. There are DNA regions that are not transcribed as well as untranslated regions of the RNA.

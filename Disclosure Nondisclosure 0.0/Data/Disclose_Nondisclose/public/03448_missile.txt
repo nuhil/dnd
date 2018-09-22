@@ -1,0 +1,7 @@
+Missile
+
+In general, missile may refer to anything thrown or launched object at a target like a javelin or darts. Nowadays, it means, mostly, a self-propelled guided weapon system. Missiles are used in war to destroy military targets. Missiles can carry explosives or other destructive loads. The loads a missile may carry are called a "payload". This payload is not always harmful to people: for example in the 1991 Gulf War, missiles threw reels of wire at electric power stations, causing the power to go out.
+
+The two main kinds of missiles are simple "rockets" and "guided missiles". A rocket is no longer controlled once it has been launched. Most guided missile are also propelled by a rocket engine but can be controlled after it has been launched. Some missiles used in anti-aircraft warfare, such as the AIM-9 Sidewinder, guide themselves with temperature. Others guide themselves by radar or are under radio control. 
+
+The V-1 flying bomb was an early cruise missile, a little airplane with a bomb, propelled by a jet engine instead of a rocket.

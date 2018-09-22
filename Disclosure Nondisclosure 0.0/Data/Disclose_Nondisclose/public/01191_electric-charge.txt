@@ -1,0 +1,24 @@
+Electric charge
+
+Electric charge is a basic property of electrons, protons and other subatomic particles. Electrons are negatively charged while protons are positively charged. Things that are negatively charged and things that are positively charged pull on (attract) each other. This makes electrons and protons stick together to form atoms. Things that have the same charge push each other away (they "repel" each other). This is called the "Law of Charges". It was discovered by Charles-Augustin de Coulomb. The law that describes how strongly charges pull and push on each other is called Coulomb's Law.
+
+Things that have equal numbers of electrons and protons are "neutral". Things that have more electrons than protons are negatively charged, while things with fewer electrons than protons are positively charged. Things with the same charge repel each other. Things that have different charges attract each other. If possible, the one with too many electrons will give enough electrons to match the number of protons in the one that has too many protons for its load of electrons. If there are just enough electrons to match the extra protons, then the two things will not attract each other anymore. When electrons move from a place where there are too many to a place where there are too few, that is called an electrical current. 
+
+When a person shuffles their feet on a carpet and then touches a brass doorknob, he or she may get an electrical shock. If there are enough extra electrons then the force with which those electrons push each other away may be enough to make some of the electrons jump across a gap between the person and the doorknob. The length of the spark is a measure of voltage or "electrical pressure." The number of electrons that move from one place to another per unit of time measured as amperage or "rate of electron flow."
+
+If a person gets a positive or negative charge, it may make the person's hairs stand up because the charges in each hair push it away from the others.
+
+Electric charge felt when one gets a shock from a doorknob or other object usually is between 25 thousand and 30 thousand volts. However the amperage involved is low, so the flow of electrons through the person's body does not cause physical harm. On the other hand, when clouds gain electrical charges they have even higher voltages and the amperage (the number of electrons that will flow in the lightning strike) can be very high. That means that electrons can jump from a cloud to the earth (or from the earth to a cloud), and if those electrons go through a person then that person will be burned and may die.
+
+The following experiment is described by James Clerk Maxwell in his work "A Treatise on Electricity and Magnetism" (1873). Normally, glass and resin are both neutrally charged. However, if they are rubbed together and then separated, they will become able to attract each other.
+
+If a second piece of glass is rubbed with a second piece of resin, the following things will be seen:
+
+
+If a charged and an uncharged object are brought together, there will not be any attraction or repulsion.
+
+Bodies that are able to attract or repel things in this way are said to be 'electrified', or to be 'charged with electricity'. When two different substances are rubbed together, an electrical charge is produced because one of them will give electrons to the other. The reason is that the atoms in the two substances have unequal power to attract electrons. So the one that is more able to attract electrons will take electrons from the one that has a lower attractive force. If glass is rubbed against something else, it may either give or take electrons. What happens depends on what the other thing is.
+
+Things that have taken electrons are called "negatively charged", and things that have given up electrons are called "positively charged". There is no special reason for these names. It is just an arbitrary (random choice) convention (agreement).
+
+Besides being electrified by friction, bodies may be electrified in many other ways.

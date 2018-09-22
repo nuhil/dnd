@@ -1,0 +1,25 @@
+Artificial intelligence
+
+Artificial intelligence (AI) is the ability of a computer program or a machine to think and learn. It is also a field of study which tries to make computers "smart". John McCarthy came up with the name "artificial intelligence" in 1955. 
+
+In general use, the term "artificial intelligence" means a machine which mimics human cognition. At least some of the things we associate with other minds, such as learning and problem solving can be done by computers, though not in the same way as we do. 
+
+An ideal (perfect) intelligent machine is a flexible agent which perceives its environment and takes actions to maximize its chance of success at some goal. As machines become increasingly capable, mental facilities once thought to require intelligence are removed from the definition. For example, optical character recognition is no longer perceived as an exemplar of "artificial intelligence": it is just a routine technology. 
+
+At present we use the term AI for successfully understanding human speech, competing at a high level in strategic game systems (such as Chess and Go), self-driving cars, and interpreting complex data. Some people also consider AI a danger to humanity if it progresses unabatedly.
+
+An extreme goal of AI research is to create computer programs that can learn, solve problems, and think logically. In practice, however, most applications have picked on problems which computers can do well. Searching data bases and doing calculations are things computers do better than people. On the other hand, "perceiving its environment" in any real sense is way beyond present-day computing. 
+
+AI involves many different fields like computer science, mathematics, linguistics, psychology, neuroscience, and philosophy. Eventually researchers hope to create a "general artificial intelligence" which can solve many problems instead of focusing on just one. Researchers are also trying to create creative and emotional AI which can possibly empathize or create art. Many approaches and tools have been tried.
+
+Objects that look and act like humans exist in every major civilization. The first appearance of artificial intelligence is in Greek myths, like Talos of Crete or the bronze robot of Hephaestus. Humanoid robots were built by Yan Shi, Hero of Alexandria, and Al-Jazari. Sentient machines became popular in fiction during the 19th and 20th centuries with the stories of Frankenstein and R.U.R.
+
+Formal logic was developed by ancient Greek philosophers and mathematicians. This study of logic produced the idea of a computer in the 19th and 20th century. Mathematician Alan Turing's theory of computation said that any mathematical problem could be solved by processing 1's and 0's. Advances in neurology, information theory, and cybernetics convinced a small group of researchers that an electronic brain was possible.
+
+AI research really started with a conference at Dartmouth College in 1956. It was a month long brainstorming session attended by many people with interests in AI. At the conference they wrote programs that were amazing at the time, beating people at checkers or solving word problems. The Department of Defense started giving a lot of money to AI research and labs were created all over the world.
+
+Unfortunately, researchers really underestimated just how hard some problems were. The tools they had used still did not give computers things like emotions or common sense. Mathematician James Lighthill wrote a report on AI saying that "in no part of the field have discoveries made so far produced the major impact that was then promised". The U.S and British governments wanted to fund more productive projects. Funding for AI research was cut, starting an "AI winter" where little research was done.
+
+AI research revived in the 1980s because of the popularity of expert systems, which simulated the knowledge of a human expert. By 1985, 1 billion dollars were spent on AI. New, faster computers convinced U.S and British governments to start funding AI research again. However, the market for Lisp machines collapsed in 1987 and funding was pulled again, starting an even longer AI winter.
+
+AI revived again in the 90s and early 2000s with its use in data mining and medical diagnosis. This was possible because of faster computers and focusing on solving more specific problems. In 1997, Deep Blue became the first computer program to beat chess world champion Garry Kasparov. Faster computers, advances in deep learning, and access to more data have made AI popular throughout the world. In 2011 IBM Watson beat the top two Jeopardy! players Brad Rutter and Ken Jennings, and in 2016 Google's AlphaGo beat top Go player Lee Sedol 4 out of 5 times.

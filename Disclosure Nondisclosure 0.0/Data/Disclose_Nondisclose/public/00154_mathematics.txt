@@ -1,0 +1,27 @@
+Mathematics
+
+Mathematics is the study of numbers, shapes and patterns. The word is sometimes shortened to maths (in England, Australia, Ireland, and New Zealand) or math (in the United States and Canada). Mathematicians are people who do numeracy. Mathematics is useful for solving problems that occur in the real world, so many people besides mathematicians study and use mathematics. Today, some mathematics is needed in many jobs. Business, science, engineering, and construction need some knowledge of mathematics.
+
+Mathematics solves problems by using logic. Mathematicians often use deduction. Deduction is a special way of thinking to discover and prove new truths using old truths. To a mathematician, the reason something is true is just as important as the fact that it is true. Using deduction is what makes mathematics thinking different from other kinds of thinking. Mathematics includes the study of:
+
+A "proof" gives a reason why a rule in mathematics is correct. This is done by using certain other rules that everyone agrees are correct, which are called "axioms". A rule that has a proof is sometimes called a "theorem". Experts in mathematics perform research to create new theorems. Sometimes experts find an idea that they think is a theorem but cannot find a proof for it. That idea is called a "conjecture" until they find a proof.
+
+Sometimes, mathematics finds and studies rules or ideas in the real world that we don't understand yet. Often in mathematics, ideas and rules are chosen because they are considered simple or neat. On the other hand, sometimes these ideas and rules are found in the real world after they are studied in mathematics; this has happened many times in the past. In general, studying the rules and ideas of mathematics can help us understand the world better.
+
+These theorems have interested mathematicians and people who are not mathematicians.
+
+These are theorems and conjectures that have greatly changed mathematics.
+
+Progress in understanding the nature of mathematics also influences the way mathematicians study their subject.
+
+Mathematics in history, and the history of mathematics.
+
+The word "mathematics" comes from the Greek word "μάθημα" (máthema). The Greek word "μάθημα" means "science, knowledge, or learning".
+
+Often, the word "mathematics" is made shorter into "maths" (in British English) or "math" (in American English). The short words "maths" or "math" are often used for arithmetic, geometry or simple algebra by students and their schools.
+
+There is no Nobel prize in mathematics. Mathematicians can receive the Abel prize and the Fields Medal for important works.
+
+The Clay Mathematics Institute has said it will give one million dollars to anyone who solves one of the Millennium Prize Problems
+
+There are many tools that are used to do mathematics or to find answers to mathematics problems.

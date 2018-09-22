@@ -1,0 +1,21 @@
+Mollusc
+
+The three most universal features defining modern molluscs are:
+
+Other than these things, molluscs have so much variety that many textbooks use a "hypothetical ancestral mollusc" to summarise them (see below). This has a single, "limpet-like" shell on top, which is made of proteins and chitin reinforced with calcium carbonate. It is secreted by a mantle covering the whole upper surface. The underside of the animal consists of a single muscular "foot". 
+
+The mollusc's feeding system starts with a rasping "tongue", the radula. The complex digestive system uses mucus and microscopic, muscle-powered "hairs" called cilia. The generalized mollusc has two paired nerve cords, or three in bivalves. The brain, in species that have one, circles the oesophagus. Most molluscs have eyes, and all have sensors to detect chemicals, vibrations, and touch. The simplest type of molluscan reproductive system relies on external fertilization, but more complex variations occur. All produce eggs, from which may emerge trochophore larvae, more complex veliger larvae, or miniature adults.
+
+A striking feature of molluscs is the use of the same organ for multiple functions. For example, the heart and nephridia ("kidneys") are important parts of the reproductive system, as well as the circulatory and excretory systems. In bivalves, the gills both "breathe" and produce a water current in the mantle cavity: this is important for excretion and reproduction. In reproduction, molluscs may change gender to accommodate the other breeding partner.
+
+Good evidence exists for the appearance of gastropods, cephalopods and bivalves in the Cambrian period, 541 to 485.4 million years ago (mya). Before that, the evolutionary history of molluscs' emergence from the ancestral Lophotrochozoa is still unclear.
+
+Mollusc species can also represent hazards or pests for human activities. The bite of the blue-ringed octopus is often fatal, and that of "Octopus apollyon" causes inflammation that can last for over a month. Stings from a few species of large tropical cone shells can also kill: their venoms have become important tools in neurological research. Schistosomiasis (also known as bilharzia, bilharziosis or snail fever) is transmitted to humans via water snail hosts, and affects about 200 million people. Snails and slugs can also be serious agricultural pests, and accidental or deliberate introduction of some snail species into new environments has seriously damaged some ecosystems.
+
+Because of the great range of anatomical diversity among molluscs, many textbooks start the subject of molluscan anatomy by describing what is called an "archi-mollusc", "hypothetical generalized mollusc", or "hypothetical ancestral mollusc" ("HAM") to illustrate the most common features in the phylum. The picture is rather similar to modern monoplacophorans: some think it may resemble very early molluscs.
+
+The generalized mollusc is bilaterally symmetrical and has a single, "limpet-like" shell on top. The shell is secreted by a mantle covering the upper surface. The underside consists of a single muscular "foot". The visceral mass, or visceropallium, is the soft, nonmuscular metabolic region of the mollusc. It contains the body organs.
+
+Classes of molluscs:
+
+It has become clear that the fossil taxon Helcionelloida does "not" belong to the class Gastropoda. It is now a separate class in the Mollusca. Parkhaev (2006, 2007) created the class Helcionelloida, whose members were previously treated as "Paleozoic molluscs of uncertain systematic position" by Bouchet & Rocroi.

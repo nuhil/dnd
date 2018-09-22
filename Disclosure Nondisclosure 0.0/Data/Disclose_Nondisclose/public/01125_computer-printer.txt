@@ -1,0 +1,12 @@
+Computer printer
+
+A printer is a piece of hardware for a computer. It allows a user to print items on paper, such as letters and pictures. Mostly a printer prints under the control of a computer. Many can also work as a copying machine or with a digital camera to print directly without using a computer.
+
+Today, the following types of printers are in regular use:
+
+Printers are programmed using a programming language. The printer interprets the program, and the outputs the result. There are two big classes of such languages: Page description languages, and Printer Control languages. A page description language describes what a page should look like. The program in a page description language is sent to the printer, which interprets them. Printer command languages are at a lower level than Page description languages, they contain information that is specific to the printer model. 
+
+Common programming languages for printers include:
+
+When comparing the cost of a printer, people often talk about how expensive it is to print one page. This cost usually has three components:
+Printers that are more expensive to buy will usually be less expensive in the consumables (the ink, toner, or ribbon used by the printer). Therefore, laser printers are often more expensive to buy than inkjet printers, but are not as expensive to use over a long period of time. Inkjet printers on the other hand have a higher cost of consumables because the ink tanks they use are more expensive than the toner for a laser printer. Laser printers that can print in color are usually more expensive than those that only print in black and white. Some expensive printers can do other things such as print on both sides of the paper, automatically sort the output, or staple the pages.

@@ -1,0 +1,5 @@
+Computer recycling
+
+Computer recycling means taking things from old computers and using them in new computer things. The phrase is also used to mean that computers need to be thrown away in a special way, as they often have things that are bad for the environment or dangerous inside them that can cause problems if they are thrown away like usual waste (garbage).
+
+Sometimes people are worried that the information inside a computer will be stolen when the computer is thrown away. For example, if you have a product design on an old computer, somebody might copy your design. Big companies have a lot of computers, with a lot of private information on them. They will often pay other companies to remove all the information from a computer before it is thrown away. This usually involves physically destroying the drive. It is possible to non-destructively erase the data on a hard drive by overwriting the entire drive with random numbers. With this method, only the data is destroyed, not the drive itself. This allows the drive to be reused.

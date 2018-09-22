@@ -1,0 +1,19 @@
+Bandwidth
+
+In electronics, Bandwidth is used to measure electric communication. Bandwidth is shown as the difference between the electric signal having highest-frequency and the signal having the lowest-frequency.
+
+In computer networks, bandwidth is often used as a term for the data transfer bit rate. More easily, the amount of data that is carried or passed from one point to another in a network, in a given time period (usually a second). In music industry, it is the measurement used to define bands.
+
+Many systems work by means of continuous movements, or oscillations. Each complete "back and forth" it makes is called a cycle. The number of cycles every second is its frequency. Frequency is measured in cycles every second, most often called "Hertz", or "Hz" for short.
+
+Systems have at least 1 frequency, and usually many different frequencies. For example, sound travels with vibrations. People can hear sound frequencies low as 20 Hz, and high as 20,000 Hz. A band of frequencies is a continuous range of frequencies; the band of frequencies people can hear is from 20 Hz to 20,000 Hz.
+
+Bandwidth is the width of a frequency band; The width is the highest frequency minus the lowest frequency. In the hearing example, the bandwidth of a person's ears is about 20,000 Hz - 20 Hz = 19,980 Hz.
+
+Bandwidth is used with electromagnetic spectrum (For example, radio waves, light waves and X-rays). Such waves are oscillations of electric and magnetic fields. For example, the lowest United States AM radio channel has the band of frequencies from 535,000 Hz to 545,000 Hz. It has a bandwidth of 10,000 Hz (545,000 - 535,000 = 10,000). All United States AM radio broadcasting stations have this bandwidth (But, the location of each band is distinct). The lowest United States FM radio channel has the band from 88,000,000 Hz (88 MHz) to 88,200,000 Hz (88.2 MHz). It has a bandwidth of 200 kHz. You can see that the width of an FM band is 20 times the width of an AM band.
+
+The word "bandwidth" has been used incorrectly in digital data communication to mean "data carrying capacity". There is no such thing as "digital bandwidth"; the proper term for the data carrying capacity of a communication channel is channel capacity.
+
+In general, the channel capacity of a system increases with the bandwidth used for communication. However, many other parts are also important. Therefore, in most systems, the channel capacity is different from the channel bandwidth.
+
+Sometimes, the word "broadband" is used to mean "high-speed", especially with high-speed internet connections. "Broadband" means "wide band", and suggests high-speed. However, the term is not clear; "high-speed" is more clear. A dial-up telephone connection is most often thought to be low-speed, at less than 56,000 bit/s (bits per second). High-speed is usually 200,000 bit/s or faster. DSL (Digital Subscriber Line) or Cable modem connections are usually high-speed.

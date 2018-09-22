@@ -1,0 +1,21 @@
+Chemical equation
+
+A chemical equation is a way to predict the way that two or more chemicals will work together. Using what chemists know about the way chemicals act, we add the letter symbols together just like a math problem. In this way we can correctly guess if we will get a new chemical when we mix two or more chemicals together, and what that chemical will be.
+
+Chemical equations are either worded or written using the elements' symbols, how much of the element and in what state (solid[s], liquid[l], gas[g]) it is in.
+
+For example: An aqueous solution of sodium chloride (NaCl[aq]) and another aqueous solution of silver nitrate (AgNO[aq]). These mixed together form sodium nitrate (NaNO[aq]) and silver chloride (AgCl[s])
+
+Which in symbols is:
+
+NaCl(aq) + AgNO(aq) → NaNO(aq) + AgCl(s)
+
+The solutions formed the solid AgCl. This formation can be called a precipitate and the reaction between the two solutions a precipitation reaction, because the solid produced is not dissolved, whereas all the other products are dissolved.
+
+Chemical equations need to be balanced to satisfy the law of conservation of matter. Chemical equations tell that in a closed system matter is neither created nor destroyed. The chemical equation needs to be balanced so that it follows the law of conservation of mass. A balanced chemical equation happens when the number of the different atoms of elements on the reactants side is equal to that of the products side. 
+
+Balancing chemical equations is a process of trial and error. To balance the equation, the amounts of the reactants and products must be changed. As necessary, by adding coefficients in front of the appropriate formulas. When balancing an equation, never change the subscripts, because that changes the substance. To determine the number of atoms of each element, the coefficient is multiplied times the subscripts in each formula.
+
+A chemical equation is a written symbolic representation of a chemical reaction. The reactant chemicals are given on the left-hand side and the product chemical on the right-hand side. The law of conservation of mass says that no atoms cannot be made in a chemical reaction. Also, it cannot be destroyed. So the number of atoms that are present in the reactants has to balance the number of atoms that are present in the reaction. 
+
+There are two practices of balancing a chemical equation. The first one is balancing by Inspection. Balancing by inspection is the most basic method used. It works best for simple problems. More complicated ones require experience. The second one is Balancing by Numerical Method. The most important parts of the numerical methotrexate, contrary to the inspection method, it gives the answer. If the reaction can be balanced, coefficients can be seen. If the reaction can't be balanced, it means that there are more unidentified than independent statements, or that statements are opposite. With inspection method, it won't prove that the equation can't be balanced.

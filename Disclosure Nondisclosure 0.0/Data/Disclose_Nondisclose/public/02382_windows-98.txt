@@ -1,0 +1,13 @@
+Windows 98
+
+Windows 98 is an operating system for computers. Released on June 25 1998 by Microsoft, it is an updated version of Windows 95.
+
+Windows 98 was seen by many as an upgrade to Windows 95, rather than a rebuilt version of Windows. The biggest changes were:
+
+Because Microsoft made Internet Explorer such an important part of Windows 98, the company was taken to court by the United States Government. This was because they felt it was unfair to other companies who made web browsers.
+
+It is not supported anymore, but many people still use it on older computers that will not run Windows XP, Windows Vista, or Windows 7.
+
+Before the release of Windows 98, there was a press demonstration at Comdex in April 1998. Microsoft CEO Bill Gates was highlighting the operating system's ease of use and enhanced support for Plug and Play (PnP). When presentation assistant Chris Capossela plugged a scanner in and attempted to install it, Windows 98 displayed a Blue Screen of Death. Gates remarked after applause and cheering from the audience, "That must be why we're not shipping Windows 98 yet." Video footage of this event became a popular Internet phenomenon.
+
+Windows 98 Second Edition (SE) (codenamed "99") was released in 1999. This was an official upgrade to Windows 98 which allowed people to use more types of computer hardware, like monitors and printers, and also let more than one machine on a network use the same Internet connection.

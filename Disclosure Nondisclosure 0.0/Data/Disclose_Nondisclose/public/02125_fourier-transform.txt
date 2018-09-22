@@ -1,0 +1,19 @@
+Fourier transform
+
+The Fourier transform is a mathematical function that can be used to show the different parts of a continuous signal. It is most used to convert from time domain to frequency domain. Fourier transforms are often used to calculate the frequency spectrum of a signal that changes over time. This kind of signal processing has many uses such as cryptography, oceanography, speech recognition, or handwriting recognition. Fourier transforms can also be used to solve differential equations.
+
+The Fourier transform of a function formula_1 is given by
+
+formula_2
+
+The inverse Fourier transform is given by
+
+formula_3
+
+A Fourier transform shows what frequencies are in a signal. For example, consider a sound wave which contains three different musical notes: A, B, and C. Making a graph of the Fourier transform of this sound wave (with the frequency on the x-axis and the intensity on the y-axis) will show a peak at each frequency which corresponds with one of the musical notes.
+
+Many signals can be created by adding together cosines and sines with varying amplitudes and frequencies. The Fourier transform plots the amplitudes and phases of these cosines and sines against their respective frequencies.
+
+Fourier transforms are important because many signals make more sense when their frequencies are separated. In the audio example above, looking at the signal with respect to time does not make it obvious that the notes A, B, and C are in the signal. Many systems do different things to different frequencies, so these kinds of systems can be described by what they do to each frequency. An example of this is a filter which blocks high frequencies.
+
+Calculating a Fourier transform requires understanding of integration and imaginary numbers. Computers are usually used to calculate Fourier transforms of anything but the simplest signals. The Fast Fourier Transform is a method computers use to quickly calculate a Fourier transform.

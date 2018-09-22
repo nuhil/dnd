@@ -1,0 +1,11 @@
+Ribosome
+
+Ribosomes are important cell organelles. A ribosome is a large complex of RNA and protein. It does RNA translation, building proteins from amino acids using messenger RNA as a template. Ribosomes are found in all living cells, prokaryotes as well as eukaryotes.
+
+A ribosome is a mixture of protein and RNA that starts its formation in the nucleolus of a cell. The nucleolus is found in the center of the nucleus. The nucleus is protected by the nuclear envelope, and lets things out through the nuclear pores. 
+
+The job of the ribosome is to make new proteins. It does this by moving along a strand of RNA and building a protein based on the code it reads. Making a protein this way is called translation. Ribosomes are usually found in the rough endoplasmic reticulum, but can also be found throughout the cytoplasm.
+
+Ribosomes are made out of two things: a small ribosomal subunit that reads the mRNA, while the large subunit joins amino acids to form a polypeptide chain. Each subunit is composed of one or more ribosomal RNA (rRNA) molecules and a variety of proteins.
+
+Eukaryotes have 80S ribosomes, each consisting of a small (40S) and large (60S) subunit. Their small subunit has a 16S RNA sub-unit (consisting of 1540 nucleotides) bound to 21 proteins. The large subunit has a 5S RNA (120 nucleotides), a 28S RNA (4700 nucleotides), a 5.8S RNA (160 nucleotides) subunits and 46 proteins.

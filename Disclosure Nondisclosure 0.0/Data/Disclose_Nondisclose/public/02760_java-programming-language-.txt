@@ -1,0 +1,28 @@
+Java (programming language)
+
+Java is object oriented. Unchanged C++ or C code will not work in Java, in most cases, though Java looks much like C and C++.
+
+Java can run on many different operating systems. This makes Java platform independent. Java does this by making the Java compiler turn code into Java bytecode instead of machine code. This means that when the program is executed, the Java Virtual Machine interprets the bytecode and translates it into machine code.
+
+Java was developed to achieve 5 main goals. These are:
+
+The "Java platform" refers to a group of software products from Sun Microsystems. The platform is used to develop and run Java programs. The platform includes the execution engine (called a Java Virtual Machine) that allows Java programs to do the same thing on different computer systems.
+
+This capability of being able to develop software on one platform and running it on other platforms is called "cross-platform capability".
+
+An example Hello java program:
+/**
+class Hellojavaprogram {
+There are many types of Java programs which run differently:
+
+
+Java is commonly used to teach students how to program as a first language, yet is still also used by professionals.
+
+
+
+
+
+
+
+
+The programming language Java has also been criticized. Some of the criticisms are:

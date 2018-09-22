@@ -1,0 +1,10 @@
+Light microscope
+
+A light microscope works like a refracting telescope except that the object is very close to the objective lens. An object to be studied, for example a tiny organism so small it looks like just a dot, is put on a slide, which is usually a flat piece of glass. The clips on the microscope's flat stage hold the slide in place. The stage can be adjusted to add more light. It also moves to allow different layers of the object to be in focus. The user looks through the microscope eyepiece. A mirror at the bottom of the microscope reflects light rays up to the object through a hole in the stage. Objective lenses magnify the image which is made even larger when it is seen through the eyepiece lenses. Some light microscopes are actually digital cameras, made to photograph small things but having no eyepiece. 
+
+Many microscopes, often used in colleges and high schools, normally have a top magnification of 40x with the option of having 4x and 8x. This lets the microscope show basic cells and other items. Others can magnify hundreds of times, or thousands.
+
+All modern optical microscopes designed for viewing samples by transmitted light share the same basic components of the light path, listed here in the order the light travels through them. Also almost all microscopes have the same 'structural' components:
+These entries are numbered according to the image on the right.
+
+Optical microscopes cannot show things that are smaller than light waves, because of the diffraction limit. Microscopes which can see smaller things include:

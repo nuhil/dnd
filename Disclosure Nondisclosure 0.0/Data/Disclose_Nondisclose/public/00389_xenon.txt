@@ -1,0 +1,11 @@
+Xenon
+
+Xenon is a non-metal chemical element. It has the chemical symbol Xe and atomic number 54. It is one of the few elements that are a gas at Standard temperature and pressure.
+
+Sir William Ramsay and M. W. Travers discovered this element in 1898. The element's name came from the Greek word "xenos", which means 'stranger'.
+
+Xenon belongs to the group of the noble gases. Noble gases are very unreactive. However, in 1962, chemists have found that xenon can react with fluorine under special conditions, such as high pressure and high temperature. It is not known why xenon behaves differently under these circumstances. There are also some compounds with oxygen. The gas is not very reactive, because if fulfills the octet rule. This means that a lot of energy is needed to remove an electron from xenon. This activation energy for xenon is 1172 kJ/mol. To remove a second electron from xenon, an energy of 2046.4 kJ/mol is needed.
+
+Known oxidation states of xenon are 0, +1, +2, +4, +6 and +8. However, the most stable form is pure xenon, or the xenon's oxidation state of 0. Xenon has 8 stable isotopes and more than 30 unstable isotopes.
+
+Xenon gas is used in electron tubes, bactericidal lamps, strobe lamps, and lamps used to excite ruby lasers.

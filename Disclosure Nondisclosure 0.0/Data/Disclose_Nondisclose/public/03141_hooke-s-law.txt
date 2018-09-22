@@ -1,0 +1,15 @@
+Hooke's law
+
+It is a law of mechanics and physics by Robert Hooke. 
+
+This theory of elasticity says the extension of a spring is proportional to the load applied to it. Many materials obey this law as long as the load does not exceed the material's elastic limit. Materials for which Hooke's law is useful are known as linear-elastic or "Hookean" materials. 
+
+The length of a spring always changes by the same amount when it is pushed or pulled. The equation for that is:
+
+When x = 0, the spring is at the equilibrium position. 
+This equation only works on a linear spring. A linear spring is a spring that is only being pushed or pulled in one direction, such as left or right or up or down.
+
+Examples of everyday objects that have elastic potential energy are stretched or compressed elastic bands, springs, bungee cords, car shock absorbers, etc. 
+
+Elastic potential energy is the energy saved in an object that is stretched, compressed (compression is pressing objects together), twisted or bent. For example, an arrow gets the elastic potential energy from the bow. When it leaves the bow, the potential energy turns into kinetic energy. 
+The equation of the elastic potential energy is:

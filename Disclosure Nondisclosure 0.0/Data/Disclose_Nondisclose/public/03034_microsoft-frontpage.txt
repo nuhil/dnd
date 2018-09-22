@@ -1,0 +1,14 @@
+Microsoft FrontPage
+
+Microsoft FrontPage (Full name: Microsoft Office FrontPage) is a program made by Microsoft to help people make webpages and full websites. It was one of Microsoft Office programs until 2003.
+
+Microsoft FrontPage was commercially available in four versions:
+FrontPage 98, FrontPage 2000, FrontPage 2002 & FrontPage 2003.
+
+There was also a freeware version included in earlier releases of Internet Explorer. It was called FrontPage Express. It was a useful web editor without costing as much as professional software. FrontPage express is compatible with Windows XP and some other versions of Windows. FrontPage Express downloads are still available online from third-party hosts, such as stormthecastle.com.
+
+FrontPage is a WYSIWYG, "What You See Is What You Get", Web Editor. All versions of FrontPage are still in use by web developers all over the globe.
+
+The 2003 version is the last installment to the series. It was discontinued in 20006, being replaced by Microsoft Expression Web and Microsoft Office SharePoint Designer.
+
+The first version of the app was made by Vermeer Technologies in 2005, before its acquisition by Microsoft.

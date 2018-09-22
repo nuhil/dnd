@@ -1,0 +1,23 @@
+Organic chemistry
+
+Organic chemistry is the study of chemical compounds that contain carbon. Carbon has the ability to form a chemical bond with a wide variety of chemical elements and other carbon atoms. This allows a nearly unlimited number of combinations. The subject of carbon compounds is called organic chemistry because all known organisms, or living things, are made up of water and carbon compounds. Organic chemistry largely involves the synthesis, or formation, of organic products by chemical reaction using different reactants and reagents, the substances used up during a reaction. Several different areas of chemistry expand on the concepts and principles of organic chemistry, including biochemistry, microbiology, and medicine.
+
+The term organic originates from Jons Jacob Berzelius, a 19th century Swedish scientist, who used the term to refer to substances present in living things. During Berzelius’ time, the vital force theory was popular. This theory stated that a "life force" was needed to produce the organic compounds found only in living things. The vital force theory began losing support after an 1828 experiment conducted by Friedrich Wöhler. His work showed that urea, an organic compound, could be created from ammonium cyanate, an inorganic compound.
+
+The study of hydrocarbons is a very large part of organic chemistry. Hydrocarbons are molecules containing only the elements carbon and hydrogen in the form of chains. Hydrocarbons can be classified into two categories based on the presence of a benzene ring, a circular type of hydrocarbon. Aliphatic hydrocarbons do not contain a benzene ring and aromatic hydrocarbons do.
+
+Organic chemistry reactions happen because electrons are not shared evenly in a chemical bond. Some atoms or molecules, like oxygen, nitrogen, and negatively charged anions, are nucleophilic because they have extra electrons and want to be around positive charges. Others, such as H+ and other positively charged cations, are electrophilic and want to be around negative charges. When an organic molecule has a positive charge, it is called a carbocation. It is also an electrophile. When nucleophiles and electrophiles mix, a reaction can occur. 
+
+A reaction mechanism is a series of smaller reactions that form an overall reaction. Two basic mechanism types are substitution and elimination reactions. They are very important in the study of organic chemistry mechanisms because many more complicated mechanisms use them.
+
+Nucleophilic substitution occurs when an atom or group of atoms detaches from an organic molecule and is replaced by another. If the leaving and adding happens at the same time, it is called a S2 reaction. If the leaving group breaks away from the organic molecule and forms a carbocation before substitution occurs, it is called an S1 reaction.
+
+Elimination occurs when two groups are broken off of an organic molecule by a strong acid and the resulting charges form a double bond. Usually one of the groups is a nucleophile and the other is a hydrogen atom. If both groups are pulled off at the same time, it is called an E2 reaction. If one group is pulled off first and forms a carbocation before the second group is removed, it is called an E1 reaction.
+
+Stereochemistry is the study of molecules in space. It looks into the arrangement of atoms inside of molecules in space relative to one another and how they will interact. Molecules that have the same chemical make up but are arranged differently are called isomers. Famous chemist Louis Pasteur was an early researcher of stereochemistry.
+
+A central part of the study of sterochemistry is chirality. Put simply, chirality looks at the symmetry in chemical molecules. If an object cannot be superimposed onto its mirror image, then it is a chiral object. If it can, it is called achiral.
+
+Spectroscopy is the study of the interactions between light energy and matter. We are able to see colors because of energy absorption by organic and inorganic compounds. When a plant undergoes photosynthesis, it traps energy from the sun, and this is an example of an interaction between energy and organic compounds. 
+
+Spectroscopy is used to identify organic molecules in unknown compounds. There are many types of spectroscopy, but most important to organic chemistry are infrared spectroscopy and nuclear magnetic resonance spectroscopy.

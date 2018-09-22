@@ -1,0 +1,41 @@
+RNA
+
+RNA is an acronym for ribonucleic acid, a nucleic acid. Many different kinds are now known.
+
+RNA is physically different from DNA: DNA contains two intercoiled strands, but RNA only contains one single strand. RNA also contains different bases from DNA. These bases are the following:
+
+Adenine forms bonds with uracil, and guanine forms bonds with cytosine. In this way, we say that adenine is complementary to uracil and that guanine is complementary to cytosine. The first three bases are also found in DNA, but uracil replaces thymine as a complement to adenine.
+
+RNA also contains ribose as opposed to deoxyribose found in DNA. These differences result in RNA being chemically more reactive than DNA. This makes it the more suitable molecule to take part in cell reactions.
+
+RNA is the carrier of genetic information in certain viruses, especially the retroviruses like the HIV virus. This is the only exception to the general rule that DNA is the hereditary substance.
+
+The main function of RNA is to carry information of amino acid sequence from the genes to where proteins are assembled on ribosomes in the cytoplasm. 
+
+This is done by messenger RNA (mRNA). A single strand of DNA is the blueprint for the mRNA which is transcribed from that DNA strand. The sequence of base pairs is transcribed from DNA by an enzyme called RNA polymerase. Then the mRNA moves from the nucleus to the ribosomes in the cytoplasm to form proteins. The mRNA translates the sequence of base pairs into a sequence of amino acids to form proteins. This process is called translation.
+
+DNA does not leave the nucleus for various reasons. DNA is a "very" long molecule, and is bound in with proteins, called histones, in the chromosomes. mRNA, on the other hand is able to move and to react with various cell enzymes. Once transcribed, the mRNA leaves the nucleus and moves to the ribosomes.
+
+Two kinds of non-coding RNAs help in the process of building proteins in the cell. They are transfer RNA (tRNA) and ribosomal RNA (rRNA).
+
+Transfer RNA (tRNA) is a short molecule of about 80 nucleotides which carries a specific amino acid to the polypeptide chain at a ribosome. There is a different tRNA for each amino acid. Each one has a site for the amino acid to attach, and an anti-codon to match the codon on the mRNA. For example, codons UUU or UUC code for the amino acid phenylalanine.
+
+Ribosomal RNA (rRNA) is the catalytic component of the ribosomes. Eukaryotic ribosomes contain four different rRNA molecules: 18S, 5.8S, 28S and 5S rRNA. Three of the rRNA molecules are synthesized in the nucleolus, and one is synthesized elsewhere. In the cytoplasm, ribosomal RNA and protein combine to form a nucleoprotein called a ribosome. The ribosome binds mRNA and carries out protein synthesis. Several ribosomes may be attached to a single mRNA at any time. rRNA is extremely abundant and makes up 80% of the 10 mg/ml RNA found in a typical eukaryotic cytoplasm.
+
+Small nuclear RNAs (snRNA) join with proteins to form spliceosomes. The spliceosomes govern alternative splicing.
+Genes code for proteins in bits called exons. The bits can be joined together in different ways to make different mRNAs. Thus, from one gene many proteins can be made. This is the process of alternative splicing. Any unwanted versions of the protein get chopped up by proteases, and the chemical bits re-used.
+
+There are a number of RNAs which regulate genes, that is, they regulate the rate at which genes are transcribed or translated. 
+
+Micro RNAs (miRNA) act by joining an enzyme and blocking mRNA, or speeding its breakdown. This is called RNA interference.
+
+Small interfering RNAs (sometimes called silencing RNAs) interfere with the expression of a specific gene. They are quite small (20/25 nucleotides) double-stranded molecules. Their discovery has caused a surge in biomedical research and drug development.
+
+Transposons are only one of several types of mobile genetic elements.
+Retrotransposons copy themselves in two stages: first from DNA to RNA by transcription, then from RNA back to DNA by reverse transcription. The DNA copy is then inserted into the genome in a new position. Retrotransposons behave very similarly to retroviruses, such as HIV. 
+
+Viral genomes, which are usually RNA, take over the cell machinery and make both new viral RNA and the protein coat of the virus.
+
+Phage genomes are quite varied. The genetic material can be ssRNA (single-stranded RNA), dsRNA (double-stranded RNA), ssDNA (single-stranded DNA), or dsDNA (double-stranded DNA). It may be between 5 and 500 kilo base pairs long with either circular or linear arrangement. Bacteriophages are usually between 20 and 200 nanometers in size.
+
+Phage genomes may code for as few as four genes, and as many as hundreds of genes.

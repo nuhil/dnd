@@ -1,0 +1,15 @@
+Kernel (computer science)
+
+A kernel is the central part of an operating system. It manages the operations of the computer and the hardware - most notably memory and CPU time.
+
+There are two types of kernels:
+
+A computer user never interacts directly with the kernel. It runs behind the scenes and cannot be seen, except for the text logs that it prints.
+
+The kernel is the most fundamental part of an operating system. It can be thought of as the program which controls all other programs on the computer. When the computer starts, it goes through some initialization (booting) function, such as checking memory. It is responsible for assigning and unassigning memory space which allows software to run. 
+
+It provides services so programs can request the use of the network card, the disk or other piece of hardware (the kernel forwards the request to special programs called device drivers which control the hardware), manages the file system and sets interrupts for the CPU to enable multitasking. Many kernels are also responsible for ensuring that faulty programs do not interfere with the operation of others, by denying access to memory that has not been allocated to them and restricting the amount of CPU time they can consume.
+
+Operating systems commonly use monolithic kernels. In Linux, for example, device drivers are often made to be part of a kernel (specifically Loadable Kernel Modules). When a device is needed, its extension is loaded and 'joined' onto the kernel - in other words making the kernel larger. Monolithic kernels can make trouble when one of these drivers is faulty (such as if a beta graphics driver is downloaded). Because it is part of the kernel it often overrides the mechanisms that deal with faulty programs (see above). This can mean that the kernel - and thus the entire computer - can cease to function. If there are too many devices, the kernel can also run out of memory - causing a system crash or making the computer very slow.
+
+Microkernels are a way of solving this problem. In a microkernel operating system, the kernel deals only with critical activities - such as controlling the memory and CPU - and nothing else. Drivers and other functions that monolithic kernels would normally do within the kernel are moved outside the kernel, where they are under control. Instead of being an uncontrollable part of the kernel the beta driver is therefore no more unlikely to cause a crash than a beta web browser - that is, if a driver goes wrong it can simply be restarted by the kernel. Unfortunately, creating microkernel based operating systems is very difficult and there are no operating systems like these that are commonly used. Minix is a microkernel operating system.

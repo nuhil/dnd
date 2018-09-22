@@ -1,0 +1,27 @@
+Engine
+
+An engine, or motor, is a machine used to change energy into movement that can be used. The energy can be in any form. Common forms of energy used in engines are electricity, chemical (such as petrol or diesel) or heat. When a chemical is used to produce energy it is known as "fuel".
+
+The difference of "engine" and "motor" is that an engine creates mechanical energy from heat, while motor creates mechanical energy from other kinds of energy, like electricity. Typical "engines" are steam engine and internal combustion engine, while typical "motors" are electric motor and hydraulic motor. 
+
+"Engine" was originally a term for any mechanical device that converts force into motion. Hence, pre-industrial weapons such as catapults, trebuchets and battering rams were called "siege engines". The word "gin," as in "cotton gin", is short for "engine." The word derives from Old French "engin", from the Latin "ingenium", which is also the root of the word "ingenious". Most mechanical devices invented during the industrial revolution were described as engines—the steam engine being a notable example.
+
+In modern usage, the term "engine" is typically restricted to heat engines, like steam engines and internal combustion engines, that burn or otherwise consume fuel to perform mechanical work by exerting a torque or linear force (usually in the form of thrust). Examples of engines which exert a torque include the familiar automobile gasoline and diesel engines, as well as turboshafts. Examples of engines which produce thrust include turbofans and rockets.
+
+Early kinds of engine used heat that was outside of the engine itself to heat up a gas to a high pressure. This was usually steam and the engines are called steam engines. The steam was piped to the engine where it pushed on pistons to bring about motion. These engines were commonly used in old factories, boats and trains.
+
+Most cars use a chemical engine that burns fuel inside it. This is called an internal combustion engine. There are many different types of internal combustion engine. They can be grouped by fuel, cycle and configuration. Common fuel types for internal combustion engines are petrol, diesel, autogas and alcohol. There are many other types of fuels.
+
+There are 3 different types of cycle. 2-stroke engines produce power once every turn of the engine. 4-stroke engines cylinders make power once every two turns of the engine. 6-stroke engines cylinders make power twice in every six turns of the engine. 
+
+There are lots of different configurations of piston engines. Their cylinders have pistons in them and a crankshaft. Any number of cylinders can be used but 1, 2, 3, 4, 6, 8, 10 and 12 are common. The cylinders can be arranged in many ways, in a straight line, at an angle to each other or in a circle.
+
+A Wankel engine has no cylinders and uses a triangle shaped rotor spinning in an oval housing which mimics the movement of a piston.
+
+Hot gas can also be made to push a turbine around rather like the way the wind turns a windmill. Most electric power stations use big steam turbines. Others use water or wind turbines. Smaller turbines use internal combustion. Jet engines used in aircraft are a kind of turbine engine.
+
+A rocket causes movement by shooting jets of gas very fast out of a nozzle. The gas may have been stored under pressure or be a chemical fuel that burns to make a very hot gas. Although they are very simple, rockets are the most powerful engines we know how to make. They will work in space where there is nothing to push against.
+
+Electric motors do not use a fuel. The energy is supplied to them by electricity carried along wires. The energy may come from a fuel being burnt somewhere else a long way off. The electricity is used to make powerful magnets inside the motor switch on and off at the right time to turn the shaft of the motor.
+
+"Electric engine" is not a motor, but a railway locomotive which runs on electricity.

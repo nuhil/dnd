@@ -1,0 +1,15 @@
+3D
+
+3D (or 3-D) means three-dimensional, or having three dimensions. For example, a box is three-dimensional; it is solid, and not thin like a piece of paper. It has volume, a top and bottom, left and right (sides), as well as a front and back. You can turn the box around to view it from another side (called a face, surface or simply side).
+
+A dimension is measurable in inches, microns, miles, kilometers, or any other unit of length.
+
+The three dimensions are often called length (or depth), width (or breadth), and height. Some purposes use other words. 
+
+3D graphics are used to make video games or animated movies. Many calculations are needed to make pictures seem three-dimensional on a screen. Modern computers usually have a GPU (Graphics Processing Unit) to handle these calculations.
+
+In the Cartesian coordinate system, length, width, and height are given in letters (variables) to make them easier to write, or if a value is not known. Often X is width, Y is height, and Z is length. Other 3D coordinate systems such as spherical coordinates include both linear and angular measurements.
+
+The mathematical study of 3D shapes and dimensions is called solid geometry. 
+
+Some people see time as a fourth dimension. It is also measured. It is measured in units of time such as seconds, hours, years, or any other measurement of time.

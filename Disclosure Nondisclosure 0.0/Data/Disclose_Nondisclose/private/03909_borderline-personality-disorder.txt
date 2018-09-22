@@ -1,0 +1,9 @@
+Hi,
+ We're pleased to announce the Mood Tracker, the tenth in a series of Personal Health Applications (PHAs) geared towards helping our members keep track of their health metrics, symptoms, treatments, test results and events.
+ With this tracker, you can track your daily mood changes and keep a journal of how you're feeling each day. All you have to do is indicate if you're feeling excellent, good, okay, bad, or horrible.
+ For MedHelp members looking for more advanced tracking, you can track symptoms associated with the various mood disorders as defined by the DSM-IV, including major depressive disorder and bipolar disorder. You can also track any medications or treatments you're taking.
+ All members can view their friend's public mood trackers and leave them a note if they're feeling down.
+ You can access the Mood Tracker by clicking on the "Trackers" link at the top of the community or from My MedHelp.
+ We plan on adding more functionality to the Mood Tracker over the next few weeks and would love to get your suggestions and feedback. If you want to track a specific treatment or event, let us know. Please post your comments in the MedHelp Suggestions community, accessible via My Shortcuts.
+ Best,
+MedHelp

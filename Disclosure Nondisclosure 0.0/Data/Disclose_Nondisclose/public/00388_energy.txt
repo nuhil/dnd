@@ -1,0 +1,27 @@
+Energy
+
+Energy is a word with more than one meaning.
+
+
+In science energy is something that can do work.
+
+Basic forms of energy include:
+
+Energy is a property that is incapable of being creating from nothing and/or destroyed to the point of being nothing. Energy can only be said to be capable of changing in form. This is a rule that is commonly understood as the "conservation law of energy". In respects to this rule, the total amount of energy that exists within a closed system will always be the same, no matter what changes have been made to it. 
+Notes about energy:some names of energy is kinetic energy potential energy are some of the names of energy kinetic energy is energy of movment potentail is stored energy.
+In the early 20th century, scientist were able to discover that matter itself can be created from energy. In addition to this, it was learnt that matter could be converted into energy. Whilst the latter in theory would destroy the matter in question, the energy it had would continue to exist; allowing it the ability to remain conserved. After these discoveries were made, the conservation law of energy has since been extended to become the conservation law of matter and energy: matter and energy can neither be created from nothing nor destroyed to the point of complete erasure from reality. Albert Einstein was the first to mathematically derive this in the formula E = mc. 
+
+Matter can be created from energy or converted into energy through the use of processes, such as nuclear fission or nuclear fusion. 
+
+A stone is thrown upwards and falls to the ground.
+
+
+Scientists have identified many types of energy, and found that they can be changed from one kind into another. For example:
+
+Energy can be measured. The amount of energy a thing has can be given a number.
+
+As in other kinds of measurements, there are measurement units. The units of measurement for measuring energy are used to make the numbers meaningful.
+
+The SI unit for both energy and work is the joule (J). It is named after James Prescott Joule. 1 joule is equal to 1 newton-metre. In terms of SI base units, 1 J is equal to 1 kg m s.
+
+The energy unit of measurement for electricity is the kilowatt-hour (kW·h). One kW·h is equivalent to 3,600,000 J (3600 kJ or 3.6 MJ)

@@ -1,0 +1,34 @@
+Electron
+
+An electron is a very small piece of matter and energy. Its symbol is e. 
+
+The electron is a subatomic particle. It is believed to be an elementary particle because it cannot be broken down into anything smaller. It is negatively charged, and may move almost at the speed of light. 
+
+Electrons take part in gravitational, electromagnetic and weak interactions. The electricity that powers radios, motors, and many other things is many electrons moving through wires or other conductors.
+
+Electrons have the smallest electrical charge. This electrical charge equals the charge of a proton, but has the opposite sign. For this reason, electrons are attracted by the protons of atomic nuclei and usually form atoms.
+An electron has a mass of about 1/1836 times a proton.
+One way to think about the location of electrons in an atom is to imagine that they orbit at fixed distances from the nucleus. This way, electrons in an atom exist in a number of electron shells surrounding the central nucleus. Each electron shell is given a number 1, 2, 3, and so on, starting from the one closest to the nucleus (the innermost shell). Each shell can hold up to a certain maximum number of electrons. The distribution of electrons in the various shells is called electronic arrangement (or electronic form or shape). Electronic arrangement can be shown by numbering or an electron diagram. (A different way to think about the location of electrons is to use quantum mechanics to calculate their atomic orbitals.)
+
+The electron is one of a type of subatomic particles called leptons. The electron has a negative electric charge. The electron has another property, called spin. Its spin value is 1/2, which makes it a fermion.
+
+While most electrons are found in atoms, others move independently in matter, or together as cathode rays in a vacuum. In some superconductors, electrons move in pairs. When electrons flow, this flow is called electricity, or an electric current. 
+
+An object can be described as 'negatively charged' if there are more electrons than protons in an object, or 'positively charged' when there are more protons than electrons. Electrons can move from one object to another when touched. They may be attracted to another object with opposite charge, or repelled when they both have the same charge. When an object is 'grounded', electrons from the charged object go into the ground, making the object neutral. This is what lightning rods ( lightning conductors ) do.
+
+Electrons in their shells round an atom are the basis of chemical reactions. Complete outer shells, with maximum electrons, are less reactive. Outer shells with less than maximum electrons are reactive. The number of electrons in atoms is the underlying basis of the chemical periodic table.
+
+Electric "charge" can be directly measured with a device called an . Electric "current" can be directly measured with a galvanometer. The measurement given off by a galvanometer is different from the measurement given off by an . Today laboratory instruments are capable of containing and observing individual electrons.
+
+In laboratory conditions, the interactions of individual electrons can be observed by means of particle detectors, which allow measurement of specific properties such as energy, spin and charge. In one instance a was used to contain a single electron for 10 months. The magnetic moment of the electron was measured to a precision of eleven digits, which, in 1980, was a greater accuracy than for any other physical constant.
+
+The first video images of an electron's energy distribution were captured by a team at Lund University in Sweden, February 2008. The scientists used extremely short flashes of light, called attosecond pulses, which allowed an electron's motion to be observed for the first time. The distribution of the electrons in solid materials can also be visualized.
+
+The antiparticle of the electron is called a positron. This is identical to the electron, but carries electrical and other charges of the opposite sign. When an electron collides with a positron, they may scatter off each other or be totally annihilated, producing a pair (or more) of gamma ray photons.
+
+The effects of electrons were known long before it could be explained. The Ancient Greeks knew that rubbing amber against fur attracted small objects. Now we know the rubbing strips off electrons, and that gives an electric charge to the amber.
+Many physicists worked on the electron. J.J. Thomson proved it existed, in 1897, but another man gave it the name 'electron'.
+
+The model views electrons as holding indeterminate positions in a diffuse cloud around the nucleus of the atom.
+
+The uncertainty principle means a person cannot know an electron's position and energy level at the same time. These potential states form a cloud around the atom. The potential states of electrons in a single atom form a single, uniform cloud.

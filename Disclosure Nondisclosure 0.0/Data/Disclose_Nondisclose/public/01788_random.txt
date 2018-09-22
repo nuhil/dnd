@@ -1,0 +1,22 @@
+Random
+
+Random is a term used in mathematics (and less formally) to mean that there is no way to reliably predict an outcome (to know what will happen "before" it happens) or sense a pattern. Something that is chosen at random is not chosen for any conscious reason, and therefore thought to be purely by chance. An example of a random event is winning a lottery.
+
+A computer can make lists of apparently random numbers. Humans are unable to do this, because the brain works in patterns. If someone is asked to keep saying "heads" or "tails" at random, a smart human observer or properly programmed computer might eventually be able to tell which one the person is likely to say next because the computer notices the patterns.
+
+On a website such as English Wikipedia the user can click on "Random page" to get a random article. The chances of any one page appearing are exactly the same as for any other page.
+
+Sometimes the word "random" is used more loosely. There are websites of random jokes, which just means: a variety of jokes about all sorts of things.
+
+In recent years young people have started to use the word "random" even more loosely to describe anything which is rather strange or has no logic. Sentences such as "the mouldy cheese is escaping" or "I like pie and spam" might be described as "random", although this is not the proper dictionary or mathematical meaning of the word.
+
+There are several ways in which a process or system can be seen as "random":
+
+
+The many applications of randomness have led to many different methods for generating random data. These methods may vary as to how unpredictable or statistically random they are, and how quickly they can generate random numbers.
+
+Before there were computational random number generators, generating large amounts of sufficiently random numbers (important in statistics) required a lot of work. Results would sometimes be collected and distributed as random number tables.
+
+Computers can make what appear to be random numbers. There are two ways to make them.
+
+Keys for encryption must be random in order to be secure. Key generation by a faulty random number generator has sometimes led to successful cryptanalysis.

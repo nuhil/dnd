@@ -1,0 +1,15 @@
+1 (number)
+
+One (1) is a natural number after zero and before two.
+It represents a single item.
+A human typically has one {head, nose, mouth, and navel (belly-button)}.
+The Roman numeral is I.
+
+In mathematics, one is also the only number with this special fact: Any number multiplied by 1 equals that number.
+Then, the number 1 divides any number but it is not divided by any except itself. The number 1 divides any number to give that same number but it cannot be divided by any other number to give one as the answer. Let "n" be any number. Then "n"/1 = "n" but 1/"n" is never 1 (when n is not 1). Example: 7/1 = 7, but 1/7 is not 1 (it is 0.142857...).
+
+Any number divided by itself always gives 1 as the answer. "n"/"n" = 1 (when n is not 0). Example: 7/7 = 1.
+
+0.999... is a repeating decimal that is mathematically equal to 1. Many proofs have been made to show this is correct.
+
+The number one is important for computer science because it is, together with zero, a part of the binary numeral system. In machine code and in many programming languages, one means true and zero means false.

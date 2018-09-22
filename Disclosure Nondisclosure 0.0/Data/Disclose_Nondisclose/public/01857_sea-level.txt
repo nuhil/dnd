@@ -1,0 +1,19 @@
+Sea level
+
+The sea level is the average height of the ocean (informally called the "sea"). The word 'average' must be used because the height of the sea changes with the tides. The height of mountains, countries, and so on, is almost always given as "above sea level".
+
+Sea level is generally used to refer to mean sea level (MSL). This is the an average level for the surface of one or more of Earth's oceans. 
+
+MSL is a type of standardised geodetic reference point. It is used, for example, as a chart datum in cartography and marine navigation. In aviation it is the standard sea level at which atmospheric pressure is measured. This is used to calibrate altitude, which influences aircraft flight levels. A common mean sea-level standard is the midpoint between a mean low and mean high tide at a particular place.
+
+Sea levels can be affected by many factors. They have varied greatly over geological time scales. The careful measurement of variations in MSL offers insights into ongoing climate change. The present slight rise in sea levels is offered as proof of ongoing global warming.
+
+In Earth's long history, the continents and sea floor have changed due to plate tectonics. This affects global sea level because it alters the depths of various ocean basins, and also changes the distribution of glaciers. 
+
+Over most of geologic time, the long-term mean sea level has been higher than today (see graph). Only at the Permian-Triassic boundary ~250 million years ago was the long-term mean sea level lower than today. 
+
+Long term changes in the mean sea level are the result of changes in the oceanic crust, with a downward trend expected to continue in the very long term.
+
+Rapid changes may happen by huge lakes breaking through into seas. This has happened on a number of occasions. When the latest ice age was ending, melting caused huge lakes in central North America. This eventually broke through into the Atlantic. Melting ice in the North Sea are also broke through into the English Channel. The largest known example of marine flooding was when the Atlantic breached the Strait of Gibraltar about 5.2 million years ago. This restored Mediterranean sea levels, which had dried up.
+
+The present rise in sea level is taken from tide gauges. It is about 1.8 mm/yr. Active research continues in this field.

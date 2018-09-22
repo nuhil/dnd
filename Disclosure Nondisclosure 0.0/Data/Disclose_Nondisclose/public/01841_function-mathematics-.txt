@@ -1,0 +1,26 @@
+Function (mathematics)
+
+In mathematics, a function is a prescription that assigns to every object of one set an object of another (or the same) set. In many cases the objects are numbers. A function may be seen as producing an output - the assigned object -, when given an input - the object from the first set. So a function is like a process. Each input "x" that is in the set "X" of inputs is paired with one output "y" in the set "Y" of outputs. The set "X" of inputs is called the "domain" and the set "Y" of possible outputs is called the "codomain". Then it is said that "y" is a function of "x, "and we write "y" ="f"("x"). "f" is the name of the function and one writes formula_1 (function from X to Y) to represent the three parts of the function, the domain, the codomain and the pairing process.
+
+An example of a function is the factorial: formula_2. One gives a natural number formula_3 as the input and gets a natural number formula_4 as the output with the property that formula_5. The idea of a function has been set up to cover all sorts of possibilities. It is not necessary that the pairing is given by an equation. The main idea is that inputs and outputs are paired up somehow even if the process is very complicated or not obvious.
+
+The inputs and outputs can be put in a table like the picture; this is easy if there is not too much data.
+
+In the picture it can be seen that both 2 and 3 have been paired with c; this is not allowed in the other direction, 2 could not output c and d,each input can only have one output.
+All of the formula_6 (c and d in the picture) are usually called the "image" set of formula_7 and the image set can be all of the codomain or not. One can say that the subset A of the codomain with the image set is f(A).
+If the inputs and outputs have an order it is easy to plot them on a graph:
+In that way the image come on the image of the set A. This will make a both of 2 and 3 have paired with is not allowed in the other direction,even one can make between codomain or not. A conclusion can be made that subset A of the codomain is the image set is F(A).
+
+In the 1690s Gottfried Leibniz and Johann Bernoulli used the word function in letters between them so the modern concept began at the same time as calculus.
+
+In 1748 Leonhard Euler gave:
+"A function of a variable quantity is an analytic expression composed in any way whatsoever of the variable quantity and numbers or constant quantities." and then in 1755:
+"If some quantities so depend on other quantities that if the latter are changed the former undergoes change, then the former quantities are called functions of the latter. This definition applies rather widely and includes all ways in which one quantity could be determined by other. If, therefore, x denotes a variable quantity, then all quantities which depend upon x in any way, or are determined by it, are called functions of x."
+which is very modern.
+
+Usually, Dirichlet is credited with the version used in schools until the second half of the 20th century:
+"y is a function of a variable x, defined on the interval a < x < b, if to every value of the variable x in this interval there corresponds a definite value of the variable y. Also, it is irrelevant in what way this correspondence is established."
+
+In 1939, the Bourbaki generalized the Dirichlet definition and gave a set theoretic version of the definition as a correspondence between inputs and outputs; this was used in schools from about 1960.
+
+Finally in 1970, the Bourbaki gave the modern definition as a triple formula_8, with formula_9 (i.e. formula_10 and formula_11).

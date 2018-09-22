@@ -1,0 +1,62 @@
+Wii
+
+The Wii (pronounced "we") is a video game console made by Nintendo. It first came out on November 19, 2006, in North America. It plays video games made for the Wii and the Nintendo GameCube. It was succeeded by the Wii U in 2012.
+
+Nintendo, the company that made the Wii, says they want to focus more on new ways to play games. The Wii uses a controller, called the Wii Remote, that is very different from the controllers of other video game consoles. It can be held with just one hand, and uses technology that senses the player's movements.
+
+By making the Wii, Nintendo says they are trying to change the way video games are looked at and played. The Wii was made for all people of any age or interest. By making it easier to play, Nintendo thinks that they can get people who do not normally play games to start playing. Because of this, more people who have been playing video games for a long time (that means that they are "hardcore") do not like the Wii.
+
+CPU: "Broadway" processor at 1 GHz
+
+GPU: ATI "Hollywood" at 243 MHz
+
+Memory: 88 MB RAM
+
+Storage: 512 MB of flash memory
+
+There are many things called Channels on the Wii. They are called Channels because just like on TV, you can look through channels by pressing − and +. Just like watching different channels on TV, you usually can not find all the things you want to know on one channel.
+Each Wii Channel does something different. Some of them need to connect to the internet to work, using either Nintendo Wi-Fi Connection or WiiConnect24, but some information that has been saved can be viewed without a connection to the internet. However, all of these channels do not work anymore since the console's internet has been removed.
+
+Games can be played on this channel after a game disc, or Nintendo GameCube disc, is put in the disc slot.
+
+The Wii Shop Channel is used to buy downloadable Virtual Console (old games) and WiiWare games and also Wii channels mentioned here. An internet connection is required to use this channel.
+
+The Mii Channel is where a player can make an avatar called a Mii to represent them, either in the Mii Channel's online feature Mii Parade, or in games that allow using Miis and most other Wii channels mentioned here.
+
+The News Channel is used to look up news on different topics, ranging from your country's news, to sport and entertainment. An internet connection is required to use this channel.
+
+The Forecast Channel is used to check the weather forecast on most cities around the world. There is a feature that lets you select your local area to receive weather updates. An internet connection is required to use this channel.
+
+The Everybody Votes Channel is a channel containing regularly updated polls. There are three national polls (updated on Tuesdays, Thursdays, and Saturdays) along with one worldwide poll. An internet connection is required to use this channel.
+
+The Internet Channel is used to access the Internet. It is based on the Opera Browser. You need an internet connection to use this channel. From 1 September 2009, the Internet Channel became free to download after an update was released to support Adobe Flash (a program to watch movies on the internet). Refunds consisting of a free Virtual Console NES title worth 500 Wii Points were offered by Nintendo to Wii owners who had downloaded it beforehand for the same price.
+
+The Check Mii Out Channel (known as Mii Contest Channel in the UK) is used to send and pick up other Miis, and is also used in voting contests to see which Mii is the best. An internet connection is required to use this channel.
+
+The Nintendo Channel is used to watch videos, collect and send feedback on certain Wii titles, and to download Nintendo DS game demos to a Nintendo DS using the DS Download Service. An internet connection is needed to use this channel.
+
+The Today and Tomorrow Channel is a channel that was only released in Europe, on 9 September 2009, used to view daily horoscopes. Up to six Mii characters can be registered. It offers advice on five topics; love, work, study, communication, and money. It also offers hints on food, fun, and care. Another feature is a Mii compatibility check.
+
+The Homebrew Channel is an unofficial channel used for loading unofficial software, or homebrew. With homebrew, you can do many things that the Wii cannot normally do on its own (play DVDs, stream media from another computer, run emulators, etc.). Nintendo does not help fix problems with this channel, because it is not allowed by Nintendo.
+
+The Wii Speak Channel is downloadable once you buy the Wii microphone, used in certain games like "Animal Crossing: City Folk". An internet connection is required to use the Wii Speak Channel.
+
+The Wii Remote is a controller that is like a regular television remote. The Wii Remote uses accelerometers and infrared light sensors (from LEDs inside a 'sensor bar') to know where it is in 3D space. This lets people control the game using physical movement and by pressing buttons. The controller connects to the console using Bluetooth. It has a rumble feature (the controller shakes when the game being played tells it to do so) and a speaker inside the remote.
+
+An attachment to the Wii Remote that comes with the Wii console and can also be bought by itself in stores is the "Nunchuk" controller. It also has an accelerometer and an analog stick with two buttons, and connects to the bottom of the Wii Remote with a wire. A wrist strap can also be used to stop the player from dropping or throwing the Wii Remote. Because of problems with the straps, Nintendo has given all players a free stronger replacement for all straps. It also comes with a cover called the Wii Remote Jacket, which protects the Wii Remote and the thing that it hits from being damaged or broken.
+It also gives a stronger grip which makes it harder for the Wii Remote to slide out of players' hands.
+
+Nintendo and many other companies have made attachments for the Wii Remote. They are usually connected by a wire or by a small plug at the bottom of the Wii Remote.
+
+The Nunchuk is the most common attachment for the Wii Remote. It is made to fit perfectly into someone's hand. It comes packaged with the Wii. The Nunchuk has an analog stick on the front and two buttons on the back. A Nunchuk is needed for many Wii games, as it is required to move characters around the game.
+
+The Wii Motion Plus connects to the bottom of the Wii remote to help the sensors find the remote more accurately. It improves the playing of some games.
+Nintendo has released a "classic" controller for the Wii. The design is similar to the SNES's controller, but has two analog sticks and four shoulder buttons as opposed to two. It is very good for playing older games that can be bought from the Wii Shop Channel, and is made mainly for that purpose.
+
+There is also a case that looks like a gun for the Wii Remote and Nunchuk. It is named the Zapper after a NES gun controller. When the Wii Remote and the Nunchuk are placed inside it, the shape of the controller in the player's hands is changed. The Zapper does not actually plug into the Wii Remote. It just holds it in place. The Zapper also includes a free, short game to help the player get used to it.
+
+There are many pretend instruments made by Nintendo and other companies for playing music video games like Guitar Hero and Rock Band. So far, they have made guitars and drums. They plug into the bottom of the Wii Remote. There are also microphones that plug into the USB port on the back on the Wii console.
+
+There is also a plastic wheel. These come with Mario Kart Wii and other racing or car driving games. The Wii remote goes into the middle of the wheel. There are some built-in buttons on the wheel to make it easier to click on things on the screen.
+
+On December 7, 2012, a new model called the Wii Mini was released in Canada. It is a smaller version of the Wii. It is styled in black and red. It does not have support for GameCube games, Wi-Fi and online play, and SD cards. It retails for $99.99.
